@@ -76,19 +76,19 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/KayKv10/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kaykv10.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-02-28 06:28 UTC*
+*Last updated: 2026-03-01 06:36 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Japan | JPN | 7.7 | ~ | 10 | 10 | - |
+| 1 | Japan | JPN | 7.7 | ~ | 13 | 10 | - |
 | 2 | Chile | CHL | 4.9 | ~ | 9 | 2 | green |
 | 3 | Peru | PER | 3.6 | ~ | 3 | 4 | - |
-| 4 | Indonesia | IDN | 3.0 | ~ | 15 | 3 | - |
+| 4 | Indonesia | IDN | 3.0 | ~ | 16 | 3 | - |
 | 5 | Tonga | TON | 2.4 | ~ | 15 | 1 | - |
 | 6 | Papua New Guinea | PNG | 2.2 | ~ | 6 | 1 | - |
-| 7 | Russia | RUS | 1.9 | ~ | 14 | 1 | - |
-| 8 | Solomon Islands | SLB | 1.7 | ~ | 4 | 1 | - |
-| 9 | Philippines | PHL | 1.6 | -11.0 | 5 | 4 | - |
+| 7 | Philippines | PHL | 2.1 | +0.6 | 6 | 4 | - |
+| 8 | Russia | RUS | 1.9 | ~ | 14 | 1 | - |
+| 9 | Solomon Islands | SLB | 1.7 | ~ | 4 | 1 | - |
 | 10 | Myanmar | MMR | 0.3 | ~ | 4 | 1 | - |
 <!-- LATEST_RESULTS_END -->
 
