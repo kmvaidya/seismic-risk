@@ -20,7 +20,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 18,
-    "avg_magnitude": 5.22,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-03-02",
@@ -265,6 +265,30 @@
         "exposure_score": 0.64
       },
       {
+        "name": "Sendai Airport",
+        "iata_code": "SDJ",
+        "latitude": 38.139702,
+        "longitude": 140.917007,
+        "municipality": "Natori",
+        "closest_quake_distance_km": 145.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s2mt",
+            "magnitude": 5,
+            "latitude": 38.849,
+            "longitude": 142.3146,
+            "depth_km": 60.393,
+            "time_ms": 1772829112961,
+            "place": "57 km ESE of Ōfunato, Japan",
+            "distance_km": 145.0,
+            "exposure_contribution": 0.45,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.45
+      },
+      {
         "name": "Naha International Airport",
         "iata_code": "OKA",
         "latitude": 26.192437,
@@ -314,6 +338,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s2mt",
+        "magnitude": 5,
+        "latitude": 38.849,
+        "longitude": 142.3146,
+        "depth_km": 60.393,
+        "time_ms": 1772829112961,
+        "place": "57 km ESE of Ōfunato, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s278",
         "magnitude": 5.2,
@@ -459,12 +494,12 @@
       },
       {
         "id": "us6000s9wt",
-        "magnitude": 5,
-        "latitude": 29.2111,
-        "longitude": 130.6669,
-        "depth_km": 22.742,
-        "time_ms": 1771381666663,
-        "place": "114 km S of Koshima, Japan",
+        "magnitude": 5.1,
+        "latitude": 29.2093,
+        "longitude": 130.5899,
+        "depth_km": 31.663,
+        "time_ms": 1771381667935,
+        "place": "113 km S of Koshima, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -500,20 +535,9 @@
         "place": "157 km SSE of Kuril’sk, Russia",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000s6gs",
-        "magnitude": 5.5,
-        "latitude": 29.1114,
-        "longitude": 130.441,
-        "depth_km": 29,
-        "time_ms": 1770229243514,
-        "place": "110 km NE of Tatsugō, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 9.62
+    "seismic_hub_risk_score": 10.07
   },
   {
     "country": "Chile",
@@ -696,8 +720,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-03-03",
@@ -785,6 +809,28 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000s2m9",
+        "magnitude": 5.4,
+        "latitude": 1.6466,
+        "longitude": 128.6314,
+        "depth_km": 10,
+        "time_ms": 1772819753207,
+        "place": "69 km E of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000s2ip",
+        "magnitude": 5.1,
+        "latitude": -3.0251,
+        "longitude": 130.1319,
+        "depth_km": 10,
+        "time_ms": 1772810867797,
+        "place": "132 km ENE of Masohi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000s1ln",
         "magnitude": 6.2,
         "latitude": 2.042,
@@ -853,11 +899,11 @@
       {
         "id": "us6000s9wr",
         "magnitude": 5.2,
-        "latitude": -6.2086,
-        "longitude": 131.2032,
-        "depth_km": 61.659,
-        "time_ms": 1771380927208,
-        "place": "183 km WSW of Tual, Indonesia",
+        "latitude": -6.216,
+        "longitude": 131.2277,
+        "depth_km": 71.316,
+        "time_ms": 1771380927939,
+        "place": "180 km WSW of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -926,20 +972,135 @@
         "place": "103 km SSW of Trenggalek, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000s6b3",
-        "magnitude": 5.1,
-        "latitude": -6.8211,
-        "longitude": 132.1049,
-        "depth_km": 10.324,
-        "time_ms": 1770165390890,
-        "place": "150 km SSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.97
+  },
+  {
+    "country": "China",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "CHN",
+    "capital": "Beijing",
+    "population": 1408280000,
+    "area_km2": 9706961.0,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan"
+      }
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.1,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-03-06",
+      "depth_km": 10,
+      "latitude": 43.7263,
+      "longitude": 86.4382
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Ürümqi Tianshan International Airport",
+        "iata_code": "URC",
+        "latitude": 43.913584,
+        "longitude": 87.479372,
+        "municipality": "Ürümqi",
+        "closest_quake_distance_km": 85.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s24t",
+            "magnitude": 5,
+            "latitude": 43.6823,
+            "longitude": 86.4613,
+            "depth_km": 10,
+            "time_ms": 1772669742437,
+            "place": "76 km SSE of Shihezi, China",
+            "distance_km": 85.7,
+            "exposure_contribution": 1.14,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000s2nf",
+            "magnitude": 5.3,
+            "latitude": 43.7263,
+            "longitude": 86.4382,
+            "depth_km": 10,
+            "time_ms": 1772833486694,
+            "place": "71 km SSE of Shihezi, China",
+            "distance_km": 86.1,
+            "exposure_contribution": 1.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.75
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000s2nf",
+        "magnitude": 5.3,
+        "latitude": 43.7263,
+        "longitude": 86.4382,
+        "depth_km": 10,
+        "time_ms": 1772833486694,
+        "place": "71 km SSE of Shihezi, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s24t",
+        "magnitude": 5,
+        "latitude": 43.6823,
+        "longitude": 86.4613,
+        "depth_km": 10,
+        "time_ms": 1772669742437,
+        "place": "76 km SSE of Shihezi, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sa5f",
+        "magnitude": 5,
+        "latitude": 42.2356,
+        "longitude": 80.4951,
+        "depth_km": 10,
+        "time_ms": 1771492154725,
+        "place": "118 km N of Aksu, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.75
   },
   {
     "country": "Russia",
@@ -976,8 +1137,8 @@
       "POL",
       "UKR"
     ],
-    "earthquake_count": 19,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 21,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-03-04",
@@ -1025,6 +1186,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000s2g3",
+            "magnitude": 5.1,
+            "latitude": 51.7182,
+            "longitude": 159.6552,
+            "depth_km": 10,
+            "time_ms": 1772773236974,
+            "place": "159 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 180.8,
+            "exposure_contribution": 0.4,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000s0dq",
             "magnitude": 5.7,
             "latitude": 51.5562,
@@ -1038,10 +1212,32 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.92
+        "exposure_score": 2.32
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s2n6",
+        "magnitude": 5.7,
+        "latitude": 52.3233,
+        "longitude": 176.4403,
+        "depth_km": 9.339,
+        "time_ms": 1772831299511,
+        "place": "228 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000s2g3",
+        "magnitude": 5.1,
+        "latitude": 51.7182,
+        "longitude": 159.6552,
+        "depth_km": 10,
+        "time_ms": 1772773236974,
+        "place": "159 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s211",
         "magnitude": 6.4,
@@ -1188,10 +1384,10 @@
       {
         "id": "us6000s96i",
         "magnitude": 5,
-        "latitude": 51.9921,
-        "longitude": 178.3977,
-        "depth_km": 111.268,
-        "time_ms": 1771053002429,
+        "latitude": 51.9595,
+        "longitude": 178.3918,
+        "depth_km": 115.83,
+        "time_ms": 1771053002705,
         "place": "Rat Islands, Aleutian Islands, Alaska",
         "country_code": "RU",
         "shakemap_available": true
@@ -1252,7 +1448,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.92
+    "seismic_hub_risk_score": 2.32
   },
   {
     "country": "Solomon Islands",
@@ -1274,19 +1470,19 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.42,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.6,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-02-21",
-      "depth_km": 10,
-      "latitude": -11.2777,
-      "longitude": 162.3479
+      "magnitude": 6.3,
+      "date": "2026-03-06",
+      "depth_km": 8.7,
+      "latitude": -11.5475,
+      "longitude": 163.1628
     },
-    "highest_pager_alert": null,
+    "highest_pager_alert": "green",
     "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "tsunami_warning_issued": true,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Honiara International Airport",
@@ -1314,6 +1510,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s2i2",
+        "magnitude": 6.3,
+        "latitude": -11.5475,
+        "longitude": 163.1628,
+        "depth_km": 8.682,
+        "time_ms": 1772807267626,
+        "place": "181 km SE of Kirakira, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
       {
         "id": "us7000s06c",
         "magnitude": 5,
@@ -1382,8 +1589,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.12,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.15,
     "strongest_earthquake": {
       "magnitude": 5.3,
       "date": "2026-02-28",
@@ -1537,17 +1744,6 @@
         "place": "0 km NNE of Dinagat, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000s6c6",
-        "magnitude": 5,
-        "latitude": 9.3364,
-        "longitude": 126.5066,
-        "depth_km": 10,
-        "time_ms": 1770189086051,
-        "place": "35 km E of Cortes, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.5
@@ -1576,8 +1772,8 @@
     "bordering_countries": [
       "IDN"
     ],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-02-21",
@@ -1672,17 +1868,6 @@
         "place": "82 km E of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000s6bp",
-        "magnitude": 5,
-        "latitude": -5.61,
-        "longitude": 150.0798,
-        "depth_km": 138.904,
-        "time_ms": 1770179154310,
-        "place": "9 km SW of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.41
@@ -1708,8 +1893,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.47,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-03-01",
@@ -1761,6 +1946,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s2ih",
+        "magnitude": 5.3,
+        "latitude": -29.9667,
+        "longitude": -177.4844,
+        "depth_km": 51.927,
+        "time_ms": 1772810265179,
+        "place": "Kermadec Islands, New Zealand",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s16b",
         "magnitude": 6.3,
@@ -1870,28 +2066,6 @@
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000s6cx",
-        "magnitude": 6.1,
-        "latitude": -29.526,
-        "longitude": -178.597,
-        "depth_km": 167,
-        "time_ms": 1770201568490,
-        "place": "Kermadec Islands, New Zealand",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000s6bf",
-        "magnitude": 5.3,
-        "latitude": -26.8574,
-        "longitude": -176.3379,
-        "depth_km": 10,
-        "time_ms": 1770170864865,
-        "place": "south of the Fiji Islands",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.5
@@ -1972,10 +2146,10 @@
       {
         "id": "us6000saq6",
         "magnitude": 5.1,
-        "latitude": -15.4434,
-        "longitude": 166.6076,
+        "latitude": -15.424,
+        "longitude": 166.6059,
         "depth_km": 10,
-        "time_ms": 1771723373812,
+        "time_ms": 1771723373470,
         "place": "60 km W of Luganville, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
