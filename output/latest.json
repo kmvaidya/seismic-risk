@@ -19,8 +19,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 18,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-03-09",
@@ -131,18 +131,18 @@
           {
             "earthquake_id": "us7000s066",
             "magnitude": 5.2,
-            "latitude": 32.0722,
-            "longitude": 132.7034,
-            "depth_km": 11.918,
-            "time_ms": 1772010464881,
-            "place": "95 km S of Sukumo, Japan",
-            "distance_km": 189.6,
-            "exposure_contribution": 0.41,
+            "latitude": 32.0687,
+            "longitude": 132.5883,
+            "depth_km": 17.334,
+            "time_ms": 1772010465997,
+            "place": "96 km S of Sukumo, Japan",
+            "distance_km": 178.8,
+            "exposure_contribution": 0.45,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.28
+        "exposure_score": 1.32
       },
       {
         "name": "Miyazaki Airport",
@@ -150,18 +150,18 @@
         "latitude": 31.877199,
         "longitude": 131.449005,
         "municipality": "Miyazaki",
-        "closest_quake_distance_km": 120.3,
+        "closest_quake_distance_km": 109.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s066",
             "magnitude": 5.2,
-            "latitude": 32.0722,
-            "longitude": 132.7034,
-            "depth_km": 11.918,
-            "time_ms": 1772010464881,
-            "place": "95 km S of Sukumo, Japan",
-            "distance_km": 120.3,
-            "exposure_contribution": 0.87,
+            "latitude": 32.0687,
+            "longitude": 132.5883,
+            "depth_km": 17.334,
+            "time_ms": 1772010465997,
+            "place": "96 km S of Sukumo, Japan",
+            "distance_km": 109.6,
+            "exposure_contribution": 0.99,
             "pga_g": null,
             "mmi": null
           },
@@ -179,7 +179,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.52
+        "exposure_score": 1.64
       },
       {
         "name": "Kumamoto Airport",
@@ -187,18 +187,18 @@
         "latitude": 32.837299,
         "longitude": 130.854996,
         "municipality": "Kumamoto",
-        "closest_quake_distance_km": 193.2,
+        "closest_quake_distance_km": 183.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s066",
             "magnitude": 5.2,
-            "latitude": 32.0722,
-            "longitude": 132.7034,
-            "depth_km": 11.918,
-            "time_ms": 1772010464881,
-            "place": "95 km S of Sukumo, Japan",
-            "distance_km": 193.2,
-            "exposure_contribution": 0.4,
+            "latitude": 32.0687,
+            "longitude": 132.5883,
+            "depth_km": 17.334,
+            "time_ms": 1772010465997,
+            "place": "96 km S of Sukumo, Japan",
+            "distance_km": 183.7,
+            "exposure_contribution": 0.43,
             "pga_g": null,
             "mmi": null
           },
@@ -216,7 +216,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.8
+        "exposure_score": 0.84
       },
       {
         "name": "Kochi Ryoma Airport",
@@ -224,23 +224,23 @@
         "latitude": 33.545217,
         "longitude": 133.670166,
         "municipality": "Nankoku",
-        "closest_quake_distance_km": 187.1,
+        "closest_quake_distance_km": 192.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s066",
             "magnitude": 5.2,
-            "latitude": 32.0722,
-            "longitude": 132.7034,
-            "depth_km": 11.918,
-            "time_ms": 1772010464881,
-            "place": "95 km S of Sukumo, Japan",
-            "distance_km": 187.1,
-            "exposure_contribution": 0.42,
+            "latitude": 32.0687,
+            "longitude": 132.5883,
+            "depth_km": 17.334,
+            "time_ms": 1772010465997,
+            "place": "96 km S of Sukumo, Japan",
+            "distance_km": 192.8,
+            "exposure_contribution": 0.4,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.42
+        "exposure_score": 0.4
       },
       {
         "name": "Matsuyama Airport",
@@ -248,17 +248,17 @@
         "latitude": 33.826893,
         "longitude": 132.700114,
         "municipality": "Matsuyama",
-        "closest_quake_distance_km": 195.1,
+        "closest_quake_distance_km": 195.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s066",
             "magnitude": 5.2,
-            "latitude": 32.0722,
-            "longitude": 132.7034,
-            "depth_km": 11.918,
-            "time_ms": 1772010464881,
-            "place": "95 km S of Sukumo, Japan",
-            "distance_km": 195.1,
+            "latitude": 32.0687,
+            "longitude": 132.5883,
+            "depth_km": 17.334,
+            "time_ms": 1772010465997,
+            "place": "96 km S of Sukumo, Japan",
+            "distance_km": 195.8,
             "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
@@ -302,65 +302,17 @@
           }
         ],
         "exposure_score": 1.4
-      },
-      {
-        "name": "Naha International Airport",
-        "iata_code": "OKA",
-        "latitude": 26.192437,
-        "longitude": 127.639804,
-        "municipality": "Naha",
-        "closest_quake_distance_km": 106.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000s8l6",
-            "magnitude": 5.5,
-            "latitude": 25.7669,
-            "longitude": 128.5993,
-            "depth_km": 10,
-            "time_ms": 1770932893273,
-            "place": "95 km SE of Katsuren-haebaru, Japan",
-            "distance_km": 106.9,
-            "exposure_contribution": 1.47,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.47
-      },
-      {
-        "name": "Kadena Air Base",
-        "iata_code": "DNA",
-        "latitude": 26.351667,
-        "longitude": 127.769444,
-        "municipality": "Okinawa",
-        "closest_quake_distance_km": 105.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000s8l6",
-            "magnitude": 5.5,
-            "latitude": 25.7669,
-            "longitude": 128.5993,
-            "depth_km": 10,
-            "time_ms": 1770932893273,
-            "place": "95 km SE of Katsuren-haebaru, Japan",
-            "distance_km": 105.4,
-            "exposure_contribution": 1.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.51
       }
     ],
     "earthquakes": [
       {
         "id": "us6000sg57",
-        "magnitude": 5.1,
-        "latitude": 39.4439,
-        "longitude": 143.2879,
-        "depth_km": 10,
-        "time_ms": 1773431721333,
-        "place": "115 km E of Yamada, Japan",
+        "magnitude": 5,
+        "latitude": 39.3857,
+        "longitude": 143.2972,
+        "depth_km": 25.896,
+        "time_ms": 1773431723213,
+        "place": "116 km E of Yamada, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -521,11 +473,11 @@
       {
         "id": "us7000s066",
         "magnitude": 5.2,
-        "latitude": 32.0722,
-        "longitude": 132.7034,
-        "depth_km": 11.918,
-        "time_ms": 1772010464881,
-        "place": "95 km S of Sukumo, Japan",
+        "latitude": 32.0687,
+        "longitude": 132.5883,
+        "depth_km": 17.334,
+        "time_ms": 1772010465997,
+        "place": "96 km S of Sukumo, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -550,42 +502,9 @@
         "place": "113 km S of Koshima, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000s8l6",
-        "magnitude": 5.5,
-        "latitude": 25.7669,
-        "longitude": 128.5993,
-        "depth_km": 10,
-        "time_ms": 1770932893273,
-        "place": "95 km SE of Katsuren-haebaru, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000s8l3",
-        "magnitude": 5,
-        "latitude": 44.0622,
-        "longitude": 148.7883,
-        "depth_km": 10,
-        "time_ms": 1770931929154,
-        "place": "148 km SSE of Kuril’sk, Russia",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000s8i0",
-        "magnitude": 5.4,
-        "latitude": 43.9992,
-        "longitude": 148.7934,
-        "depth_km": 10,
-        "time_ms": 1770914700489,
-        "place": "154 km SSE of Kuril’sk, Russia",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 12.68
+    "seismic_hub_risk_score": 9.88
   },
   {
     "country": "Russia",
@@ -622,8 +541,8 @@
       "POL",
       "UKR"
     ],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 22,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-03-04",
@@ -642,18 +561,18 @@
         "latitude": 53.168716,
         "longitude": 158.451068,
         "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 151.5,
+        "closest_quake_distance_km": 176.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s1ad",
             "magnitude": 5,
-            "latitude": 52.0532,
-            "longitude": 159.7399,
-            "depth_km": 39.541,
-            "time_ms": 1772393921112,
-            "place": "133 km SE of Vilyuchinsk, Russia",
-            "distance_km": 151.5,
-            "exposure_contribution": 0.46,
+            "latitude": 51.8317,
+            "longitude": 159.856,
+            "depth_km": 28.432,
+            "time_ms": 1772393918637,
+            "place": "157 km SE of Vilyuchinsk, Russia",
+            "distance_km": 176.5,
+            "exposure_contribution": 0.36,
             "pga_g": null,
             "mmi": null
           },
@@ -723,10 +642,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.23
+        "exposure_score": 3.14
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sgc2",
+        "magnitude": 5.1,
+        "latitude": 46.5573,
+        "longitude": 153.3556,
+        "depth_km": 10,
+        "time_ms": 1773513131388,
+        "place": "Kuril Islands",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s372",
         "magnitude": 5,
@@ -862,11 +792,11 @@
       {
         "id": "us7000s1ad",
         "magnitude": 5,
-        "latitude": 52.0532,
-        "longitude": 159.7399,
-        "depth_km": 39.541,
-        "time_ms": 1772393921112,
-        "place": "133 km SE of Vilyuchinsk, Russia",
+        "latitude": 51.8317,
+        "longitude": 159.856,
+        "depth_km": 28.432,
+        "time_ms": 1772393918637,
+        "place": "157 km SE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -959,7 +889,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.23
+    "seismic_hub_risk_score": 3.14
   },
   {
     "country": "China",
@@ -1400,11 +1330,11 @@
       {
         "id": "us7000s06c",
         "magnitude": 5,
-        "latitude": -10.5411,
-        "longitude": 165.886,
-        "depth_km": 117.797,
-        "time_ms": 1772012888855,
-        "place": "22 km NNE of Lata, Solomon Islands",
+        "latitude": -10.5861,
+        "longitude": 165.8949,
+        "depth_km": 121.261,
+        "time_ms": 1772012888841,
+        "place": "18 km NE of Lata, Solomon Islands",
         "country_code": "SB",
         "shakemap_available": false
       },
@@ -1782,13 +1712,13 @@
       "IDN"
     ],
     "earthquake_count": 4,
-    "avg_magnitude": 5.45,
+    "avg_magnitude": 5.43,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-02-21",
-      "depth_km": 71.6,
-      "latitude": -5.3681,
-      "longitude": 145.8345
+      "depth_km": 70,
+      "latitude": -5.3342,
+      "longitude": 145.8472
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1801,36 +1731,36 @@
         "latitude": -6.567995,
         "longitude": 146.726544,
         "municipality": "Lae",
-        "closest_quake_distance_km": 165.9,
+        "closest_quake_distance_km": 164.9,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000saks",
-            "magnitude": 5.7,
-            "latitude": -5.3681,
-            "longitude": 145.8345,
-            "depth_km": 71.612,
-            "time_ms": 1771654723942,
-            "place": "17 km SSE of Madang, Papua New Guinea",
-            "distance_km": 165.9,
-            "exposure_contribution": 0.8,
+            "earthquake_id": "us7000s06i",
+            "magnitude": 5.4,
+            "latitude": -5.347,
+            "longitude": 145.8805,
+            "depth_km": 81.449,
+            "time_ms": 1772018043799,
+            "place": "17 km SE of Madang, Papua New Guinea",
+            "distance_km": 164.9,
+            "exposure_contribution": 0.55,
             "pga_g": null,
             "mmi": null
           },
           {
-            "earthquake_id": "us7000s06i",
-            "magnitude": 5.5,
-            "latitude": -5.2615,
-            "longitude": 145.9051,
-            "depth_km": 72.12,
-            "time_ms": 1772018042996,
-            "place": "13 km ESE of Madang, Papua New Guinea",
-            "distance_km": 171.3,
-            "exposure_contribution": 0.61,
+            "earthquake_id": "us6000saks",
+            "magnitude": 5.7,
+            "latitude": -5.3342,
+            "longitude": 145.8472,
+            "depth_km": 70,
+            "time_ms": 1771654723778,
+            "place": "14 km SSE of Madang, Papua New Guinea",
+            "distance_km": 168.2,
+            "exposure_contribution": 0.79,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.41
+        "exposure_score": 1.34
       }
     ],
     "earthquakes": [
@@ -1858,28 +1788,28 @@
       },
       {
         "id": "us7000s06i",
-        "magnitude": 5.5,
-        "latitude": -5.2615,
-        "longitude": 145.9051,
-        "depth_km": 72.12,
-        "time_ms": 1772018042996,
-        "place": "13 km ESE of Madang, Papua New Guinea",
+        "magnitude": 5.4,
+        "latitude": -5.347,
+        "longitude": 145.8805,
+        "depth_km": 81.449,
+        "time_ms": 1772018043799,
+        "place": "17 km SE of Madang, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       },
       {
         "id": "us6000saks",
         "magnitude": 5.7,
-        "latitude": -5.3681,
-        "longitude": 145.8345,
-        "depth_km": 71.612,
-        "time_ms": 1771654723942,
-        "place": "17 km SSE of Madang, Papua New Guinea",
+        "latitude": -5.3342,
+        "longitude": 145.8472,
+        "depth_km": 70,
+        "time_ms": 1771654723778,
+        "place": "14 km SSE of Madang, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.41
+    "seismic_hub_risk_score": 1.34
   },
   {
     "country": "Tonga",
