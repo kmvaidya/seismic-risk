@@ -781,11 +781,11 @@
       {
         "id": "us7000s1jn",
         "magnitude": 5.3,
-        "latitude": 52.2844,
-        "longitude": 176.4383,
+        "latitude": 52.3034,
+        "longitude": 176.3996,
         "depth_km": 10,
-        "time_ms": 1772495209728,
-        "place": "229 km ESE of Attu Station, Alaska",
+        "time_ms": 1772495209663,
+        "place": "226 km ESE of Attu Station, Alaska",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -1398,8 +1398,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-03-03",
@@ -1598,12 +1598,12 @@
       },
       {
         "id": "us6000sasp",
-        "magnitude": 5,
-        "latitude": -0.6712,
-        "longitude": 99.2601,
-        "depth_km": 50.055,
-        "time_ms": 1771774541512,
-        "place": "95 km W of Pariaman, Indonesia",
+        "magnitude": 5.1,
+        "latitude": -0.6543,
+        "longitude": 99.3105,
+        "depth_km": 49.468,
+        "time_ms": 1771774541328,
+        "place": "90 km W of Pariaman, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1661,28 +1661,6 @@
         "place": "58 km SSE of Bengkulu, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000s8rv",
-        "magnitude": 5.1,
-        "latitude": 4.2147,
-        "longitude": 128.1845,
-        "depth_km": 10,
-        "time_ms": 1770995364504,
-        "place": "275 km N of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000s8rt",
-        "magnitude": 5.6,
-        "latitude": 4.1482,
-        "longitude": 128.2683,
-        "depth_km": 11,
-        "time_ms": 1770994618596,
-        "place": "269 km N of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.51
@@ -1832,14 +1810,14 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 14,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-03-01",
-      "depth_km": 596.3,
-      "latitude": -21.9023,
-      "longitude": -179.4431
+      "depth_km": 579,
+      "latitude": -21.8035,
+      "longitude": -179.4529
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 0,
@@ -2002,10 +1980,10 @@
       {
         "id": "us7000s16b",
         "magnitude": 6.3,
-        "latitude": -21.9023,
-        "longitude": -179.4431,
-        "depth_km": 596.319,
-        "time_ms": 1772343883017,
+        "latitude": -21.8035,
+        "longitude": -179.4529,
+        "depth_km": 579,
+        "time_ms": 1772343881923,
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
@@ -2073,17 +2051,6 @@
         "depth_km": 10,
         "time_ms": 1771188877198,
         "place": "113 km NE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000s8mg",
-        "magnitude": 5,
-        "latitude": -15.3842,
-        "longitude": -173.2967,
-        "depth_km": 35,
-        "time_ms": 1770943289061,
-        "place": "82 km NE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       }
@@ -2224,10 +2191,10 @@
       "latitude": -14.9918,
       "longitude": 166.6216
     },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 1,
-    "tsunami_warning_issued": true,
-    "significant_events_count": 1,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Bauerfield International Airport",
