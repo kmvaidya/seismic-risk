@@ -24,9 +24,9 @@
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-03-09",
-      "depth_km": 140.6,
-      "latitude": 42.1141,
-      "longitude": 140.3109
+      "depth_km": 144,
+      "latitude": 42.0868,
+      "longitude": 140.3092
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -39,18 +39,18 @@
         "latitude": 42.774753,
         "longitude": 141.690414,
         "municipality": "Sapporo",
-        "closest_quake_distance_km": 134.9,
+        "closest_quake_distance_km": 136.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s36m",
             "magnitude": 5.9,
-            "latitude": 42.1141,
-            "longitude": 140.3109,
-            "depth_km": 140.617,
-            "time_ms": 1773071143393,
-            "place": "21 km NE of Otobe, Japan",
-            "distance_km": 134.9,
-            "exposure_contribution": 0.88,
+            "latitude": 42.0868,
+            "longitude": 140.3092,
+            "depth_km": 144,
+            "time_ms": 1773071143620,
+            "place": "19 km NE of Otobe, Japan",
+            "distance_km": 136.8,
+            "exposure_contribution": 0.85,
             "pga_g": null,
             "mmi": null
           },
@@ -68,7 +68,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.58
+        "exposure_score": 1.55
       },
       {
         "name": "Hakodate Airport",
@@ -76,18 +76,18 @@
         "latitude": 41.77,
         "longitude": 140.822006,
         "municipality": "Hakodate",
-        "closest_quake_distance_km": 57.0,
+        "closest_quake_distance_km": 55.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s36m",
             "magnitude": 5.9,
-            "latitude": 42.1141,
-            "longitude": 140.3109,
-            "depth_km": 140.617,
-            "time_ms": 1773071143393,
-            "place": "21 km NE of Otobe, Japan",
-            "distance_km": 57.0,
-            "exposure_contribution": 1.35,
+            "latitude": 42.0868,
+            "longitude": 140.3092,
+            "depth_km": 144,
+            "time_ms": 1773071143620,
+            "place": "19 km NE of Otobe, Japan",
+            "distance_km": 55.1,
+            "exposure_contribution": 1.32,
             "pga_g": null,
             "mmi": null
           },
@@ -105,7 +105,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.41
+        "exposure_score": 2.38
       },
       {
         "name": "Kagoshima Airport",
@@ -290,18 +290,18 @@
           {
             "earthquake_id": "us7000s36m",
             "magnitude": 5.9,
-            "latitude": 42.1141,
-            "longitude": 140.3109,
-            "depth_km": 140.617,
-            "time_ms": 1773071143393,
-            "place": "21 km NE of Otobe, Japan",
-            "distance_km": 156.7,
+            "latitude": 42.0868,
+            "longitude": 140.3092,
+            "depth_km": 144,
+            "time_ms": 1773071143620,
+            "place": "19 km NE of Otobe, Japan",
+            "distance_km": 153.8,
             "exposure_contribution": 0.77,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.45
+        "exposure_score": 1.44
       }
     ],
     "earthquakes": [
@@ -319,11 +319,11 @@
       {
         "id": "us7000s36m",
         "magnitude": 5.9,
-        "latitude": 42.1141,
-        "longitude": 140.3109,
-        "depth_km": 140.617,
-        "time_ms": 1773071143393,
-        "place": "21 km NE of Otobe, Japan",
+        "latitude": 42.0868,
+        "longitude": 140.3092,
+        "depth_km": 144,
+        "time_ms": 1773071143620,
+        "place": "19 km NE of Otobe, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -504,133 +504,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 10.03
-  },
-  {
-    "country": "China",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "CHN",
-    "capital": "Beijing",
-    "population": 1408280000,
-    "area_km2": 9706961.0,
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "currencies": [
-      {
-        "code": "CNY",
-        "name": "Chinese yuan"
-      }
-    ],
-    "languages": [
-      "Chinese"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AFG",
-      "BTN",
-      "MMR",
-      "HKG",
-      "IND",
-      "KAZ",
-      "NPL",
-      "PRK",
-      "KGZ",
-      "LAO",
-      "MAC",
-      "MNG",
-      "PAK",
-      "RUS",
-      "TJK",
-      "VNM"
-    ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.1,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-03-06",
-      "depth_km": 10,
-      "latitude": 43.7263,
-      "longitude": 86.4382
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Ürümqi Tianshan International Airport",
-        "iata_code": "URC",
-        "latitude": 43.913584,
-        "longitude": 87.479372,
-        "municipality": "Ürümqi",
-        "closest_quake_distance_km": 85.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s24t",
-            "magnitude": 5,
-            "latitude": 43.6823,
-            "longitude": 86.4613,
-            "depth_km": 10,
-            "time_ms": 1772669742437,
-            "place": "76 km SSE of Shihezi, China",
-            "distance_km": 85.7,
-            "exposure_contribution": 1.14,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s2nf",
-            "magnitude": 5.3,
-            "latitude": 43.7263,
-            "longitude": 86.4382,
-            "depth_km": 10,
-            "time_ms": 1772833486694,
-            "place": "71 km SSE of Shihezi, China",
-            "distance_km": 86.1,
-            "exposure_contribution": 1.61,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.75
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000s2nf",
-        "magnitude": 5.3,
-        "latitude": 43.7263,
-        "longitude": 86.4382,
-        "depth_km": 10,
-        "time_ms": 1772833486694,
-        "place": "71 km SSE of Shihezi, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s24t",
-        "magnitude": 5,
-        "latitude": 43.6823,
-        "longitude": 86.4613,
-        "depth_km": 10,
-        "time_ms": 1772669742437,
-        "place": "76 km SSE of Shihezi, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sa5f",
-        "magnitude": 5,
-        "latitude": 42.1906,
-        "longitude": 80.5811,
-        "depth_km": 10,
-        "time_ms": 1771492154321,
-        "place": "114 km NNE of Aksu, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.75
+    "seismic_hub_risk_score": 9.96
   },
   {
     "country": "Russia",
@@ -667,8 +541,8 @@
       "POL",
       "UKR"
     ],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 20,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-03-04",
@@ -730,14 +604,14 @@
           },
           {
             "earthquake_id": "us7000s372",
-            "magnitude": 5,
-            "latitude": 51.6944,
-            "longitude": 159.6841,
-            "depth_km": 36.847,
-            "time_ms": 1773074277413,
-            "place": "162 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 184.0,
-            "exposure_contribution": 0.33,
+            "magnitude": 5.1,
+            "latitude": 51.593,
+            "longitude": 159.7171,
+            "depth_km": 10,
+            "time_ms": 1773074273189,
+            "place": "173 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 195.1,
+            "exposure_contribution": 0.35,
             "pga_g": null,
             "mmi": null
           },
@@ -755,10 +629,32 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.74
+        "exposure_score": 2.76
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sheg",
+        "magnitude": 5.2,
+        "latitude": 49.0768,
+        "longitude": 156.2599,
+        "depth_km": 10,
+        "time_ms": 1773924529143,
+        "place": "178 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000shc9",
+        "magnitude": 5.6,
+        "latitude": 49.1691,
+        "longitude": 156.0797,
+        "depth_km": 37.609,
+        "time_ms": 1773906211931,
+        "place": "167 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
       {
         "id": "us6000sgvw",
         "magnitude": 5.3,
@@ -783,12 +679,12 @@
       },
       {
         "id": "us7000s372",
-        "magnitude": 5,
-        "latitude": 51.6944,
-        "longitude": 159.6841,
-        "depth_km": 36.847,
-        "time_ms": 1773074277413,
-        "place": "162 km SSE of Vilyuchinsk, Russia",
+        "magnitude": 5.1,
+        "latitude": 51.593,
+        "longitude": 159.7171,
+        "depth_km": 10,
+        "time_ms": 1773074273189,
+        "place": "173 km SSE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -958,7 +854,133 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.74
+    "seismic_hub_risk_score": 2.76
+  },
+  {
+    "country": "China",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "CHN",
+    "capital": "Beijing",
+    "population": 1408280000,
+    "area_km2": 9706961.0,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan"
+      }
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.1,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-03-06",
+      "depth_km": 10,
+      "latitude": 43.7263,
+      "longitude": 86.4382
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Ürümqi Tianshan International Airport",
+        "iata_code": "URC",
+        "latitude": 43.913584,
+        "longitude": 87.479372,
+        "municipality": "Ürümqi",
+        "closest_quake_distance_km": 85.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s24t",
+            "magnitude": 5,
+            "latitude": 43.6823,
+            "longitude": 86.4613,
+            "depth_km": 10,
+            "time_ms": 1772669742437,
+            "place": "76 km SSE of Shihezi, China",
+            "distance_km": 85.7,
+            "exposure_contribution": 1.14,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000s2nf",
+            "magnitude": 5.3,
+            "latitude": 43.7263,
+            "longitude": 86.4382,
+            "depth_km": 10,
+            "time_ms": 1772833486694,
+            "place": "71 km SSE of Shihezi, China",
+            "distance_km": 86.1,
+            "exposure_contribution": 1.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.75
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000s2nf",
+        "magnitude": 5.3,
+        "latitude": 43.7263,
+        "longitude": 86.4382,
+        "depth_km": 10,
+        "time_ms": 1772833486694,
+        "place": "71 km SSE of Shihezi, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s24t",
+        "magnitude": 5,
+        "latitude": 43.6823,
+        "longitude": 86.4613,
+        "depth_km": 10,
+        "time_ms": 1772669742437,
+        "place": "76 km SSE of Shihezi, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sa5f",
+        "magnitude": 5,
+        "latitude": 42.1906,
+        "longitude": 80.5811,
+        "depth_km": 10,
+        "time_ms": 1771492154321,
+        "place": "114 km NNE of Aksu, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.75
   },
   {
     "country": "Philippines",
@@ -1783,10 +1805,10 @@
       {
         "id": "us7000rzzi",
         "magnitude": 5,
-        "latitude": -31.1229,
-        "longitude": -179.8069,
-        "depth_km": 310.971,
-        "time_ms": 1771948294929,
+        "latitude": -31.1235,
+        "longitude": -179.8068,
+        "depth_km": 310.736,
+        "time_ms": 1771948294919,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false

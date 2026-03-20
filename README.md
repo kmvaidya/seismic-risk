@@ -76,13 +76,13 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/KayKv10/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kaykv10.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-03-19 06:48 UTC*
+*Last updated: 2026-03-20 06:43 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
 | 1 | Japan | JPN | 10.0 | ~ | 18 | 8 | - |
-| 2 | China | CHN | 2.8 | ~ | 3 | 1 | - |
-| 3 | Russia | RUS | 2.7 | ~ | 18 | 1 | green |
+| 2 | Russia | RUS | 2.8 | ~ | 20 | 1 | green |
+| 3 | China | CHN | 2.8 | ~ | 3 | 1 | - |
 | 4 | Philippines | PHL | 2.6 | ~ | 4 | 6 | - |
 | 5 | Indonesia | IDN | 1.4 | ~ | 13 | 3 | - |
 | 6 | Papua New Guinea | PNG | 1.3 | ~ | 4 | 1 | - |
