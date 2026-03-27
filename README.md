@@ -76,15 +76,15 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/KayKv10/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kaykv10.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-03-26 06:59 UTC*
+*Last updated: 2026-03-27 06:58 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Tonga | TON | 8.4 | ~ | 21 | 2 | green |
-| 2 | Japan | JPN | 7.6 | ~ | 17 | 8 | - |
+| 1 | Tonga | TON | 8.4 | ~ | 20 | 2 | green |
+| 2 | Japan | JPN | 7.6 | ~ | 18 | 8 | green |
 | 3 | Russia | RUS | 2.4 | ~ | 21 | 1 | green |
-| 4 | Philippines | PHL | 2.0 | ~ | 3 | 5 | - |
-| 5 | Indonesia | IDN | 1.4 | ~ | 11 | 3 | - |
+| 4 | Indonesia | IDN | 2.0 | +0.6 | 12 | 3 | - |
+| 5 | Philippines | PHL | 2.0 | ~ | 3 | 5 | - |
 | 6 | Argentina | ARG | 1.0 | ~ | 4 | 3 | - |
 | 7 | Papua New Guinea | PNG | 0.6 | ~ | 4 | 1 | - |
 <!-- LATEST_RESULTS_END -->
