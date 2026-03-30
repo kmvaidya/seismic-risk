@@ -20,8 +20,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 20,
-    "avg_magnitude": 5.59,
+    "earthquake_count": 21,
+    "avg_magnitude": 5.57,
     "strongest_earthquake": {
       "magnitude": 7.5,
       "date": "2026-03-24",
@@ -110,6 +110,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s8me",
+        "magnitude": 5.1,
+        "latitude": -16.4134,
+        "longitude": -173.6674,
+        "depth_km": 50.405,
+        "time_ms": 1774827914225,
+        "place": "52 km SSE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s8a0",
         "magnitude": 5.4,
@@ -353,8 +364,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-03-26",
@@ -510,9 +521,44 @@
           }
         ],
         "exposure_score": 0.77
+      },
+      {
+        "name": "Kadena Air Base",
+        "iata_code": "DNA",
+        "latitude": 26.351667,
+        "longitude": 127.769444,
+        "municipality": "Okinawa",
+        "closest_quake_distance_km": 185.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s8id",
+            "magnitude": 5.1,
+            "latitude": 27.9924,
+            "longitude": 128.1032,
+            "depth_km": 10,
+            "time_ms": 1774768075296,
+            "place": "80 km WNW of Amagi, Japan",
+            "distance_km": 185.4,
+            "exposure_contribution": 0.38,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.38
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s8id",
+        "magnitude": 5.1,
+        "latitude": 27.9924,
+        "longitude": 128.1032,
+        "depth_km": 10,
+        "time_ms": 1774768075296,
+        "place": "80 km WNW of Amagi, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s83k",
         "magnitude": 5.1,
@@ -593,10 +639,10 @@
       {
         "id": "us7000s278",
         "magnitude": 5.2,
-        "latitude": 25.2035,
-        "longitude": 125.0077,
-        "depth_km": 10.156,
-        "time_ms": 1772707701013,
+        "latitude": 25.1989,
+        "longitude": 124.9998,
+        "depth_km": 10,
+        "time_ms": 1772707700829,
         "place": "53 km NW of Hirara, Japan",
         "country_code": "JP",
         "shakemap_available": false
@@ -677,31 +723,9 @@
         "place": "57 km NNW of Hirara, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s0qv",
-        "magnitude": 5,
-        "latitude": 25.2447,
-        "longitude": 125.001,
-        "depth_km": 10,
-        "time_ms": 1772203699527,
-        "place": "57 km NNW of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s0n7",
-        "magnitude": 5.2,
-        "latitude": 25.2601,
-        "longitude": 125.0247,
-        "depth_km": 10,
-        "time_ms": 1772160892374,
-        "place": "57 km NNW of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.92
+    "seismic_hub_risk_score": 5.3
   },
   {
     "country": "Indonesia",
@@ -1709,7 +1733,7 @@
       "PRY",
       "URY"
     ],
-    "earthquake_count": 4,
+    "earthquake_count": 3,
     "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 5.6,
@@ -1827,17 +1851,6 @@
         "depth_km": 130.639,
         "time_ms": 1772903605310,
         "place": "114 km WNW of Candelaria, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s0v7",
-        "magnitude": 5.3,
-        "latitude": -60.2661,
-        "longitude": -61.5252,
-        "depth_km": 10,
-        "time_ms": 1772217078635,
-        "place": "Drake Passage",
         "country_code": "AR",
         "shakemap_available": false
       }
