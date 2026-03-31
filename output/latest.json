@@ -32,7 +32,7 @@
     "highest_pager_alert": "green",
     "max_felt_reports": 19,
     "tsunami_warning_issued": false,
-    "significant_events_count": 3,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Fua'amotu International Airport",
@@ -364,8 +364,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 14,
+    "avg_magnitude": 5.39,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-03-26",
@@ -523,13 +523,50 @@
         "exposure_score": 0.77
       },
       {
+        "name": "Naha International Airport",
+        "iata_code": "OKA",
+        "latitude": 26.192437,
+        "longitude": 127.639804,
+        "municipality": "Naha",
+        "closest_quake_distance_km": 118.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s8mj",
+            "magnitude": 5.1,
+            "latitude": 26.2155,
+            "longitude": 128.8262,
+            "depth_km": 10,
+            "time_ms": 1774833150840,
+            "place": "81 km SE of Taira, Japan",
+            "distance_km": 118.4,
+            "exposure_contribution": 0.8,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.8
+      },
+      {
         "name": "Kadena Air Base",
         "iata_code": "DNA",
         "latitude": 26.351667,
         "longitude": 127.769444,
         "municipality": "Okinawa",
-        "closest_quake_distance_km": 185.4,
+        "closest_quake_distance_km": 106.4,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s8mj",
+            "magnitude": 5.1,
+            "latitude": 26.2155,
+            "longitude": 128.8262,
+            "depth_km": 10,
+            "time_ms": 1774833150840,
+            "place": "81 km SE of Taira, Japan",
+            "distance_km": 106.4,
+            "exposure_contribution": 0.94,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000s8id",
             "magnitude": 5.1,
@@ -544,10 +581,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.38
+        "exposure_score": 1.32
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000s8mj",
+        "magnitude": 5.1,
+        "latitude": 26.2155,
+        "longitude": 128.8262,
+        "depth_km": 10,
+        "time_ms": 1774833150840,
+        "place": "81 km SE of Taira, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us7000s8id",
         "magnitude": 5.1,
@@ -690,42 +738,9 @@
         "place": "17 km SW of Ibusuki, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000s122",
-        "magnitude": 5.1,
-        "latitude": 25.3149,
-        "longitude": 124.962,
-        "depth_km": 10,
-        "time_ms": 1772283419269,
-        "place": "66 km NNW of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s103",
-        "magnitude": 5.3,
-        "latitude": 25.2126,
-        "longitude": 125.0479,
-        "depth_km": 10,
-        "time_ms": 1772258033977,
-        "place": "52 km NNW of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000s0z7",
-        "magnitude": 5.1,
-        "latitude": 25.2429,
-        "longitude": 124.9932,
-        "depth_km": 10,
-        "time_ms": 1772243360129,
-        "place": "57 km NNW of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.3
+    "seismic_hub_risk_score": 7.04
   },
   {
     "country": "Indonesia",
@@ -751,8 +766,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-03-03",
@@ -983,261 +998,9 @@
         "place": "62 km SE of Sinabang, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000s10h",
-        "magnitude": 5.1,
-        "latitude": 1.0444,
-        "longitude": 120.9122,
-        "depth_km": 67.538,
-        "time_ms": 1772261534334,
-        "place": "245 km NNE of Palu, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 3.2
-  },
-  {
-    "country": "Philippines",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "PHL",
-    "capital": "Manila",
-    "population": 114123600,
-    "area_km2": 342353.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "PHP",
-        "name": "Philippine peso"
-      }
-    ],
-    "languages": [
-      "English",
-      "Filipino"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.12,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-02-28",
-      "depth_km": 101.3,
-      "latitude": 5.0219,
-      "longitude": 125.9332
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
-        "iata_code": "SFS",
-        "latitude": 14.794833,
-        "longitude": 120.271883,
-        "municipality": "Olongapo",
-        "closest_quake_distance_km": 115.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s2tu",
-            "magnitude": 5,
-            "latitude": 13.8532,
-            "longitude": 120.723,
-            "depth_km": 179.156,
-            "time_ms": 1772899496236,
-            "place": "2 km ENE of Hukay, Philippines",
-            "distance_km": 115.4,
-            "exposure_contribution": 0.27,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.27
-      },
-      {
-        "name": "Clark International Airport / Clark Air Base",
-        "iata_code": "CRK",
-        "latitude": 15.186,
-        "longitude": 120.559998,
-        "municipality": "Mabalacat",
-        "closest_quake_distance_km": 149.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s2tu",
-            "magnitude": 5,
-            "latitude": 13.8532,
-            "longitude": 120.723,
-            "depth_km": 179.156,
-            "time_ms": 1772899496236,
-            "place": "2 km ENE of Hukay, Philippines",
-            "distance_km": 149.2,
-            "exposure_contribution": 0.23,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.23
-      },
-      {
-        "name": "Bicol International Airport",
-        "iata_code": "DRP",
-        "latitude": 13.111915,
-        "longitude": 123.676829,
-        "municipality": "Legazpi",
-        "closest_quake_distance_km": 84.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s311",
-            "magnitude": 5.1,
-            "latitude": 12.8656,
-            "longitude": 124.4095,
-            "depth_km": 105.641,
-            "time_ms": 1772898829081,
-            "place": "20 km NNE of Biri, Philippines",
-            "distance_km": 84.0,
-            "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.65
-      },
-      {
-        "name": "Ninoy Aquino International Airport",
-        "iata_code": "MNL",
-        "latitude": 14.5086,
-        "longitude": 121.019997,
-        "municipality": "Manila (Pasay)",
-        "closest_quake_distance_km": 79.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s2tu",
-            "magnitude": 5,
-            "latitude": 13.8532,
-            "longitude": 120.723,
-            "depth_km": 179.156,
-            "time_ms": 1772899496236,
-            "place": "2 km ENE of Hukay, Philippines",
-            "distance_km": 79.6,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.31
-      },
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 165.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s8ay",
-            "magnitude": 5.1,
-            "latitude": 5.6351,
-            "longitude": 125.5992,
-            "depth_km": 203.013,
-            "time_ms": 1774668837912,
-            "place": "14 km SE of Kalbay, Philippines",
-            "distance_km": 165.8,
-            "exposure_contribution": 0.2,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.2
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 72.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s8ay",
-            "magnitude": 5.1,
-            "latitude": 5.6351,
-            "longitude": 125.5992,
-            "depth_km": 203.013,
-            "time_ms": 1774668837912,
-            "place": "14 km SE of Kalbay, Philippines",
-            "distance_km": 72.8,
-            "exposure_contribution": 0.29,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s135",
-            "magnitude": 5.3,
-            "latitude": 5.0219,
-            "longitude": 125.9332,
-            "depth_km": 101.33,
-            "time_ms": 1772299342401,
-            "place": "67 km SE of Sarangani, Philippines",
-            "distance_km": 147.8,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.81
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000s8ay",
-        "magnitude": 5.1,
-        "latitude": 5.6351,
-        "longitude": 125.5992,
-        "depth_km": 203.013,
-        "time_ms": 1774668837912,
-        "place": "14 km SE of Kalbay, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s2tu",
-        "magnitude": 5,
-        "latitude": 13.8532,
-        "longitude": 120.723,
-        "depth_km": 179.156,
-        "time_ms": 1772899496236,
-        "place": "2 km ENE of Hukay, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s311",
-        "magnitude": 5.1,
-        "latitude": 12.8656,
-        "longitude": 124.4095,
-        "depth_km": 105.641,
-        "time_ms": 1772898829081,
-        "place": "20 km NNE of Biri, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s135",
-        "magnitude": 5.3,
-        "latitude": 5.0219,
-        "longitude": 125.9332,
-        "depth_km": 101.33,
-        "time_ms": 1772299342401,
-        "place": "67 km SE of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.47
   },
   {
     "country": "Russia",
@@ -1577,6 +1340,343 @@
       }
     ],
     "seismic_hub_risk_score": 2.4
+  },
+  {
+    "country": "Philippines",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "PHL",
+    "capital": "Manila",
+    "population": 114123600,
+    "area_km2": 342353.0,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso"
+      }
+    ],
+    "languages": [
+      "English",
+      "Filipino"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.07,
+    "strongest_earthquake": {
+      "magnitude": 5.1,
+      "date": "2026-03-28",
+      "depth_km": 203.0,
+      "latitude": 5.6351,
+      "longitude": 125.5992
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
+        "iata_code": "SFS",
+        "latitude": 14.794833,
+        "longitude": 120.271883,
+        "municipality": "Olongapo",
+        "closest_quake_distance_km": 115.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s2tu",
+            "magnitude": 5,
+            "latitude": 13.8532,
+            "longitude": 120.723,
+            "depth_km": 179.156,
+            "time_ms": 1772899496236,
+            "place": "2 km ENE of Hukay, Philippines",
+            "distance_km": 115.4,
+            "exposure_contribution": 0.27,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.27
+      },
+      {
+        "name": "Clark International Airport / Clark Air Base",
+        "iata_code": "CRK",
+        "latitude": 15.186,
+        "longitude": 120.559998,
+        "municipality": "Mabalacat",
+        "closest_quake_distance_km": 149.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s2tu",
+            "magnitude": 5,
+            "latitude": 13.8532,
+            "longitude": 120.723,
+            "depth_km": 179.156,
+            "time_ms": 1772899496236,
+            "place": "2 km ENE of Hukay, Philippines",
+            "distance_km": 149.2,
+            "exposure_contribution": 0.23,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.23
+      },
+      {
+        "name": "Bicol International Airport",
+        "iata_code": "DRP",
+        "latitude": 13.111915,
+        "longitude": 123.676829,
+        "municipality": "Legazpi",
+        "closest_quake_distance_km": 84.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s311",
+            "magnitude": 5.1,
+            "latitude": 12.8656,
+            "longitude": 124.4095,
+            "depth_km": 105.641,
+            "time_ms": 1772898829081,
+            "place": "20 km NNE of Biri, Philippines",
+            "distance_km": 84.0,
+            "exposure_contribution": 0.65,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.65
+      },
+      {
+        "name": "Ninoy Aquino International Airport",
+        "iata_code": "MNL",
+        "latitude": 14.5086,
+        "longitude": 121.019997,
+        "municipality": "Manila (Pasay)",
+        "closest_quake_distance_km": 79.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s2tu",
+            "magnitude": 5,
+            "latitude": 13.8532,
+            "longitude": 120.723,
+            "depth_km": 179.156,
+            "time_ms": 1772899496236,
+            "place": "2 km ENE of Hukay, Philippines",
+            "distance_km": 79.6,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.31
+      },
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 165.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s8ay",
+            "magnitude": 5.1,
+            "latitude": 5.6351,
+            "longitude": 125.5992,
+            "depth_km": 203.013,
+            "time_ms": 1774668837912,
+            "place": "14 km SE of Kalbay, Philippines",
+            "distance_km": 165.8,
+            "exposure_contribution": 0.2,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.2
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 72.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s8ay",
+            "magnitude": 5.1,
+            "latitude": 5.6351,
+            "longitude": 125.5992,
+            "depth_km": 203.013,
+            "time_ms": 1774668837912,
+            "place": "14 km SE of Kalbay, Philippines",
+            "distance_km": 72.8,
+            "exposure_contribution": 0.29,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.29
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000s8ay",
+        "magnitude": 5.1,
+        "latitude": 5.6351,
+        "longitude": 125.5992,
+        "depth_km": 203.013,
+        "time_ms": 1774668837912,
+        "place": "14 km SE of Kalbay, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s2tu",
+        "magnitude": 5,
+        "latitude": 13.8532,
+        "longitude": 120.723,
+        "depth_km": 179.156,
+        "time_ms": 1772899496236,
+        "place": "2 km ENE of Hukay, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s311",
+        "magnitude": 5.1,
+        "latitude": 12.8656,
+        "longitude": 124.4095,
+        "depth_km": 105.641,
+        "time_ms": 1772898829081,
+        "place": "20 km NNE of Biri, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.95
+  },
+  {
+    "country": "Vanuatu",
+    "iso_alpha2": "VU",
+    "iso_alpha3": "VUT",
+    "capital": "Port Vila",
+    "population": 321409,
+    "area_km2": 12189.0,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vanuatu vatu"
+      }
+    ],
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.9,
+    "strongest_earthquake": {
+      "magnitude": 7.3,
+      "date": "2026-03-30",
+      "depth_km": 121.3,
+      "latitude": -15.3139,
+      "longitude": 167.5616
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 32,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Bauerfield International Airport",
+        "iata_code": "VLI",
+        "latitude": -17.699301,
+        "longitude": 168.320007,
+        "municipality": "Port Vila",
+        "closest_quake_distance_km": 175.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000shnl",
+            "magnitude": 6.1,
+            "latitude": -19.2783,
+            "longitude": 168.3207,
+            "depth_km": 10,
+            "time_ms": 1773973832675,
+            "place": "105 km WNW of Isangel, Vanuatu",
+            "distance_km": 175.6,
+            "exposure_contribution": 1.33,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.33
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000s8rs",
+        "magnitude": 5,
+        "latitude": -15.3663,
+        "longitude": 167.5229,
+        "depth_km": 149.049,
+        "time_ms": 1774861352124,
+        "place": "42 km ENE of Luganville, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s8q0",
+        "magnitude": 7.3,
+        "latitude": -15.3139,
+        "longitude": 167.5616,
+        "depth_km": 121.28,
+        "time_ms": 1774860253823,
+        "place": "48 km ENE of Luganville, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000s8v7",
+        "magnitude": 5.4,
+        "latitude": -15.2696,
+        "longitude": 167.4673,
+        "depth_km": 115.406,
+        "time_ms": 1774860247642,
+        "place": "42 km NE of Luganville, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000si17",
+        "magnitude": 5.7,
+        "latitude": -16.0064,
+        "longitude": 166.9182,
+        "depth_km": 37.084,
+        "time_ms": 1774063260605,
+        "place": "51 km W of Norsup, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000shnl",
+        "magnitude": 6.1,
+        "latitude": -19.2783,
+        "longitude": 168.3207,
+        "depth_km": 10,
+        "time_ms": 1773973832675,
+        "place": "105 km WNW of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.33
   },
   {
     "country": "Pakistan",
