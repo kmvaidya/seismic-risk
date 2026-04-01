@@ -1,0 +1,262 @@
+{
+  "date": "2026-04-01",
+  "scoring_method": "shakemap",
+  "countries": [
+    {
+      "iso_alpha3": "TON",
+      "country": "Tonga",
+      "score": 8.21,
+      "earthquake_count": 21,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.54,
+      "airports": [
+        {
+          "iata_code": "TBU",
+          "name": "Fua'amotu International Airport",
+          "exposure_score": 0.24,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 178.5,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "VAV",
+          "name": "Vava'u International Airport",
+          "exposure_score": 7.97,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 158.5,
+          "max_pga_g": 0.0733
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "JPN",
+      "country": "Japan",
+      "score": 5.06,
+      "earthquake_count": 13,
+      "exposed_airport_count": 5,
+      "avg_magnitude": 5.38,
+      "airports": [
+        {
+          "iata_code": "CTS",
+          "name": "New Chitose Airport",
+          "exposure_score": 0.85,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 136.8,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "HKD",
+          "name": "Hakodate Airport",
+          "exposure_score": 1.32,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 55.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "AOJ",
+          "name": "Aomori Airport",
+          "exposure_score": 0.77,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 153.8,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "OKA",
+          "name": "Naha International Airport",
+          "exposure_score": 0.8,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 118.4,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DNA",
+          "name": "Kadena Air Base",
+          "exposure_score": 1.32,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 106.4,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "IDN",
+      "country": "Indonesia",
+      "score": 3.2,
+      "earthquake_count": 13,
+      "exposed_airport_count": 3,
+      "avg_magnitude": 5.26,
+      "airports": [
+        {
+          "iata_code": "DJJ",
+          "name": "Dortheys Hiyo Eluay International Airport",
+          "exposure_score": 2.26,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 113.5,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "HLP",
+          "name": "Halim Perdanakusuma International Airport",
+          "exposure_score": 0.51,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 138.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CGK",
+          "name": "Soekarno-Hatta International Airport",
+          "exposure_score": 0.43,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 159.4,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "RUS",
+      "country": "Russia",
+      "score": 2.04,
+      "earthquake_count": 19,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.31,
+      "airports": [
+        {
+          "iata_code": "PKC",
+          "name": "Yelizovo Airport",
+          "exposure_score": 2.04,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 180.4,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "PHL",
+      "country": "Philippines",
+      "score": 1.95,
+      "earthquake_count": 3,
+      "exposed_airport_count": 6,
+      "avg_magnitude": 5.07,
+      "airports": [
+        {
+          "iata_code": "SFS",
+          "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
+          "exposure_score": 0.27,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 115.4,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CRK",
+          "name": "Clark International Airport / Clark Air Base",
+          "exposure_score": 0.23,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 149.2,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DRP",
+          "name": "Bicol International Airport",
+          "exposure_score": 0.65,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 84.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "MNL",
+          "name": "Ninoy Aquino International Airport",
+          "exposure_score": 0.31,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 79.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DVO",
+          "name": "Francisco Bangoy International Airport",
+          "exposure_score": 0.2,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 165.8,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "GES",
+          "name": "General Santos International Airport",
+          "exposure_score": 0.29,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 72.8,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "VUT",
+      "country": "Vanuatu",
+      "score": 1.33,
+      "earthquake_count": 6,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.77,
+      "airports": [
+        {
+          "iata_code": "VLI",
+          "name": "Bauerfield International Airport",
+          "exposure_score": 1.33,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 175.6,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "PAK",
+      "country": "Pakistan",
+      "score": 1.3,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.1,
+      "airports": [
+        {
+          "iata_code": "KDU",
+          "name": "Skardu International Airport",
+          "exposure_score": 1.3,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 166.8,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "ARG",
+      "country": "Argentina",
+      "score": 1.03,
+      "earthquake_count": 3,
+      "exposed_airport_count": 3,
+      "avg_magnitude": 5.27,
+      "airports": [
+        {
+          "iata_code": "MDZ",
+          "name": "Governor Francisco Gabrielli International Airport",
+          "exposure_score": 0.33,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 169.5,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "SLA",
+          "name": "Mart\u00edn Miguel de G\u00fcemes International Airport",
+          "exposure_score": 0.37,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 174.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "JUJ",
+          "name": "Gobernador Horacio Guzman International Airport",
+          "exposure_score": 0.33,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 193.8,
+          "max_pga_g": null
+        }
+      ]
+    }
+  ]
+}
