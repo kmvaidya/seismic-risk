@@ -23,8 +23,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 34,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-01",
@@ -33,7 +33,7 @@
       "longitude": 126.2965
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 40,
+    "max_felt_reports": 55,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -80,8 +80,99 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 155.2,
+        "closest_quake_distance_km": 128.4,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sm6e",
+            "magnitude": 5,
+            "latitude": 1.1246,
+            "longitude": 126.001,
+            "depth_km": 35,
+            "time_ms": 1775155571597,
+            "place": "103 km ESE of Bitung, Indonesia",
+            "distance_km": 128.4,
+            "exposure_contribution": 0.59,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slwd",
+            "magnitude": 5.2,
+            "latitude": 1.2694,
+            "longitude": 126.0995,
+            "depth_km": 35,
+            "time_ms": 1775095857938,
+            "place": "109 km E of Bitung, Indonesia",
+            "distance_km": 134.1,
+            "exposure_contribution": 0.7,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sm5i",
+            "magnitude": 5.1,
+            "latitude": 1.2405,
+            "longitude": 126.1543,
+            "depth_km": 35,
+            "time_ms": 1775146226585,
+            "place": "116 km E of Bitung, Indonesia",
+            "distance_km": 140.7,
+            "exposure_contribution": 0.58,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slyt",
+            "magnitude": 5.1,
+            "latitude": 1.1063,
+            "longitude": 126.1708,
+            "depth_km": 35,
+            "time_ms": 1775119139182,
+            "place": "121 km ESE of Bitung, Indonesia",
+            "distance_km": 146.8,
+            "exposure_contribution": 0.54,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slzh",
+            "magnitude": 5.2,
+            "latitude": 1.3537,
+            "longitude": 126.2823,
+            "depth_km": 35,
+            "time_ms": 1775129735014,
+            "place": "128 km E of Bitung, Indonesia",
+            "distance_km": 152.3,
+            "exposure_contribution": 0.58,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slvt",
+            "magnitude": 5.1,
+            "latitude": 1.1887,
+            "longitude": 126.2498,
+            "depth_km": 35,
+            "time_ms": 1775088919902,
+            "place": "127 km ESE of Bitung, Indonesia",
+            "distance_km": 152.5,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sm40",
+            "magnitude": 5.1,
+            "latitude": 1.5322,
+            "longitude": 126.3035,
+            "depth_km": 10,
+            "time_ms": 1775144063732,
+            "place": "131 km E of Bitung, Indonesia",
+            "distance_km": 153.1,
+            "exposure_contribution": 0.53,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us6000slue",
             "magnitude": 5.4,
@@ -96,6 +187,45 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000slww",
+            "magnitude": 5.7,
+            "latitude": 1.1475,
+            "longitude": 126.2702,
+            "depth_km": 35,
+            "time_ms": 1775099873328,
+            "place": "130 km WNW of Ternate, Indonesia",
+            "distance_km": 155.9,
+            "exposure_contribution": 0.99,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slyx",
+            "magnitude": 5.1,
+            "latitude": 1.3718,
+            "longitude": 126.3203,
+            "depth_km": 35,
+            "time_ms": 1775119926334,
+            "place": "132 km E of Bitung, Indonesia",
+            "distance_km": 156.2,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sm1v",
+            "magnitude": 5.9,
+            "latitude": 1.2401,
+            "longitude": 126.3004,
+            "depth_km": 35,
+            "time_ms": 1775139229201,
+            "place": "130 km WNW of Ternate, Indonesia",
+            "distance_km": 156.6,
+            "exposure_contribution": 1.23,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000slss",
             "magnitude": 7.4,
             "latitude": 1.1171,
@@ -104,9 +234,22 @@
             "time_ms": 1775083693172,
             "place": "126 km WNW of Ternate, Indonesia",
             "distance_km": 159.7,
-            "exposure_contribution": 4.66,
-            "pga_g": 0.046592,
-            "mmi": 5.2
+            "exposure_contribution": 5.18,
+            "pga_g": 0.05183,
+            "mmi": 5.5
+          },
+          {
+            "earthquake_id": "us6000slxx",
+            "magnitude": 5,
+            "latitude": 1.2054,
+            "longitude": 126.3251,
+            "depth_km": 35,
+            "time_ms": 1775108501130,
+            "place": "126 km WNW of Ternate, Indonesia",
+            "distance_km": 160.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000slvh",
@@ -122,6 +265,45 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000sm21",
+            "magnitude": 5.8,
+            "latitude": 1.2035,
+            "longitude": 126.3735,
+            "depth_km": 35,
+            "time_ms": 1775140499320,
+            "place": "121 km WNW of Ternate, Indonesia",
+            "distance_km": 165.4,
+            "exposure_contribution": 1.01,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slyf",
+            "magnitude": 5.2,
+            "latitude": 1.287,
+            "longitude": 126.4449,
+            "depth_km": 35,
+            "time_ms": 1775113454816,
+            "place": "118 km WNW of Ternate, Indonesia",
+            "distance_km": 171.3,
+            "exposure_contribution": 0.48,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slwy",
+            "magnitude": 6.2,
+            "latitude": 1.1779,
+            "longitude": 126.4438,
+            "depth_km": 35,
+            "time_ms": 1775100233872,
+            "place": "113 km WNW of Ternate, Indonesia",
+            "distance_km": 173.7,
+            "exposure_contribution": 1.47,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000sltp",
             "magnitude": 5.5,
             "latitude": 1.0043,
@@ -133,9 +315,35 @@
             "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slwu",
+            "magnitude": 5,
+            "latitude": 1.1395,
+            "longitude": 126.5304,
+            "depth_km": 35,
+            "time_ms": 1775099677416,
+            "place": "102 km WNW of Ternate, Indonesia",
+            "distance_km": 184.0,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000slxu",
+            "magnitude": 5.1,
+            "latitude": 1.0576,
+            "longitude": 126.521,
+            "depth_km": 35,
+            "time_ms": 1775108243688,
+            "place": "100 km WNW of Ternate, Indonesia",
+            "distance_km": 185.5,
+            "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 6.46
+        "exposure_score": 17.82
       },
       {
         "name": "Halim Perdanakusuma International Airport",
@@ -187,6 +395,193 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sm6e",
+        "magnitude": 5,
+        "latitude": 1.1246,
+        "longitude": 126.001,
+        "depth_km": 35,
+        "time_ms": 1775155571597,
+        "place": "103 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sm5i",
+        "magnitude": 5.1,
+        "latitude": 1.2405,
+        "longitude": 126.1543,
+        "depth_km": 35,
+        "time_ms": 1775146226585,
+        "place": "116 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sm43",
+        "magnitude": 5.3,
+        "latitude": -3.7097,
+        "longitude": 134.8597,
+        "depth_km": 33.785,
+        "time_ms": 1775144196646,
+        "place": "81 km WSW of Nabire, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sm40",
+        "magnitude": 5.1,
+        "latitude": 1.5322,
+        "longitude": 126.3035,
+        "depth_km": 10,
+        "time_ms": 1775144063732,
+        "place": "131 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sm21",
+        "magnitude": 5.8,
+        "latitude": 1.2035,
+        "longitude": 126.3735,
+        "depth_km": 35,
+        "time_ms": 1775140499320,
+        "place": "121 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sm1v",
+        "magnitude": 5.9,
+        "latitude": 1.2401,
+        "longitude": 126.3004,
+        "depth_km": 35,
+        "time_ms": 1775139229201,
+        "place": "130 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000slzh",
+        "magnitude": 5.2,
+        "latitude": 1.3537,
+        "longitude": 126.2823,
+        "depth_km": 35,
+        "time_ms": 1775129735014,
+        "place": "128 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slyx",
+        "magnitude": 5.1,
+        "latitude": 1.3718,
+        "longitude": 126.3203,
+        "depth_km": 35,
+        "time_ms": 1775119926334,
+        "place": "132 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slyt",
+        "magnitude": 5.1,
+        "latitude": 1.1063,
+        "longitude": 126.1708,
+        "depth_km": 35,
+        "time_ms": 1775119139182,
+        "place": "121 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slyf",
+        "magnitude": 5.2,
+        "latitude": 1.287,
+        "longitude": 126.4449,
+        "depth_km": 35,
+        "time_ms": 1775113454816,
+        "place": "118 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slxx",
+        "magnitude": 5,
+        "latitude": 1.2054,
+        "longitude": 126.3251,
+        "depth_km": 35,
+        "time_ms": 1775108501130,
+        "place": "126 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slxu",
+        "magnitude": 5.1,
+        "latitude": 1.0576,
+        "longitude": 126.521,
+        "depth_km": 35,
+        "time_ms": 1775108243688,
+        "place": "100 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slwy",
+        "magnitude": 6.2,
+        "latitude": 1.1779,
+        "longitude": 126.4438,
+        "depth_km": 35,
+        "time_ms": 1775100233872,
+        "place": "113 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000slww",
+        "magnitude": 5.7,
+        "latitude": 1.1475,
+        "longitude": 126.2702,
+        "depth_km": 35,
+        "time_ms": 1775099873328,
+        "place": "130 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000slwu",
+        "magnitude": 5,
+        "latitude": 1.1395,
+        "longitude": 126.5304,
+        "depth_km": 35,
+        "time_ms": 1775099677416,
+        "place": "102 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slwd",
+        "magnitude": 5.2,
+        "latitude": 1.2694,
+        "longitude": 126.0995,
+        "depth_km": 35,
+        "time_ms": 1775095857938,
+        "place": "109 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000slvt",
+        "magnitude": 5.1,
+        "latitude": 1.1887,
+        "longitude": 126.2498,
+        "depth_km": 35,
+        "time_ms": 1775088919902,
+        "place": "127 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000slvh",
         "magnitude": 5.1,
@@ -373,20 +768,9 @@
         "place": "147 km ENE of Masohi, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s1ln",
-        "magnitude": 6.2,
-        "latitude": 2.0076,
-        "longitude": 96.695,
-        "depth_km": 18,
-        "time_ms": 1772513805857,
-        "place": "62 km SE of Sinabang, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 9.66
+    "seismic_hub_risk_score": 21.02
   },
   {
     "country": "Tonga",
@@ -851,6 +1235,30 @@
         "exposure_score": 0.77
       },
       {
+        "name": "Sendai Airport",
+        "iata_code": "SDJ",
+        "latitude": 38.139702,
+        "longitude": 140.917007,
+        "municipality": "Natori",
+        "closest_quake_distance_km": 60.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000slw1",
+            "magnitude": 5,
+            "latitude": 38.167,
+            "longitude": 141.6037,
+            "depth_km": 66.591,
+            "time_ms": 1775091172373,
+            "place": "33 km SSE of Onagawa Chō, Japan",
+            "distance_km": 60.1,
+            "exposure_contribution": 1.08,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.08
+      },
+      {
         "name": "Naha International Airport",
         "iata_code": "OKA",
         "latitude": 26.192437,
@@ -914,6 +1322,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000slw1",
+        "magnitude": 5,
+        "latitude": 38.167,
+        "longitude": 141.6037,
+        "depth_km": 66.591,
+        "time_ms": 1775091172373,
+        "place": "33 km SSE of Onagawa Chō, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000s8mj",
         "magnitude": 5.1,
         "latitude": 26.2155,
@@ -960,11 +1379,11 @@
       {
         "id": "us6000si57",
         "magnitude": 5.4,
-        "latitude": 29.4276,
-        "longitude": 130.7265,
-        "depth_km": 25.517,
-        "time_ms": 1774091524833,
-        "place": "91 km SSE of Koshima, Japan",
+        "latitude": 29.4858,
+        "longitude": 130.6689,
+        "depth_km": 21.65,
+        "time_ms": 1774091524314,
+        "place": "84 km S of Koshima, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -1022,20 +1441,148 @@
         "place": "53 km NW of Hirara, Japan",
         "country_code": "JP",
         "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 6.14
+  },
+  {
+    "country": "China",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "CHN",
+    "capital": "Beijing",
+    "population": 1408280000,
+    "area_km2": 9706961.0,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan"
+      }
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.13,
+    "strongest_earthquake": {
+      "magnitude": 5.2,
+      "date": "2026-04-02",
+      "depth_km": 10,
+      "latitude": 43.2572,
+      "longitude": 87.7852
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Ürümqi Tianshan International Airport",
+        "iata_code": "URC",
+        "latitude": 43.913584,
+        "longitude": 87.479372,
+        "municipality": "Ürümqi",
+        "closest_quake_distance_km": 77.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000slyj",
+            "magnitude": 5.2,
+            "latitude": 43.2572,
+            "longitude": 87.7852,
+            "depth_km": 10,
+            "time_ms": 1775115551152,
+            "place": "62 km SSE of Ürümqi, China",
+            "distance_km": 77.0,
+            "exposure_contribution": 1.67,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000s24t",
+            "magnitude": 5,
+            "latitude": 43.7236,
+            "longitude": 86.4689,
+            "depth_km": 10,
+            "time_ms": 1772669742098,
+            "place": "73 km SSE of Shihezi, China",
+            "distance_km": 83.8,
+            "exposure_contribution": 1.18,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000s2nf",
+            "magnitude": 5.2,
+            "latitude": 43.761,
+            "longitude": 86.4216,
+            "depth_km": 10,
+            "time_ms": 1772833486840,
+            "place": "67 km SSE of Shihezi, China",
+            "distance_km": 86.5,
+            "exposure_contribution": 1.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 4.28
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000slyj",
+        "magnitude": 5.2,
+        "latitude": 43.2572,
+        "longitude": 87.7852,
+        "depth_km": 10,
+        "time_ms": 1775115551152,
+        "place": "62 km SSE of Ürümqi, China",
+        "country_code": "CN",
+        "shakemap_available": false
       },
       {
-        "id": "us7000s1k2",
-        "magnitude": 5,
-        "latitude": 25.2983,
-        "longitude": 124.9174,
+        "id": "us7000s2nf",
+        "magnitude": 5.2,
+        "latitude": 43.761,
+        "longitude": 86.4216,
         "depth_km": 10,
-        "time_ms": 1772496703405,
-        "place": "67 km NW of Hirara, Japan",
-        "country_code": "JP",
+        "time_ms": 1772833486840,
+        "place": "67 km SSE of Shihezi, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s24t",
+        "magnitude": 5,
+        "latitude": 43.7236,
+        "longitude": 86.4689,
+        "depth_km": 10,
+        "time_ms": 1772669742098,
+        "place": "73 km SSE of Shihezi, China",
+        "country_code": "CN",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.06
+    "seismic_hub_risk_score": 4.28
   },
   {
     "country": "Philippines",
@@ -1289,7 +1836,7 @@
       "POL",
       "UKR"
     ],
-    "earthquake_count": 18,
+    "earthquake_count": 17,
     "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 6.4,
@@ -1554,17 +2101,6 @@
         "place": "227 km ESE of Attu Station, Alaska",
         "country_code": "RU",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000s1nu",
-        "magnitude": 5.3,
-        "latitude": 52.2579,
-        "longitude": 176.429,
-        "depth_km": 10,
-        "time_ms": 1772534663241,
-        "place": "229 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.04
@@ -1591,8 +2127,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.77,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.71,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-03-30",
@@ -1611,26 +2147,50 @@
         "latitude": -17.699301,
         "longitude": 168.320007,
         "municipality": "Port Vila",
-        "closest_quake_distance_km": 175.6,
+        "closest_quake_distance_km": 173.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000shnl",
             "magnitude": 6.1,
-            "latitude": -19.2783,
-            "longitude": 168.3207,
+            "latitude": -19.2558,
+            "longitude": 168.3256,
             "depth_km": 10,
-            "time_ms": 1773973832675,
+            "time_ms": 1773973832528,
             "place": "105 km WNW of Isangel, Vanuatu",
-            "distance_km": 175.6,
-            "exposure_contribution": 1.33,
+            "distance_km": 173.1,
+            "exposure_contribution": 1.36,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sm8a",
+            "magnitude": 5.4,
+            "latitude": -18.906,
+            "longitude": 169.4841,
+            "depth_km": 278.376,
+            "time_ms": 1775172134773,
+            "place": "73 km NNE of Isangel, Vanuatu",
+            "distance_km": 182.0,
+            "exposure_contribution": 0.17,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.33
+        "exposure_score": 1.54
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sm8a",
+        "magnitude": 5.4,
+        "latitude": -18.906,
+        "longitude": 169.4841,
+        "depth_km": 278.376,
+        "time_ms": 1775172134773,
+        "place": "73 km NNE of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
       {
         "id": "us7000s97y",
         "magnitude": 5.1,
@@ -1678,27 +2238,27 @@
       {
         "id": "us6000si17",
         "magnitude": 5.7,
-        "latitude": -16.0064,
-        "longitude": 166.9182,
-        "depth_km": 37.084,
-        "time_ms": 1774063260605,
-        "place": "51 km W of Norsup, Vanuatu",
+        "latitude": -16.011,
+        "longitude": 166.9002,
+        "depth_km": 22,
+        "time_ms": 1774063258592,
+        "place": "53 km W of Norsup, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       },
       {
         "id": "us6000shnl",
         "magnitude": 6.1,
-        "latitude": -19.2783,
-        "longitude": 168.3207,
+        "latitude": -19.2558,
+        "longitude": 168.3256,
         "depth_km": 10,
-        "time_ms": 1773973832675,
+        "time_ms": 1773973832528,
         "place": "105 km WNW of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.33
+    "seismic_hub_risk_score": 1.54
   },
   {
     "country": "Pakistan",

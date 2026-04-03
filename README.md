@@ -76,18 +76,19 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-04-02 07:02 UTC*
+*Last updated: 2026-04-03 06:59 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Indonesia | IDN | 9.7 | +6.5 | 18 | 4 | green |
+| 1 | Indonesia | IDN | 21.0 | +11.4 | 34 | 4 | green |
 | 2 | Tonga | TON | 8.2 | ~ | 22 | 2 | green |
-| 3 | Japan | JPN | 5.1 | ~ | 11 | 5 | green |
-| 4 | Philippines | PHL | 2.1 | ~ | 3 | 6 | - |
-| 5 | Russia | RUS | 2.0 | ~ | 18 | 1 | green |
-| 6 | Vanuatu | VUT | 1.3 | ~ | 6 | 1 | green |
-| 7 | Pakistan | PAK | 1.3 | ~ | 3 | 1 | - |
-| 8 | Argentina | ARG | 1.0 | ~ | 3 | 3 | - |
+| 3 | Japan | JPN | 6.1 | +1.1 | 11 | 6 | green |
+| 4 | China | CHN | 4.3 | NEW | 3 | 1 | - |
+| 5 | Philippines | PHL | 2.1 | ~ | 3 | 6 | - |
+| 6 | Russia | RUS | 2.0 | ~ | 17 | 1 | green |
+| 7 | Vanuatu | VUT | 1.5 | ~ | 7 | 1 | green |
+| 8 | Pakistan | PAK | 1.3 | ~ | 3 | 1 | - |
+| 9 | Argentina | ARG | 1.0 | ~ | 3 | 3 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works
