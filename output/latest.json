@@ -23,8 +23,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 41,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 44,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-01",
@@ -33,7 +33,7 @@
       "longitude": 126.2965
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 55,
+    "max_felt_reports": 59,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -118,6 +118,19 @@
             "place": "109 km E of Bitung, Indonesia",
             "distance_km": 134.1,
             "exposure_contribution": 0.7,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000smgy",
+            "magnitude": 5.9,
+            "latitude": 1.1109,
+            "longitude": 126.0732,
+            "depth_km": 48.684,
+            "time_ms": 1775266500602,
+            "place": "111 km ESE of Bitung, Indonesia",
+            "distance_km": 136.5,
+            "exposure_contribution": 1.46,
             "pga_g": null,
             "mmi": null
           },
@@ -434,7 +447,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 22.13
+        "exposure_score": 23.59
       },
       {
         "name": "Halim Perdanakusuma International Airport",
@@ -486,6 +499,39 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000smjx",
+        "magnitude": 5.2,
+        "latitude": -2.0711,
+        "longitude": 100.0086,
+        "depth_km": 40.845,
+        "time_ms": 1775301672368,
+        "place": "46 km E of Tuapejat, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000smj4",
+        "magnitude": 6,
+        "latitude": 4.8892,
+        "longitude": 126.1031,
+        "depth_km": 99.568,
+        "time_ms": 1775298871609,
+        "place": "90 km SE of Sarangani, Philippines",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000smgy",
+        "magnitude": 5.9,
+        "latitude": 1.1109,
+        "longitude": 126.0732,
+        "depth_km": 48.684,
+        "time_ms": 1775266500602,
+        "place": "111 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000smfm",
         "magnitude": 5.1,
@@ -938,7 +984,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 25.33
+    "seismic_hub_risk_score": 26.79
   },
   {
     "country": "Tonga",
@@ -961,8 +1007,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 24,
-    "avg_magnitude": 5.5,
+    "earthquake_count": 25,
+    "avg_magnitude": 5.48,
     "strongest_earthquake": {
       "magnitude": 7.5,
       "date": "2026-03-24",
@@ -1064,6 +1110,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000smp9",
+        "magnitude": 5,
+        "latitude": -31.5203,
+        "longitude": -177.9766,
+        "depth_km": 30.861,
+        "time_ms": 1775341880621,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000sm9g",
         "magnitude": 5,
@@ -1352,7 +1409,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 11,
-    "avg_magnitude": 5.4,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-03-26",
@@ -1457,9 +1514,22 @@
             "exposure_contribution": 1.08,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000smj7",
+            "magnitude": 5,
+            "latitude": 38.4373,
+            "longitude": 141.9269,
+            "depth_km": 67.953,
+            "time_ms": 1775299006191,
+            "place": "41 km E of Onagawa Chō, Japan",
+            "distance_km": 94.1,
+            "exposure_contribution": 0.74,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.08
+        "exposure_score": 1.82
       },
       {
         "name": "Naha International Airport",
@@ -1524,6 +1594,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000smj7",
+        "magnitude": 5,
+        "latitude": 38.4373,
+        "longitude": 141.9269,
+        "depth_km": 67.953,
+        "time_ms": 1775299006191,
+        "place": "41 km E of Onagawa Chō, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us6000slw1",
         "magnitude": 5,
@@ -1593,11 +1674,11 @@
       {
         "id": "us6000sg57",
         "magnitude": 5,
-        "latitude": 39.3857,
-        "longitude": 143.2972,
-        "depth_km": 25.896,
-        "time_ms": 1773431723213,
-        "place": "116 km E of Yamada, Japan",
+        "latitude": 39.418,
+        "longitude": 143.3754,
+        "depth_km": 32.862,
+        "time_ms": 1773431724163,
+        "place": "122 km E of Yamada, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -1633,159 +1714,9 @@
         "place": "106 km E of Yamada, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000s278",
-        "magnitude": 5.2,
-        "latitude": 25.1989,
-        "longitude": 124.9998,
-        "depth_km": 10,
-        "time_ms": 1772707700829,
-        "place": "53 km NW of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 6.14
-  },
-  {
-    "country": "China",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "CHN",
-    "capital": "Beijing",
-    "population": 1408280000,
-    "area_km2": 9706961.0,
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "currencies": [
-      {
-        "code": "CNY",
-        "name": "Chinese yuan"
-      }
-    ],
-    "languages": [
-      "Chinese"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AFG",
-      "BTN",
-      "MMR",
-      "HKG",
-      "IND",
-      "KAZ",
-      "NPL",
-      "PRK",
-      "KGZ",
-      "LAO",
-      "MAC",
-      "MNG",
-      "PAK",
-      "RUS",
-      "TJK",
-      "VNM"
-    ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.13,
-    "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-04-02",
-      "depth_km": 10,
-      "latitude": 43.2572,
-      "longitude": 87.7852
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Ürümqi Tianshan International Airport",
-        "iata_code": "URC",
-        "latitude": 43.913584,
-        "longitude": 87.479372,
-        "municipality": "Ürümqi",
-        "closest_quake_distance_km": 77.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000slyj",
-            "magnitude": 5.2,
-            "latitude": 43.2572,
-            "longitude": 87.7852,
-            "depth_km": 10,
-            "time_ms": 1775115551152,
-            "place": "62 km SSE of Ürümqi, China",
-            "distance_km": 77.0,
-            "exposure_contribution": 1.67,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s24t",
-            "magnitude": 5,
-            "latitude": 43.7236,
-            "longitude": 86.4689,
-            "depth_km": 10,
-            "time_ms": 1772669742098,
-            "place": "73 km SSE of Shihezi, China",
-            "distance_km": 83.8,
-            "exposure_contribution": 1.18,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s2nf",
-            "magnitude": 5.2,
-            "latitude": 43.761,
-            "longitude": 86.4216,
-            "depth_km": 10,
-            "time_ms": 1772833486840,
-            "place": "67 km SSE of Shihezi, China",
-            "distance_km": 86.5,
-            "exposure_contribution": 1.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 4.28
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000slyj",
-        "magnitude": 5.2,
-        "latitude": 43.2572,
-        "longitude": 87.7852,
-        "depth_km": 10,
-        "time_ms": 1775115551152,
-        "place": "62 km SSE of Ürümqi, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s2nf",
-        "magnitude": 5.2,
-        "latitude": 43.761,
-        "longitude": 86.4216,
-        "depth_km": 10,
-        "time_ms": 1772833486840,
-        "place": "67 km SSE of Shihezi, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s24t",
-        "magnitude": 5,
-        "latitude": 43.7236,
-        "longitude": 86.4689,
-        "depth_km": 10,
-        "time_ms": 1772669742098,
-        "place": "73 km SSE of Shihezi, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 4.28
+    "seismic_hub_risk_score": 6.88
   },
   {
     "country": "Russia",
@@ -1970,11 +1901,11 @@
       {
         "id": "us6000shc9",
         "magnitude": 5.6,
-        "latitude": 49.1691,
-        "longitude": 156.0797,
-        "depth_km": 37.609,
-        "time_ms": 1773906211931,
-        "place": "167 km S of Severo-Kuril’sk, Russia",
+        "latitude": 49.1909,
+        "longitude": 156.2389,
+        "depth_km": 16,
+        "time_ms": 1773906209161,
+        "place": "165 km S of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -2464,6 +2395,159 @@
     "seismic_hub_risk_score": 1.54
   },
   {
+    "country": "Turkey",
+    "iso_alpha2": "TR",
+    "iso_alpha3": "TUR",
+    "capital": "Ankara",
+    "population": 85664944,
+    "area_km2": 783562.0,
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "currencies": [
+      {
+        "code": "TRY",
+        "name": "Turkish lira"
+      }
+    ],
+    "languages": [
+      "Turkish"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.13,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-03-13",
+      "depth_km": 10,
+      "latitude": 40.6607,
+      "longitude": 36.7861
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Adnan Menderes International Airport",
+        "iata_code": "ADB",
+        "latitude": 38.2924,
+        "longitude": 27.157,
+        "municipality": "Gaziemir",
+        "closest_quake_distance_km": 161.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s33s",
+            "magnitude": 5,
+            "latitude": 38.0968,
+            "longitude": 28.9898,
+            "depth_km": 10,
+            "time_ms": 1773037265828,
+            "place": "14 km W of Gözler, Turkey",
+            "distance_km": 161.6,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.43
+      },
+      {
+        "name": "Dalaman International Airport",
+        "iata_code": "DLM",
+        "latitude": 36.7131,
+        "longitude": 28.7925,
+        "municipality": "Dalaman",
+        "closest_quake_distance_km": 154.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s33s",
+            "magnitude": 5,
+            "latitude": 38.0968,
+            "longitude": 28.9898,
+            "depth_km": 10,
+            "time_ms": 1773037265828,
+            "place": "14 km W of Gözler, Turkey",
+            "distance_km": 154.8,
+            "exposure_contribution": 0.46,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.46
+      },
+      {
+        "name": "Milas Bodrum International Airport",
+        "iata_code": "BJV",
+        "latitude": 37.249314,
+        "longitude": 27.66401,
+        "municipality": "Bodrum",
+        "closest_quake_distance_km": 150.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s33s",
+            "magnitude": 5,
+            "latitude": 38.0968,
+            "longitude": 28.9898,
+            "depth_km": 10,
+            "time_ms": 1773037265828,
+            "place": "14 km W of Gözler, Turkey",
+            "distance_km": 150.0,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.49
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000smhq",
+        "magnitude": 5.1,
+        "latitude": 38.8615,
+        "longitude": 43.4874,
+        "depth_km": 6.338,
+        "time_ms": 1775281962749,
+        "place": "21 km SSE of Erciş, Turkey",
+        "country_code": "TR",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sfyj",
+        "magnitude": 5.3,
+        "latitude": 40.6607,
+        "longitude": 36.7861,
+        "depth_km": 10,
+        "time_ms": 1773362115424,
+        "place": "15 km WNW of Niksar, Turkey",
+        "country_code": "TR",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000s33s",
+        "magnitude": 5,
+        "latitude": 38.0968,
+        "longitude": 28.9898,
+        "depth_km": 10,
+        "time_ms": 1773037265828,
+        "place": "14 km W of Gözler, Turkey",
+        "country_code": "TR",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.38
+  },
+  {
     "country": "Pakistan",
     "iso_alpha2": "PK",
     "iso_alpha3": "PAK",
@@ -2623,9 +2707,9 @@
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-03-21",
-      "depth_km": 192.6,
-      "latitude": -24.0759,
-      "longitude": -66.977
+      "depth_km": 191.9,
+      "latitude": -24.0161,
+      "longitude": -66.994
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2662,23 +2746,23 @@
         "latitude": -24.856001,
         "longitude": -65.486198,
         "municipality": "Salta",
-        "closest_quake_distance_km": 174.0,
+        "closest_quake_distance_km": 178.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000si4j",
             "magnitude": 5.6,
-            "latitude": -24.0759,
-            "longitude": -66.977,
-            "depth_km": 192.58,
-            "time_ms": 1774087237467,
-            "place": "68 km WNW of San Antonio de los Cobres, Argentina",
-            "distance_km": 174.0,
-            "exposure_contribution": 0.37,
+            "latitude": -24.0161,
+            "longitude": -66.994,
+            "depth_km": 191.861,
+            "time_ms": 1774087237826,
+            "place": "72 km WNW of San Antonio de los Cobres, Argentina",
+            "distance_km": 178.9,
+            "exposure_contribution": 0.36,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.37
+        "exposure_score": 0.36
       },
       {
         "name": "Gobernador Horacio Guzman International Airport",
@@ -2686,17 +2770,17 @@
         "latitude": -24.392799,
         "longitude": -65.097801,
         "municipality": "San Salvador de Jujuy",
-        "closest_quake_distance_km": 193.8,
+        "closest_quake_distance_km": 196.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000si4j",
             "magnitude": 5.6,
-            "latitude": -24.0759,
-            "longitude": -66.977,
-            "depth_km": 192.58,
-            "time_ms": 1774087237467,
-            "place": "68 km WNW of San Antonio de los Cobres, Argentina",
-            "distance_km": 193.8,
+            "latitude": -24.0161,
+            "longitude": -66.994,
+            "depth_km": 191.861,
+            "time_ms": 1774087237826,
+            "place": "72 km WNW of San Antonio de los Cobres, Argentina",
+            "distance_km": 196.8,
             "exposure_contribution": 0.33,
             "pga_g": null,
             "mmi": null
@@ -2709,11 +2793,11 @@
       {
         "id": "us6000si4j",
         "magnitude": 5.6,
-        "latitude": -24.0759,
-        "longitude": -66.977,
-        "depth_km": 192.58,
-        "time_ms": 1774087237467,
-        "place": "68 km WNW of San Antonio de los Cobres, Argentina",
+        "latitude": -24.0161,
+        "longitude": -66.994,
+        "depth_km": 191.861,
+        "time_ms": 1774087237826,
+        "place": "72 km WNW of San Antonio de los Cobres, Argentina",
         "country_code": "AR",
         "shakemap_available": true
       },
@@ -2740,6 +2824,6 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 0.98
+    "seismic_hub_risk_score": 0.97
   }
 ]

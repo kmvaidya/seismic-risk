@@ -1,24 +1,26 @@
 # Seismic Risk Report
-Generated: 2026-04-04 06:51 UTC
+Generated: 2026-04-05 06:56 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2023-04-30 to 2026-04-04).
+Based on 89 snapshots (2023-05-31 to 2026-04-05).
 
+**New entries**: Turkey
+**Dropped off**: China
 
 **Top score changes**:
 
-- Indonesia (IDN): +4.3
-- Tonga (TON): +0.2
-- Russia (RUS): +0.1
-- Japan (JPN): 0.0
-- China (CHN): 0.0
+- Indonesia (IDN): +1.5
+- Japan (JPN): +0.7
+- Argentina (ARG): -0.0
+- Tonga (TON): 0.0
+- Russia (RUS): 0.0
 
 **Top airport exposure changes**:
 
-- Sam Ratulangi International Airport (MDC, IDN): +4.3
-- Vava'u International Airport (VAV, TON): +0.2
-- Yelizovo Airport (PKC, RUS): +0.1
+- Sam Ratulangi International Airport (MDC, IDN): +1.5
+- Sendai Airport (SDJ, JPN): +0.7
+- Martín Miguel de Güemes International Airport (SLA, ARG): -0.0
 - Dortheys Hiyo Eluay International Airport (DJJ, IDN): 0.0
 - Halim Perdanakusuma International Airport (HLP, IDN): 0.0
 
@@ -26,13 +28,13 @@ Based on 89 snapshots (2023-04-30 to 2026-04-04).
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-| Indonesia | IDN | Asia | 25.3 | +4.3 | 5.3 | M7.4 (2026-04-01) | 41 | 4 | green | No | 1 |
-| Tonga | TON | Oceania | 8.4 | ~ | 5.5 | M7.5 (2026-03-24) | 24 | 2 | green | No | 2 |
-| Japan | JPN | Asia | 6.1 | ~ | 5.4 | M6.5 (2026-03-26) | 11 | 6 | green | No | 1 |
-| China | CHN | Asia | 4.3 | ~ | 5.1 | M5.2 (2026-04-02) | 3 | 1 | - | No | 0 |
+| Indonesia | IDN | Asia | 26.8 | +1.5 | 5.3 | M7.4 (2026-04-01) | 44 | 4 | green | No | 1 |
+| Tonga | TON | Oceania | 8.4 | ~ | 5.5 | M7.5 (2026-03-24) | 25 | 2 | green | No | 2 |
+| Japan | JPN | Asia | 6.9 | +0.7 | 5.4 | M6.5 (2026-03-26) | 11 | 6 | green | No | 1 |
 | Russia | RUS | Europe | 2.1 | ~ | 5.2 | M5.9 (2026-03-08) | 17 | 1 | - | No | 0 |
 | Philippines | PHL | Asia | 2.1 | ~ | 5.1 | M5.1 (2026-03-28) | 3 | 6 | - | No | 0 |
 | Vanuatu | VUT | Oceania | 1.5 | ~ | 5.7 | M7.3 (2026-03-30) | 7 | 1 | green | No | 1 |
+| Turkey | TUR | Asia | 1.4 | NEW | 5.1 | M5.3 (2026-03-13) | 3 | 3 | - | No | 0 |
 | Pakistan | PAK | Asia | 1.3 | ~ | 5.1 | M5.3 (2026-03-26) | 3 | 1 | - | No | 0 |
 | Argentina | ARG | Americas | 1.0 | ~ | 5.2 | M5.6 (2026-03-21) | 3 | 3 | - | No | 0 |
 
@@ -40,19 +42,18 @@ Based on 89 snapshots (2023-04-30 to 2026-04-04).
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Max PGA (g) | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|------------:|-------------------:|--------------:|
-| Sam Ratulangi International Airport | MDC | Manado | Indonesia | 22.1 | +4.3 | 0.0518 | 124.9 | 27 |
+| Sam Ratulangi International Airport | MDC | Manado | Indonesia | 23.6 | +1.5 | 0.0518 | 124.9 | 28 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani | Indonesia | 2.3 | ~ | - | 113.5 | 2 |
 | Halim Perdanakusuma International Airport | HLP | Jakarta | Indonesia | 0.5 | ~ | - | 138.0 | 1 |
 | Soekarno-Hatta International Airport | CGK | Jakarta | Indonesia | 0.4 | ~ | - | 159.4 | 1 |
 | Vava'u International Airport | VAV | Vava'u Island | Tonga | 8.2 | ~ | 0.0733 | 158.5 | 4 |
 | Fua'amotu International Airport | TBU | Nuku'alofa | Tonga | 0.2 | ~ | - | 178.5 | 1 |
+| Sendai Airport | SDJ | Natori | Japan | 1.8 | +0.7 | - | 60.1 | 2 |
 | Hakodate Airport | HKD | Hakodate | Japan | 1.3 | ~ | - | 55.1 | 1 |
 | Kadena Air Base | DNA | Okinawa | Japan | 1.3 | ~ | - | 106.4 | 2 |
-| Sendai Airport | SDJ | Natori | Japan | 1.1 | ~ | - | 60.1 | 1 |
 | New Chitose Airport | CTS | Sapporo | Japan | 0.8 | ~ | - | 136.8 | 1 |
 | Naha International Airport | OKA | Naha | Japan | 0.8 | ~ | - | 118.4 | 1 |
 | Aomori Airport | AOJ | Aomori | Japan | 0.8 | ~ | - | 153.8 | 1 |
-| Ürümqi Tianshan International Airport | URC | Ürümqi | China | 4.3 | ~ | - | 77.0 | 3 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky | Russia | 2.1 | ~ | - | 180.4 | 4 |
 | Bicol International Airport | DRP | Legazpi | Philippines | 0.8 | ~ | - | 72.3 | 1 |
 | Ninoy Aquino International Airport | MNL | Manila (Pasay) | Philippines | 0.3 | ~ | - | 78.9 | 1 |
@@ -61,7 +62,10 @@ Based on 89 snapshots (2023-04-30 to 2026-04-04).
 | Clark International Airport / Clark Air Base | CRK | Mabalacat | Philippines | 0.2 | ~ | - | 147.9 | 1 |
 | Francisco Bangoy International Airport | DVO | Davao | Philippines | 0.2 | ~ | - | 165.8 | 1 |
 | Bauerfield International Airport | VLI | Port Vila | Vanuatu | 1.5 | ~ | - | 173.1 | 2 |
+| Milas Bodrum International Airport | BJV | Bodrum | Turkey | 0.5 | NEW | - | 150.0 | 1 |
+| Dalaman International Airport | DLM | Dalaman | Turkey | 0.5 | NEW | - | 154.8 | 1 |
+| Adnan Menderes International Airport | ADB | Gaziemir | Turkey | 0.4 | NEW | - | 161.6 | 1 |
 | Skardu International Airport | KDU | Skardu | Pakistan | 1.3 | ~ | - | 166.8 | 3 |
-| Martín Miguel de Güemes International Airport | SLA | Salta | Argentina | 0.4 | ~ | - | 174.0 | 1 |
-| Gobernador Horacio Guzman International Airport | JUJ | San Salvador de Jujuy | Argentina | 0.3 | ~ | - | 193.8 | 1 |
+| Martín Miguel de Güemes International Airport | SLA | Salta | Argentina | 0.4 | ~ | - | 178.9 | 1 |
+| Gobernador Horacio Guzman International Airport | JUJ | San Salvador de Jujuy | Argentina | 0.3 | ~ | - | 196.8 | 1 |
 | Governor Francisco Gabrielli International Airport | MDZ | Mendoza | Argentina | 0.3 | ~ | - | 171.2 | 1 |
