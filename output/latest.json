@@ -23,7 +23,7 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 42,
+    "earthquake_count": 41,
     "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.4,
@@ -452,10 +452,10 @@
       {
         "name": "Halim Perdanakusuma International Airport",
         "iata_code": "HLP",
-        "latitude": -6.267221,
-        "longitude": 106.891733,
+        "latitude": -6.266989,
+        "longitude": 106.890318,
         "municipality": "Jakarta",
-        "closest_quake_distance_km": 138.0,
+        "closest_quake_distance_km": 138.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000sfx2",
@@ -465,7 +465,7 @@
             "depth_km": 96.204,
             "time_ms": 1773343101071,
             "place": "49 km SW of Banjar, Indonesia",
-            "distance_km": 138.0,
+            "distance_km": 138.1,
             "exposure_contribution": 0.51,
             "pga_g": null,
             "mmi": null
@@ -949,17 +949,6 @@
         "place": "56 km SSE of Sinabang, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s2u5",
-        "magnitude": 5.2,
-        "latitude": -2.9319,
-        "longitude": 101.7136,
-        "depth_km": 84.417,
-        "time_ms": 1772902723338,
-        "place": "103 km SSE of Sungai Penuh, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 26.79
@@ -986,7 +975,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 28,
-    "avg_magnitude": 5.46,
+    "avg_magnitude": 5.47,
     "strongest_earthquake": {
       "magnitude": 7.5,
       "date": "2026-03-24",
@@ -1058,19 +1047,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000s2ux",
-            "magnitude": 5,
-            "latitude": -17.7629,
-            "longitude": -172.6814,
-            "depth_km": 10,
-            "time_ms": 1772906653567,
-            "place": "169 km NE of Neiafu, Tonga",
-            "distance_km": 163.3,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000s789",
             "magnitude": 7.5,
             "latitude": -18.6678,
@@ -1084,10 +1060,32 @@
             "mmi": 5.1
           }
         ],
-        "exposure_score": 8.15
+        "exposure_score": 7.72
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000smzu",
+        "magnitude": 5.2,
+        "latitude": -32.0443,
+        "longitude": -177.9761,
+        "depth_km": 10,
+        "time_ms": 1775456125459,
+        "place": "south of the Kermadec Islands",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000smyb",
+        "magnitude": 5.2,
+        "latitude": -31.9492,
+        "longitude": -178.0646,
+        "depth_km": 10,
+        "time_ms": 1775436146628,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
       {
         "id": "us6000smwq",
         "magnitude": 5.4,
@@ -1373,31 +1371,9 @@
         "place": "168 km WSW of Houma, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s2ux",
-        "magnitude": 5,
-        "latitude": -17.7629,
-        "longitude": -172.6814,
-        "depth_km": 10,
-        "time_ms": 1772906653567,
-        "place": "169 km NE of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s2pg",
-        "magnitude": 5.1,
-        "latitude": -15.9783,
-        "longitude": -172.8541,
-        "depth_km": 10,
-        "time_ms": 1772844293590,
-        "place": "100 km E of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 8.39
+    "seismic_hub_risk_score": 7.96
   },
   {
     "country": "Japan",
@@ -1890,11 +1866,11 @@
       {
         "id": "us7000s7ee",
         "magnitude": 5.2,
-        "latitude": 52.2269,
-        "longitude": 176.4127,
+        "latitude": 52.2729,
+        "longitude": 176.3839,
         "depth_km": 10,
-        "time_ms": 1774385975992,
-        "place": "229 km ESE of Attu Station, Alaska",
+        "time_ms": 1774385975952,
+        "place": "226 km ESE of Attu Station, Alaska",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -2021,223 +1997,6 @@
       }
     ],
     "seismic_hub_risk_score": 2.1
-  },
-  {
-    "country": "Philippines",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "PHL",
-    "capital": "Manila",
-    "population": 114123600,
-    "area_km2": 342353.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "PHP",
-        "name": "Philippine peso"
-      }
-    ],
-    "languages": [
-      "English",
-      "Filipino"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.07,
-    "strongest_earthquake": {
-      "magnitude": 5.1,
-      "date": "2026-03-28",
-      "depth_km": 203.0,
-      "latitude": 5.6351,
-      "longitude": 125.5992
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
-        "iata_code": "SFS",
-        "latitude": 14.794833,
-        "longitude": 120.271883,
-        "municipality": "Olongapo",
-        "closest_quake_distance_km": 114.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s2tu",
-            "magnitude": 5,
-            "latitude": 13.8639,
-            "longitude": 120.7143,
-            "depth_km": 177.38,
-            "time_ms": 1772899496130,
-            "place": "2 km NNE of Hukay, Philippines",
-            "distance_km": 114.0,
-            "exposure_contribution": 0.27,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.27
-      },
-      {
-        "name": "Clark International Airport / Clark Air Base",
-        "iata_code": "CRK",
-        "latitude": 15.186,
-        "longitude": 120.559998,
-        "municipality": "Mabalacat",
-        "closest_quake_distance_km": 147.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s2tu",
-            "magnitude": 5,
-            "latitude": 13.8639,
-            "longitude": 120.7143,
-            "depth_km": 177.38,
-            "time_ms": 1772899496130,
-            "place": "2 km NNE of Hukay, Philippines",
-            "distance_km": 147.9,
-            "exposure_contribution": 0.23,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.23
-      },
-      {
-        "name": "Bicol International Airport",
-        "iata_code": "DRP",
-        "latitude": 13.111915,
-        "longitude": 123.676829,
-        "municipality": "Legazpi",
-        "closest_quake_distance_km": 72.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s311",
-            "magnitude": 5.1,
-            "latitude": 12.8381,
-            "longitude": 124.2825,
-            "depth_km": 100.064,
-            "time_ms": 1772898828452,
-            "place": "15 km ESE of Barcelona, Philippines",
-            "distance_km": 72.3,
-            "exposure_contribution": 0.75,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.75
-      },
-      {
-        "name": "Ninoy Aquino International Airport",
-        "iata_code": "MNL",
-        "latitude": 14.5086,
-        "longitude": 121.019997,
-        "municipality": "Manila (Pasay)",
-        "closest_quake_distance_km": 78.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s2tu",
-            "magnitude": 5,
-            "latitude": 13.8639,
-            "longitude": 120.7143,
-            "depth_km": 177.38,
-            "time_ms": 1772899496130,
-            "place": "2 km NNE of Hukay, Philippines",
-            "distance_km": 78.9,
-            "exposure_contribution": 0.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.32
-      },
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 165.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s8ay",
-            "magnitude": 5.1,
-            "latitude": 5.6351,
-            "longitude": 125.5992,
-            "depth_km": 203.013,
-            "time_ms": 1774668837912,
-            "place": "14 km SE of Kalbay, Philippines",
-            "distance_km": 165.8,
-            "exposure_contribution": 0.2,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.2
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 72.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s8ay",
-            "magnitude": 5.1,
-            "latitude": 5.6351,
-            "longitude": 125.5992,
-            "depth_km": 203.013,
-            "time_ms": 1774668837912,
-            "place": "14 km SE of Kalbay, Philippines",
-            "distance_km": 72.8,
-            "exposure_contribution": 0.29,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.29
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000s8ay",
-        "magnitude": 5.1,
-        "latitude": 5.6351,
-        "longitude": 125.5992,
-        "depth_km": 203.013,
-        "time_ms": 1774668837912,
-        "place": "14 km SE of Kalbay, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s2tu",
-        "magnitude": 5,
-        "latitude": 13.8639,
-        "longitude": 120.7143,
-        "depth_km": 177.38,
-        "time_ms": 1772899496130,
-        "place": "2 km NNE of Hukay, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s311",
-        "magnitude": 5.1,
-        "latitude": 12.8381,
-        "longitude": 124.2825,
-        "depth_km": 100.064,
-        "time_ms": 1772898828452,
-        "place": "15 km ESE of Barcelona, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.06
   },
   {
     "country": "Vanuatu",
@@ -2674,156 +2433,5 @@
       }
     ],
     "seismic_hub_risk_score": 1.3
-  },
-  {
-    "country": "Argentina",
-    "iso_alpha2": "AR",
-    "iso_alpha3": "ARG",
-    "capital": "Buenos Aires",
-    "population": 46735004,
-    "area_km2": 2780400.0,
-    "region": "Americas",
-    "subregion": "South America",
-    "currencies": [
-      {
-        "code": "ARS",
-        "name": "Argentine peso"
-      }
-    ],
-    "languages": [
-      "Guaraní",
-      "Spanish"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "PRY",
-      "URY"
-    ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.23,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-03-21",
-      "depth_km": 191.9,
-      "latitude": -24.0161,
-      "longitude": -66.994
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Governor Francisco Gabrielli International Airport",
-        "iata_code": "MDZ",
-        "latitude": -32.831699,
-        "longitude": -68.7929,
-        "municipality": "Mendoza",
-        "closest_quake_distance_km": 171.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s33f",
-            "magnitude": 5,
-            "latitude": -31.4337,
-            "longitude": -69.5536,
-            "depth_km": 120.406,
-            "time_ms": 1773036617658,
-            "place": "16 km SW of Calingasta, Argentina",
-            "distance_km": 171.2,
-            "exposure_contribution": 0.28,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.28
-      },
-      {
-        "name": "Martín Miguel de Güemes International Airport",
-        "iata_code": "SLA",
-        "latitude": -24.856001,
-        "longitude": -65.486198,
-        "municipality": "Salta",
-        "closest_quake_distance_km": 178.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000si4j",
-            "magnitude": 5.6,
-            "latitude": -24.0161,
-            "longitude": -66.994,
-            "depth_km": 191.861,
-            "time_ms": 1774087237826,
-            "place": "72 km WNW of San Antonio de los Cobres, Argentina",
-            "distance_km": 178.9,
-            "exposure_contribution": 0.36,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.36
-      },
-      {
-        "name": "Gobernador Horacio Guzman International Airport",
-        "iata_code": "JUJ",
-        "latitude": -24.392799,
-        "longitude": -65.097801,
-        "municipality": "San Salvador de Jujuy",
-        "closest_quake_distance_km": 196.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000si4j",
-            "magnitude": 5.6,
-            "latitude": -24.0161,
-            "longitude": -66.994,
-            "depth_km": 191.861,
-            "time_ms": 1774087237826,
-            "place": "72 km WNW of San Antonio de los Cobres, Argentina",
-            "distance_km": 196.8,
-            "exposure_contribution": 0.33,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.33
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000si4j",
-        "magnitude": 5.6,
-        "latitude": -24.0161,
-        "longitude": -66.994,
-        "depth_km": 191.861,
-        "time_ms": 1774087237826,
-        "place": "72 km WNW of San Antonio de los Cobres, Argentina",
-        "country_code": "AR",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000s33f",
-        "magnitude": 5,
-        "latitude": -31.4337,
-        "longitude": -69.5536,
-        "depth_km": 120.406,
-        "time_ms": 1773036617658,
-        "place": "16 km SW of Calingasta, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s2u7",
-        "magnitude": 5.1,
-        "latitude": -31.5638,
-        "longitude": -66.8764,
-        "depth_km": 131.314,
-        "time_ms": 1772903605389,
-        "place": "113 km WNW of Candelaria, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.97
   }
 ]
