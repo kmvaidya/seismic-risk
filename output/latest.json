@@ -1152,12 +1152,12 @@
       },
       {
         "id": "us7000s8me",
-        "magnitude": 5.1,
-        "latitude": -16.4134,
-        "longitude": -173.6674,
-        "depth_km": 50.405,
-        "time_ms": 1774827914225,
-        "place": "52 km SSE of Hihifo, Tonga",
+        "magnitude": 5.2,
+        "latitude": -16.4164,
+        "longitude": -173.658,
+        "depth_km": 47.782,
+        "time_ms": 1774827913919,
+        "place": "53 km SSE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -1173,24 +1173,24 @@
         "shakemap_available": true
       },
       {
-        "id": "us7000s7ha",
-        "magnitude": 5.2,
-        "latitude": -15.6261,
-        "longitude": -174.4632,
-        "depth_km": 198.051,
-        "time_ms": 1774433849823,
-        "place": "80 km WNW of Hihifo, Tonga",
+        "id": "us6000sm32",
+        "magnitude": 5,
+        "latitude": -15.5565,
+        "longitude": -174.6302,
+        "depth_km": 208.165,
+        "time_ms": 1774433538932,
+        "place": "99 km WNW of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
       {
         "id": "us7000s7h9",
         "magnitude": 5.6,
-        "latitude": -15.5143,
-        "longitude": -174.3933,
-        "depth_km": 198.327,
-        "time_ms": 1774433459550,
-        "place": "80 km NW of Hihifo, Tonga",
+        "latitude": -15.5366,
+        "longitude": -174.5414,
+        "depth_km": 193.976,
+        "time_ms": 1774433459997,
+        "place": "92 km WNW of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": true
       },
@@ -1349,8 +1349,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-03-26",
@@ -1363,78 +1363,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
-      {
-        "name": "New Chitose Airport",
-        "iata_code": "CTS",
-        "latitude": 42.774753,
-        "longitude": 141.690414,
-        "municipality": "Sapporo",
-        "closest_quake_distance_km": 136.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s36m",
-            "magnitude": 5.9,
-            "latitude": 42.0868,
-            "longitude": 140.3092,
-            "depth_km": 144,
-            "time_ms": 1773071143620,
-            "place": "19 km NE of Otobe, Japan",
-            "distance_km": 136.8,
-            "exposure_contribution": 0.85,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.85
-      },
-      {
-        "name": "Hakodate Airport",
-        "iata_code": "HKD",
-        "latitude": 41.77,
-        "longitude": 140.822006,
-        "municipality": "Hakodate",
-        "closest_quake_distance_km": 55.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s36m",
-            "magnitude": 5.9,
-            "latitude": 42.0868,
-            "longitude": 140.3092,
-            "depth_km": 144,
-            "time_ms": 1773071143620,
-            "place": "19 km NE of Otobe, Japan",
-            "distance_km": 55.1,
-            "exposure_contribution": 1.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      },
-      {
-        "name": "Aomori Airport",
-        "iata_code": "AOJ",
-        "latitude": 40.733777,
-        "longitude": 140.689477,
-        "municipality": "Aomori",
-        "closest_quake_distance_km": 153.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s36m",
-            "magnitude": 5.9,
-            "latitude": 42.0868,
-            "longitude": 140.3092,
-            "depth_km": 144,
-            "time_ms": 1773071143620,
-            "place": "19 km NE of Otobe, Japan",
-            "distance_km": 153.8,
-            "exposure_contribution": 0.77,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.77
-      },
       {
         "name": "Sendai Airport",
         "iata_code": "SDJ",
@@ -1644,20 +1572,9 @@
         "place": "122 km E of Yamada, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s36m",
-        "magnitude": 5.9,
-        "latitude": 42.0868,
-        "longitude": 140.3092,
-        "depth_km": 144,
-        "time_ms": 1773071143620,
-        "place": "19 km NE of Otobe, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 6.88
+    "seismic_hub_risk_score": 3.94
   },
   {
     "country": "Vanuatu",
@@ -1682,7 +1599,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 7,
-    "avg_magnitude": 5.71,
+    "avg_magnitude": 5.7,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-03-30",
@@ -1747,12 +1664,12 @@
       },
       {
         "id": "us7000s97y",
-        "magnitude": 5.1,
-        "latitude": -12.732,
-        "longitude": 169.2141,
-        "depth_km": 642.156,
-        "time_ms": 1774994193682,
-        "place": "220 km NE of Sola, Vanuatu",
+        "magnitude": 5,
+        "latitude": -12.7607,
+        "longitude": 169.2312,
+        "depth_km": 650.109,
+        "time_ms": 1774994193870,
+        "place": "219 km NE of Sola, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       },
@@ -1813,408 +1730,6 @@
       }
     ],
     "seismic_hub_risk_score": 1.54
-  },
-  {
-    "country": "Russia",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "RUS",
-    "capital": "Moscow",
-    "population": 146028325,
-    "area_km2": 17098246.0,
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "currencies": [
-      {
-        "code": "RUB",
-        "name": "Russian ruble"
-      }
-    ],
-    "languages": [
-      "Russian"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.15,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-03-19",
-      "depth_km": 16,
-      "latitude": 49.1909,
-      "longitude": 156.2389
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 184.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s7ex",
-            "magnitude": 5,
-            "latitude": 52.2526,
-            "longitude": 160.7305,
-            "depth_km": 10,
-            "time_ms": 1774391748875,
-            "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 184.3,
-            "exposure_contribution": 0.34,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s7nc",
-            "magnitude": 5,
-            "latitude": 52.217,
-            "longitude": 160.6922,
-            "depth_km": 26.504,
-            "time_ms": 1774477517682,
-            "place": "168 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 184.4,
-            "exposure_contribution": 0.34,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sie4",
-            "magnitude": 5.2,
-            "latitude": 52.2156,
-            "longitude": 160.8067,
-            "depth_km": 10,
-            "time_ms": 1774163998715,
-            "place": "175 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 190.9,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s372",
-            "magnitude": 5.1,
-            "latitude": 51.593,
-            "longitude": 159.7171,
-            "depth_km": 10,
-            "time_ms": 1773074273189,
-            "place": "173 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 195.1,
-            "exposure_contribution": 0.35,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.44
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000smax",
-        "magnitude": 5.1,
-        "latitude": 52.279,
-        "longitude": 176.3511,
-        "depth_km": 10,
-        "time_ms": 1775204528857,
-        "place": "223 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sm96",
-        "magnitude": 5.1,
-        "latitude": 46.886,
-        "longitude": 152.8112,
-        "depth_km": 35,
-        "time_ms": 1775182253447,
-        "place": "Kuril Islands",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s7nc",
-        "magnitude": 5,
-        "latitude": 52.217,
-        "longitude": 160.6922,
-        "depth_km": 26.504,
-        "time_ms": 1774477517682,
-        "place": "168 km SE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s7ex",
-        "magnitude": 5,
-        "latitude": 52.2526,
-        "longitude": 160.7305,
-        "depth_km": 10,
-        "time_ms": 1774391748875,
-        "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s7ee",
-        "magnitude": 5.2,
-        "latitude": 52.2729,
-        "longitude": 176.3839,
-        "depth_km": 10,
-        "time_ms": 1774385975952,
-        "place": "226 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sie4",
-        "magnitude": 5.2,
-        "latitude": 52.2156,
-        "longitude": 160.8067,
-        "depth_km": 10,
-        "time_ms": 1774163998715,
-        "place": "175 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sheg",
-        "magnitude": 5.2,
-        "latitude": 49.0768,
-        "longitude": 156.2599,
-        "depth_km": 10,
-        "time_ms": 1773924529143,
-        "place": "178 km S of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000shc9",
-        "magnitude": 5.6,
-        "latitude": 49.1909,
-        "longitude": 156.2389,
-        "depth_km": 16,
-        "time_ms": 1773906209161,
-        "place": "165 km S of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sh32",
-        "magnitude": 5,
-        "latitude": 52.1558,
-        "longitude": 176.4301,
-        "depth_km": 21.846,
-        "time_ms": 1773808594628,
-        "place": "233 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sgvw",
-        "magnitude": 5.3,
-        "latitude": 52.1503,
-        "longitude": 176.4619,
-        "depth_km": 10,
-        "time_ms": 1773764497453,
-        "place": "235 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sgv2",
-        "magnitude": 5,
-        "latitude": 47.1946,
-        "longitude": 153.5679,
-        "depth_km": 43.507,
-        "time_ms": 1773757965271,
-        "place": "Kuril Islands",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s372",
-        "magnitude": 5.1,
-        "latitude": 51.593,
-        "longitude": 159.7171,
-        "depth_km": 10,
-        "time_ms": 1773074273189,
-        "place": "173 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.44
-  },
-  {
-    "country": "Turkey",
-    "iso_alpha2": "TR",
-    "iso_alpha3": "TUR",
-    "capital": "Ankara",
-    "population": 85664944,
-    "area_km2": 783562.0,
-    "region": "Asia",
-    "subregion": "Western Asia",
-    "currencies": [
-      {
-        "code": "TRY",
-        "name": "Turkish lira"
-      }
-    ],
-    "languages": [
-      "Turkish"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "ARM",
-      "AZE",
-      "BGR",
-      "GEO",
-      "GRC",
-      "IRN",
-      "IRQ",
-      "SYR"
-    ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.13,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-03-13",
-      "depth_km": 10,
-      "latitude": 40.6607,
-      "longitude": 36.7861
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Adnan Menderes International Airport",
-        "iata_code": "ADB",
-        "latitude": 38.2924,
-        "longitude": 27.157,
-        "municipality": "Gaziemir",
-        "closest_quake_distance_km": 161.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s33s",
-            "magnitude": 5,
-            "latitude": 38.0968,
-            "longitude": 28.9898,
-            "depth_km": 10,
-            "time_ms": 1773037265828,
-            "place": "14 km W of Gözler, Turkey",
-            "distance_km": 161.6,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      },
-      {
-        "name": "Dalaman International Airport",
-        "iata_code": "DLM",
-        "latitude": 36.7131,
-        "longitude": 28.7925,
-        "municipality": "Dalaman",
-        "closest_quake_distance_km": 154.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s33s",
-            "magnitude": 5,
-            "latitude": 38.0968,
-            "longitude": 28.9898,
-            "depth_km": 10,
-            "time_ms": 1773037265828,
-            "place": "14 km W of Gözler, Turkey",
-            "distance_km": 154.8,
-            "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.46
-      },
-      {
-        "name": "Milas Bodrum International Airport",
-        "iata_code": "BJV",
-        "latitude": 37.249314,
-        "longitude": 27.66401,
-        "municipality": "Bodrum",
-        "closest_quake_distance_km": 150.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s33s",
-            "magnitude": 5,
-            "latitude": 38.0968,
-            "longitude": 28.9898,
-            "depth_km": 10,
-            "time_ms": 1773037265828,
-            "place": "14 km W of Gözler, Turkey",
-            "distance_km": 150.0,
-            "exposure_contribution": 0.49,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.49
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000smhq",
-        "magnitude": 5.1,
-        "latitude": 38.8615,
-        "longitude": 43.4874,
-        "depth_km": 6.338,
-        "time_ms": 1775281962749,
-        "place": "21 km SSE of Erciş, Turkey",
-        "country_code": "TR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sfyj",
-        "magnitude": 5.3,
-        "latitude": 40.6607,
-        "longitude": 36.7861,
-        "depth_km": 10,
-        "time_ms": 1773362115424,
-        "place": "15 km WNW of Niksar, Turkey",
-        "country_code": "TR",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000s33s",
-        "magnitude": 5,
-        "latitude": 38.0968,
-        "longitude": 28.9898,
-        "depth_km": 10,
-        "time_ms": 1773037265828,
-        "place": "14 km W of Gözler, Turkey",
-        "country_code": "TR",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.38
   },
   {
     "country": "Pakistan",
@@ -2343,5 +1858,230 @@
       }
     ],
     "seismic_hub_risk_score": 1.31
+  },
+  {
+    "country": "Russia",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "RUS",
+    "capital": "Moscow",
+    "population": 146028325,
+    "area_km2": 17098246.0,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble"
+      }
+    ],
+    "languages": [
+      "Russian"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "earthquake_count": 11,
+    "avg_magnitude": 5.15,
+    "strongest_earthquake": {
+      "magnitude": 5.6,
+      "date": "2026-03-19",
+      "depth_km": 16,
+      "latitude": 49.1909,
+      "longitude": 156.2389
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 184.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000s7ex",
+            "magnitude": 5,
+            "latitude": 52.2526,
+            "longitude": 160.7305,
+            "depth_km": 10,
+            "time_ms": 1774391748875,
+            "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 184.3,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000s7nc",
+            "magnitude": 5,
+            "latitude": 52.217,
+            "longitude": 160.6922,
+            "depth_km": 26.504,
+            "time_ms": 1774477517682,
+            "place": "168 km SE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 184.4,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sie4",
+            "magnitude": 5.2,
+            "latitude": 52.2156,
+            "longitude": 160.8067,
+            "depth_km": 10,
+            "time_ms": 1774163998715,
+            "place": "175 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 190.9,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.09
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000smax",
+        "magnitude": 5.1,
+        "latitude": 52.279,
+        "longitude": 176.3511,
+        "depth_km": 10,
+        "time_ms": 1775204528857,
+        "place": "223 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sm96",
+        "magnitude": 5.1,
+        "latitude": 46.886,
+        "longitude": 152.8112,
+        "depth_km": 35,
+        "time_ms": 1775182253447,
+        "place": "Kuril Islands",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s7nc",
+        "magnitude": 5,
+        "latitude": 52.217,
+        "longitude": 160.6922,
+        "depth_km": 26.504,
+        "time_ms": 1774477517682,
+        "place": "168 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s7ex",
+        "magnitude": 5,
+        "latitude": 52.2526,
+        "longitude": 160.7305,
+        "depth_km": 10,
+        "time_ms": 1774391748875,
+        "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s7ee",
+        "magnitude": 5.2,
+        "latitude": 52.2729,
+        "longitude": 176.3839,
+        "depth_km": 10,
+        "time_ms": 1774385975952,
+        "place": "226 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sie4",
+        "magnitude": 5.2,
+        "latitude": 52.2156,
+        "longitude": 160.8067,
+        "depth_km": 10,
+        "time_ms": 1774163998715,
+        "place": "175 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sheg",
+        "magnitude": 5.2,
+        "latitude": 49.0768,
+        "longitude": 156.2599,
+        "depth_km": 10,
+        "time_ms": 1773924529143,
+        "place": "178 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000shc9",
+        "magnitude": 5.6,
+        "latitude": 49.1909,
+        "longitude": 156.2389,
+        "depth_km": 16,
+        "time_ms": 1773906209161,
+        "place": "165 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sh32",
+        "magnitude": 5,
+        "latitude": 52.1558,
+        "longitude": 176.4301,
+        "depth_km": 21.846,
+        "time_ms": 1773808594628,
+        "place": "233 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sgvw",
+        "magnitude": 5.3,
+        "latitude": 52.1503,
+        "longitude": 176.4619,
+        "depth_km": 10,
+        "time_ms": 1773764497453,
+        "place": "235 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sgv2",
+        "magnitude": 5,
+        "latitude": 47.1946,
+        "longitude": 153.5679,
+        "depth_km": 43.507,
+        "time_ms": 1773757965271,
+        "place": "Kuril Islands",
+        "country_code": "RU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.09
   }
 ]
