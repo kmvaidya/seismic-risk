@@ -1,22 +1,22 @@
 # Seismic Risk Report
-Generated: 2026-04-10 07:17 UTC
+Generated: 2026-04-11 06:52 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2023-10-31 to 2026-04-10).
+Based on 89 snapshots (2023-11-30 to 2026-04-11).
 
 
 **Top score changes**:
 
-- Tonga (TON): +0.4
+- Japan (JPN): -0.0
 - Indonesia (IDN): 0.0
-- Japan (JPN): 0.0
+- Tonga (TON): 0.0
 - Vanuatu (VUT): 0.0
 - Pakistan (PAK): 0.0
 
 **Top airport exposure changes**:
 
-- Vava'u International Airport (VAV, TON): +0.4
+- Kadena Air Base (DNA, JPN): -0.0
 - Dortheys Hiyo Eluay International Airport (DJJ, IDN): 0.0
 - Sam Ratulangi International Airport (MDC, IDN): 0.0
 - Halim Perdanakusuma International Airport (HLP, IDN): 0.0
