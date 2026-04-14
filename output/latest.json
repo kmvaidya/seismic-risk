@@ -23,8 +23,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 41,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 43,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-01",
@@ -434,6 +434,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000spl2",
+            "magnitude": 5,
+            "latitude": 1.0367,
+            "longitude": 126.4706,
+            "depth_km": 43.741,
+            "time_ms": 1776061299975,
+            "place": "105 km WNW of Ternate, Indonesia",
+            "distance_km": 180.9,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000slwu",
             "magnitude": 5,
             "latitude": 1.1395,
@@ -445,12 +458,47 @@
             "exposure_contribution": 0.34,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000splc",
+            "magnitude": 5.2,
+            "latitude": 1.0241,
+            "longitude": 126.6223,
+            "depth_km": 55.253,
+            "time_ms": 1776061402828,
+            "place": "88 km WNW of Ternate, Indonesia",
+            "distance_km": 197.4,
+            "exposure_contribution": 0.36,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 23.35
+        "exposure_score": 24.05
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000splc",
+        "magnitude": 5.2,
+        "latitude": 1.0241,
+        "longitude": 126.6223,
+        "depth_km": 55.253,
+        "time_ms": 1776061402828,
+        "place": "88 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000spl2",
+        "magnitude": 5,
+        "latitude": 1.0367,
+        "longitude": 126.4706,
+        "depth_km": 43.741,
+        "time_ms": 1776061299975,
+        "place": "105 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000spea",
         "magnitude": 5.2,
@@ -903,7 +951,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 25.36
+    "seismic_hub_risk_score": 26.06
   },
   {
     "country": "Tonga",
@@ -926,8 +974,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.48,
+    "earthquake_count": 29,
+    "avg_magnitude": 5.46,
     "strongest_earthquake": {
       "magnitude": 7.5,
       "date": "2026-03-24",
@@ -946,18 +994,44 @@
         "latitude": -18.5853,
         "longitude": -173.962006,
         "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 158.5,
+        "closest_quake_distance_km": 138.1,
         "nearby_quakes": [
           {
+            "earthquake_id": "us7000s799",
+            "magnitude": 5,
+            "latitude": -18.1688,
+            "longitude": -175.195,
+            "depth_km": 222.948,
+            "time_ms": 1774329512220,
+            "place": "138 km WNW of Neiafu, Tonga",
+            "distance_km": 138.1,
+            "exposure_contribution": 0.18,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000s79e",
-            "magnitude": 5.2,
-            "latitude": -18.4693,
-            "longitude": -175.46,
-            "depth_km": 216.14,
-            "time_ms": 1774329744733,
-            "place": "157 km W of Neiafu, Tonga",
-            "distance_km": 158.5,
-            "exposure_contribution": 0.22,
+            "magnitude": 5.1,
+            "latitude": -18.4489,
+            "longitude": -175.4135,
+            "depth_km": 208.693,
+            "time_ms": 1774329743968,
+            "place": "152 km W of Neiafu, Tonga",
+            "distance_km": 153.8,
+            "exposure_contribution": 0.21,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000spk9",
+            "magnitude": 5.5,
+            "latitude": -18.4052,
+            "longitude": -175.4263,
+            "depth_km": 254.575,
+            "time_ms": 1776046501108,
+            "place": "154 km W of Neiafu, Tonga",
+            "distance_km": 155.7,
+            "exposure_contribution": 0.25,
             "pga_g": null,
             "mmi": null
           },
@@ -1001,10 +1075,21 @@
             "mmi": 5.1
           }
         ],
-        "exposure_score": 8.16
+        "exposure_score": 8.57
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000spk9",
+        "magnitude": 5.5,
+        "latitude": -18.4052,
+        "longitude": -175.4263,
+        "depth_km": 254.575,
+        "time_ms": 1776046501108,
+        "place": "154 km W of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
       {
         "id": "us6000snxb",
         "magnitude": 5,
@@ -1107,10 +1192,10 @@
       {
         "id": "us7000s9ay",
         "magnitude": 5.7,
-        "latitude": -21.6533,
-        "longitude": -179.2415,
-        "depth_km": 575.962,
-        "time_ms": 1775023706774,
+        "latitude": -21.7248,
+        "longitude": -179.2135,
+        "depth_km": 577.972,
+        "time_ms": 1775023706257,
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
@@ -1118,10 +1203,10 @@
       {
         "id": "us7000s963",
         "magnitude": 5.7,
-        "latitude": -30.2892,
-        "longitude": -178.7529,
-        "depth_km": 143.358,
-        "time_ms": 1774985090278,
+        "latitude": -30.1893,
+        "longitude": -178.7419,
+        "depth_km": 197.466,
+        "time_ms": 1774985095868,
         "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": true
@@ -1183,12 +1268,23 @@
       },
       {
         "id": "us7000s79e",
-        "magnitude": 5.2,
-        "latitude": -18.4693,
-        "longitude": -175.46,
-        "depth_km": 216.14,
-        "time_ms": 1774329744733,
-        "place": "157 km W of Neiafu, Tonga",
+        "magnitude": 5.1,
+        "latitude": -18.4489,
+        "longitude": -175.4135,
+        "depth_km": 208.693,
+        "time_ms": 1774329743968,
+        "place": "152 km W of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000s799",
+        "magnitude": 5,
+        "latitude": -18.1688,
+        "longitude": -175.195,
+        "depth_km": 222.948,
+        "time_ms": 1774329512220,
+        "place": "138 km WNW of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -1303,7 +1399,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 8.16
+    "seismic_hub_risk_score": 8.57
   },
   {
     "country": "Japan",
