@@ -1,24 +1,24 @@
 # Seismic Risk Report
-Generated: 2026-04-14 07:20 UTC
+Generated: 2026-04-15 07:20 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2024-02-29 to 2026-04-14).
+Based on 89 snapshots (2024-03-31 to 2026-04-15).
 
 
 **Top score changes**:
 
-- Indonesia (IDN): +0.7
-- Tonga (TON): +0.4
+- Tonga (TON): -0.6
+- Indonesia (IDN): 0.0
 - Japan (JPN): 0.0
 - Vanuatu (VUT): 0.0
 - Pakistan (PAK): 0.0
 
 **Top airport exposure changes**:
 
-- Sam Ratulangi International Airport (MDC, IDN): +0.7
-- Vava'u International Airport (VAV, TON): +0.4
+- Vava'u International Airport (VAV, TON): -0.6
 - Dortheys Hiyo Eluay International Airport (DJJ, IDN): 0.0
+- Sam Ratulangi International Airport (MDC, IDN): 0.0
 - Sendai Airport (SDJ, JPN): 0.0
 - Naha International Airport (OKA, JPN): 0.0
 
@@ -26,8 +26,8 @@ Based on 89 snapshots (2024-02-29 to 2026-04-14).
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-| Indonesia | IDN | Asia | 26.1 | +0.7 | 5.3 | M7.4 (2026-04-01) | 43 | 2 | green | No | 1 |
-| Tonga | TON | Oceania | 8.6 | ~ | 5.5 | M7.5 (2026-03-24) | 29 | 1 | green | No | 2 |
+| Indonesia | IDN | Asia | 26.1 | ~ | 5.3 | M7.4 (2026-04-01) | 43 | 2 | green | No | 1 |
+| Tonga | TON | Oceania | 7.9 | -0.6 | 5.4 | M7.5 (2026-03-24) | 30 | 1 | green | No | 2 |
 | Japan | JPN | Asia | 3.9 | ~ | 5.2 | M6.5 (2026-03-26) | 11 | 3 | green | No | 1 |
 | Vanuatu | VUT | Oceania | 1.5 | ~ | 5.7 | M7.3 (2026-03-30) | 7 | 1 | green | No | 1 |
 | Pakistan | PAK | Asia | 1.3 | ~ | 5.1 | M5.3 (2026-03-26) | 3 | 1 | - | No | 0 |
@@ -37,9 +37,9 @@ Based on 89 snapshots (2024-02-29 to 2026-04-14).
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Max PGA (g) | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|------------:|-------------------:|--------------:|
-| Sam Ratulangi International Airport | MDC | Manado | Indonesia | 24.1 | +0.7 | 0.0518 | 124.9 | 30 |
+| Sam Ratulangi International Airport | MDC | Manado | Indonesia | 24.1 | ~ | 0.0518 | 124.9 | 30 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani | Indonesia | 2.0 | ~ | - | 103.7 | 2 |
-| Vava'u International Airport | VAV | Vava'u Island | Tonga | 8.6 | ~ | 0.0733 | 138.1 | 6 |
+| Vava'u International Airport | VAV | Vava'u Island | Tonga | 7.9 | -0.6 | 0.0650 | 136.3 | 7 |
 | Sendai Airport | SDJ | Natori | Japan | 1.8 | ~ | - | 60.1 | 2 |
 | Kadena Air Base | DNA | Okinawa | Japan | 1.3 | ~ | - | 106.4 | 2 |
 | Naha International Airport | OKA | Naha | Japan | 0.8 | ~ | - | 118.4 | 1 |
