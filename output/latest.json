@@ -931,11 +931,11 @@
       {
         "id": "us7000s7qa",
         "magnitude": 5,
-        "latitude": -3.7243,
-        "longitude": 123.3284,
+        "latitude": -3.7765,
+        "longitude": 123.2993,
         "depth_km": 10,
-        "time_ms": 1774499990483,
-        "place": "94 km ENE of Kendari, Indonesia",
+        "time_ms": 1774499990446,
+        "place": "89 km ENE of Kendari, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1705,8 +1705,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.7,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.66,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-03-30",
@@ -1758,6 +1758,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sq6d",
+        "magnitude": 5.4,
+        "latitude": -21.3603,
+        "longitude": 170.3357,
+        "depth_km": 166.688,
+        "time_ms": 1776239981365,
+        "place": "229 km SSE of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
       {
         "id": "us6000sm8a",
         "magnitude": 5.4,
@@ -2026,10 +2037,10 @@
           {
             "earthquake_id": "us7000s7ex",
             "magnitude": 5,
-            "latitude": 52.2526,
-            "longitude": 160.7305,
+            "latitude": 52.2733,
+            "longitude": 160.7536,
             "depth_km": 10,
-            "time_ms": 1774391748875,
+            "time_ms": 1774391749010,
             "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
             "distance_km": 184.3,
             "exposure_contribution": 0.34,
@@ -2039,13 +2050,13 @@
           {
             "earthquake_id": "us7000s7nc",
             "magnitude": 5,
-            "latitude": 52.217,
-            "longitude": 160.6922,
-            "depth_km": 26.504,
-            "time_ms": 1774477517682,
-            "place": "168 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 184.4,
-            "exposure_contribution": 0.34,
+            "latitude": 52.3039,
+            "longitude": 160.8873,
+            "depth_km": 10,
+            "time_ms": 1774477515458,
+            "place": "174 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 190.1,
+            "exposure_contribution": 0.33,
             "pga_g": null,
             "mmi": null
           },
@@ -2063,7 +2074,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.09
+        "exposure_score": 1.08
       }
     ],
     "earthquakes": [
@@ -2103,21 +2114,21 @@
       {
         "id": "us7000s7nc",
         "magnitude": 5,
-        "latitude": 52.217,
-        "longitude": 160.6922,
-        "depth_km": 26.504,
-        "time_ms": 1774477517682,
-        "place": "168 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "latitude": 52.3039,
+        "longitude": 160.8873,
+        "depth_km": 10,
+        "time_ms": 1774477515458,
+        "place": "174 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
       {
         "id": "us7000s7ex",
         "magnitude": 5,
-        "latitude": 52.2526,
-        "longitude": 160.7305,
+        "latitude": 52.2733,
+        "longitude": 160.7536,
         "depth_km": 10,
-        "time_ms": 1774391748875,
+        "time_ms": 1774391749010,
         "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
@@ -2200,6 +2211,6 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.09
+    "seismic_hub_risk_score": 1.08
   }
 ]
