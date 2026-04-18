@@ -76,16 +76,16 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-04-17 07:21 UTC*
+*Last updated: 2026-04-18 06:58 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Indonesia | IDN | 25.7 | ~ | 43 | 2 | green |
+| 1 | Indonesia | IDN | 26.1 | ~ | 45 | 2 | green |
 | 2 | Tonga | TON | 7.5 | ~ | 31 | 1 | green |
-| 3 | Japan | JPN | 2.2 | -1.7 | 10 | 2 | green |
+| 3 | Japan | JPN | 2.2 | ~ | 10 | 2 | green |
 | 4 | Vanuatu | VUT | 1.5 | ~ | 8 | 1 | green |
 | 5 | Pakistan | PAK | 1.3 | ~ | 3 | 1 | - |
-| 6 | Russia | RUS | 1.1 | ~ | 10 | 1 | - |
+| 6 | Russia | RUS | 1.1 | ~ | 9 | 1 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works

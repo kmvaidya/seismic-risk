@@ -23,8 +23,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 43,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 45,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-01",
@@ -265,6 +265,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000sqzn",
+            "magnitude": 5.1,
+            "latitude": 1.2073,
+            "longitude": 126.3204,
+            "depth_km": 35,
+            "time_ms": 1776468577922,
+            "place": "127 km WNW of Ternate, Indonesia",
+            "distance_km": 159.6,
+            "exposure_contribution": 0.48,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000slss",
             "magnitude": 7.4,
             "latitude": 1.1171,
@@ -473,10 +486,32 @@
             "mmi": null
           }
         ],
-        "exposure_score": 23.66
+        "exposure_score": 24.14
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sqzn",
+        "magnitude": 5.1,
+        "latitude": 1.2073,
+        "longitude": 126.3204,
+        "depth_km": 35,
+        "time_ms": 1776468577922,
+        "place": "127 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sqzl",
+        "magnitude": 5.1,
+        "latitude": 0.0691,
+        "longitude": 123.7912,
+        "depth_km": 121.035,
+        "time_ms": 1776468087293,
+        "place": "83 km WSW of Modisi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000splc",
         "magnitude": 5.2,
@@ -546,22 +581,22 @@
       {
         "id": "us6000smjx",
         "magnitude": 5.2,
-        "latitude": -2.0711,
-        "longitude": 100.0086,
-        "depth_km": 40.845,
-        "time_ms": 1775301672368,
-        "place": "46 km E of Tuapejat, Indonesia",
+        "latitude": -2.0108,
+        "longitude": 100.1315,
+        "depth_km": 34.429,
+        "time_ms": 1775301672245,
+        "place": "60 km E of Tuapejat, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us6000smj4",
         "magnitude": 6,
-        "latitude": 4.8892,
-        "longitude": 126.1031,
-        "depth_km": 99.568,
-        "time_ms": 1775298871609,
-        "place": "90 km SE of Sarangani, Philippines",
+        "latitude": 4.8733,
+        "longitude": 126.1392,
+        "depth_km": 67,
+        "time_ms": 1775298868266,
+        "place": "95 km SE of Sarangani, Philippines",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -951,7 +986,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 25.67
+    "seismic_hub_risk_score": 26.15
   },
   {
     "country": "Tonga",
@@ -1481,18 +1516,18 @@
           {
             "earthquake_id": "us6000smj7",
             "magnitude": 5,
-            "latitude": 38.4373,
-            "longitude": 141.9269,
-            "depth_km": 67.953,
-            "time_ms": 1775299006191,
-            "place": "41 km E of Onagawa Chō, Japan",
-            "distance_km": 94.1,
-            "exposure_contribution": 0.74,
+            "latitude": 38.4237,
+            "longitude": 141.7641,
+            "depth_km": 79.829,
+            "time_ms": 1775299007254,
+            "place": "27 km E of Onagawa Chō, Japan",
+            "distance_km": 80.4,
+            "exposure_contribution": 0.76,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.82
+        "exposure_score": 1.84
       },
       {
         "name": "Kadena Air Base",
@@ -1567,11 +1602,11 @@
       {
         "id": "us6000smj7",
         "magnitude": 5,
-        "latitude": 38.4373,
-        "longitude": 141.9269,
-        "depth_km": 67.953,
-        "time_ms": 1775299006191,
-        "place": "41 km E of Onagawa Chō, Japan",
+        "latitude": 38.4237,
+        "longitude": 141.7641,
+        "depth_km": 79.829,
+        "time_ms": 1775299007254,
+        "place": "27 km E of Onagawa Chō, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -1631,7 +1666,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.19
+    "seismic_hub_risk_score": 2.21
   },
   {
     "country": "Vanuatu",
@@ -1831,8 +1866,8 @@
       "magnitude": 5.3,
       "date": "2026-03-26",
       "depth_km": 10,
-      "latitude": 36.555,
-      "longitude": 74.4535
+      "latitude": 36.5841,
+      "longitude": 74.3994
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1845,18 +1880,18 @@
         "latitude": 35.33866,
         "longitude": 75.538648,
         "municipality": "Skardu",
-        "closest_quake_distance_km": 166.8,
+        "closest_quake_distance_km": 172.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000s7xx",
             "magnitude": 5.3,
-            "latitude": 36.555,
-            "longitude": 74.4535,
+            "latitude": 36.5841,
+            "longitude": 74.3994,
             "depth_km": 10,
-            "time_ms": 1774558977398,
-            "place": "33 km NW of Barishal, Pakistan",
-            "distance_km": 166.8,
-            "exposure_contribution": 0.58,
+            "time_ms": 1774558977433,
+            "place": "39 km NW of Barishal, Pakistan",
+            "distance_km": 172.3,
+            "exposure_contribution": 0.55,
             "pga_g": null,
             "mmi": null
           },
@@ -1887,7 +1922,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.31
+        "exposure_score": 1.28
       }
     ],
     "earthquakes": [
@@ -1916,16 +1951,16 @@
       {
         "id": "us7000s7xx",
         "magnitude": 5.3,
-        "latitude": 36.555,
-        "longitude": 74.4535,
+        "latitude": 36.5841,
+        "longitude": 74.3994,
         "depth_km": 10,
-        "time_ms": 1774558977398,
-        "place": "33 km NW of Barishal, Pakistan",
+        "time_ms": 1774558977433,
+        "place": "39 km NW of Barishal, Pakistan",
         "country_code": "PK",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.31
+    "seismic_hub_risk_score": 1.28
   },
   {
     "country": "Russia",
@@ -1962,8 +1997,8 @@
       "POL",
       "UKR"
     ],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.13,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.14,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-03-19",
@@ -2124,17 +2159,6 @@
         "depth_km": 16,
         "time_ms": 1773906209161,
         "place": "165 km S of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sh32",
-        "magnitude": 5,
-        "latitude": 52.1558,
-        "longitude": 176.4301,
-        "depth_km": 21.846,
-        "time_ms": 1773808594628,
-        "place": "233 km ESE of Attu Station, Alaska",
         "country_code": "RU",
         "shakemap_available": true
       }
