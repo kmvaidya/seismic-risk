@@ -76,16 +76,16 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-04-24 07:50 UTC*
+*Last updated: 2026-04-25 07:03 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Indonesia | IDN | 27.2 | ~ | 49 | 2 | green |
-| 2 | Japan | JPN | 2.2 | ~ | 21 | 2 | green |
+| 1 | Indonesia | IDN | 27.8 | +0.5 | 50 | 2 | green |
+| 2 | Japan | JPN | 2.5 | ~ | 22 | 3 | green |
 | 3 | United States | USA | 2.1 | ~ | 3 | 1 | green |
-| 4 | Pakistan | PAK | 1.3 | ~ | 3 | 1 | - |
-| 5 | Tonga | TON | 0.7 | -3.1 | 27 | 2 | - |
-| 6 | Russia | RUS | 0.3 | ~ | 4 | 1 | - |
+| 4 | Russia | RUS | 1.5 | +1.2 | 6 | 1 | - |
+| 5 | Pakistan | PAK | 1.3 | ~ | 3 | 1 | - |
+| 6 | Tonga | TON | 0.5 | ~ | 24 | 2 | - |
 | 7 | Vanuatu | VUT | 0.2 | ~ | 7 | 1 | green |
 <!-- LATEST_RESULTS_END -->
 

@@ -23,8 +23,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 49,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 50,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-01",
@@ -265,19 +265,6 @@
             "mmi": 5.4
           },
           {
-            "earthquake_id": "us6000sm8h",
-            "magnitude": 5.3,
-            "latitude": 1.2437,
-            "longitude": 126.2978,
-            "depth_km": 35,
-            "time_ms": 1775176377016,
-            "place": "130 km WNW of Ternate, Indonesia",
-            "distance_km": 156.2,
-            "exposure_contribution": 0.62,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000sm40",
             "magnitude": 5.1,
             "latitude": 1.5269,
@@ -356,6 +343,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000sshk",
+            "magnitude": 5.3,
+            "latitude": 1.1341,
+            "longitude": 126.3665,
+            "depth_km": 29.011,
+            "time_ms": 1777005920134,
+            "place": "119 km WNW of Ternate, Indonesia",
+            "distance_km": 166.6,
+            "exposure_contribution": 0.57,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000sltp",
             "magnitude": 5.4,
             "latitude": 1.063,
@@ -410,13 +410,13 @@
           {
             "earthquake_id": "us6000sm8g",
             "magnitude": 5.6,
-            "latitude": 1.3163,
-            "longitude": 126.4332,
+            "latitude": 1.3238,
+            "longitude": 126.4242,
             "depth_km": 35,
-            "time_ms": 1775175740421,
-            "place": "120 km WNW of Ternate, Indonesia",
-            "distance_km": 169.5,
-            "exposure_contribution": 0.77,
+            "time_ms": 1775175740760,
+            "place": "122 km WNW of Ternate, Indonesia",
+            "distance_km": 168.4,
+            "exposure_contribution": 0.78,
             "pga_g": null,
             "mmi": null
           },
@@ -443,6 +443,19 @@
             "place": "113 km WNW of Ternate, Indonesia",
             "distance_km": 172.9,
             "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sm8h",
+            "magnitude": 5.4,
+            "latitude": 1.1106,
+            "longitude": 126.4346,
+            "depth_km": 35,
+            "time_ms": 1775176378100,
+            "place": "111 km WNW of Ternate, Indonesia",
+            "distance_km": 174.6,
+            "exposure_contribution": 0.58,
             "pga_g": null,
             "mmi": null
           },
@@ -525,10 +538,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 24.5
+        "exposure_score": 25.03
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sshk",
+        "magnitude": 5.3,
+        "latitude": 1.1341,
+        "longitude": 126.3665,
+        "depth_km": 29.011,
+        "time_ms": 1777005920134,
+        "place": "119 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000srn6",
         "magnitude": 5.3,
@@ -751,23 +775,23 @@
       },
       {
         "id": "us6000sm8h",
-        "magnitude": 5.3,
-        "latitude": 1.2437,
-        "longitude": 126.2978,
+        "magnitude": 5.4,
+        "latitude": 1.1106,
+        "longitude": 126.4346,
         "depth_km": 35,
-        "time_ms": 1775176377016,
-        "place": "130 km WNW of Ternate, Indonesia",
+        "time_ms": 1775176378100,
+        "place": "111 km WNW of Ternate, Indonesia",
         "country_code": "ID",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us6000sm8g",
         "magnitude": 5.6,
-        "latitude": 1.3163,
-        "longitude": 126.4332,
+        "latitude": 1.3238,
+        "longitude": 126.4242,
         "depth_km": 35,
-        "time_ms": 1775175740421,
-        "place": "120 km WNW of Ternate, Indonesia",
+        "time_ms": 1775175740760,
+        "place": "122 km WNW of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1069,7 +1093,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 27.22
+    "seismic_hub_risk_score": 27.75
   },
   {
     "country": "Japan",
@@ -1091,8 +1115,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.32,
+    "earthquake_count": 22,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-20",
@@ -1101,10 +1125,34 @@
       "longitude": 143.0462
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 114,
+    "max_felt_reports": 116,
     "tsunami_warning_issued": true,
     "significant_events_count": 2,
     "exposed_airports": [
+      {
+        "name": "Aomori Airport",
+        "iata_code": "AOJ",
+        "latitude": 40.733777,
+        "longitude": 140.689477,
+        "municipality": "Aomori",
+        "closest_quake_distance_km": 194.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sshp",
+            "magnitude": 5,
+            "latitude": 40.095,
+            "longitude": 142.8333,
+            "depth_km": 35,
+            "time_ms": 1777007590736,
+            "place": "86 km E of Noda, Japan",
+            "distance_km": 194.9,
+            "exposure_contribution": 0.3,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.3
+      },
       {
         "name": "Sendai Airport",
         "iata_code": "SDJ",
@@ -1168,6 +1216,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000sshp",
+        "magnitude": 5,
+        "latitude": 40.095,
+        "longitude": 142.8333,
+        "depth_km": 35,
+        "time_ms": 1777007590736,
+        "place": "86 km E of Noda, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ssga",
         "magnitude": 5,
@@ -1400,7 +1459,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.21
+    "seismic_hub_risk_score": 2.51
   },
   {
     "country": "United States",
@@ -1500,6 +1559,176 @@
       }
     ],
     "seismic_hub_risk_score": 2.15
+  },
+  {
+    "country": "Russia",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "RUS",
+    "capital": "Moscow",
+    "population": 146028325,
+    "area_km2": 17098246.0,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble"
+      }
+    ],
+    "languages": [
+      "Russian"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.17,
+    "strongest_earthquake": {
+      "magnitude": 5.4,
+      "date": "2026-04-24",
+      "depth_km": 35,
+      "latitude": 52.9131,
+      "longitude": 160.9481
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 169.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000ssiy",
+            "magnitude": 5.4,
+            "latitude": 52.9131,
+            "longitude": 160.9481,
+            "depth_km": 35,
+            "time_ms": 1777025077607,
+            "place": "156 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 169.3,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ssja",
+            "magnitude": 5.1,
+            "latitude": 52.9177,
+            "longitude": 161.0719,
+            "depth_km": 10,
+            "time_ms": 1777034977014,
+            "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 177.4,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ssik",
+            "magnitude": 5.3,
+            "latitude": 52.9231,
+            "longitude": 161.1117,
+            "depth_km": 10,
+            "time_ms": 1777021168540,
+            "place": "167 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 179.9,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.53
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000ssja",
+        "magnitude": 5.1,
+        "latitude": 52.9177,
+        "longitude": 161.0719,
+        "depth_km": 10,
+        "time_ms": 1777034977014,
+        "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ssiy",
+        "magnitude": 5.4,
+        "latitude": 52.9131,
+        "longitude": 160.9481,
+        "depth_km": 35,
+        "time_ms": 1777025077607,
+        "place": "156 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ssik",
+        "magnitude": 5.3,
+        "latitude": 52.9231,
+        "longitude": 161.1117,
+        "depth_km": 10,
+        "time_ms": 1777021168540,
+        "place": "167 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000spj7",
+        "magnitude": 5,
+        "latitude": 49.7449,
+        "longitude": 155.7719,
+        "depth_km": 10,
+        "time_ms": 1776024306816,
+        "place": "106 km SSW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000smax",
+        "magnitude": 5.1,
+        "latitude": 52.279,
+        "longitude": 176.3511,
+        "depth_km": 10,
+        "time_ms": 1775204528857,
+        "place": "223 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sm96",
+        "magnitude": 5.1,
+        "latitude": 46.7325,
+        "longitude": 153.1307,
+        "depth_km": 35,
+        "time_ms": 1775182253396,
+        "place": "Kuril Islands",
+        "country_code": "RU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.53
   },
   {
     "country": "Pakistan",
@@ -1650,8 +1879,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 24,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-04-19",
@@ -1708,22 +1937,9 @@
             "exposure_contribution": 0.25,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s7fx",
-            "magnitude": 5,
-            "latitude": -18.6098,
-            "longitude": -175.4868,
-            "depth_km": 211.842,
-            "time_ms": 1774405480600,
-            "place": "158 km W of Neiafu, Tonga",
-            "distance_km": 160.7,
-            "exposure_contribution": 0.17,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 0.42
+        "exposure_score": 0.25
       }
     ],
     "earthquakes": [
@@ -1917,10 +2133,10 @@
       {
         "id": "us6000smui",
         "magnitude": 5.5,
-        "latitude": -32.0412,
-        "longitude": -177.8645,
-        "depth_km": 10,
-        "time_ms": 1775395335957,
+        "latitude": -32.0535,
+        "longitude": -177.9094,
+        "depth_km": 13,
+        "time_ms": 1775395335854,
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": true
@@ -1990,164 +2206,9 @@
         "place": "116 km E of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000sm32",
-        "magnitude": 5,
-        "latitude": -15.5565,
-        "longitude": -174.6302,
-        "depth_km": 208.165,
-        "time_ms": 1774433538932,
-        "place": "99 km WNW of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s7h9",
-        "magnitude": 5.6,
-        "latitude": -15.5366,
-        "longitude": -174.5414,
-        "depth_km": 193.976,
-        "time_ms": 1774433459997,
-        "place": "92 km WNW of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000s7fx",
-        "magnitude": 5,
-        "latitude": -18.6098,
-        "longitude": -175.4868,
-        "depth_km": 211.842,
-        "time_ms": 1774405480600,
-        "place": "158 km W of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 0.68
-  },
-  {
-    "country": "Russia",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "RUS",
-    "capital": "Moscow",
-    "population": 146028325,
-    "area_km2": 17098246.0,
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "currencies": [
-      {
-        "code": "RUB",
-        "name": "Russian ruble"
-      }
-    ],
-    "languages": [
-      "Russian"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.05,
-    "strongest_earthquake": {
-      "magnitude": 5.1,
-      "date": "2026-04-03",
-      "depth_km": 10,
-      "latitude": 52.279,
-      "longitude": 176.3511
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 190.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s7nc",
-            "magnitude": 5,
-            "latitude": 52.3039,
-            "longitude": 160.8873,
-            "depth_km": 10,
-            "time_ms": 1774477515458,
-            "place": "174 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 190.1,
-            "exposure_contribution": 0.33,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.33
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000spj7",
-        "magnitude": 5,
-        "latitude": 49.7449,
-        "longitude": 155.7719,
-        "depth_km": 10,
-        "time_ms": 1776024306816,
-        "place": "106 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000smax",
-        "magnitude": 5.1,
-        "latitude": 52.279,
-        "longitude": 176.3511,
-        "depth_km": 10,
-        "time_ms": 1775204528857,
-        "place": "223 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sm96",
-        "magnitude": 5.1,
-        "latitude": 46.7325,
-        "longitude": 153.1307,
-        "depth_km": 35,
-        "time_ms": 1775182253396,
-        "place": "Kuril Islands",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s7nc",
-        "magnitude": 5,
-        "latitude": 52.3039,
-        "longitude": 160.8873,
-        "depth_km": 10,
-        "time_ms": 1774477515458,
-        "place": "174 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.33
+    "seismic_hub_risk_score": 0.51
   },
   {
     "country": "Vanuatu",
@@ -2191,23 +2252,23 @@
         "latitude": -17.699301,
         "longitude": 168.320007,
         "municipality": "Port Vila",
-        "closest_quake_distance_km": 182.0,
+        "closest_quake_distance_km": 184.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000sm8a",
             "magnitude": 5.4,
-            "latitude": -18.906,
-            "longitude": 169.4841,
-            "depth_km": 278.376,
-            "time_ms": 1775172134773,
-            "place": "73 km NNE of Isangel, Vanuatu",
-            "distance_km": 182.0,
-            "exposure_contribution": 0.17,
+            "latitude": -18.9286,
+            "longitude": 169.4981,
+            "depth_km": 255.943,
+            "time_ms": 1775172133108,
+            "place": "71 km NNE of Isangel, Vanuatu",
+            "distance_km": 184.8,
+            "exposure_contribution": 0.19,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.17
+        "exposure_score": 0.19
       }
     ],
     "earthquakes": [
@@ -2236,11 +2297,11 @@
       {
         "id": "us6000sm8a",
         "magnitude": 5.4,
-        "latitude": -18.906,
-        "longitude": 169.4841,
-        "depth_km": 278.376,
-        "time_ms": 1775172134773,
-        "place": "73 km NNE of Isangel, Vanuatu",
+        "latitude": -18.9286,
+        "longitude": 169.4981,
+        "depth_km": 255.943,
+        "time_ms": 1775172133108,
+        "place": "71 km NNE of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       },
@@ -2289,6 +2350,6 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.17
+    "seismic_hub_risk_score": 0.19
   }
 ]
