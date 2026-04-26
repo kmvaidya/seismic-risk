@@ -23,8 +23,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 50,
-    "avg_magnitude": 5.32,
+    "earthquake_count": 49,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-01",
@@ -59,19 +59,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000s7z5",
-            "magnitude": 5.7,
-            "latitude": -3.1237,
-            "longitude": 139.3955,
-            "depth_km": 54.742,
-            "time_ms": 1774565461209,
-            "place": "149 km WSW of Abepura, Indonesia",
-            "distance_km": 138.8,
-            "exposure_contribution": 1.11,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000srn6",
             "magnitude": 5.3,
             "latitude": -2.374,
@@ -85,7 +72,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.72
+        "exposure_score": 1.61
       },
       {
         "name": "Sam Ratulangi International Airport",
@@ -499,6 +486,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000smnc",
+            "magnitude": 5,
+            "latitude": 1.4641,
+            "longitude": 126.5106,
+            "depth_km": 35,
+            "time_ms": 1775333785260,
+            "place": "122 km NW of Ternate, Indonesia",
+            "distance_km": 176.4,
+            "exposure_contribution": 0.36,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000sm9y",
             "magnitude": 5.5,
             "latitude": 0.8485,
@@ -538,7 +538,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.03
+        "exposure_score": 25.39
       }
     ],
     "earthquakes": [
@@ -682,6 +682,17 @@
         "depth_km": 30.783,
         "time_ms": 1775569215182,
         "place": "186 km WSW of Bandar Lampung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000smnc",
+        "magnitude": 5,
+        "latitude": 1.4641,
+        "longitude": 126.5106,
+        "depth_km": 35,
+        "time_ms": 1775333785260,
+        "place": "122 km NW of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1069,31 +1080,192 @@
         "place": "104 km SSW of Abepura, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 27.0
+  },
+  {
+    "country": "Russia",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "RUS",
+    "capital": "Moscow",
+    "population": 146028325,
+    "area_km2": 17098246.0,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble"
+      }
+    ],
+    "languages": [
+      "Russian"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.2,
+    "strongest_earthquake": {
+      "magnitude": 5.4,
+      "date": "2026-04-24",
+      "depth_km": 35,
+      "latitude": 52.9131,
+      "longitude": 160.9481
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 57.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sst4",
+            "magnitude": 5.2,
+            "latitude": 52.6755,
+            "longitude": 158.6924,
+            "depth_km": 87.83,
+            "time_ms": 1777112421431,
+            "place": "34 km SE of Vilyuchinsk, Russia",
+            "distance_km": 57.2,
+            "exposure_contribution": 1.08,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ssiy",
+            "magnitude": 5.4,
+            "latitude": 52.9131,
+            "longitude": 160.9481,
+            "depth_km": 35,
+            "time_ms": 1777025077607,
+            "place": "156 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 169.3,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ssja",
+            "magnitude": 5.1,
+            "latitude": 52.9177,
+            "longitude": 161.0719,
+            "depth_km": 10,
+            "time_ms": 1777034977014,
+            "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 177.4,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ssik",
+            "magnitude": 5.3,
+            "latitude": 52.9231,
+            "longitude": 161.1117,
+            "depth_km": 10,
+            "time_ms": 1777021168540,
+            "place": "167 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 179.9,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.61
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000sst4",
+        "magnitude": 5.2,
+        "latitude": 52.6755,
+        "longitude": 158.6924,
+        "depth_km": 87.83,
+        "time_ms": 1777112421431,
+        "place": "34 km SE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
       },
       {
-        "id": "us7000s7z5",
-        "magnitude": 5.7,
-        "latitude": -3.1237,
-        "longitude": 139.3955,
-        "depth_km": 54.742,
-        "time_ms": 1774565461209,
-        "place": "149 km WSW of Abepura, Indonesia",
-        "country_code": "ID",
+        "id": "us6000ssja",
+        "magnitude": 5.1,
+        "latitude": 52.9177,
+        "longitude": 161.0719,
+        "depth_km": 10,
+        "time_ms": 1777034977014,
+        "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ssiy",
+        "magnitude": 5.4,
+        "latitude": 52.9131,
+        "longitude": 160.9481,
+        "depth_km": 35,
+        "time_ms": 1777025077607,
+        "place": "156 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
         "shakemap_available": true
       },
       {
-        "id": "us7000s7qa",
-        "magnitude": 5,
-        "latitude": -3.7765,
-        "longitude": 123.2993,
+        "id": "us6000ssik",
+        "magnitude": 5.3,
+        "latitude": 52.9231,
+        "longitude": 161.1117,
         "depth_km": 10,
-        "time_ms": 1774499990446,
-        "place": "89 km ENE of Kendari, Indonesia",
-        "country_code": "ID",
+        "time_ms": 1777021168540,
+        "place": "167 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000smax",
+        "magnitude": 5.1,
+        "latitude": 52.279,
+        "longitude": 176.3511,
+        "depth_km": 10,
+        "time_ms": 1775204528857,
+        "place": "223 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sm96",
+        "magnitude": 5.1,
+        "latitude": 46.7325,
+        "longitude": 153.1307,
+        "depth_km": 35,
+        "time_ms": 1775182253396,
+        "place": "Kuril Islands",
+        "country_code": "RU",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 27.75
+    "seismic_hub_risk_score": 2.61
   },
   {
     "country": "Japan",
@@ -1115,8 +1287,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 22,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 21,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-20",
@@ -1125,9 +1297,9 @@
       "longitude": 143.0462
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 116,
+    "max_felt_reports": 117,
     "tsunami_warning_issued": true,
-    "significant_events_count": 2,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Aomori Airport",
@@ -1446,17 +1618,6 @@
         "place": "96 km E of Yamada, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s7u4",
-        "magnitude": 6.5,
-        "latitude": 39.4377,
-        "longitude": 143.3826,
-        "depth_km": 16,
-        "time_ms": 1774534731927,
-        "place": "123 km E of Yamada, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.51
@@ -1484,8 +1645,8 @@
       "CAN",
       "MEX"
     ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 5.68,
       "date": "2026-04-14",
@@ -1494,7 +1655,7 @@
       "longitude": -119.0075
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 6506,
+    "max_felt_reports": 6507,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -1525,6 +1686,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000sssg",
+        "magnitude": 5.4,
+        "latitude": 53.5884,
+        "longitude": -164.9144,
+        "depth_km": 35,
+        "time_ms": 1777104356204,
+        "place": "83 km SE of Akutan, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000sr43",
         "magnitude": 5,
         "latitude": 51.42,
@@ -1549,11 +1721,11 @@
       {
         "id": "us6000spjb",
         "magnitude": 5.1,
-        "latitude": 54.1877,
-        "longitude": -162.3868,
-        "depth_km": 35,
-        "time_ms": 1776024850340,
-        "place": "97 km S of King Cove, Alaska",
+        "latitude": 54.2062,
+        "longitude": -162.4767,
+        "depth_km": 42.702,
+        "time_ms": 1776024850790,
+        "place": "94 km SE of False Pass, Alaska",
         "country_code": "US",
         "shakemap_available": true
       }
@@ -1561,209 +1733,41 @@
     "seismic_hub_risk_score": 2.15
   },
   {
-    "country": "Russia",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "RUS",
-    "capital": "Moscow",
-    "population": 146028325,
-    "area_km2": 17098246.0,
-    "region": "Europe",
-    "subregion": "Eastern Europe",
+    "country": "Peru",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "PER",
+    "capital": "Lima",
+    "population": 34350244,
+    "area_km2": 1285216.0,
+    "region": "Americas",
+    "subregion": "South America",
     "currencies": [
       {
-        "code": "RUB",
-        "name": "Russian ruble"
+        "code": "PEN",
+        "name": "Peruvian sol"
       }
     ],
     "languages": [
-      "Russian"
+      "Aymara",
+      "Quechua",
+      "Spanish"
     ],
     "un_member": true,
     "bordering_countries": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.17,
-    "strongest_earthquake": {
-      "magnitude": 5.4,
-      "date": "2026-04-24",
-      "depth_km": 35,
-      "latitude": 52.9131,
-      "longitude": 160.9481
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 169.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000ssiy",
-            "magnitude": 5.4,
-            "latitude": 52.9131,
-            "longitude": 160.9481,
-            "depth_km": 35,
-            "time_ms": 1777025077607,
-            "place": "156 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 169.3,
-            "exposure_contribution": 0.61,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000ssja",
-            "magnitude": 5.1,
-            "latitude": 52.9177,
-            "longitude": 161.0719,
-            "depth_km": 10,
-            "time_ms": 1777034977014,
-            "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 177.4,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000ssik",
-            "magnitude": 5.3,
-            "latitude": 52.9231,
-            "longitude": 161.1117,
-            "depth_km": 10,
-            "time_ms": 1777021168540,
-            "place": "167 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 179.9,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.53
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000ssja",
-        "magnitude": 5.1,
-        "latitude": 52.9177,
-        "longitude": 161.0719,
-        "depth_km": 10,
-        "time_ms": 1777034977014,
-        "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ssiy",
-        "magnitude": 5.4,
-        "latitude": 52.9131,
-        "longitude": 160.9481,
-        "depth_km": 35,
-        "time_ms": 1777025077607,
-        "place": "156 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000ssik",
-        "magnitude": 5.3,
-        "latitude": 52.9231,
-        "longitude": 161.1117,
-        "depth_km": 10,
-        "time_ms": 1777021168540,
-        "place": "167 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000spj7",
-        "magnitude": 5,
-        "latitude": 49.7449,
-        "longitude": 155.7719,
-        "depth_km": 10,
-        "time_ms": 1776024306816,
-        "place": "106 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000smax",
-        "magnitude": 5.1,
-        "latitude": 52.279,
-        "longitude": 176.3511,
-        "depth_km": 10,
-        "time_ms": 1775204528857,
-        "place": "223 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sm96",
-        "magnitude": 5.1,
-        "latitude": 46.7325,
-        "longitude": 153.1307,
-        "depth_km": 35,
-        "time_ms": 1775182253396,
-        "place": "Kuril Islands",
-        "country_code": "RU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.53
-  },
-  {
-    "country": "Pakistan",
-    "iso_alpha2": "PK",
-    "iso_alpha3": "PAK",
-    "capital": "Islamabad",
-    "population": 241499431,
-    "area_km2": 796095.0,
-    "region": "Asia",
-    "subregion": "Southern Asia",
-    "currencies": [
-      {
-        "code": "PKR",
-        "name": "Pakistani rupee"
-      }
-    ],
-    "languages": [
-      "English",
-      "Urdu"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AFG",
-      "CHN",
-      "IND",
-      "IRN"
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
     ],
     "earthquake_count": 3,
-    "avg_magnitude": 5.1,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-03-26",
-      "depth_km": 10,
-      "latitude": 36.5841,
-      "longitude": 74.3994
+      "magnitude": 6,
+      "date": "2026-04-01",
+      "depth_km": 126,
+      "latitude": -7.0198,
+      "longitude": -76.1931
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1771,92 +1775,79 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Skardu International Airport",
-        "iata_code": "KDU",
-        "latitude": 35.33866,
-        "longitude": 75.538648,
-        "municipality": "Skardu",
-        "closest_quake_distance_km": 172.3,
+        "name": "Captain Renán Elías Olivera International Airport",
+        "iata_code": "PIO",
+        "latitude": -13.7449,
+        "longitude": -76.220299,
+        "municipality": "Pisco",
+        "closest_quake_distance_km": 97.0,
         "nearby_quakes": [
           {
-            "earthquake_id": "us7000s7xx",
-            "magnitude": 5.3,
-            "latitude": 36.5841,
-            "longitude": 74.3994,
+            "earthquake_id": "us6000ssvq",
+            "magnitude": 5,
+            "latitude": -14.5752,
+            "longitude": -76.4954,
             "depth_km": 10,
-            "time_ms": 1774558977433,
-            "place": "39 km NW of Barishal, Pakistan",
-            "distance_km": 172.3,
-            "exposure_contribution": 0.55,
+            "time_ms": 1777148079279,
+            "place": "82 km SSW of Paracas, Peru",
+            "distance_km": 97.0,
+            "exposure_contribution": 0.96,
             "pga_g": null,
             "mmi": null
           },
           {
-            "earthquake_id": "us7000s817",
-            "magnitude": 5,
-            "latitude": 36.6041,
-            "longitude": 74.3996,
+            "earthquake_id": "us6000sqib",
+            "magnitude": 5.2,
+            "latitude": -14.6589,
+            "longitude": -76.767,
             "depth_km": 10,
-            "time_ms": 1774587177950,
-            "place": "41 km NW of Barishal, Pakistan",
-            "distance_km": 174.1,
-            "exposure_contribution": 0.38,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000s812",
-            "magnitude": 5,
-            "latitude": 36.7245,
-            "longitude": 74.4939,
-            "depth_km": 10,
-            "time_ms": 1774586409839,
-            "place": "48 km NNW of Barishal, Pakistan",
-            "distance_km": 180.5,
-            "exposure_contribution": 0.36,
+            "time_ms": 1776326942443,
+            "place": "102 km SSW of Paracas, Peru",
+            "distance_km": 117.5,
+            "exposure_contribution": 0.9,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.28
+        "exposure_score": 1.86
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000s817",
+        "id": "us6000ssvq",
         "magnitude": 5,
-        "latitude": 36.6041,
-        "longitude": 74.3996,
+        "latitude": -14.5752,
+        "longitude": -76.4954,
         "depth_km": 10,
-        "time_ms": 1774587177950,
-        "place": "41 km NW of Barishal, Pakistan",
-        "country_code": "PK",
+        "time_ms": 1777148079279,
+        "place": "82 km SSW of Paracas, Peru",
+        "country_code": "PE",
         "shakemap_available": false
       },
       {
-        "id": "us7000s812",
-        "magnitude": 5,
-        "latitude": 36.7245,
-        "longitude": 74.4939,
+        "id": "us6000sqib",
+        "magnitude": 5.2,
+        "latitude": -14.6589,
+        "longitude": -76.767,
         "depth_km": 10,
-        "time_ms": 1774586409839,
-        "place": "48 km NNW of Barishal, Pakistan",
-        "country_code": "PK",
+        "time_ms": 1776326942443,
+        "place": "102 km SSW of Paracas, Peru",
+        "country_code": "PE",
         "shakemap_available": false
       },
       {
-        "id": "us7000s7xx",
-        "magnitude": 5.3,
-        "latitude": 36.5841,
-        "longitude": 74.3994,
-        "depth_km": 10,
-        "time_ms": 1774558977433,
-        "place": "39 km NW of Barishal, Pakistan",
-        "country_code": "PK",
-        "shakemap_available": false
+        "id": "us7000s9cg",
+        "magnitude": 6,
+        "latitude": -7.0198,
+        "longitude": -76.1931,
+        "depth_km": 126,
+        "time_ms": 1775042427357,
+        "place": "18 km SE of Picota, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.28
+    "seismic_hub_risk_score": 1.86
   },
   {
     "country": "Tonga",
@@ -2144,10 +2135,10 @@
       {
         "id": "us6000smp9",
         "magnitude": 5,
-        "latitude": -31.5203,
-        "longitude": -177.9766,
-        "depth_km": 30.861,
-        "time_ms": 1775341880621,
+        "latitude": -31.4999,
+        "longitude": -177.9918,
+        "depth_km": 19.816,
+        "time_ms": 1775341879050,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
