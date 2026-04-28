@@ -23,7 +23,7 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 49,
+    "earthquake_count": 48,
     "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 7.4,
@@ -43,21 +43,8 @@
         "latitude": -2.579627,
         "longitude": 140.519857,
         "municipality": "Sentani",
-        "closest_quake_distance_km": 103.7,
+        "closest_quake_distance_km": 154.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s8c7",
-            "magnitude": 5.2,
-            "latitude": -3.499,
-            "longitude": 140.3611,
-            "depth_km": 47.326,
-            "time_ms": 1774683346612,
-            "place": "104 km SSW of Abepura, Indonesia",
-            "distance_km": 103.7,
-            "exposure_contribution": 0.95,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000srn6",
             "magnitude": 5.3,
@@ -72,7 +59,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.61
+        "exposure_score": 0.66
       },
       {
         "name": "Sam Ratulangi International Airport",
@@ -161,6 +148,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000slzh",
+            "magnitude": 5.2,
+            "latitude": 1.4173,
+            "longitude": 126.1937,
+            "depth_km": 35,
+            "time_ms": 1775129734977,
+            "place": "118 km E of Bitung, Indonesia",
+            "distance_km": 141.6,
+            "exposure_contribution": 0.64,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000slue",
             "magnitude": 5.5,
             "latitude": 1.1323,
@@ -200,6 +200,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000slvt",
+            "magnitude": 5.1,
+            "latitude": 1.2472,
+            "longitude": 126.2315,
+            "depth_km": 35,
+            "time_ms": 1775088920033,
+            "place": "124 km E of Bitung, Indonesia",
+            "distance_km": 148.9,
+            "exposure_contribution": 0.53,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000smfm",
             "magnitude": 5.1,
             "latitude": 1.4501,
@@ -209,32 +222,6 @@
             "place": "128 km E of Bitung, Indonesia",
             "distance_km": 150.8,
             "exposure_contribution": 0.52,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000slzh",
-            "magnitude": 5.2,
-            "latitude": 1.3537,
-            "longitude": 126.2823,
-            "depth_km": 35,
-            "time_ms": 1775129735014,
-            "place": "128 km E of Bitung, Indonesia",
-            "distance_km": 152.3,
-            "exposure_contribution": 0.58,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000slvt",
-            "magnitude": 5.1,
-            "latitude": 1.1887,
-            "longitude": 126.2498,
-            "depth_km": 35,
-            "time_ms": 1775088919902,
-            "place": "127 km ESE of Bitung, Indonesia",
-            "distance_km": 152.5,
-            "exposure_contribution": 0.51,
             "pga_g": null,
             "mmi": null
           },
@@ -538,7 +525,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.39
+        "exposure_score": 25.48
       }
     ],
     "earthquakes": [
@@ -886,11 +873,11 @@
       {
         "id": "us6000slzh",
         "magnitude": 5.2,
-        "latitude": 1.3537,
-        "longitude": 126.2823,
+        "latitude": 1.4173,
+        "longitude": 126.1937,
         "depth_km": 35,
-        "time_ms": 1775129735014,
-        "place": "128 km E of Bitung, Indonesia",
+        "time_ms": 1775129734977,
+        "place": "118 km E of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -985,11 +972,11 @@
       {
         "id": "us6000slvt",
         "magnitude": 5.1,
-        "latitude": 1.1887,
-        "longitude": 126.2498,
+        "latitude": 1.2472,
+        "longitude": 126.2315,
         "depth_km": 35,
-        "time_ms": 1775088919902,
-        "place": "127 km ESE of Bitung, Indonesia",
+        "time_ms": 1775088920033,
+        "place": "124 km E of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1069,20 +1056,9 @@
         "place": "84 km W of Waisai, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s8c7",
-        "magnitude": 5.2,
-        "latitude": -3.499,
-        "longitude": 140.3611,
-        "depth_km": 47.326,
-        "time_ms": 1774683346612,
-        "place": "104 km SSW of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 27.0
+    "seismic_hub_risk_score": 26.14
   },
   {
     "country": "Japan",
