@@ -1080,8 +1080,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 22,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 21,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-20",
@@ -1161,18 +1161,18 @@
         "latitude": 38.139702,
         "longitude": 140.917007,
         "municipality": "Natori",
-        "closest_quake_distance_km": 60.1,
+        "closest_quake_distance_km": 61.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000slw1",
-            "magnitude": 5,
-            "latitude": 38.167,
-            "longitude": 141.6037,
-            "depth_km": 66.591,
-            "time_ms": 1775091172373,
-            "place": "33 km SSE of Onagawa Chō, Japan",
-            "distance_km": 60.1,
-            "exposure_contribution": 1.08,
+            "magnitude": 5.1,
+            "latitude": 38.16,
+            "longitude": 141.6233,
+            "depth_km": 48.783,
+            "time_ms": 1775091170369,
+            "place": "35 km SSE of Onagawa Chō, Japan",
+            "distance_km": 61.8,
+            "exposure_contribution": 1.46,
             "pga_g": null,
             "mmi": null
           },
@@ -1190,31 +1190,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.84
-      },
-      {
-        "name": "Kadena Air Base",
-        "iata_code": "DNA",
-        "latitude": 26.351667,
-        "longitude": 127.769444,
-        "municipality": "Okinawa",
-        "closest_quake_distance_km": 189.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000s8id",
-            "magnitude": 5.1,
-            "latitude": 28.0229,
-            "longitude": 128.1503,
-            "depth_km": 10,
-            "time_ms": 1774768074743,
-            "place": "77 km WNW of Amagi, Japan",
-            "distance_km": 189.6,
-            "exposure_contribution": 0.37,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.37
+        "exposure_score": 2.23
       }
     ],
     "earthquakes": [
@@ -1364,10 +1340,10 @@
       {
         "id": "us6000sr27",
         "magnitude": 5.2,
-        "latitude": 45.7789,
-        "longitude": 151.8949,
+        "latitude": 45.898,
+        "longitude": 151.6669,
         "depth_km": 35,
-        "time_ms": 1776487212867,
+        "time_ms": 1776487213085,
         "place": "Kuril Islands",
         "country_code": "JP",
         "shakemap_available": false
@@ -1440,28 +1416,17 @@
       },
       {
         "id": "us6000slw1",
-        "magnitude": 5,
-        "latitude": 38.167,
-        "longitude": 141.6037,
-        "depth_km": 66.591,
-        "time_ms": 1775091172373,
-        "place": "33 km SSE of Onagawa Chō, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s8id",
         "magnitude": 5.1,
-        "latitude": 28.0229,
-        "longitude": 128.1503,
-        "depth_km": 10,
-        "time_ms": 1774768074743,
-        "place": "77 km WNW of Amagi, Japan",
+        "latitude": 38.16,
+        "longitude": 141.6233,
+        "depth_km": 48.783,
+        "time_ms": 1775091170369,
+        "place": "35 km SSE of Onagawa Chō, Japan",
         "country_code": "JP",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.95
+    "seismic_hub_risk_score": 4.97
   },
   {
     "country": "Russia",
@@ -1499,7 +1464,7 @@
       "UKR"
     ],
     "earthquake_count": 6,
-    "avg_magnitude": 5.2,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-04-24",
@@ -1623,12 +1588,12 @@
       },
       {
         "id": "us6000smax",
-        "magnitude": 5.1,
-        "latitude": 52.279,
-        "longitude": 176.3511,
+        "magnitude": 5,
+        "latitude": 52.2934,
+        "longitude": 176.3173,
         "depth_km": 10,
-        "time_ms": 1775204528857,
-        "place": "223 km ESE of Attu Station, Alaska",
+        "time_ms": 1775204528870,
+        "place": "221 km ESE of Attu Station, Alaska",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -1894,8 +1859,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 23,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 24,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-04-19",
@@ -1959,6 +1924,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000sgp4",
+        "magnitude": 5.2,
+        "latitude": -18.492,
+        "longitude": -177.5758,
+        "depth_km": 409.024,
+        "time_ms": 1777390096421,
+        "place": "Fiji region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000ss90",
         "magnitude": 5.2,
         "latitude": -20.7822,
@@ -1982,11 +1958,11 @@
       },
       {
         "id": "us6000srg6",
-        "magnitude": 5.2,
-        "latitude": -32.291,
-        "longitude": -177.9764,
+        "magnitude": 5.1,
+        "latitude": -32.3144,
+        "longitude": -177.9249,
         "depth_km": 10,
-        "time_ms": 1776642750000,
+        "time_ms": 1776642749845,
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": false
@@ -2009,6 +1985,17 @@
         "longitude": -178.2523,
         "depth_km": 10,
         "time_ms": 1776576916689,
+        "place": "south of the Kermadec Islands",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sr8i",
+        "magnitude": 5,
+        "latitude": -32.053,
+        "longitude": -177.8026,
+        "depth_km": 10,
+        "time_ms": 1776568349585,
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": false
@@ -2199,17 +2186,6 @@
         "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000s8me",
-        "magnitude": 5.2,
-        "latitude": -16.5053,
-        "longitude": -173.5921,
-        "depth_km": 44.694,
-        "time_ms": 1774827913353,
-        "place": "64 km SSE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.51
