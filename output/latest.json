@@ -278,6 +278,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000sr3p",
+            "magnitude": 5,
+            "latitude": 0.3117,
+            "longitude": 125.7149,
+            "depth_km": 35,
+            "time_ms": 1776510296721,
+            "place": "140 km SSE of Bitung, Indonesia",
+            "distance_km": 163.1,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000sm8r",
             "magnitude": 5.3,
             "latitude": 1.0053,
@@ -391,19 +404,6 @@
             "place": "122 km WNW of Ternate, Indonesia",
             "distance_km": 168.4,
             "exposure_contribution": 0.78,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sr3p",
-            "magnitude": 5,
-            "latitude": 0.213,
-            "longitude": 125.7153,
-            "depth_km": 30.56,
-            "time_ms": 1776510296276,
-            "place": "144 km E of Modisi, Indonesia",
-            "distance_km": 172.5,
-            "exposure_contribution": 0.38,
             "pga_g": null,
             "mmi": null
           },
@@ -525,7 +525,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.48
+        "exposure_score": 25.51
       }
     ],
     "earthquakes": [
@@ -576,11 +576,11 @@
       {
         "id": "us6000sr3p",
         "magnitude": 5,
-        "latitude": 0.213,
-        "longitude": 125.7153,
-        "depth_km": 30.56,
-        "time_ms": 1776510296276,
-        "place": "144 km E of Modisi, Indonesia",
+        "latitude": 0.3117,
+        "longitude": 125.7149,
+        "depth_km": 35,
+        "time_ms": 1776510296721,
+        "place": "140 km SSE of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1058,7 +1058,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 26.14
+    "seismic_hub_risk_score": 26.17
   },
   {
     "country": "Japan",
@@ -1090,7 +1090,7 @@
       "longitude": 143.0462
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 117,
+    "max_felt_reports": 118,
     "tsunami_warning_issued": true,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -1859,8 +1859,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 24,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 25,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-04-19",
@@ -1926,10 +1926,10 @@
       {
         "id": "us7000sgp4",
         "magnitude": 5.2,
-        "latitude": -18.492,
-        "longitude": -177.5758,
-        "depth_km": 409.024,
-        "time_ms": 1777390096421,
+        "latitude": -18.6197,
+        "longitude": -177.6086,
+        "depth_km": 361.072,
+        "time_ms": 1777390091539,
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": false
@@ -1942,6 +1942,17 @@
         "depth_km": 206.451,
         "time_ms": 1776925870762,
         "place": "108 km WNW of Houma, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sgzw",
+        "magnitude": 5,
+        "latitude": -32.4222,
+        "longitude": -178.4619,
+        "depth_km": 10,
+        "time_ms": 1776723103393,
+        "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -2036,10 +2047,10 @@
       {
         "id": "us6000sr3l",
         "magnitude": 5.9,
-        "latitude": -32.0876,
-        "longitude": -178.0627,
-        "depth_km": 10,
-        "time_ms": 1776509274936,
+        "latitude": -32.0028,
+        "longitude": -178.0923,
+        "depth_km": 13,
+        "time_ms": 1776509275388,
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": true
@@ -2079,22 +2090,22 @@
       },
       {
         "id": "us6000smzu",
-        "magnitude": 5.2,
-        "latitude": -32.0443,
-        "longitude": -177.9761,
+        "magnitude": 5.1,
+        "latitude": -31.9957,
+        "longitude": -178.1234,
         "depth_km": 10,
-        "time_ms": 1775456125459,
-        "place": "south of the Kermadec Islands",
+        "time_ms": 1775456125393,
+        "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
       },
       {
         "id": "us6000smyb",
         "magnitude": 5.2,
-        "latitude": -31.9492,
-        "longitude": -178.0646,
+        "latitude": -31.9596,
+        "longitude": -178.0795,
         "depth_km": 10,
-        "time_ms": 1775436146628,
+        "time_ms": 1775436146781,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
@@ -2212,19 +2223,19 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.51,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
-      "magnitude": 7.3,
-      "date": "2026-03-30",
-      "depth_km": 120.7,
-      "latitude": -15.2858,
-      "longitude": 167.5826
+      "magnitude": 5.4,
+      "date": "2026-04-15",
+      "depth_km": 166.7,
+      "latitude": -21.3603,
+      "longitude": 170.3357
     },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 32,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Bauerfield International Airport",
@@ -2295,39 +2306,6 @@
         "place": "217 km NE of Sola, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000s8rs",
-        "magnitude": 5.1,
-        "latitude": -15.3579,
-        "longitude": 167.6325,
-        "depth_km": 119.458,
-        "time_ms": 1774861348726,
-        "place": "53 km ENE of Luganville, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000s8q0",
-        "magnitude": 7.3,
-        "latitude": -15.2858,
-        "longitude": 167.5826,
-        "depth_km": 120.677,
-        "time_ms": 1774860253789,
-        "place": "52 km ENE of Luganville, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000s8v7",
-        "magnitude": 5.4,
-        "latitude": -15.3021,
-        "longitude": 167.4979,
-        "depth_km": 117.691,
-        "time_ms": 1774860247626,
-        "place": "43 km NE of Luganville, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.19
