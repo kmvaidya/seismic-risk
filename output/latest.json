@@ -502,11 +502,11 @@
       {
         "id": "us6000sqjk",
         "magnitude": 5,
-        "latitude": 33.4772,
-        "longitude": 142.225,
-        "depth_km": 66.763,
-        "time_ms": 1776350595391,
-        "place": "255 km SE of Katsuura, Japan",
+        "latitude": 33.3404,
+        "longitude": 142.4107,
+        "depth_km": 10,
+        "time_ms": 1776350587686,
+        "place": "278 km SE of Katsuura, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -659,14 +659,14 @@
           },
           {
             "earthquake_id": "us6000spl2",
-            "magnitude": 5,
-            "latitude": 1.0367,
-            "longitude": 126.4706,
-            "depth_km": 43.741,
-            "time_ms": 1776061299975,
-            "place": "105 km WNW of Ternate, Indonesia",
-            "distance_km": 180.9,
-            "exposure_contribution": 0.34,
+            "magnitude": 5.1,
+            "latitude": 1.0212,
+            "longitude": 126.4727,
+            "depth_km": 42.649,
+            "time_ms": 1776061299618,
+            "place": "104 km WNW of Ternate, Indonesia",
+            "distance_km": 181.6,
+            "exposure_contribution": 0.38,
             "pga_g": null,
             "mmi": null
           },
@@ -684,7 +684,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.68
+        "exposure_score": 2.72
       }
     ],
     "earthquakes": [
@@ -822,12 +822,12 @@
       },
       {
         "id": "us6000spl2",
-        "magnitude": 5,
-        "latitude": 1.0367,
-        "longitude": 126.4706,
-        "depth_km": 43.741,
-        "time_ms": 1776061299975,
-        "place": "105 km WNW of Ternate, Indonesia",
+        "magnitude": 5.1,
+        "latitude": 1.0212,
+        "longitude": 126.4727,
+        "depth_km": 42.649,
+        "time_ms": 1776061299618,
+        "place": "104 km WNW of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -865,7 +865,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.3
+    "seismic_hub_risk_score": 3.34
   },
   {
     "country": "United States",
@@ -934,12 +934,12 @@
             "time_ms": 1776130152123,
             "place": "20 km ESE of Silver Springs, Nevada",
             "distance_km": 67.8,
-            "exposure_contribution": 2.15,
-            "pga_g": 0.021473,
+            "exposure_contribution": 2.22,
+            "pga_g": 0.022159,
             "mmi": 3.7
           }
         ],
-        "exposure_score": 2.95
+        "exposure_score": 3.02
       }
     ],
     "earthquakes": [
@@ -999,7 +999,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.95
+    "seismic_hub_risk_score": 3.02
   },
   {
     "country": "Russia",
@@ -1419,7 +1419,7 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 18,
+    "earthquake_count": 19,
     "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.1,
@@ -1509,6 +1509,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000svw1",
+        "magnitude": 5.3,
+        "latitude": -27.3997,
+        "longitude": -176.6255,
+        "depth_km": 41.226,
+        "time_ms": 1778144008180,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000svmz",
         "magnitude": 5.6,
