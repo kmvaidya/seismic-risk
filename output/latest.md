@@ -1,26 +1,26 @@
 # Seismic Risk Report
-Generated: 2026-05-08 07:17 UTC
+Generated: 2026-05-09 07:44 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-01-31 to 2026-05-08).
+Based on 89 snapshots (2026-02-08 to 2026-05-09).
 
 
 **Top score changes**:
 
-- United States (USA): +0.1
-- Indonesia (IDN): +0.0
 - Japan (JPN): 0.0
+- Indonesia (IDN): 0.0
+- United States (USA): 0.0
 - Russia (RUS): 0.0
 - Peru (PER): 0.0
 
 **Top airport exposure changes**:
 
-- Reno Tahoe International Airport (RNO, USA): +0.1
-- Sam Ratulangi International Airport (MDC, IDN): +0.0
 - Kansai International Airport (KIX, JPN): 0.0
 - Kobe Airport (UKB, JPN): 0.0
 - New Chitose Airport (CTS, JPN): 0.0
+- Hakodate Airport (HKD, JPN): 0.0
+- Chubu Centrair International Airport (NGO, JPN): 0.0
 
 ## Country Summary
 
