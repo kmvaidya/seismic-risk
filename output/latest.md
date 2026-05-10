@@ -1,14 +1,14 @@
 # Seismic Risk Report
-Generated: 2026-05-09 07:44 UTC
+Generated: 2026-05-10 07:58 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-02-08 to 2026-05-09).
+Based on 89 snapshots (2026-02-09 to 2026-05-10).
 
 
 **Top score changes**:
 
-- Japan (JPN): 0.0
+- Japan (JPN): +0.0
 - Indonesia (IDN): 0.0
 - United States (USA): 0.0
 - Russia (RUS): 0.0
@@ -16,23 +16,23 @@ Based on 89 snapshots (2026-02-08 to 2026-05-09).
 
 **Top airport exposure changes**:
 
+- Aomori Airport (AOJ, JPN): +0.0
 - Kansai International Airport (KIX, JPN): 0.0
 - Kobe Airport (UKB, JPN): 0.0
 - New Chitose Airport (CTS, JPN): 0.0
 - Hakodate Airport (HKD, JPN): 0.0
-- Chubu Centrair International Airport (NGO, JPN): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-| Japan | JPN | Asia | 17.6 | ~ | 5.3 | M7.4 (2026-04-20) | 20 | 11 | green | Yes | 1 |
-| Indonesia | IDN | Asia | 3.3 | ~ | 5.2 | M5.8 (2026-05-05) | 16 | 2 | - | No | 0 |
+| Japan | JPN | Asia | 17.6 | ~ | 5.4 | M7.4 (2026-04-20) | 19 | 11 | green | Yes | 1 |
+| Indonesia | IDN | Asia | 3.3 | ~ | 5.2 | M5.8 (2026-05-05) | 15 | 2 | - | No | 0 |
 | United States | USA | Americas | 3.0 | ~ | 5.3 | M5.68 (2026-04-14) | 5 | 1 | green | No | 2 |
-| Russia | RUS | Europe | 2.6 | ~ | 5.3 | M5.8 (2026-05-06) | 6 | 1 | - | No | 0 |
+| Russia | RUS | Europe | 2.6 | ~ | 5.5 | M6.1 (2026-05-09) | 8 | 1 | - | No | 0 |
 | Peru | PER | Americas | 1.9 | ~ | 5.1 | M5.2 (2026-04-16) | 3 | 1 | - | No | 0 |
 | Philippines | PHL | Asia | 1.0 | ~ | 5.5 | M6 (2026-05-04) | 3 | 1 | - | No | 0 |
-| Tonga | TON | Oceania | 0.8 | ~ | 5.3 | M6.1 (2026-04-19) | 19 | 2 | - | No | 0 |
+| Tonga | TON | Oceania | 0.8 | ~ | 5.3 | M6.1 (2026-04-19) | 20 | 2 | - | No | 0 |
 
 ## Airport Details
 
@@ -48,7 +48,7 @@ Based on 89 snapshots (2026-02-08 to 2026-05-09).
 | Hakodate Airport | HKD | Hakodate | Japan | 0.9 | ~ | - | 199.5 | 1 |
 | Okayama Momotaro Airport | OKJ | Okayama | Japan | 0.8 | ~ | - | 166.1 | 1 |
 | Kochi Ryoma Airport | KCZ | Nankoku | Japan | 0.7 | ~ | - | 179.0 | 1 |
-| Aomori Airport | AOJ | Aomori | Japan | 0.6 | ~ | - | 191.9 | 2 |
+| Aomori Airport | AOJ | Aomori | Japan | 0.6 | ~ | - | 188.2 | 2 |
 | Sam Ratulangi International Airport | MDC | Manado | Indonesia | 2.7 | ~ | - | 142.5 | 6 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani | Indonesia | 0.6 | ~ | - | 160.1 | 1 |
 | Reno Tahoe International Airport | RNO | Reno | United States | 3.0 | ~ | 0.0222 | 65.6 | 2 |

@@ -19,8 +19,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 20,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 19,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-20",
@@ -279,18 +279,18 @@
         "latitude": 40.733777,
         "longitude": 140.689477,
         "municipality": "Aomori",
-        "closest_quake_distance_km": 191.9,
+        "closest_quake_distance_km": 188.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000st11",
             "magnitude": 5,
-            "latitude": 39.9892,
-            "longitude": 142.7328,
+            "latitude": 40.0529,
+            "longitude": 142.7243,
             "depth_km": 35,
-            "time_ms": 1777222642275,
-            "place": "77 km ENE of Miyako, Japan",
-            "distance_km": 191.9,
-            "exposure_contribution": 0.31,
+            "time_ms": 1777222642588,
+            "place": "77 km E of Noda, Japan",
+            "distance_km": 188.2,
+            "exposure_contribution": 0.32,
             "pga_g": null,
             "mmi": null
           },
@@ -308,7 +308,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.62
+        "exposure_score": 0.63
       }
     ],
     "earthquakes": [
@@ -348,11 +348,11 @@
       {
         "id": "us6000st11",
         "magnitude": 5,
-        "latitude": 39.9892,
-        "longitude": 142.7328,
+        "latitude": 40.0529,
+        "longitude": 142.7243,
         "depth_km": 35,
-        "time_ms": 1777222642275,
-        "place": "77 km ENE of Miyako, Japan",
+        "time_ms": 1777222642588,
+        "place": "77 km E of Noda, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -520,20 +520,9 @@
         "place": "185 km SSE of Nemuro, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000snqs",
-        "magnitude": 5.1,
-        "latitude": 30.8412,
-        "longitude": 141.8852,
-        "depth_km": 10,
-        "time_ms": 1775760864881,
-        "place": "Izu Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 17.62
+    "seismic_hub_risk_score": 17.63
   },
   {
     "country": "Indonesia",
@@ -559,8 +548,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-05-05",
@@ -852,17 +841,6 @@
         "place": "14 km NNW of Curup, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000snmv",
-        "magnitude": 5,
-        "latitude": -2.9259,
-        "longitude": 136.2785,
-        "depth_km": 10,
-        "time_ms": 1775719941033,
-        "place": "98 km ENE of Nabire, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 3.34
@@ -968,11 +946,11 @@
       {
         "id": "us6000sr43",
         "magnitude": 5,
-        "latitude": 51.42,
-        "longitude": -179.6701,
-        "depth_km": 35,
-        "time_ms": 1776518109117,
-        "place": "216 km WSW of Adak, Alaska",
+        "latitude": 51.4562,
+        "longitude": -179.5842,
+        "depth_km": 37.657,
+        "time_ms": 1776518109569,
+        "place": "209 km WSW of Adak, Alaska",
         "country_code": "US",
         "shakemap_available": true
       },
@@ -1036,14 +1014,14 @@
       "POL",
       "UKR"
     ],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.32,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.47,
     "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-05-06",
-      "depth_km": 10,
-      "latitude": 52.2595,
-      "longitude": 176.518
+      "magnitude": 6.1,
+      "date": "2026-05-09",
+      "depth_km": 16.3,
+      "latitude": 50.981,
+      "longitude": 179.214
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1115,6 +1093,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000swf4",
+        "magnitude": 5.8,
+        "latitude": 51.0818,
+        "longitude": 179.349,
+        "depth_km": 26.482,
+        "time_ms": 1778301743298,
+        "place": "292 km WSW of Adak, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "aka2026jcufoy",
+        "magnitude": 6.1,
+        "latitude": 50.981,
+        "longitude": 179.214,
+        "depth_km": 16.3,
+        "time_ms": 1778301741975,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
       {
         "id": "us6000svnr",
         "magnitude": 5.8,
@@ -1419,7 +1419,7 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 19,
+    "earthquake_count": 20,
     "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.1,
@@ -1509,6 +1509,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000swhy",
+        "magnitude": 5.3,
+        "latitude": -26.8393,
+        "longitude": -176.7692,
+        "depth_km": 10,
+        "time_ms": 1778359189843,
+        "place": "south of the Fiji Islands",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000svw1",
         "magnitude": 5.3,
@@ -1655,10 +1666,10 @@
       {
         "id": "us6000sr4y",
         "magnitude": 5,
-        "latitude": -32.0023,
-        "longitude": -178.1955,
-        "depth_km": 32.486,
-        "time_ms": 1776528227888,
+        "latitude": -32.0016,
+        "longitude": -178.1123,
+        "depth_km": 11.774,
+        "time_ms": 1776528224801,
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": false
