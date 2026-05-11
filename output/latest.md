@@ -1,14 +1,16 @@
 # Seismic Risk Report
-Generated: 2026-05-10 07:58 UTC
+Generated: 2026-05-11 09:26 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-02-09 to 2026-05-10).
+Based on 89 snapshots (2026-02-10 to 2026-05-11).
 
+**New entries**: Papua New Guinea
+**Dropped off**: Philippines
 
 **Top score changes**:
 
-- Japan (JPN): +0.0
+- Japan (JPN): 0.0
 - Indonesia (IDN): 0.0
 - United States (USA): 0.0
 - Russia (RUS): 0.0
@@ -16,11 +18,11 @@ Based on 89 snapshots (2026-02-09 to 2026-05-10).
 
 **Top airport exposure changes**:
 
-- Aomori Airport (AOJ, JPN): +0.0
 - Kansai International Airport (KIX, JPN): 0.0
 - Kobe Airport (UKB, JPN): 0.0
 - New Chitose Airport (CTS, JPN): 0.0
 - Hakodate Airport (HKD, JPN): 0.0
+- Chubu Centrair International Airport (NGO, JPN): 0.0
 
 ## Country Summary
 
@@ -31,8 +33,8 @@ Based on 89 snapshots (2026-02-09 to 2026-05-10).
 | United States | USA | Americas | 3.0 | ~ | 5.3 | M5.68 (2026-04-14) | 5 | 1 | green | No | 2 |
 | Russia | RUS | Europe | 2.6 | ~ | 5.5 | M6.1 (2026-05-09) | 8 | 1 | - | No | 0 |
 | Peru | PER | Americas | 1.9 | ~ | 5.1 | M5.2 (2026-04-16) | 3 | 1 | - | No | 0 |
-| Philippines | PHL | Asia | 1.0 | ~ | 5.5 | M6 (2026-05-04) | 3 | 1 | - | No | 0 |
-| Tonga | TON | Oceania | 0.8 | ~ | 5.3 | M6.1 (2026-04-19) | 20 | 2 | - | No | 0 |
+| Tonga | TON | Oceania | 0.8 | ~ | 5.3 | M6.1 (2026-04-19) | 22 | 2 | - | No | 0 |
+| Papua New Guinea | PNG | Oceania | 0.3 | NEW | 5.2 | M5.7 (2026-04-30) | 8 | 1 | - | No | 0 |
 
 ## Airport Details
 
@@ -54,6 +56,6 @@ Based on 89 snapshots (2026-02-09 to 2026-05-10).
 | Reno Tahoe International Airport | RNO | Reno | United States | 3.0 | ~ | 0.0222 | 65.6 | 2 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky | Russia | 2.6 | ~ | - | 69.2 | 4 |
 | Captain Renán Elías Olivera International Airport | PIO | Pisco | Peru | 1.9 | ~ | - | 97.5 | 2 |
-| Francisco Bangoy International Airport | DVO | Davao | Philippines | 1.0 | ~ | - | 137.4 | 1 |
 | Vava'u International Airport | VAV | Vava'u Island | Tonga | 0.5 | ~ | - | 135.5 | 3 |
 | Fua'amotu International Airport | TBU | Nuku'alofa | Tonga | 0.3 | ~ | - | 138.8 | 1 |
+| Nadzab Tomodachi International Airport | LAE | Lae | Papua New Guinea | 0.3 | NEW | - | 190.2 | 1 |
