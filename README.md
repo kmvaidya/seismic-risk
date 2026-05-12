@@ -76,7 +76,7 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-05-11 09:26 UTC*
+*Last updated: 2026-05-12 08:28 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
@@ -86,7 +86,7 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 | 4 | Russia | RUS | 2.6 | ~ | 8 | 1 | - |
 | 5 | Peru | PER | 1.9 | ~ | 3 | 1 | - |
 | 6 | Tonga | TON | 0.8 | ~ | 22 | 2 | - |
-| 7 | Papua New Guinea | PNG | 0.3 | NEW | 8 | 1 | - |
+| 7 | Papua New Guinea | PNG | 0.3 | ~ | 8 | 1 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works

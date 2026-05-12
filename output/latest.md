@@ -1,12 +1,10 @@
 # Seismic Risk Report
-Generated: 2026-05-11 09:26 UTC
+Generated: 2026-05-12 08:28 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-02-10 to 2026-05-11).
+Based on 89 snapshots (2026-02-11 to 2026-05-12).
 
-**New entries**: Papua New Guinea
-**Dropped off**: Philippines
 
 **Top score changes**:
 
@@ -28,13 +26,13 @@ Based on 89 snapshots (2026-02-10 to 2026-05-11).
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-| Japan | JPN | Asia | 17.6 | ~ | 5.4 | M7.4 (2026-04-20) | 19 | 11 | green | Yes | 1 |
+| Japan | JPN | Asia | 17.6 | ~ | 5.3 | M7.4 (2026-04-20) | 19 | 11 | green | Yes | 1 |
 | Indonesia | IDN | Asia | 3.3 | ~ | 5.2 | M5.8 (2026-05-05) | 15 | 2 | - | No | 0 |
 | United States | USA | Americas | 3.0 | ~ | 5.3 | M5.68 (2026-04-14) | 5 | 1 | green | No | 2 |
 | Russia | RUS | Europe | 2.6 | ~ | 5.5 | M6.1 (2026-05-09) | 8 | 1 | - | No | 0 |
 | Peru | PER | Americas | 1.9 | ~ | 5.1 | M5.2 (2026-04-16) | 3 | 1 | - | No | 0 |
 | Tonga | TON | Oceania | 0.8 | ~ | 5.3 | M6.1 (2026-04-19) | 22 | 2 | - | No | 0 |
-| Papua New Guinea | PNG | Oceania | 0.3 | NEW | 5.2 | M5.7 (2026-04-30) | 8 | 1 | - | No | 0 |
+| Papua New Guinea | PNG | Oceania | 0.3 | ~ | 5.2 | M5.7 (2026-04-30) | 8 | 1 | - | No | 0 |
 
 ## Airport Details
 
@@ -58,4 +56,4 @@ Based on 89 snapshots (2026-02-10 to 2026-05-11).
 | Captain Renán Elías Olivera International Airport | PIO | Pisco | Peru | 1.9 | ~ | - | 97.5 | 2 |
 | Vava'u International Airport | VAV | Vava'u Island | Tonga | 0.5 | ~ | - | 135.5 | 3 |
 | Fua'amotu International Airport | TBU | Nuku'alofa | Tonga | 0.3 | ~ | - | 138.8 | 1 |
-| Nadzab Tomodachi International Airport | LAE | Lae | Papua New Guinea | 0.3 | NEW | - | 190.2 | 1 |
+| Nadzab Tomodachi International Airport | LAE | Lae | Papua New Guinea | 0.3 | ~ | - | 190.2 | 1 |

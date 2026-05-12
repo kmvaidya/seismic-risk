@@ -20,7 +20,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 19,
-    "avg_magnitude": 5.36,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-20",
@@ -313,6 +313,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000swtz",
+        "magnitude": 5,
+        "latitude": 27.3989,
+        "longitude": 129.4593,
+        "depth_km": 10,
+        "time_ms": 1778463677815,
+        "place": "60 km ESE of Isen, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000si9t",
         "magnitude": 5.2,
         "latitude": 39.9667,
@@ -509,17 +520,6 @@
         "place": "278 km SE of Katsuura, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000spac",
-        "magnitude": 5.2,
-        "latitude": 41.8066,
-        "longitude": 146.5285,
-        "depth_km": 10,
-        "time_ms": 1775900991393,
-        "place": "185 km SSE of Nemuro, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 17.63
