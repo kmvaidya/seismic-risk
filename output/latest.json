@@ -19,8 +19,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 26,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 7.4,
       "date": "2026-04-20",
@@ -597,20 +597,457 @@
         "place": "241 km E of Kuril’sk, Russia",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sqjk",
-        "magnitude": 5,
-        "latitude": 33.3404,
-        "longitude": 142.4107,
-        "depth_km": 10,
-        "time_ms": 1776350587686,
-        "place": "278 km SE of Katsuura, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 20.03
+  },
+  {
+    "country": "Vanuatu",
+    "iso_alpha2": "VU",
+    "iso_alpha3": "VUT",
+    "capital": "Port Vila",
+    "population": 321409,
+    "area_km2": 12189.0,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vanuatu vatu"
+      }
+    ],
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.22,
+    "strongest_earthquake": {
+      "magnitude": 5.4,
+      "date": "2026-05-16",
+      "depth_km": 10,
+      "latitude": -17.8726,
+      "longitude": 169.1752
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Bauerfield International Airport",
+        "iata_code": "VLI",
+        "latitude": -17.699301,
+        "longitude": 168.320007,
+        "municipality": "Port Vila",
+        "closest_quake_distance_km": 92.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sy90",
+            "magnitude": 5.4,
+            "latitude": -17.8726,
+            "longitude": 169.1752,
+            "depth_km": 10,
+            "time_ms": 1778947084288,
+            "place": "92 km E of Port-Vila, Vanuatu",
+            "distance_km": 92.6,
+            "exposure_contribution": 1.62,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sy7u",
+            "magnitude": 5.2,
+            "latitude": -17.7708,
+            "longitude": 169.2036,
+            "depth_km": 10,
+            "time_ms": 1778940474649,
+            "place": "94 km E of Port-Vila, Vanuatu",
+            "distance_km": 93.9,
+            "exposure_contribution": 1.26,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sy7l",
+            "magnitude": 5.3,
+            "latitude": -17.8503,
+            "longitude": 169.1937,
+            "depth_km": 10,
+            "time_ms": 1778936370959,
+            "place": "94 km E of Port-Vila, Vanuatu",
+            "distance_km": 94.0,
+            "exposure_contribution": 1.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 4.3
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000sy90",
+        "magnitude": 5.4,
+        "latitude": -17.8726,
+        "longitude": 169.1752,
+        "depth_km": 10,
+        "time_ms": 1778947084288,
+        "place": "92 km E of Port-Vila, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sy7u",
+        "magnitude": 5.2,
+        "latitude": -17.7708,
+        "longitude": 169.2036,
+        "depth_km": 10,
+        "time_ms": 1778940474649,
+        "place": "94 km E of Port-Vila, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sy7l",
+        "magnitude": 5.3,
+        "latitude": -17.8503,
+        "longitude": 169.1937,
+        "depth_km": 10,
+        "time_ms": 1778936370959,
+        "place": "94 km E of Port-Vila, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ss20",
+        "magnitude": 5,
+        "latitude": -15.4452,
+        "longitude": 167.4535,
+        "depth_km": 119.208,
+        "time_ms": 1776864045876,
+        "place": "32 km ENE of Luganville, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 4.3
+  },
+  {
+    "country": "Philippines",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "PHL",
+    "capital": "Manila",
+    "population": 114123600,
+    "area_km2": 342353.0,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso"
+      }
+    ],
+    "languages": [
+      "English",
+      "Filipino"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.45,
+    "strongest_earthquake": {
+      "magnitude": 6,
+      "date": "2026-05-04",
+      "depth_km": 73.3,
+      "latitude": 11.7774,
+      "longitude": 125.3718
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Laoag International Airport",
+        "iata_code": "LAO",
+        "latitude": 18.175089,
+        "longitude": 120.531006,
+        "municipality": "Laoag City",
+        "closest_quake_distance_km": 126.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sxk1",
+            "magnitude": 5.3,
+            "latitude": 19.0659,
+            "longitude": 121.2754,
+            "depth_km": 35,
+            "time_ms": 1778709666478,
+            "place": "51 km NNE of Namuac, Philippines",
+            "distance_km": 126.3,
+            "exposure_contribution": 0.86,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.86
+      },
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 111.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sy76",
+            "magnitude": 5,
+            "latitude": 6.8241,
+            "longitude": 124.6816,
+            "depth_km": 10,
+            "time_ms": 1778930743857,
+            "place": "5 km WSW of Badak, Philippines",
+            "distance_km": 111.6,
+            "exposure_contribution": 0.78,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000svp9",
+            "magnitude": 5.5,
+            "latitude": 7.6333,
+            "longitude": 126.7818,
+            "depth_km": 10,
+            "time_ms": 1778081746736,
+            "place": "25 km ENE of Baganga, Philippines",
+            "distance_km": 137.4,
+            "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.78
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 96.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sy76",
+            "magnitude": 5,
+            "latitude": 6.8241,
+            "longitude": 124.6816,
+            "depth_km": 10,
+            "time_ms": 1778930743857,
+            "place": "5 km WSW of Badak, Philippines",
+            "distance_km": 96.8,
+            "exposure_contribution": 0.96,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.96
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000sy76",
+        "magnitude": 5,
+        "latitude": 6.8241,
+        "longitude": 124.6816,
+        "depth_km": 10,
+        "time_ms": 1778930743857,
+        "place": "5 km WSW of Badak, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sxk1",
+        "magnitude": 5.3,
+        "latitude": 19.0659,
+        "longitude": 121.2754,
+        "depth_km": 35,
+        "time_ms": 1778709666478,
+        "place": "51 km NNE of Namuac, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000svp9",
+        "magnitude": 5.5,
+        "latitude": 7.6333,
+        "longitude": 126.7818,
+        "depth_km": 10,
+        "time_ms": 1778081746736,
+        "place": "25 km ENE of Baganga, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000si2z",
+        "magnitude": 6,
+        "latitude": 11.7774,
+        "longitude": 125.3718,
+        "depth_km": 73.268,
+        "time_ms": 1777874990058,
+        "place": "5 km WNW of Nena, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 3.6
+  },
+  {
+    "country": "Solomon Islands",
+    "iso_alpha2": "SB",
+    "iso_alpha3": "SLB",
+    "capital": "Honiara",
+    "population": 750325,
+    "area_km2": 28896.0,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Solomon Islands dollar"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.46,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-04-18",
+      "depth_km": 58.8,
+      "latitude": -10.6593,
+      "longitude": 161.552
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Honiara International Airport",
+        "iata_code": "HIR",
+        "latitude": -9.428,
+        "longitude": 160.054993,
+        "municipality": "Honiara",
+        "closest_quake_distance_km": 95.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000swvm",
+            "magnitude": 5.2,
+            "latitude": -9.2967,
+            "longitude": 159.1915,
+            "depth_km": 10,
+            "time_ms": 1778492931604,
+            "place": "72 km NW of Malango, Solomon Islands",
+            "distance_km": 95.9,
+            "exposure_contribution": 1.23,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sy8k",
+            "magnitude": 5.7,
+            "latitude": -8.5526,
+            "longitude": 160.9161,
+            "depth_km": 23.374,
+            "time_ms": 1778944676098,
+            "place": "33 km NE of Auki, Solomon Islands",
+            "distance_km": 135.7,
+            "exposure_contribution": 1.26,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sx2s",
+            "magnitude": 5,
+            "latitude": -10.2288,
+            "longitude": 161.21,
+            "depth_km": 60.837,
+            "time_ms": 1778557542646,
+            "place": "81 km WNW of Kirakira, Solomon Islands",
+            "distance_km": 154.7,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.9
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000sy8k",
+        "magnitude": 5.7,
+        "latitude": -8.5526,
+        "longitude": 160.9161,
+        "depth_km": 23.374,
+        "time_ms": 1778944676098,
+        "place": "33 km NE of Auki, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sx5k",
+        "magnitude": 5.6,
+        "latitude": -10.649,
+        "longitude": 164.9925,
+        "depth_km": 68.161,
+        "time_ms": 1778600371100,
+        "place": "88 km W of Lata, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sx2s",
+        "magnitude": 5,
+        "latitude": -10.2288,
+        "longitude": 161.21,
+        "depth_km": 60.837,
+        "time_ms": 1778557542646,
+        "place": "81 km WNW of Kirakira, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000swvm",
+        "magnitude": 5.2,
+        "latitude": -9.2967,
+        "longitude": 159.1915,
+        "depth_km": 10,
+        "time_ms": 1778492931604,
+        "place": "72 km NW of Malango, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sr4k",
+        "magnitude": 5.8,
+        "latitude": -10.6593,
+        "longitude": 161.552,
+        "depth_km": 58.805,
+        "time_ms": 1776524581272,
+        "place": "46 km WSW of Kirakira, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 2.9
   },
   {
     "country": "Indonesia",
@@ -1123,7 +1560,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 21,
-    "avg_magnitude": 5.32,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-04-19",
@@ -1200,6 +1637,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000sy5x",
+        "magnitude": 5,
+        "latitude": -31.9282,
+        "longitude": -178.203,
+        "depth_km": 10,
+        "time_ms": 1778914135360,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000sxaj",
         "magnitude": 5.1,
         "latitude": -21.1489,
@@ -1267,14 +1715,14 @@
       },
       {
         "id": "us6000svw1",
-        "magnitude": 5.3,
-        "latitude": -27.3997,
-        "longitude": -176.6255,
-        "depth_km": 41.226,
-        "time_ms": 1778144008180,
+        "magnitude": 5.4,
+        "latitude": -27.348,
+        "longitude": -176.655,
+        "depth_km": 35,
+        "time_ms": 1778144007146,
         "place": "Kermadec Islands region",
         "country_code": "TO",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us6000svmz",
@@ -1418,378 +1866,9 @@
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000sqjb",
-        "magnitude": 6,
-        "latitude": -32.1443,
-        "longitude": -178.3174,
-        "depth_km": 12,
-        "time_ms": 1776346203496,
-        "place": "south of the Kermadec Islands",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.07
-  },
-  {
-    "country": "Peru",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "PER",
-    "capital": "Lima",
-    "population": 34350244,
-    "area_km2": 1285216.0,
-    "region": "Americas",
-    "subregion": "South America",
-    "currencies": [
-      {
-        "code": "PEN",
-        "name": "Peruvian sol"
-      }
-    ],
-    "languages": [
-      "Aymara",
-      "Quechua",
-      "Spanish"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "COL",
-      "ECU"
-    ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.1,
-    "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-04-16",
-      "depth_km": 10,
-      "latitude": -14.6212,
-      "longitude": -76.7228
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Captain Renán Elías Olivera International Airport",
-        "iata_code": "PIO",
-        "latitude": -13.7449,
-        "longitude": -76.220299,
-        "municipality": "Pisco",
-        "closest_quake_distance_km": 97.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000ssvq",
-            "magnitude": 5,
-            "latitude": -14.5714,
-            "longitude": -76.523,
-            "depth_km": 10,
-            "time_ms": 1777148079044,
-            "place": "82 km SSW of Paracas, Peru",
-            "distance_km": 97.5,
-            "exposure_contribution": 0.95,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sqib",
-            "magnitude": 5.2,
-            "latitude": -14.6212,
-            "longitude": -76.7228,
-            "depth_km": 10,
-            "time_ms": 1776326942517,
-            "place": "96 km SSW of Paracas, Peru",
-            "distance_km": 111.5,
-            "exposure_contribution": 0.98,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.93
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000svc4",
-        "magnitude": 5.1,
-        "latitude": -3.547,
-        "longitude": -80.6705,
-        "depth_km": 50.695,
-        "time_ms": 1777996707033,
-        "place": "14 km N of Zorritos, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ssvq",
-        "magnitude": 5,
-        "latitude": -14.5714,
-        "longitude": -76.523,
-        "depth_km": 10,
-        "time_ms": 1777148079044,
-        "place": "82 km SSW of Paracas, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sqib",
-        "magnitude": 5.2,
-        "latitude": -14.6212,
-        "longitude": -76.7228,
-        "depth_km": 10,
-        "time_ms": 1776326942517,
-        "place": "96 km SSW of Paracas, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.93
-  },
-  {
-    "country": "Philippines",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "PHL",
-    "capital": "Manila",
-    "population": 114123600,
-    "area_km2": 342353.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "PHP",
-        "name": "Philippine peso"
-      }
-    ],
-    "languages": [
-      "English",
-      "Filipino"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.6,
-    "strongest_earthquake": {
-      "magnitude": 6,
-      "date": "2026-05-04",
-      "depth_km": 73.3,
-      "latitude": 11.7774,
-      "longitude": 125.3718
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Laoag International Airport",
-        "iata_code": "LAO",
-        "latitude": 18.175089,
-        "longitude": 120.531006,
-        "municipality": "Laoag City",
-        "closest_quake_distance_km": 126.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sxk1",
-            "magnitude": 5.3,
-            "latitude": 19.0659,
-            "longitude": 121.2754,
-            "depth_km": 35,
-            "time_ms": 1778709666478,
-            "place": "51 km NNE of Namuac, Philippines",
-            "distance_km": 126.3,
-            "exposure_contribution": 0.86,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.86
-      },
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 137.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000svp9",
-            "magnitude": 5.5,
-            "latitude": 7.6333,
-            "longitude": 126.7818,
-            "depth_km": 10,
-            "time_ms": 1778081746736,
-            "place": "25 km ENE of Baganga, Philippines",
-            "distance_km": 137.4,
-            "exposure_contribution": 1.0,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.0
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000sxk1",
-        "magnitude": 5.3,
-        "latitude": 19.0659,
-        "longitude": 121.2754,
-        "depth_km": 35,
-        "time_ms": 1778709666478,
-        "place": "51 km NNE of Namuac, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000svp9",
-        "magnitude": 5.5,
-        "latitude": 7.6333,
-        "longitude": 126.7818,
-        "depth_km": 10,
-        "time_ms": 1778081746736,
-        "place": "25 km ENE of Baganga, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000si2z",
-        "magnitude": 6,
-        "latitude": 11.7774,
-        "longitude": 125.3718,
-        "depth_km": 73.268,
-        "time_ms": 1777874990058,
-        "place": "5 km WNW of Nena, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.86
-  },
-  {
-    "country": "Solomon Islands",
-    "iso_alpha2": "SB",
-    "iso_alpha3": "SLB",
-    "capital": "Honiara",
-    "population": 750325,
-    "area_km2": 28896.0,
-    "region": "Oceania",
-    "subregion": "Melanesia",
-    "currencies": [
-      {
-        "code": "SBD",
-        "name": "Solomon Islands dollar"
-      }
-    ],
-    "languages": [
-      "English"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.4,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-04-18",
-      "depth_km": 58.8,
-      "latitude": -10.6593,
-      "longitude": 161.552
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Honiara International Airport",
-        "iata_code": "HIR",
-        "latitude": -9.428,
-        "longitude": 160.054993,
-        "municipality": "Honiara",
-        "closest_quake_distance_km": 95.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000swvm",
-            "magnitude": 5.2,
-            "latitude": -9.2967,
-            "longitude": 159.1915,
-            "depth_km": 10,
-            "time_ms": 1778492931604,
-            "place": "72 km NW of Malango, Solomon Islands",
-            "distance_km": 95.9,
-            "exposure_contribution": 1.23,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sx2s",
-            "magnitude": 5,
-            "latitude": -10.2288,
-            "longitude": 161.21,
-            "depth_km": 60.837,
-            "time_ms": 1778557542646,
-            "place": "81 km WNW of Kirakira, Solomon Islands",
-            "distance_km": 154.7,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.64
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000sx5k",
-        "magnitude": 5.6,
-        "latitude": -10.649,
-        "longitude": 164.9925,
-        "depth_km": 68.161,
-        "time_ms": 1778600371100,
-        "place": "88 km W of Lata, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx2s",
-        "magnitude": 5,
-        "latitude": -10.2288,
-        "longitude": 161.21,
-        "depth_km": 60.837,
-        "time_ms": 1778557542646,
-        "place": "81 km WNW of Kirakira, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swvm",
-        "magnitude": 5.2,
-        "latitude": -9.2967,
-        "longitude": 159.1915,
-        "depth_km": 10,
-        "time_ms": 1778492931604,
-        "place": "72 km NW of Malango, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sr4k",
-        "magnitude": 5.8,
-        "latitude": -10.6593,
-        "longitude": 161.552,
-        "depth_km": 58.805,
-        "time_ms": 1776524581272,
-        "place": "46 km WSW of Kirakira, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.64
   },
   {
     "country": "United States",
@@ -1815,13 +1894,13 @@
       "MEX"
     ],
     "earthquake_count": 3,
-    "avg_magnitude": 5.19,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
-      "magnitude": 5.4,
+      "magnitude": 5.5,
       "date": "2026-04-25",
-      "depth_km": 35,
-      "latitude": 53.5884,
-      "longitude": -164.9144
+      "depth_km": 39.4,
+      "latitude": 53.6063,
+      "longitude": -164.8431
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 1871,
@@ -1867,12 +1946,12 @@
       },
       {
         "id": "us6000sssg",
-        "magnitude": 5.4,
-        "latitude": 53.5884,
-        "longitude": -164.9144,
-        "depth_km": 35,
-        "time_ms": 1777104356204,
-        "place": "83 km SE of Akutan, Alaska",
+        "magnitude": 5.5,
+        "latitude": 53.6063,
+        "longitude": -164.8431,
+        "depth_km": 39.41,
+        "time_ms": 1777104356550,
+        "place": "84 km SE of Akutan, Alaska",
         "country_code": "US",
         "shakemap_available": true
       },
