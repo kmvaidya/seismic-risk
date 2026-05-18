@@ -76,19 +76,19 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-05-17 08:11 UTC*
+*Last updated: 2026-05-18 09:42 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
 | 1 | Japan | JPN | 20.0 | ~ | 26 | 11 | green |
-| 2 | Vanuatu | VUT | 4.3 | NEW | 4 | 1 | - |
-| 3 | Philippines | PHL | 3.6 | +1.7 | 4 | 3 | - |
-| 4 | Solomon Islands | SLB | 2.9 | +1.3 | 5 | 1 | - |
-| 5 | Indonesia | IDN | 2.6 | ~ | 14 | 2 | - |
-| 6 | Russia | RUS | 2.6 | ~ | 8 | 1 | - |
-| 7 | Tonga | TON | 2.1 | ~ | 21 | 2 | - |
-| 8 | United States | USA | 0.8 | ~ | 3 | 1 | green |
-| 9 | Papua New Guinea | PNG | 0.3 | ~ | 8 | 1 | - |
+| 2 | Vanuatu | VUT | 4.3 | ~ | 4 | 1 | - |
+| 3 | Philippines | PHL | 3.6 | ~ | 4 | 3 | - |
+| 4 | Solomon Islands | SLB | 2.9 | ~ | 5 | 1 | - |
+| 5 | Russia | RUS | 2.6 | ~ | 9 | 1 | - |
+| 6 | Tonga | TON | 2.1 | ~ | 21 | 2 | - |
+| 7 | Indonesia | IDN | 1.6 | -1.0 | 11 | 2 | - |
+| 8 | Papua New Guinea | PNG | 1.1 | +0.8 | 9 | 1 | - |
+| 9 | United States | USA | 0.8 | ~ | 3 | 1 | green |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works
