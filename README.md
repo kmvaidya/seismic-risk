@@ -76,19 +76,20 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-05-19 09:27 UTC*
+*Last updated: 2026-05-20 08:55 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
 | 1 | Japan | JPN | 20.0 | ~ | 24 | 11 | green |
-| 2 | Vanuatu | VUT | 4.3 | ~ | 4 | 1 | - |
+| 2 | Vanuatu | VUT | 8.8 | +4.5 | 5 | 1 | - |
 | 3 | Philippines | PHL | 3.6 | ~ | 4 | 3 | - |
-| 4 | Solomon Islands | SLB | 2.9 | ~ | 4 | 1 | - |
-| 5 | Russia | RUS | 2.6 | ~ | 9 | 1 | - |
-| 6 | Tonga | TON | 2.1 | ~ | 17 | 2 | - |
-| 7 | China | CHN | 1.9 | NEW | 3 | 2 | - |
-| 8 | Indonesia | IDN | 1.2 | ~ | 9 | 2 | - |
+| 4 | Peru | PER | 3.0 | NEW | 3 | 1 | - |
+| 5 | Solomon Islands | SLB | 2.9 | ~ | 4 | 1 | - |
+| 6 | Russia | RUS | 2.6 | ~ | 9 | 1 | - |
+| 7 | Tonga | TON | 2.1 | ~ | 12 | 2 | - |
+| 8 | China | CHN | 1.9 | ~ | 3 | 2 | - |
 | 9 | Papua New Guinea | PNG | 1.1 | ~ | 9 | 1 | - |
+| 10 | Indonesia | IDN | 1.1 | ~ | 9 | 2 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works
