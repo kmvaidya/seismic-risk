@@ -1,0 +1,376 @@
+{
+  "date": "2026-05-23",
+  "scoring_method": "shakemap",
+  "countries": [
+    {
+      "iso_alpha3": "JPN",
+      "country": "Japan",
+      "score": 22.38,
+      "earthquake_count": 11,
+      "exposed_airport_count": 13,
+      "avg_magnitude": 5.45,
+      "airports": [
+        {
+          "iata_code": "KIX",
+          "name": "Kansai International Airport",
+          "exposure_score": 2.95,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 44.9,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "UKB",
+          "name": "Kobe Airport",
+          "exposure_score": 2.36,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 65.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CTS",
+          "name": "New Chitose Airport",
+          "exposure_score": 2.25,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 98.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "NGO",
+          "name": "Chubu Centrair International Airport",
+          "exposure_score": 1.04,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 141.4,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "OKJ",
+          "name": "Okayama Momotaro Airport",
+          "exposure_score": 0.78,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 171.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "KCZ",
+          "name": "Kochi Ryoma Airport",
+          "exposure_score": 0.69,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 185.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "ITM",
+          "name": "Osaka Itami International Airport",
+          "exposure_score": 2.11,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 74.8,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "TKS",
+          "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
+          "exposure_score": 1.84,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 87.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "TAK",
+          "name": "Takamatsu Airport",
+          "exposure_score": 1.03,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 141.9,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "AOJ",
+          "name": "Aomori Airport",
+          "exposure_score": 0.64,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 188.2,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "SDJ",
+          "name": "Sendai Airport",
+          "exposure_score": 4.35,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 144.3,
+          "max_pga_g": 0.0435
+        },
+        {
+          "iata_code": "OKA",
+          "name": "Naha International Airport",
+          "exposure_score": 1.04,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 172.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DNA",
+          "name": "Kadena Air Base",
+          "exposure_score": 1.3,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 150.1,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "VUT",
+      "country": "Vanuatu",
+      "score": 8.83,
+      "earthquake_count": 4,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.42,
+      "airports": [
+        {
+          "iata_code": "VLI",
+          "name": "Bauerfield International Airport",
+          "exposure_score": 8.83,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 55.7,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "PHL",
+      "country": "Philippines",
+      "score": 3.63,
+      "earthquake_count": 4,
+      "exposed_airport_count": 3,
+      "avg_magnitude": 5.45,
+      "airports": [
+        {
+          "iata_code": "LAO",
+          "name": "Laoag International Airport",
+          "exposure_score": 0.86,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 125.8,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DVO",
+          "name": "Francisco Bangoy International Airport",
+          "exposure_score": 1.81,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 111.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "GES",
+          "name": "General Santos International Airport",
+          "exposure_score": 0.96,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 96.8,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "PER",
+      "country": "Peru",
+      "score": 3.02,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.3,
+      "airports": [
+        {
+          "iata_code": "PIO",
+          "name": "Captain Ren\u00e1n El\u00edas Olivera International Airport",
+          "exposure_score": 3.02,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 91.7,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "SLB",
+      "country": "Solomon Islands",
+      "score": 2.93,
+      "earthquake_count": 5,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.38,
+      "airports": [
+        {
+          "iata_code": "HIR",
+          "name": "Honiara International Airport",
+          "exposure_score": 2.93,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 95.9,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "RUS",
+      "country": "Russia",
+      "score": 2.51,
+      "earthquake_count": 9,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.47,
+      "airports": [
+        {
+          "iata_code": "PKC",
+          "name": "Yelizovo Airport",
+          "exposure_score": 2.51,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 69.2,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "CHN",
+      "country": "China",
+      "score": 2.48,
+      "earthquake_count": 4,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.07,
+      "airports": [
+        {
+          "iata_code": "KWL",
+          "name": "Guilin Liangjiang International Airport",
+          "exposure_score": 2.13,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 117.6,
+          "max_pga_g": 0.0142
+        },
+        {
+          "iata_code": "URC",
+          "name": "\u00dcr\u00fcmqi Tianshan International Airport",
+          "exposure_score": 0.35,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 193.8,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "CHL",
+      "country": "Chile",
+      "score": 2.33,
+      "earthquake_count": 5,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.5,
+      "airports": [
+        {
+          "iata_code": "CCP",
+          "name": "Carriel Sur International Airport",
+          "exposure_score": 1.4,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 105.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "ZCO",
+          "name": "La Araucan\u00eda International Airport",
+          "exposure_score": 0.93,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 139.6,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "IDN",
+      "country": "Indonesia",
+      "score": 1.94,
+      "earthquake_count": 9,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.41,
+      "airports": [
+        {
+          "iata_code": "MDC",
+          "name": "Sam Ratulangi International Airport",
+          "exposure_score": 1.94,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 138.7,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "TON",
+      "country": "Tonga",
+      "score": 1.6,
+      "earthquake_count": 11,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.25,
+      "airports": [
+        {
+          "iata_code": "TBU",
+          "name": "Fua'amotu International Airport",
+          "exposure_score": 1.45,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 90.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "VAV",
+          "name": "Vava'u International Airport",
+          "exposure_score": 0.15,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 135.5,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "PNG",
+      "country": "Papua New Guinea",
+      "score": 1.17,
+      "earthquake_count": 10,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.31,
+      "airports": [
+        {
+          "iata_code": "LAE",
+          "name": "Nadzab Tomodachi International Airport",
+          "exposure_score": 1.17,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 95.2,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "USA",
+      "country": "United States",
+      "score": 0.8,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.42,
+      "airports": [
+        {
+          "iata_code": "RNO",
+          "name": "Reno Tahoe International Airport",
+          "exposure_score": 0.8,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 65.6,
+          "max_pga_g": 0.008
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "FJI",
+      "country": "Fiji",
+      "score": 0.48,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.1,
+      "airports": [
+        {
+          "iata_code": "NAN",
+          "name": "Nadi International Airport",
+          "exposure_score": 0.48,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 161.8,
+          "max_pga_g": null
+        }
+      ]
+    }
+  ]
+}

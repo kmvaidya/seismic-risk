@@ -19,8 +19,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.41,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.45,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-05-15",
@@ -480,28 +480,6 @@
         "place": "149 km E of Tatsugō, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000ss1u",
-        "magnitude": 5.1,
-        "latitude": 40.034,
-        "longitude": 143.0366,
-        "depth_km": 35,
-        "time_ms": 1776860315650,
-        "place": "103 km ENE of Miyako, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000srxu",
-        "magnitude": 5.3,
-        "latitude": 39.9324,
-        "longitude": 143.1911,
-        "depth_km": 35,
-        "time_ms": 1776816072343,
-        "place": "111 km ENE of Miyako, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 22.38
@@ -528,8 +506,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-19",
@@ -648,17 +626,6 @@
         "depth_km": 10,
         "time_ms": 1778936370959,
         "place": "94 km E of Port-Vila, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ss20",
-        "magnitude": 5,
-        "latitude": -15.4452,
-        "longitude": 167.4535,
-        "depth_km": 119.208,
-        "time_ms": 1776864045876,
-        "place": "32 km ENE of Luganville, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       }
@@ -971,7 +938,7 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 4,
+    "earthquake_count": 5,
     "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 5.7,
@@ -1037,6 +1004,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000szk5",
+        "magnitude": 5.4,
+        "latitude": -10.6778,
+        "longitude": 164.335,
+        "depth_km": 10,
+        "time_ms": 1779478239121,
+        "place": "160 km W of Lata, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
       {
         "id": "us6000sy8k",
         "magnitude": 5.7,
@@ -1301,6 +1279,167 @@
     "seismic_hub_risk_score": 2.51
   },
   {
+    "country": "China",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "CHN",
+    "capital": "Beijing",
+    "population": 1408280000,
+    "area_km2": 9706961.0,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan"
+      }
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.07,
+    "strongest_earthquake": {
+      "magnitude": 5.1,
+      "date": "2026-05-22",
+      "depth_km": 10,
+      "latitude": 33.6084,
+      "longitude": 90.147
+    },
+    "highest_pager_alert": "orange",
+    "max_felt_reports": 12,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Guilin Liangjiang International Airport",
+        "iata_code": "KWL",
+        "latitude": 25.219828,
+        "longitude": 110.039553,
+        "municipality": "Guilin (Lingui)",
+        "closest_quake_distance_km": 117.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syik",
+            "magnitude": 5.1,
+            "latitude": 24.4799,
+            "longitude": 109.2073,
+            "depth_km": 10,
+            "time_ms": 1779111866230,
+            "place": "26 km NW of Liuzhou, China",
+            "distance_km": 117.6,
+            "exposure_contribution": 1.42,
+            "pga_g": 0.014228,
+            "mmi": 4.1
+          },
+          {
+            "earthquake_id": "us6000sye4",
+            "magnitude": 5,
+            "latitude": 24.457,
+            "longitude": 109.2182,
+            "depth_km": 10,
+            "time_ms": 1779034866387,
+            "place": "24 km NW of Liuzhou, China",
+            "distance_km": 118.6,
+            "exposure_contribution": 0.71,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.13
+      },
+      {
+        "name": "Ürümqi Tianshan International Airport",
+        "iata_code": "URC",
+        "latitude": 43.913584,
+        "longitude": 87.479372,
+        "municipality": "Ürümqi",
+        "closest_quake_distance_km": 193.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000shy4",
+            "magnitude": 5.1,
+            "latitude": 42.2525,
+            "longitude": 88.2014,
+            "depth_km": 10,
+            "time_ms": 1777802434729,
+            "place": "111 km SW of Turpan, China",
+            "distance_km": 193.8,
+            "exposure_contribution": 0.35,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.35
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000szjs",
+        "magnitude": 5.1,
+        "latitude": 33.6084,
+        "longitude": 90.147,
+        "depth_km": 10,
+        "time_ms": 1779470187912,
+        "place": "296 km NW of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000syik",
+        "magnitude": 5.1,
+        "latitude": 24.4799,
+        "longitude": 109.2073,
+        "depth_km": 10,
+        "time_ms": 1779111866230,
+        "place": "26 km NW of Liuzhou, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sye4",
+        "magnitude": 5,
+        "latitude": 24.457,
+        "longitude": 109.2182,
+        "depth_km": 10,
+        "time_ms": 1779034866387,
+        "place": "24 km NW of Liuzhou, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000shy4",
+        "magnitude": 5.1,
+        "latitude": 42.2525,
+        "longitude": 88.2014,
+        "depth_km": 10,
+        "time_ms": 1777802434729,
+        "place": "111 km SW of Turpan, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.48
+  },
+  {
     "country": "Chile",
     "iso_alpha2": "CL",
     "iso_alpha3": "CHL",
@@ -1447,50 +1586,37 @@
     "seismic_hub_risk_score": 2.33
   },
   {
-    "country": "China",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "CHN",
-    "capital": "Beijing",
-    "population": 1408280000,
-    "area_km2": 9706961.0,
+    "country": "Indonesia",
+    "iso_alpha2": "ID",
+    "iso_alpha3": "IDN",
+    "capital": "Jakarta",
+    "population": 284438782,
+    "area_km2": 1904569.0,
     "region": "Asia",
-    "subregion": "Eastern Asia",
+    "subregion": "South-Eastern Asia",
     "currencies": [
       {
-        "code": "CNY",
-        "name": "Chinese yuan"
+        "code": "IDR",
+        "name": "Indonesian rupiah"
       }
     ],
     "languages": [
-      "Chinese"
+      "Indonesian"
     ],
     "un_member": true,
     "bordering_countries": [
-      "AFG",
-      "BTN",
-      "MMR",
-      "HKG",
-      "IND",
-      "KAZ",
-      "NPL",
-      "PRK",
-      "KGZ",
-      "LAO",
-      "MAC",
-      "MNG",
-      "PAK",
-      "RUS",
-      "TJK",
-      "VNM"
+      "TLS",
+      "MYS",
+      "PNG"
     ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.07,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
-      "magnitude": 5.1,
-      "date": "2026-05-18",
-      "depth_km": 10,
-      "latitude": 24.4799,
-      "longitude": 109.2073
+      "magnitude": 6.2,
+      "date": "2026-05-14",
+      "depth_km": 146.1,
+      "latitude": -6.198,
+      "longitude": 130.3702
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1498,103 +1624,145 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Guilin Liangjiang International Airport",
-        "iata_code": "KWL",
-        "latitude": 25.219828,
-        "longitude": 110.039553,
-        "municipality": "Guilin (Lingui)",
-        "closest_quake_distance_km": 117.6,
+        "name": "Sam Ratulangi International Airport",
+        "iata_code": "MDC",
+        "latitude": 1.548591,
+        "longitude": 124.92625,
+        "municipality": "Manado",
+        "closest_quake_distance_km": 138.7,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000syik",
-            "magnitude": 5.1,
-            "latitude": 24.4799,
-            "longitude": 109.2073,
-            "depth_km": 10,
-            "time_ms": 1779111866230,
-            "place": "26 km NW of Liuzhou, China",
-            "distance_km": 117.6,
-            "exposure_contribution": 0.8,
+            "earthquake_id": "us6000szdy",
+            "magnitude": 5.9,
+            "latitude": 1.0433,
+            "longitude": 126.067,
+            "depth_km": 35,
+            "time_ms": 1779411908540,
+            "place": "113 km ESE of Bitung, Indonesia",
+            "distance_km": 138.7,
+            "exposure_contribution": 1.49,
             "pga_g": null,
             "mmi": null
           },
           {
-            "earthquake_id": "us6000sye4",
-            "magnitude": 5,
-            "latitude": 24.457,
-            "longitude": 109.2182,
-            "depth_km": 10,
-            "time_ms": 1779034866387,
-            "place": "24 km NW of Liuzhou, China",
-            "distance_km": 118.6,
-            "exposure_contribution": 0.71,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.51
-      },
-      {
-        "name": "Ürümqi Tianshan International Airport",
-        "iata_code": "URC",
-        "latitude": 43.913584,
-        "longitude": 87.479372,
-        "municipality": "Ürümqi",
-        "closest_quake_distance_km": 193.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shy4",
+            "earthquake_id": "us6000sshk",
             "magnitude": 5.1,
-            "latitude": 42.2525,
-            "longitude": 88.2014,
-            "depth_km": 10,
-            "time_ms": 1777802434729,
-            "place": "111 km SW of Turpan, China",
-            "distance_km": 193.8,
-            "exposure_contribution": 0.35,
+            "latitude": 1.108,
+            "longitude": 126.3329,
+            "depth_km": 40.552,
+            "time_ms": 1777005921614,
+            "place": "122 km WNW of Ternate, Indonesia",
+            "distance_km": 163.9,
+            "exposure_contribution": 0.45,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.35
+        "exposure_score": 1.94
       }
     ],
     "earthquakes": [
       {
-        "id": "us6000syik",
-        "magnitude": 5.1,
-        "latitude": 24.4799,
-        "longitude": 109.2073,
+        "id": "us6000szdy",
+        "magnitude": 5.9,
+        "latitude": 1.0433,
+        "longitude": 126.067,
+        "depth_km": 35,
+        "time_ms": 1779411908540,
+        "place": "113 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syy1",
+        "magnitude": 5.2,
+        "latitude": -8.2248,
+        "longitude": 119.2187,
         "depth_km": 10,
-        "time_ms": 1779111866230,
-        "place": "26 km NW of Liuzhou, China",
-        "country_code": "CN",
+        "time_ms": 1779272929290,
+        "place": "45 km NE of Sape, Indonesia",
+        "country_code": "ID",
         "shakemap_available": false
       },
       {
-        "id": "us6000sye4",
+        "id": "us6000sxqf",
+        "magnitude": 6.2,
+        "latitude": -6.198,
+        "longitude": 130.3702,
+        "depth_km": 146.066,
+        "time_ms": 1778781194710,
+        "place": "271 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sx3v",
         "magnitude": 5,
-        "latitude": 24.457,
-        "longitude": 109.2182,
-        "depth_km": 10,
-        "time_ms": 1779034866387,
-        "place": "24 km NW of Liuzhou, China",
-        "country_code": "CN",
+        "latitude": 4.8333,
+        "longitude": 127.5121,
+        "depth_km": 108.574,
+        "time_ms": 1778576036666,
+        "place": "224 km SE of Pondaguitan, Philippines",
+        "country_code": "ID",
         "shakemap_available": false
       },
       {
-        "id": "us7000shy4",
-        "magnitude": 5.1,
-        "latitude": 42.2525,
-        "longitude": 88.2014,
+        "id": "us6000swk8",
+        "magnitude": 5,
+        "latitude": -7.0242,
+        "longitude": 132.0136,
         "depth_km": 10,
-        "time_ms": 1777802434729,
-        "place": "111 km SW of Turpan, China",
-        "country_code": "CN",
+        "time_ms": 1778380943775,
+        "place": "174 km SSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sicu",
+        "magnitude": 5.8,
+        "latitude": -10.1135,
+        "longitude": 119.3245,
+        "depth_km": 35.536,
+        "time_ms": 1777963491479,
+        "place": "76 km S of Tambolaka, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000siat",
+        "magnitude": 5.3,
+        "latitude": -6.4335,
+        "longitude": 130.1627,
+        "depth_km": 153.768,
+        "time_ms": 1777948729853,
+        "place": "Banda Sea",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000shsh",
+        "magnitude": 5.2,
+        "latitude": -6.0254,
+        "longitude": 130.8107,
+        "depth_km": 122.103,
+        "time_ms": 1777717626738,
+        "place": "219 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sshk",
+        "magnitude": 5.1,
+        "latitude": 1.108,
+        "longitude": 126.3329,
+        "depth_km": 40.552,
+        "time_ms": 1777005921614,
+        "place": "122 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.86
+    "seismic_hub_risk_score": 1.94
   },
   {
     "country": "Tonga",
@@ -1842,14 +2010,14 @@
     "bordering_countries": [
       "IDN"
     ],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.7,
-      "date": "2026-04-30",
+      "date": "2026-05-22",
       "depth_km": 10,
-      "latitude": -3.4449,
-      "longitude": 148.8022
+      "latitude": -2.857,
+      "longitude": 147.713
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1895,6 +2063,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000szgb",
+        "magnitude": 5.7,
+        "latitude": -2.857,
+        "longitude": 147.713,
+        "depth_km": 10,
+        "time_ms": 1779444499139,
+        "place": "103 km SSE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
       {
         "id": "us6000syfk",
         "magnitude": 5,
@@ -1998,6 +2177,105 @@
     "seismic_hub_risk_score": 1.17
   },
   {
+    "country": "United States",
+    "iso_alpha2": "US",
+    "iso_alpha3": "USA",
+    "capital": "Washington, D.C.",
+    "population": 340110988,
+    "area_km2": 9525067.0,
+    "region": "Americas",
+    "subregion": "North America",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "CAN",
+      "MEX"
+    ],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.42,
+    "strongest_earthquake": {
+      "magnitude": 5.6,
+      "date": "2026-05-22",
+      "depth_km": 14.9,
+      "latitude": 52.5074,
+      "longitude": -171.7064
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 1871,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Reno Tahoe International Airport",
+        "iata_code": "RNO",
+        "latitude": 39.4991,
+        "longitude": -119.767998,
+        "municipality": "Reno",
+        "closest_quake_distance_km": 65.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "nn00916980",
+            "magnitude": 5.17,
+            "latitude": 39.3066,
+            "longitude": -119.0467,
+            "depth_km": 5,
+            "time_ms": 1777623439870,
+            "place": "19 km SE of Silver Springs, Nevada",
+            "distance_km": 65.6,
+            "exposure_contribution": 0.8,
+            "pga_g": 0.00803,
+            "mmi": 3.2
+          }
+        ],
+        "exposure_score": 0.8
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000szgm",
+        "magnitude": 5.6,
+        "latitude": 52.5074,
+        "longitude": -171.7064,
+        "depth_km": 14.926,
+        "time_ms": 1779452174095,
+        "place": "173 km E of Atka, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "nn00916980",
+        "magnitude": 5.17,
+        "latitude": 39.3066,
+        "longitude": -119.0467,
+        "depth_km": 5,
+        "time_ms": 1777623439870,
+        "place": "19 km SE of Silver Springs, Nevada",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sssg",
+        "magnitude": 5.5,
+        "latitude": 53.5522,
+        "longitude": -164.8245,
+        "depth_km": 31.427,
+        "time_ms": 1777104355586,
+        "place": "90 km SE of Akutan, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.8
+  },
+  {
     "country": "Fiji",
     "iso_alpha2": "FJ",
     "iso_alpha3": "FJI",
@@ -2094,160 +2372,5 @@
       }
     ],
     "seismic_hub_risk_score": 0.48
-  },
-  {
-    "country": "Indonesia",
-    "iso_alpha2": "ID",
-    "iso_alpha3": "IDN",
-    "capital": "Jakarta",
-    "population": 284438782,
-    "area_km2": 1904569.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "IDR",
-        "name": "Indonesian rupiah"
-      }
-    ],
-    "languages": [
-      "Indonesian"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "TLS",
-      "MYS",
-      "PNG"
-    ],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.35,
-    "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-05-14",
-      "depth_km": 146.1,
-      "latitude": -6.198,
-      "longitude": 130.3702
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 163.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sshk",
-            "magnitude": 5.1,
-            "latitude": 1.108,
-            "longitude": 126.3329,
-            "depth_km": 40.552,
-            "time_ms": 1777005921614,
-            "place": "122 km WNW of Ternate, Indonesia",
-            "distance_km": 163.9,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.45
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000syy1",
-        "magnitude": 5.2,
-        "latitude": -8.2248,
-        "longitude": 119.2187,
-        "depth_km": 10,
-        "time_ms": 1779272929290,
-        "place": "45 km NE of Sape, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxqf",
-        "magnitude": 6.2,
-        "latitude": -6.198,
-        "longitude": 130.3702,
-        "depth_km": 146.066,
-        "time_ms": 1778781194710,
-        "place": "271 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx3v",
-        "magnitude": 5,
-        "latitude": 4.8333,
-        "longitude": 127.5121,
-        "depth_km": 108.574,
-        "time_ms": 1778576036666,
-        "place": "224 km SE of Pondaguitan, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swk8",
-        "magnitude": 5,
-        "latitude": -7.0242,
-        "longitude": 132.0136,
-        "depth_km": 10,
-        "time_ms": 1778380943775,
-        "place": "174 km SSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sicu",
-        "magnitude": 5.8,
-        "latitude": -10.1135,
-        "longitude": 119.3245,
-        "depth_km": 35.536,
-        "time_ms": 1777963491479,
-        "place": "76 km S of Tambolaka, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000siat",
-        "magnitude": 5.3,
-        "latitude": -6.4335,
-        "longitude": 130.1627,
-        "depth_km": 153.768,
-        "time_ms": 1777948729853,
-        "place": "Banda Sea",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000shsh",
-        "magnitude": 5.2,
-        "latitude": -6.0254,
-        "longitude": 130.8107,
-        "depth_km": 122.103,
-        "time_ms": 1777717626738,
-        "place": "219 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sshk",
-        "magnitude": 5.1,
-        "latitude": 1.108,
-        "longitude": 126.3329,
-        "depth_km": 40.552,
-        "time_ms": 1777005921614,
-        "place": "122 km WNW of Ternate, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.45
   }
 ]
