@@ -19,8 +19,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.49,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.54,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-05-15",
@@ -269,22 +269,9 @@
             "exposure_contribution": 0.32,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sshp",
-            "magnitude": 5,
-            "latitude": 40.1669,
-            "longitude": 142.8141,
-            "depth_km": 35,
-            "time_ms": 1777007590983,
-            "place": "85 km E of Noda, Japan",
-            "distance_km": 190.5,
-            "exposure_contribution": 0.32,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 0.64
+        "exposure_score": 0.32
       },
       {
         "name": "Sendai Airport",
@@ -458,20 +445,9 @@
         "place": "77 km E of Noda, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sshp",
-        "magnitude": 5,
-        "latitude": 40.1669,
-        "longitude": 142.8141,
-        "depth_km": 35,
-        "time_ms": 1777007590983,
-        "place": "85 km E of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 22.38
+    "seismic_hub_risk_score": 22.06
   },
   {
     "country": "United States",
@@ -506,7 +482,7 @@
       "longitude": -155.8425
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 7105,
+    "max_felt_reports": 7152,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -811,8 +787,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.45,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-05-04",
@@ -855,18 +831,18 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 111.6,
+        "closest_quake_distance_km": 110.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000sy76",
             "magnitude": 5,
-            "latitude": 6.8241,
-            "longitude": 124.6816,
+            "latitude": 6.8189,
+            "longitude": 124.695,
             "depth_km": 10,
-            "time_ms": 1778930743857,
-            "place": "5 km WSW of Badak, Philippines",
-            "distance_km": 111.6,
-            "exposure_contribution": 0.78,
+            "time_ms": 1778930744044,
+            "place": "4 km SW of Badak, Philippines",
+            "distance_km": 110.4,
+            "exposure_contribution": 0.79,
             "pga_g": null,
             "mmi": null
           },
@@ -884,7 +860,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.81
+        "exposure_score": 1.82
       },
       {
         "name": "General Santos International Airport",
@@ -892,34 +868,56 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 96.8,
+        "closest_quake_distance_km": 95.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000sy76",
             "magnitude": 5,
-            "latitude": 6.8241,
-            "longitude": 124.6816,
+            "latitude": 6.8189,
+            "longitude": 124.695,
             "depth_km": 10,
-            "time_ms": 1778930743857,
-            "place": "5 km WSW of Badak, Philippines",
-            "distance_km": 96.8,
-            "exposure_contribution": 0.96,
+            "time_ms": 1778930744044,
+            "place": "4 km SW of Badak, Philippines",
+            "distance_km": 95.6,
+            "exposure_contribution": 0.98,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.96
+        "exposure_score": 0.98
       }
     ],
     "earthquakes": [
       {
+        "id": "us6000szxz",
+        "magnitude": 5.5,
+        "latitude": 9.3032,
+        "longitude": 126.3113,
+        "depth_km": 34,
+        "time_ms": 1779641320754,
+        "place": "13 km E of Cortes, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000szxh",
+        "magnitude": 5,
+        "latitude": 9.1087,
+        "longitude": 126.5259,
+        "depth_km": 60.122,
+        "time_ms": 1779628746469,
+        "place": "31 km ENE of La Paz, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000sy76",
         "magnitude": 5,
-        "latitude": 6.8241,
-        "longitude": 124.6816,
+        "latitude": 6.8189,
+        "longitude": 124.695,
         "depth_km": 10,
-        "time_ms": 1778930743857,
-        "place": "5 km WSW of Badak, Philippines",
+        "time_ms": 1778930744044,
+        "place": "4 km SW of Badak, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -957,7 +955,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.63
+    "seismic_hub_risk_score": 3.66
   },
   {
     "country": "Peru",
@@ -1221,222 +1219,6 @@
     "seismic_hub_risk_score": 2.93
   },
   {
-    "country": "Russia",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "RUS",
-    "capital": "Moscow",
-    "population": 146028325,
-    "area_km2": 17098246.0,
-    "region": "Europe",
-    "subregion": "Eastern Europe",
-    "currencies": [
-      {
-        "code": "RUB",
-        "name": "Russian ruble"
-      }
-    ],
-    "languages": [
-      "Russian"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AZE",
-      "BLR",
-      "CHN",
-      "EST",
-      "FIN",
-      "GEO",
-      "KAZ",
-      "PRK",
-      "LVA",
-      "LTU",
-      "MNG",
-      "NOR",
-      "POL",
-      "UKR"
-    ],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.47,
-    "strongest_earthquake": {
-      "magnitude": 6.1,
-      "date": "2026-05-09",
-      "depth_km": 16.3,
-      "latitude": 50.981,
-      "longitude": 179.214
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 69.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sst4",
-            "magnitude": 5.2,
-            "latitude": 52.6012,
-            "longitude": 158.8735,
-            "depth_km": 80.156,
-            "time_ms": 1777112420605,
-            "place": "48 km SE of Vilyuchinsk, Russia",
-            "distance_km": 69.2,
-            "exposure_contribution": 1.07,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000ssja",
-            "magnitude": 5.1,
-            "latitude": 52.8549,
-            "longitude": 161.0745,
-            "depth_km": 10,
-            "time_ms": 1777034976689,
-            "place": "166 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 178.9,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000ssiy",
-            "magnitude": 5.4,
-            "latitude": 52.7415,
-            "longitude": 161.0728,
-            "depth_km": 35,
-            "time_ms": 1777025076732,
-            "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 181.9,
-            "exposure_contribution": 0.54,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000ssik",
-            "magnitude": 5.3,
-            "latitude": 52.8076,
-            "longitude": 161.1048,
-            "depth_km": 10,
-            "time_ms": 1777021167876,
-            "place": "168 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 182.1,
-            "exposure_contribution": 0.5,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.51
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000syc2",
-        "magnitude": 5.4,
-        "latitude": 50.8582,
-        "longitude": 157.2919,
-        "depth_km": 44,
-        "time_ms": 1779005057461,
-        "place": "84 km ENE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000swf4",
-        "magnitude": 5.8,
-        "latitude": 51.0818,
-        "longitude": 179.349,
-        "depth_km": 26.482,
-        "time_ms": 1778301743298,
-        "place": "292 km WSW of Adak, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "aka2026jcufoy",
-        "magnitude": 6.1,
-        "latitude": 50.981,
-        "longitude": 179.214,
-        "depth_km": 16.3,
-        "time_ms": 1778301741975,
-        "place": "Rat Islands, Aleutian Islands, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000svnr",
-        "magnitude": 5.8,
-        "latitude": 52.3404,
-        "longitude": 176.5321,
-        "depth_km": 10,
-        "time_ms": 1778076932308,
-        "place": "233 km ESE of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000shh1",
-        "magnitude": 5.1,
-        "latitude": 50.859,
-        "longitude": 157.0891,
-        "depth_km": 76.017,
-        "time_ms": 1777608196561,
-        "place": "70 km ENE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sst4",
-        "magnitude": 5.2,
-        "latitude": 52.6012,
-        "longitude": 158.8735,
-        "depth_km": 80.156,
-        "time_ms": 1777112420605,
-        "place": "48 km SE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ssja",
-        "magnitude": 5.1,
-        "latitude": 52.8549,
-        "longitude": 161.0745,
-        "depth_km": 10,
-        "time_ms": 1777034976689,
-        "place": "166 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ssiy",
-        "magnitude": 5.4,
-        "latitude": 52.7415,
-        "longitude": 161.0728,
-        "depth_km": 35,
-        "time_ms": 1777025076732,
-        "place": "168 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000ssik",
-        "magnitude": 5.3,
-        "latitude": 52.8076,
-        "longitude": 161.1048,
-        "depth_km": 10,
-        "time_ms": 1777021167876,
-        "place": "168 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.51
-  },
-  {
     "country": "China",
     "iso_alpha2": "CN",
     "iso_alpha3": "CHN",
@@ -1621,8 +1403,8 @@
       "BOL",
       "PER"
     ],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.5,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.47,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-05-20",
@@ -1685,6 +1467,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000szx2",
+        "magnitude": 5.3,
+        "latitude": -35.7131,
+        "longitude": -104.9788,
+        "depth_km": 10,
+        "time_ms": 1779563946642,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
       {
         "id": "us6000sz1t",
         "magnitude": 5,
@@ -1767,8 +1560,8 @@
       "MYS",
       "PNG"
     ],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-05-14",
@@ -1801,22 +1594,9 @@
             "exposure_contribution": 1.49,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sshk",
-            "magnitude": 5.1,
-            "latitude": 1.108,
-            "longitude": 126.3329,
-            "depth_km": 40.552,
-            "time_ms": 1777005921614,
-            "place": "122 km WNW of Ternate, Indonesia",
-            "distance_km": 163.9,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.94
+        "exposure_score": 1.49
       }
     ],
     "earthquakes": [
@@ -1918,20 +1698,9 @@
         "place": "219 km WSW of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sshk",
-        "magnitude": 5.1,
-        "latitude": 1.108,
-        "longitude": 126.3329,
-        "depth_km": 40.552,
-        "time_ms": 1777005921614,
-        "place": "122 km WNW of Ternate, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.94
+    "seismic_hub_risk_score": 1.49
   },
   {
     "country": "Tonga",
@@ -2076,10 +1845,10 @@
       {
         "id": "us6000swhy",
         "magnitude": 5.3,
-        "latitude": -26.8393,
-        "longitude": -176.7692,
+        "latitude": -26.868,
+        "longitude": -176.6645,
         "depth_km": 10,
-        "time_ms": 1778359189843,
+        "time_ms": 1778359189486,
         "place": "south of the Fiji Islands",
         "country_code": "TO",
         "shakemap_available": false
@@ -2175,18 +1944,18 @@
         "latitude": -6.567995,
         "longitude": 146.726544,
         "municipality": "Lae",
-        "closest_quake_distance_km": 95.2,
+        "closest_quake_distance_km": 95.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000syfk",
             "magnitude": 5,
-            "latitude": -6.4496,
-            "longitude": 147.5796,
-            "depth_km": 59.771,
-            "time_ms": 1779058712187,
-            "place": "31 km WNW of Finschhafen, Papua New Guinea",
-            "distance_km": 95.2,
-            "exposure_contribution": 0.77,
+            "latitude": -6.4262,
+            "longitude": 147.5801,
+            "depth_km": 77.166,
+            "time_ms": 1779058714065,
+            "place": "32 km WNW of Finschhafen, Papua New Guinea",
+            "distance_km": 95.6,
+            "exposure_contribution": 0.67,
             "pga_g": null,
             "mmi": null
           },
@@ -2204,7 +1973,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.17
+        "exposure_score": 1.07
       }
     ],
     "earthquakes": [
@@ -2222,11 +1991,11 @@
       {
         "id": "us6000syfk",
         "magnitude": 5,
-        "latitude": -6.4496,
-        "longitude": 147.5796,
-        "depth_km": 59.771,
-        "time_ms": 1779058712187,
-        "place": "31 km WNW of Finschhafen, Papua New Guinea",
+        "latitude": -6.4262,
+        "longitude": 147.5801,
+        "depth_km": 77.166,
+        "time_ms": 1779058714065,
+        "place": "32 km WNW of Finschhafen, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
@@ -2319,7 +2088,151 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.17
+    "seismic_hub_risk_score": 1.07
+  },
+  {
+    "country": "Russia",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "RUS",
+    "capital": "Moscow",
+    "population": 146028325,
+    "area_km2": 17098246.0,
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Russian ruble"
+      }
+    ],
+    "languages": [
+      "Russian"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.57,
+    "strongest_earthquake": {
+      "magnitude": 6.1,
+      "date": "2026-05-09",
+      "depth_km": 16.3,
+      "latitude": 50.981,
+      "longitude": 179.214
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 69.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sst4",
+            "magnitude": 5.2,
+            "latitude": 52.6012,
+            "longitude": 158.8735,
+            "depth_km": 80.156,
+            "time_ms": 1777112420605,
+            "place": "48 km SE of Vilyuchinsk, Russia",
+            "distance_km": 69.2,
+            "exposure_contribution": 1.07,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.07
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000syc2",
+        "magnitude": 5.4,
+        "latitude": 50.8582,
+        "longitude": 157.2919,
+        "depth_km": 44,
+        "time_ms": 1779005057461,
+        "place": "84 km ENE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000swf4",
+        "magnitude": 5.8,
+        "latitude": 51.0818,
+        "longitude": 179.349,
+        "depth_km": 26.482,
+        "time_ms": 1778301743298,
+        "place": "292 km WSW of Adak, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "aka2026jcufoy",
+        "magnitude": 6.1,
+        "latitude": 50.981,
+        "longitude": 179.214,
+        "depth_km": 16.3,
+        "time_ms": 1778301741975,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000svnr",
+        "magnitude": 5.8,
+        "latitude": 52.3404,
+        "longitude": 176.5321,
+        "depth_km": 10,
+        "time_ms": 1778076932308,
+        "place": "233 km ESE of Attu Station, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000shh1",
+        "magnitude": 5.1,
+        "latitude": 50.859,
+        "longitude": 157.0891,
+        "depth_km": 76.017,
+        "time_ms": 1777608196561,
+        "place": "70 km ENE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sst4",
+        "magnitude": 5.2,
+        "latitude": 52.6012,
+        "longitude": 158.8735,
+        "depth_km": 80.156,
+        "time_ms": 1777112420605,
+        "place": "48 km SE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.07
   },
   {
     "country": "Fiji",
