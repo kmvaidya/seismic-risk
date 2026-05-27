@@ -19,7 +19,7 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 9,
+    "earthquake_count": 7,
     "avg_magnitude": 5.54,
     "strongest_earthquake": {
       "magnitude": 6.7,
@@ -80,30 +80,6 @@
           }
         ],
         "exposure_score": 2.36
-      },
-      {
-        "name": "New Chitose Airport",
-        "iata_code": "CTS",
-        "latitude": 42.774753,
-        "longitude": 141.690414,
-        "municipality": "Sapporo",
-        "closest_quake_distance_km": 98.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000st1m",
-            "magnitude": 6.1,
-            "latitude": 42.7102,
-            "longitude": 142.8944,
-            "depth_km": 81,
-            "time_ms": 1777235035653,
-            "place": "24 km WNW of Sarabetsu, Japan",
-            "distance_km": 98.6,
-            "exposure_contribution": 2.25,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.25
       },
       {
         "name": "Chubu Centrair International Airport",
@@ -250,30 +226,6 @@
         "exposure_score": 1.03
       },
       {
-        "name": "Aomori Airport",
-        "iata_code": "AOJ",
-        "latitude": 40.733777,
-        "longitude": 140.689477,
-        "municipality": "Aomori",
-        "closest_quake_distance_km": 188.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000st11",
-            "magnitude": 5,
-            "latitude": 40.0529,
-            "longitude": 142.7243,
-            "depth_km": 35,
-            "time_ms": 1777222642588,
-            "place": "77 km E of Noda, Japan",
-            "distance_km": 188.2,
-            "exposure_contribution": 0.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.32
-      },
-      {
         "name": "Sendai Airport",
         "iata_code": "SDJ",
         "latitude": 38.139702,
@@ -405,10 +357,10 @@
       {
         "id": "us7000si9t",
         "magnitude": 5.2,
-        "latitude": 39.9983,
-        "longitude": 143.0625,
-        "depth_km": 24.677,
-        "time_ms": 1777938845742,
+        "latitude": 39.9553,
+        "longitude": 143.0788,
+        "depth_km": 40.128,
+        "time_ms": 1777938847597,
         "place": "103 km ENE of Miyako, Japan",
         "country_code": "JP",
         "shakemap_available": false
@@ -423,31 +375,9 @@
         "place": "12 km SSW of Kōya, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000st1m",
-        "magnitude": 6.1,
-        "latitude": 42.7102,
-        "longitude": 142.8944,
-        "depth_km": 81,
-        "time_ms": 1777235035653,
-        "place": "24 km WNW of Sarabetsu, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000st11",
-        "magnitude": 5,
-        "latitude": 40.0529,
-        "longitude": 142.7243,
-        "depth_km": 35,
-        "time_ms": 1777222642588,
-        "place": "77 km E of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 22.06
+    "seismic_hub_risk_score": 19.49
   },
   {
     "country": "United States",
@@ -482,7 +412,7 @@
       "longitude": -155.8425
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 7173,
+    "max_felt_reports": 7181,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1143,9 +1073,9 @@
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-05-14",
-      "depth_km": 146.1,
-      "latitude": -6.198,
-      "longitude": 130.3702
+      "depth_km": 137,
+      "latitude": -6.1497,
+      "longitude": 130.3809
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1238,11 +1168,11 @@
       {
         "id": "us6000sxqf",
         "magnitude": 6.2,
-        "latitude": -6.198,
-        "longitude": 130.3702,
-        "depth_km": 146.066,
-        "time_ms": 1778781194710,
-        "place": "271 km WSW of Tual, Indonesia",
+        "latitude": -6.1497,
+        "longitude": 130.3809,
+        "depth_km": 137,
+        "time_ms": 1778781193718,
+        "place": "268 km WSW of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1271,11 +1201,11 @@
       {
         "id": "us7000sicu",
         "magnitude": 5.8,
-        "latitude": -10.1135,
-        "longitude": 119.3245,
-        "depth_km": 35.536,
-        "time_ms": 1777963491479,
-        "place": "76 km S of Tambolaka, Indonesia",
+        "latitude": -10.0638,
+        "longitude": 119.3249,
+        "depth_km": 22,
+        "time_ms": 1777963489944,
+        "place": "70 km S of Tambolaka, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1303,167 +1233,6 @@
       }
     ],
     "seismic_hub_risk_score": 2.56
-  },
-  {
-    "country": "China",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "CHN",
-    "capital": "Beijing",
-    "population": 1408280000,
-    "area_km2": 9706961.0,
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "currencies": [
-      {
-        "code": "CNY",
-        "name": "Chinese yuan"
-      }
-    ],
-    "languages": [
-      "Chinese"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "AFG",
-      "BTN",
-      "MMR",
-      "HKG",
-      "IND",
-      "KAZ",
-      "NPL",
-      "PRK",
-      "KGZ",
-      "LAO",
-      "MAC",
-      "MNG",
-      "PAK",
-      "RUS",
-      "TJK",
-      "VNM"
-    ],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.07,
-    "strongest_earthquake": {
-      "magnitude": 5.1,
-      "date": "2026-05-22",
-      "depth_km": 10,
-      "latitude": 33.6084,
-      "longitude": 90.147
-    },
-    "highest_pager_alert": "orange",
-    "max_felt_reports": 12,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Guilin Liangjiang International Airport",
-        "iata_code": "KWL",
-        "latitude": 25.219828,
-        "longitude": 110.039553,
-        "municipality": "Guilin (Lingui)",
-        "closest_quake_distance_km": 117.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syik",
-            "magnitude": 5.1,
-            "latitude": 24.4799,
-            "longitude": 109.2073,
-            "depth_km": 10,
-            "time_ms": 1779111866230,
-            "place": "26 km NW of Liuzhou, China",
-            "distance_km": 117.6,
-            "exposure_contribution": 1.42,
-            "pga_g": 0.014228,
-            "mmi": 4.1
-          },
-          {
-            "earthquake_id": "us6000sye4",
-            "magnitude": 5,
-            "latitude": 24.4193,
-            "longitude": 109.2487,
-            "depth_km": 10,
-            "time_ms": 1779034866222,
-            "place": "19 km WNW of Liuzhou, China",
-            "distance_km": 119.6,
-            "exposure_contribution": 0.7,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.12
-      },
-      {
-        "name": "Ürümqi Tianshan International Airport",
-        "iata_code": "URC",
-        "latitude": 43.913584,
-        "longitude": 87.479372,
-        "municipality": "Ürümqi",
-        "closest_quake_distance_km": 193.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shy4",
-            "magnitude": 5.1,
-            "latitude": 42.2525,
-            "longitude": 88.2014,
-            "depth_km": 10,
-            "time_ms": 1777802434729,
-            "place": "111 km SW of Turpan, China",
-            "distance_km": 193.8,
-            "exposure_contribution": 0.35,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.35
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000szjs",
-        "magnitude": 5.1,
-        "latitude": 33.6084,
-        "longitude": 90.147,
-        "depth_km": 10,
-        "time_ms": 1779470187912,
-        "place": "296 km NW of Nagqu, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000syik",
-        "magnitude": 5.1,
-        "latitude": 24.4799,
-        "longitude": 109.2073,
-        "depth_km": 10,
-        "time_ms": 1779111866230,
-        "place": "26 km NW of Liuzhou, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sye4",
-        "magnitude": 5,
-        "latitude": 24.4193,
-        "longitude": 109.2487,
-        "depth_km": 10,
-        "time_ms": 1779034866222,
-        "place": "19 km WNW of Liuzhou, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000shy4",
-        "magnitude": 5.1,
-        "latitude": 42.2525,
-        "longitude": 88.2014,
-        "depth_km": 10,
-        "time_ms": 1777802434729,
-        "place": "111 km SW of Turpan, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.47
   },
   {
     "country": "Chile",
@@ -1499,7 +1268,7 @@
       "longitude": -68.6422
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 66,
+    "max_felt_reports": 76,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1562,7 +1331,7 @@
         "time_ms": 1779745940043,
         "place": "29 km ENE of Calama, Chile",
         "country_code": "CL",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us6000szx2",
@@ -1654,8 +1423,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-12",
@@ -1712,12 +1481,71 @@
             "exposure_contribution": 0.15,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000snpf",
+            "magnitude": 5,
+            "latitude": -17.2705,
+            "longitude": -174.2097,
+            "depth_km": 118.289,
+            "time_ms": 1779823511739,
+            "place": "152 km SSW of Hihifo, Tonga",
+            "distance_km": 148.5,
+            "exposure_contribution": 0.33,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000snpe",
+            "magnitude": 5.4,
+            "latitude": -17.6654,
+            "longitude": -172.621,
+            "depth_km": 10,
+            "time_ms": 1779822751037,
+            "place": "180 km NE of Neiafu, Tonga",
+            "distance_km": 174.8,
+            "exposure_contribution": 0.6,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 0.15
+        "exposure_score": 1.08
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000snpf",
+        "magnitude": 5,
+        "latitude": -17.2705,
+        "longitude": -174.2097,
+        "depth_km": 118.289,
+        "time_ms": 1779823511739,
+        "place": "152 km SSW of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000snpe",
+        "magnitude": 5.4,
+        "latitude": -17.6654,
+        "longitude": -172.621,
+        "depth_km": 10,
+        "time_ms": 1779822751037,
+        "place": "180 km NE of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t05n",
+        "magnitude": 5.3,
+        "latitude": -28.3135,
+        "longitude": -176.5972,
+        "depth_km": 10,
+        "time_ms": 1779761283420,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000sy5x",
         "magnitude": 5,
@@ -1829,7 +1657,144 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.33
+    "seismic_hub_risk_score": 2.26
+  },
+  {
+    "country": "China",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "CHN",
+    "capital": "Beijing",
+    "population": 1408280000,
+    "area_km2": 9706961.0,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Chinese yuan"
+      }
+    ],
+    "languages": [
+      "Chinese"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "NPL",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.07,
+    "strongest_earthquake": {
+      "magnitude": 5.1,
+      "date": "2026-05-22",
+      "depth_km": 10,
+      "latitude": 33.6084,
+      "longitude": 90.147
+    },
+    "highest_pager_alert": "orange",
+    "max_felt_reports": 12,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Guilin Liangjiang International Airport",
+        "iata_code": "KWL",
+        "latitude": 25.219828,
+        "longitude": 110.039553,
+        "municipality": "Guilin (Lingui)",
+        "closest_quake_distance_km": 111.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syik",
+            "magnitude": 5.1,
+            "latitude": 24.4992,
+            "longitude": 109.2666,
+            "depth_km": 10,
+            "time_ms": 1779111866120,
+            "place": "24 km NW of Liuzhou, China",
+            "distance_km": 111.8,
+            "exposure_contribution": 1.42,
+            "pga_g": 0.014228,
+            "mmi": 4.1
+          },
+          {
+            "earthquake_id": "us6000sye4",
+            "magnitude": 5,
+            "latitude": 24.4193,
+            "longitude": 109.2487,
+            "depth_km": 10,
+            "time_ms": 1779034866222,
+            "place": "19 km WNW of Liuzhou, China",
+            "distance_km": 119.6,
+            "exposure_contribution": 0.7,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.12
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000szjs",
+        "magnitude": 5.1,
+        "latitude": 33.6084,
+        "longitude": 90.147,
+        "depth_km": 10,
+        "time_ms": 1779470187912,
+        "place": "296 km NW of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000syik",
+        "magnitude": 5.1,
+        "latitude": 24.4992,
+        "longitude": 109.2666,
+        "depth_km": 10,
+        "time_ms": 1779111866120,
+        "place": "24 km NW of Liuzhou, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sye4",
+        "magnitude": 5,
+        "latitude": 24.4193,
+        "longitude": 109.2487,
+        "depth_km": 10,
+        "time_ms": 1779034866222,
+        "place": "19 km WNW of Liuzhou, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000shy4",
+        "magnitude": 5.1,
+        "latitude": 42.1818,
+        "longitude": 88.1975,
+        "depth_km": 10,
+        "time_ms": 1777802434627,
+        "place": "117 km SW of Turpan, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.12
   },
   {
     "country": "Papua New Guinea",
