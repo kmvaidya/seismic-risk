@@ -412,7 +412,7 @@
       "longitude": -155.8425
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 7181,
+    "max_felt_reports": 7185,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -711,9 +711,9 @@
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-05-04",
-      "depth_km": 73.3,
-      "latitude": 11.7774,
-      "longitude": 125.3718
+      "depth_km": 43,
+      "latitude": 11.7423,
+      "longitude": 125.3411
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -889,16 +889,230 @@
       {
         "id": "us7000si2z",
         "magnitude": 6,
-        "latitude": 11.7774,
-        "longitude": 125.3718,
-        "depth_km": 73.268,
-        "time_ms": 1777874990058,
-        "place": "5 km WNW of Nena, Philippines",
+        "latitude": 11.7423,
+        "longitude": 125.3411,
+        "depth_km": 43,
+        "time_ms": 1777874987173,
+        "place": "8 km WSW of Nena, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 4.03
+  },
+  {
+    "country": "Indonesia",
+    "iso_alpha2": "ID",
+    "iso_alpha3": "IDN",
+    "capital": "Jakarta",
+    "population": 284438782,
+    "area_km2": 1904569.0,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah"
+      }
+    ],
+    "languages": [
+      "Indonesian"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "earthquake_count": 11,
+    "avg_magnitude": 5.38,
+    "strongest_earthquake": {
+      "magnitude": 6.2,
+      "date": "2026-05-14",
+      "depth_km": 137,
+      "latitude": -6.1497,
+      "longitude": 130.3809
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Sam Ratulangi International Airport",
+        "iata_code": "MDC",
+        "latitude": 1.548591,
+        "longitude": 124.92625,
+        "municipality": "Manado",
+        "closest_quake_distance_km": 138.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t04f",
+            "magnitude": 5.6,
+            "latitude": 1.1115,
+            "longitude": 126.0911,
+            "depth_km": 31.057,
+            "time_ms": 1779741560664,
+            "place": "113 km ESE of Bitung, Indonesia",
+            "distance_km": 138.3,
+            "exposure_contribution": 1.07,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000szdy",
+            "magnitude": 5.9,
+            "latitude": 1.0433,
+            "longitude": 126.067,
+            "depth_km": 35,
+            "time_ms": 1779411908540,
+            "place": "113 km ESE of Bitung, Indonesia",
+            "distance_km": 138.7,
+            "exposure_contribution": 1.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sntr",
+            "magnitude": 5.1,
+            "latitude": 0.4707,
+            "longitude": 125.8106,
+            "depth_km": 19.144,
+            "time_ms": 1779863056451,
+            "place": "131 km SE of Bitung, Indonesia",
+            "distance_km": 155.0,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.08
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000sntr",
+        "magnitude": 5.1,
+        "latitude": 0.4707,
+        "longitude": 125.8106,
+        "depth_km": 19.144,
+        "time_ms": 1779863056451,
+        "place": "131 km SE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t04f",
+        "magnitude": 5.6,
+        "latitude": 1.1115,
+        "longitude": 126.0911,
+        "depth_km": 31.057,
+        "time_ms": 1779741560664,
+        "place": "113 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000szq3",
+        "magnitude": 5.2,
+        "latitude": -4.6647,
+        "longitude": 102.5556,
+        "depth_km": 47.721,
+        "time_ms": 1779540025493,
+        "place": "100 km SSE of Bengkulu, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000szdy",
+        "magnitude": 5.9,
+        "latitude": 1.0433,
+        "longitude": 126.067,
+        "depth_km": 35,
+        "time_ms": 1779411908540,
+        "place": "113 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syy1",
+        "magnitude": 5.2,
+        "latitude": -8.2248,
+        "longitude": 119.2187,
+        "depth_km": 10,
+        "time_ms": 1779272929290,
+        "place": "45 km NE of Sape, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sxqf",
+        "magnitude": 6.2,
+        "latitude": -6.1497,
+        "longitude": 130.3809,
+        "depth_km": 137,
+        "time_ms": 1778781193718,
+        "place": "268 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sx3v",
+        "magnitude": 5,
+        "latitude": 4.8333,
+        "longitude": 127.5121,
+        "depth_km": 108.574,
+        "time_ms": 1778576036666,
+        "place": "224 km SE of Pondaguitan, Philippines",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000swk8",
+        "magnitude": 5,
+        "latitude": -7.0242,
+        "longitude": 132.0136,
+        "depth_km": 10,
+        "time_ms": 1778380943775,
+        "place": "174 km SSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sicu",
+        "magnitude": 5.8,
+        "latitude": -10.0638,
+        "longitude": 119.3249,
+        "depth_km": 22,
+        "time_ms": 1777963489944,
+        "place": "70 km S of Tambolaka, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000siat",
+        "magnitude": 5,
+        "latitude": -6.3609,
+        "longitude": 130.1036,
+        "depth_km": 160.922,
+        "time_ms": 1777948730761,
+        "place": "Banda Sea",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000shsh",
+        "magnitude": 5.2,
+        "latitude": -6.0254,
+        "longitude": 130.8107,
+        "depth_km": 122.103,
+        "time_ms": 1777717626738,
+        "place": "219 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 3.08
   },
   {
     "country": "Solomon Islands",
@@ -1045,196 +1259,6 @@
     "seismic_hub_risk_score": 2.93
   },
   {
-    "country": "Indonesia",
-    "iso_alpha2": "ID",
-    "iso_alpha3": "IDN",
-    "capital": "Jakarta",
-    "population": 284438782,
-    "area_km2": 1904569.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "IDR",
-        "name": "Indonesian rupiah"
-      }
-    ],
-    "languages": [
-      "Indonesian"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "TLS",
-      "MYS",
-      "PNG"
-    ],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.44,
-    "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-05-14",
-      "depth_km": 137,
-      "latitude": -6.1497,
-      "longitude": 130.3809
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 138.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t04f",
-            "magnitude": 5.6,
-            "latitude": 1.1115,
-            "longitude": 126.0911,
-            "depth_km": 31.057,
-            "time_ms": 1779741560664,
-            "place": "113 km ESE of Bitung, Indonesia",
-            "distance_km": 138.3,
-            "exposure_contribution": 1.07,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000szdy",
-            "magnitude": 5.9,
-            "latitude": 1.0433,
-            "longitude": 126.067,
-            "depth_km": 35,
-            "time_ms": 1779411908540,
-            "place": "113 km ESE of Bitung, Indonesia",
-            "distance_km": 138.7,
-            "exposure_contribution": 1.49,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.56
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t04f",
-        "magnitude": 5.6,
-        "latitude": 1.1115,
-        "longitude": 126.0911,
-        "depth_km": 31.057,
-        "time_ms": 1779741560664,
-        "place": "113 km ESE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000szq3",
-        "magnitude": 5.2,
-        "latitude": -4.6647,
-        "longitude": 102.5556,
-        "depth_km": 47.721,
-        "time_ms": 1779540025493,
-        "place": "100 km SSE of Bengkulu, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000szdy",
-        "magnitude": 5.9,
-        "latitude": 1.0433,
-        "longitude": 126.067,
-        "depth_km": 35,
-        "time_ms": 1779411908540,
-        "place": "113 km ESE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000syy1",
-        "magnitude": 5.2,
-        "latitude": -8.2248,
-        "longitude": 119.2187,
-        "depth_km": 10,
-        "time_ms": 1779272929290,
-        "place": "45 km NE of Sape, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxqf",
-        "magnitude": 6.2,
-        "latitude": -6.1497,
-        "longitude": 130.3809,
-        "depth_km": 137,
-        "time_ms": 1778781193718,
-        "place": "268 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx3v",
-        "magnitude": 5,
-        "latitude": 4.8333,
-        "longitude": 127.5121,
-        "depth_km": 108.574,
-        "time_ms": 1778576036666,
-        "place": "224 km SE of Pondaguitan, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swk8",
-        "magnitude": 5,
-        "latitude": -7.0242,
-        "longitude": 132.0136,
-        "depth_km": 10,
-        "time_ms": 1778380943775,
-        "place": "174 km SSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sicu",
-        "magnitude": 5.8,
-        "latitude": -10.0638,
-        "longitude": 119.3249,
-        "depth_km": 22,
-        "time_ms": 1777963489944,
-        "place": "70 km S of Tambolaka, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000siat",
-        "magnitude": 5.3,
-        "latitude": -6.4335,
-        "longitude": 130.1627,
-        "depth_km": 153.768,
-        "time_ms": 1777948729853,
-        "place": "Banda Sea",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000shsh",
-        "magnitude": 5.2,
-        "latitude": -6.0254,
-        "longitude": 130.8107,
-        "depth_km": 122.103,
-        "time_ms": 1777717626738,
-        "place": "219 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.56
-  },
-  {
     "country": "Chile",
     "iso_alpha2": "CL",
     "iso_alpha3": "CHL",
@@ -1258,8 +1282,8 @@
       "BOL",
       "PER"
     ],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.67,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.6,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-05-25",
@@ -1268,7 +1292,7 @@
       "longitude": -68.6422
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 76,
+    "max_felt_reports": 77,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1322,6 +1346,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000snt8",
+        "magnitude": 5.1,
+        "latitude": -22.282,
+        "longitude": -68.7512,
+        "depth_km": 102.493,
+        "time_ms": 1779859410376,
+        "place": "26 km NE of Calama, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
       {
         "id": "us6000t04s",
         "magnitude": 6.9,
@@ -1423,8 +1458,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 14,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-12",
@@ -1513,6 +1548,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000snxg",
+        "magnitude": 5.3,
+        "latitude": -18.0781,
+        "longitude": -176.5652,
+        "depth_km": 10,
+        "time_ms": 1779908993521,
+        "place": "280 km WNW of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000snpf",
         "magnitude": 5,
@@ -1625,11 +1671,11 @@
       },
       {
         "id": "us6000svmz",
-        "magnitude": 5.6,
-        "latitude": -32.1671,
-        "longitude": -177.9339,
+        "magnitude": 5.1,
+        "latitude": -32.2013,
+        "longitude": -177.9213,
         "depth_km": 10,
-        "time_ms": 1778068008851,
+        "time_ms": 1778068008800,
         "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": true
@@ -1975,10 +2021,10 @@
       {
         "id": "us6000svm3",
         "magnitude": 5.2,
-        "latitude": -5.7284,
-        "longitude": 154.4199,
-        "depth_km": 103.644,
-        "time_ms": 1778060593683,
+        "latitude": -5.7231,
+        "longitude": 154.4237,
+        "depth_km": 103.578,
+        "time_ms": 1778060593682,
         "place": "134 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
