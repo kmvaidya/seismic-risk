@@ -414,7 +414,7 @@
     "highest_pager_alert": "yellow",
     "max_felt_reports": 7190,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Reno Tahoe International Airport",
@@ -433,12 +433,12 @@
             "time_ms": 1777623439870,
             "place": "19 km SE of Silver Springs, Nevada",
             "distance_km": 65.6,
-            "exposure_contribution": 0.8,
-            "pga_g": 0.00803,
-            "mmi": 3.2
+            "exposure_contribution": 2.04,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 0.8
+        "exposure_score": 2.04
       },
       {
         "name": "Ellison Onizuka Kona International Airport at Keāhole",
@@ -546,7 +546,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 9.73
+    "seismic_hub_risk_score": 10.97
   },
   {
     "country": "Vanuatu",
@@ -718,7 +718,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 7,
-    "avg_magnitude": 5.33,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-05-04",
@@ -845,22 +845,22 @@
       {
         "id": "us6000szxz",
         "magnitude": 5.5,
-        "latitude": 9.3032,
-        "longitude": 126.3113,
+        "latitude": 9.2997,
+        "longitude": 126.2839,
         "depth_km": 34,
-        "time_ms": 1779641320754,
-        "place": "13 km E of Cortes, Philippines",
+        "time_ms": 1779641321017,
+        "place": "10 km ENE of Cortes, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
       {
         "id": "us6000szxh",
-        "magnitude": 5,
-        "latitude": 9.1087,
-        "longitude": 126.5259,
-        "depth_km": 60.122,
-        "time_ms": 1779628746469,
-        "place": "31 km ENE of La Paz, Philippines",
+        "magnitude": 5.1,
+        "latitude": 9.1379,
+        "longitude": 126.5217,
+        "depth_km": 53.181,
+        "time_ms": 1779628745760,
+        "place": "33 km ENE of La Paz, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1036,12 +1036,12 @@
       },
       {
         "id": "us6000szq3",
-        "magnitude": 5.2,
-        "latitude": -4.6647,
-        "longitude": 102.5556,
-        "depth_km": 47.721,
-        "time_ms": 1779540025493,
-        "place": "100 km SSE of Bengkulu, Indonesia",
+        "magnitude": 5.3,
+        "latitude": -4.5338,
+        "longitude": 102.7044,
+        "depth_km": 68.472,
+        "time_ms": 1779540028190,
+        "place": "82 km SW of Pagar Alam, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1318,7 +1318,7 @@
       "VNM"
     ],
     "earthquake_count": 5,
-    "avg_magnitude": 5.12,
+    "avg_magnitude": 5.1,
     "strongest_earthquake": {
       "magnitude": 5.3,
       "date": "2026-05-29",
@@ -1355,18 +1355,18 @@
           {
             "earthquake_id": "us6000sye4",
             "magnitude": 5,
-            "latitude": 24.4193,
-            "longitude": 109.2487,
+            "latitude": 24.4472,
+            "longitude": 109.2486,
             "depth_km": 10,
-            "time_ms": 1779034866222,
-            "place": "19 km WNW of Liuzhou, China",
-            "distance_km": 119.6,
-            "exposure_contribution": 0.7,
+            "time_ms": 1779034866227,
+            "place": "21 km NW of Liuzhou, China",
+            "distance_km": 117.3,
+            "exposure_contribution": 0.72,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.12
+        "exposure_score": 2.14
       },
       {
         "name": "Ürümqi Tianshan International Airport",
@@ -1407,12 +1407,12 @@
       },
       {
         "id": "us6000szjs",
-        "magnitude": 5.1,
-        "latitude": 33.6084,
-        "longitude": 90.147,
+        "magnitude": 5,
+        "latitude": 33.5016,
+        "longitude": 90.2756,
         "depth_km": 10,
-        "time_ms": 1779470187912,
-        "place": "296 km NW of Nagqu, China",
+        "time_ms": 1779470187418,
+        "place": "280 km NW of Nagqu, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -1430,11 +1430,11 @@
       {
         "id": "us6000sye4",
         "magnitude": 5,
-        "latitude": 24.4193,
-        "longitude": 109.2487,
+        "latitude": 24.4472,
+        "longitude": 109.2486,
         "depth_km": 10,
-        "time_ms": 1779034866222,
-        "place": "19 km WNW of Liuzhou, China",
+        "time_ms": 1779034866227,
+        "place": "21 km NW of Liuzhou, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -1450,7 +1450,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.54
+    "seismic_hub_risk_score": 2.56
   },
   {
     "country": "Chile",
@@ -1993,7 +1993,7 @@
       "IDN"
     ],
     "earthquake_count": 11,
-    "avg_magnitude": 5.27,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-22",
@@ -2028,6 +2028,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000spkp",
+            "magnitude": 5,
+            "latitude": -7.2968,
+            "longitude": 147.4544,
+            "depth_km": 68.854,
+            "time_ms": 1780181151647,
+            "place": "81 km SE of Lae, Papua New Guinea",
+            "distance_km": 114.1,
+            "exposure_contribution": 0.59,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000swr6",
             "magnitude": 5.3,
             "latitude": -5.285,
@@ -2041,10 +2054,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.07
+        "exposure_score": 1.66
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000spkp",
+        "magnitude": 5,
+        "latitude": -7.2968,
+        "longitude": 147.4544,
+        "depth_km": 68.854,
+        "time_ms": 1780181151647,
+        "place": "81 km SE of Lae, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us6000t028",
         "magnitude": 5,
@@ -2154,20 +2178,9 @@
         "place": "134 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000sh8r",
-        "magnitude": 5.7,
-        "latitude": -3.4449,
-        "longitude": 148.8022,
-        "depth_km": 10,
-        "time_ms": 1777555621928,
-        "place": "230 km SE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.07
+    "seismic_hub_risk_score": 1.66
   },
   {
     "country": "Fiji",
