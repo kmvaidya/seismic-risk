@@ -1,385 +1,5 @@
 [
   {
-    "country": "Japan",
-    "iso_alpha2": "JP",
-    "iso_alpha3": "JPN",
-    "capital": "Tokyo",
-    "population": 123210000,
-    "area_km2": 377930.0,
-    "region": "Asia",
-    "subregion": "Eastern Asia",
-    "currencies": [
-      {
-        "code": "JPY",
-        "name": "Japanese yen"
-      }
-    ],
-    "languages": [
-      "Japanese"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.54,
-    "strongest_earthquake": {
-      "magnitude": 6.7,
-      "date": "2026-05-15",
-      "depth_km": 43.6,
-      "latitude": 38.9127,
-      "longitude": 142.2498
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 93,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Kansai International Airport",
-        "iata_code": "KIX",
-        "latitude": 34.427299,
-        "longitude": 135.244003,
-        "municipality": "Osaka",
-        "closest_quake_distance_km": 44.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 44.9,
-            "exposure_contribution": 2.95,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.95
-      },
-      {
-        "name": "Kobe Airport",
-        "iata_code": "UKB",
-        "latitude": 34.632801,
-        "longitude": 135.223999,
-        "municipality": "Kobe",
-        "closest_quake_distance_km": 65.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 65.1,
-            "exposure_contribution": 2.36,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.36
-      },
-      {
-        "name": "Chubu Centrair International Airport",
-        "iata_code": "NGO",
-        "latitude": 34.858398,
-        "longitude": 136.804993,
-        "municipality": "Tokoname",
-        "closest_quake_distance_km": 141.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 141.4,
-            "exposure_contribution": 1.04,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.04
-      },
-      {
-        "name": "Okayama Momotaro Airport",
-        "iata_code": "OKJ",
-        "latitude": 34.756901,
-        "longitude": 133.854996,
-        "municipality": "Okayama",
-        "closest_quake_distance_km": 171.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 171.3,
-            "exposure_contribution": 0.78,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.78
-      },
-      {
-        "name": "Kochi Ryoma Airport",
-        "iata_code": "KCZ",
-        "latitude": 33.545217,
-        "longitude": 133.670166,
-        "municipality": "Nankoku",
-        "closest_quake_distance_km": 185.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 185.1,
-            "exposure_contribution": 0.69,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.69
-      },
-      {
-        "name": "Osaka Itami International Airport",
-        "iata_code": "ITM",
-        "latitude": 34.780853,
-        "longitude": 135.440829,
-        "municipality": "Osaka",
-        "closest_quake_distance_km": 74.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 74.8,
-            "exposure_contribution": 2.11,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.11
-      },
-      {
-        "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
-        "iata_code": "TKS",
-        "latitude": 34.132559,
-        "longitude": 134.607816,
-        "municipality": "Tokushima",
-        "closest_quake_distance_km": 87.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 87.1,
-            "exposure_contribution": 1.84,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.84
-      },
-      {
-        "name": "Takamatsu Airport",
-        "iata_code": "TAK",
-        "latitude": 34.214963,
-        "longitude": 134.015454,
-        "municipality": "Takamatsu",
-        "closest_quake_distance_km": 141.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000shs2",
-            "magnitude": 5.7,
-            "latitude": 34.1145,
-            "longitude": 135.5533,
-            "depth_km": 64,
-            "time_ms": 1777714121537,
-            "place": "12 km SSW of Kōya, Japan",
-            "distance_km": 141.9,
-            "exposure_contribution": 1.03,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.03
-      },
-      {
-        "name": "Sendai Airport",
-        "iata_code": "SDJ",
-        "latitude": 38.139702,
-        "longitude": 140.917007,
-        "municipality": "Natori",
-        "closest_quake_distance_km": 144.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sxwq",
-            "magnitude": 6.7,
-            "latitude": 38.9127,
-            "longitude": 142.2498,
-            "depth_km": 43.592,
-            "time_ms": 1778844121649,
-            "place": "49 km ESE of Ōfunato, Japan",
-            "distance_km": 144.3,
-            "exposure_contribution": 4.35,
-            "pga_g": 0.043506,
-            "mmi": 4.2
-          }
-        ],
-        "exposure_score": 4.35
-      },
-      {
-        "name": "Naha International Airport",
-        "iata_code": "OKA",
-        "latitude": 26.192437,
-        "longitude": 127.639804,
-        "municipality": "Naha",
-        "closest_quake_distance_km": 172.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syw4",
-            "magnitude": 5.9,
-            "latitude": 27.392,
-            "longitude": 128.7336,
-            "depth_km": 42,
-            "time_ms": 1779245184884,
-            "place": "8 km E of Wadomari, Japan",
-            "distance_km": 172.0,
-            "exposure_contribution": 1.04,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.04
-      },
-      {
-        "name": "Kadena Air Base",
-        "iata_code": "DNA",
-        "latitude": 26.351667,
-        "longitude": 127.769444,
-        "municipality": "Okinawa",
-        "closest_quake_distance_km": 150.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syw4",
-            "magnitude": 5.9,
-            "latitude": 27.392,
-            "longitude": 128.7336,
-            "depth_km": 42,
-            "time_ms": 1779245184884,
-            "place": "8 km E of Wadomari, Japan",
-            "distance_km": 150.1,
-            "exposure_contribution": 1.3,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.3
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000syw4",
-        "magnitude": 5.9,
-        "latitude": 27.392,
-        "longitude": 128.7336,
-        "depth_km": 42,
-        "time_ms": 1779245184884,
-        "place": "8 km E of Wadomari, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sxwq",
-        "magnitude": 6.7,
-        "latitude": 38.9127,
-        "longitude": 142.2498,
-        "depth_km": 43.592,
-        "time_ms": 1778844121649,
-        "place": "49 km ESE of Ōfunato, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sxnw",
-        "magnitude": 5.2,
-        "latitude": 25.1294,
-        "longitude": 141.4667,
-        "depth_km": 139.505,
-        "time_ms": 1778772844551,
-        "place": "Volcano Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxc0",
-        "magnitude": 5.1,
-        "latitude": 30.3404,
-        "longitude": 138.3561,
-        "depth_km": 484.752,
-        "time_ms": 1778641715413,
-        "place": "Izu Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swtz",
-        "magnitude": 5,
-        "latitude": 27.3848,
-        "longitude": 129.5696,
-        "depth_km": 10,
-        "time_ms": 1778463677618,
-        "place": "70 km ESE of Isen, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000si9t",
-        "magnitude": 5.2,
-        "latitude": 39.9553,
-        "longitude": 143.0788,
-        "depth_km": 40.128,
-        "time_ms": 1777938847597,
-        "place": "103 km ENE of Miyako, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000shs2",
-        "magnitude": 5.7,
-        "latitude": 34.1145,
-        "longitude": 135.5533,
-        "depth_km": 64,
-        "time_ms": 1777714121537,
-        "place": "12 km SSW of Kōya, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 19.49
-  },
-  {
     "country": "Vanuatu",
     "iso_alpha2": "VU",
     "iso_alpha3": "VUT",
@@ -686,6 +306,194 @@
     "seismic_hub_risk_score": 8.93
   },
   {
+    "country": "Japan",
+    "iso_alpha2": "JP",
+    "iso_alpha3": "JPN",
+    "capital": "Tokyo",
+    "population": 123210000,
+    "area_km2": 377930.0,
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Japanese yen"
+      }
+    ],
+    "languages": [
+      "Japanese"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 7,
+    "avg_magnitude": 5.54,
+    "strongest_earthquake": {
+      "magnitude": 6.7,
+      "date": "2026-05-15",
+      "depth_km": 43.6,
+      "latitude": 38.9127,
+      "longitude": 142.2498
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 93,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Sendai Airport",
+        "iata_code": "SDJ",
+        "latitude": 38.139702,
+        "longitude": 140.917007,
+        "municipality": "Natori",
+        "closest_quake_distance_km": 144.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sxwq",
+            "magnitude": 6.7,
+            "latitude": 38.9127,
+            "longitude": 142.2498,
+            "depth_km": 43.592,
+            "time_ms": 1778844121649,
+            "place": "49 km ESE of Ōfunato, Japan",
+            "distance_km": 144.3,
+            "exposure_contribution": 4.35,
+            "pga_g": 0.043506,
+            "mmi": 4.2
+          }
+        ],
+        "exposure_score": 4.35
+      },
+      {
+        "name": "Naha International Airport",
+        "iata_code": "OKA",
+        "latitude": 26.192437,
+        "longitude": 127.639804,
+        "municipality": "Naha",
+        "closest_quake_distance_km": 172.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syw4",
+            "magnitude": 5.9,
+            "latitude": 27.392,
+            "longitude": 128.7336,
+            "depth_km": 42,
+            "time_ms": 1779245184884,
+            "place": "8 km E of Wadomari, Japan",
+            "distance_km": 172.0,
+            "exposure_contribution": 1.04,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.04
+      },
+      {
+        "name": "Kadena Air Base",
+        "iata_code": "DNA",
+        "latitude": 26.351667,
+        "longitude": 127.769444,
+        "municipality": "Okinawa",
+        "closest_quake_distance_km": 150.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syw4",
+            "magnitude": 5.9,
+            "latitude": 27.392,
+            "longitude": 128.7336,
+            "depth_km": 42,
+            "time_ms": 1779245184884,
+            "place": "8 km E of Wadomari, Japan",
+            "distance_km": 150.1,
+            "exposure_contribution": 1.3,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.3
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000spru",
+        "magnitude": 5.7,
+        "latitude": 30.7158,
+        "longitude": 141.7476,
+        "depth_km": 11,
+        "time_ms": 1780284870871,
+        "place": "Izu Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syw4",
+        "magnitude": 5.9,
+        "latitude": 27.392,
+        "longitude": 128.7336,
+        "depth_km": 42,
+        "time_ms": 1779245184884,
+        "place": "8 km E of Wadomari, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sxwq",
+        "magnitude": 6.7,
+        "latitude": 38.9127,
+        "longitude": 142.2498,
+        "depth_km": 43.592,
+        "time_ms": 1778844121649,
+        "place": "49 km ESE of Ōfunato, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sxnw",
+        "magnitude": 5.2,
+        "latitude": 25.1294,
+        "longitude": 141.4667,
+        "depth_km": 139.505,
+        "time_ms": 1778772844551,
+        "place": "Volcano Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sxc0",
+        "magnitude": 5.1,
+        "latitude": 30.3404,
+        "longitude": 138.3561,
+        "depth_km": 484.752,
+        "time_ms": 1778641715413,
+        "place": "Izu Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000swtz",
+        "magnitude": 5,
+        "latitude": 27.3848,
+        "longitude": 129.5696,
+        "depth_km": 10,
+        "time_ms": 1778463677618,
+        "place": "70 km ESE of Isen, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000si9t",
+        "magnitude": 5.2,
+        "latitude": 39.9553,
+        "longitude": 143.0788,
+        "depth_km": 40.128,
+        "time_ms": 1777938847597,
+        "place": "103 km ENE of Miyako, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 6.69
+  },
+  {
     "country": "Philippines",
     "iso_alpha2": "PH",
     "iso_alpha3": "PHL",
@@ -924,17 +732,17 @@
       "BOL",
       "PER"
     ],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.64,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.61,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-05-25",
       "depth_km": 109,
-      "latitude": -22.3883,
-      "longitude": -68.6422
+      "latitude": -22.385,
+      "longitude": -68.611
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 151,
+    "max_felt_reports": 154,
     "tsunami_warning_issued": false,
     "significant_events_count": 3,
     "exposed_airports": [
@@ -957,7 +765,7 @@
             "distance_km": 119.5,
             "exposure_contribution": 1.73,
             "pga_g": 0.017288,
-            "mmi": 3.9
+            "mmi": 3.8
           }
         ],
         "exposure_score": 1.73
@@ -1013,6 +821,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000sprv",
+        "magnitude": 5.3,
+        "latitude": -35.387,
+        "longitude": -104.6576,
+        "depth_km": 10,
+        "time_ms": 1780285211053,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000spqc",
         "magnitude": 6,
         "latitude": -32.8047,
@@ -1037,11 +856,11 @@
       {
         "id": "us6000t04s",
         "magnitude": 6.9,
-        "latitude": -22.3883,
-        "longitude": -68.6422,
+        "latitude": -22.385,
+        "longitude": -68.611,
         "depth_km": 109,
-        "time_ms": 1779745940043,
-        "place": "29 km ENE of Calama, Chile",
+        "time_ms": 1779745940035,
+        "place": "33 km ENE of Calama, Chile",
         "country_code": "CL",
         "shakemap_available": true
       },
@@ -1092,10 +911,10 @@
       {
         "id": "us6000syg1",
         "magnitude": 5.4,
-        "latitude": -43.4009,
-        "longitude": -82.4593,
+        "latitude": -43.4469,
+        "longitude": -82.4535,
         "depth_km": 10,
-        "time_ms": 1779070241745,
+        "time_ms": 1779070241440,
         "place": "West Chile Rise",
         "country_code": "CL",
         "shakemap_available": true
@@ -1139,7 +958,7 @@
       "PNG"
     ],
     "earthquake_count": 12,
-    "avg_magnitude": 5.38,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-05-14",
@@ -1152,6 +971,30 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
+      {
+        "name": "Dortheys Hiyo Eluay International Airport",
+        "iata_code": "DJJ",
+        "latitude": -2.579627,
+        "longitude": 140.519857,
+        "municipality": "Sentani",
+        "closest_quake_distance_km": 195.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000spya",
+            "magnitude": 5.4,
+            "latitude": -2.0575,
+            "longitude": 138.8427,
+            "depth_km": 29.55,
+            "time_ms": 1780354877102,
+            "place": "207 km WNW of Abepura, Indonesia",
+            "distance_km": 195.2,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.49
+      },
       {
         "name": "Sam Ratulangi International Airport",
         "iata_code": "MDC",
@@ -1204,6 +1047,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000spya",
+        "magnitude": 5.4,
+        "latitude": -2.0575,
+        "longitude": 138.8427,
+        "depth_km": 29.55,
+        "time_ms": 1780354877102,
+        "place": "207 km WNW of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us7000snzn",
         "magnitude": 5.1,
@@ -1324,164 +1178,9 @@
         "place": "Banda Sea",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000shsh",
-        "magnitude": 5.2,
-        "latitude": -6.0254,
-        "longitude": 130.8107,
-        "depth_km": 122.103,
-        "time_ms": 1777717626738,
-        "place": "219 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.08
-  },
-  {
-    "country": "Solomon Islands",
-    "iso_alpha2": "SB",
-    "iso_alpha3": "SLB",
-    "capital": "Honiara",
-    "population": 750325,
-    "area_km2": 28896.0,
-    "region": "Oceania",
-    "subregion": "Melanesia",
-    "currencies": [
-      {
-        "code": "SBD",
-        "name": "Solomon Islands dollar"
-      }
-    ],
-    "languages": [
-      "English"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.36,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-05-16",
-      "depth_km": 37.8,
-      "latitude": -8.5885,
-      "longitude": 160.8774
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Honiara International Airport",
-        "iata_code": "HIR",
-        "latitude": -9.428,
-        "longitude": 160.054993,
-        "municipality": "Honiara",
-        "closest_quake_distance_km": 95.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000swvm",
-            "magnitude": 5.2,
-            "latitude": -9.2967,
-            "longitude": 159.1915,
-            "depth_km": 10,
-            "time_ms": 1778492931604,
-            "place": "72 km NW of Malango, Solomon Islands",
-            "distance_km": 95.9,
-            "exposure_contribution": 1.23,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sy8k",
-            "magnitude": 5.7,
-            "latitude": -8.5885,
-            "longitude": 160.8774,
-            "depth_km": 37.762,
-            "time_ms": 1778944678214,
-            "place": "27 km NE of Auki, Solomon Islands",
-            "distance_km": 129.9,
-            "exposure_contribution": 1.3,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000sx2s",
-            "magnitude": 5,
-            "latitude": -10.2288,
-            "longitude": 161.21,
-            "depth_km": 60.837,
-            "time_ms": 1778557542646,
-            "place": "81 km WNW of Kirakira, Solomon Islands",
-            "distance_km": 154.7,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.93
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000szk5",
-        "magnitude": 5.3,
-        "latitude": -10.7482,
-        "longitude": 164.3652,
-        "depth_km": 10,
-        "time_ms": 1779478238517,
-        "place": "156 km W of Lata, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sy8k",
-        "magnitude": 5.7,
-        "latitude": -8.5885,
-        "longitude": 160.8774,
-        "depth_km": 37.762,
-        "time_ms": 1778944678214,
-        "place": "27 km NE of Auki, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx5k",
-        "magnitude": 5.6,
-        "latitude": -10.649,
-        "longitude": 164.9925,
-        "depth_km": 68.161,
-        "time_ms": 1778600371100,
-        "place": "88 km W of Lata, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx2s",
-        "magnitude": 5,
-        "latitude": -10.2288,
-        "longitude": 161.21,
-        "depth_km": 60.837,
-        "time_ms": 1778557542646,
-        "place": "81 km WNW of Kirakira, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swvm",
-        "magnitude": 5.2,
-        "latitude": -9.2967,
-        "longitude": 159.1915,
-        "depth_km": 10,
-        "time_ms": 1778492931604,
-        "place": "72 km NW of Malango, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.93
+    "seismic_hub_risk_score": 3.57
   },
   {
     "country": "China",
@@ -1540,17 +1239,17 @@
         "latitude": 25.219828,
         "longitude": 110.039553,
         "municipality": "Guilin (Lingui)",
-        "closest_quake_distance_km": 111.8,
+        "closest_quake_distance_km": 111.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000syik",
             "magnitude": 5.1,
-            "latitude": 24.4992,
-            "longitude": 109.2666,
+            "latitude": 24.4943,
+            "longitude": 109.2738,
             "depth_km": 10,
-            "time_ms": 1779111866120,
-            "place": "24 km NW of Liuzhou, China",
-            "distance_km": 111.8,
+            "time_ms": 1779111866116,
+            "place": "23 km NW of Liuzhou, China",
+            "distance_km": 111.7,
             "exposure_contribution": 1.42,
             "pga_g": 0.014228,
             "mmi": 4.1
@@ -1622,11 +1321,11 @@
       {
         "id": "us6000syik",
         "magnitude": 5.1,
-        "latitude": 24.4992,
-        "longitude": 109.2666,
+        "latitude": 24.4943,
+        "longitude": 109.2738,
         "depth_km": 10,
-        "time_ms": 1779111866120,
-        "place": "24 km NW of Liuzhou, China",
+        "time_ms": 1779111866116,
+        "place": "23 km NW of Liuzhou, China",
         "country_code": "CN",
         "shakemap_available": true
       },
@@ -1654,6 +1353,126 @@
       }
     ],
     "seismic_hub_risk_score": 2.56
+  },
+  {
+    "country": "Solomon Islands",
+    "iso_alpha2": "SB",
+    "iso_alpha3": "SLB",
+    "capital": "Honiara",
+    "population": 750325,
+    "area_km2": 28896.0,
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Solomon Islands dollar"
+      }
+    ],
+    "languages": [
+      "English"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.45,
+    "strongest_earthquake": {
+      "magnitude": 5.7,
+      "date": "2026-05-16",
+      "depth_km": 37.8,
+      "latitude": -8.5885,
+      "longitude": 160.8774
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Honiara International Airport",
+        "iata_code": "HIR",
+        "latitude": -9.428,
+        "longitude": 160.054993,
+        "municipality": "Honiara",
+        "closest_quake_distance_km": 95.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000swvm",
+            "magnitude": 5.2,
+            "latitude": -9.2967,
+            "longitude": 159.1915,
+            "depth_km": 10,
+            "time_ms": 1778492931604,
+            "place": "72 km NW of Malango, Solomon Islands",
+            "distance_km": 95.9,
+            "exposure_contribution": 1.23,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000sy8k",
+            "magnitude": 5.7,
+            "latitude": -8.5885,
+            "longitude": 160.8774,
+            "depth_km": 37.762,
+            "time_ms": 1778944678214,
+            "place": "27 km NE of Auki, Solomon Islands",
+            "distance_km": 129.9,
+            "exposure_contribution": 1.3,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.52
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000szk5",
+        "magnitude": 5.3,
+        "latitude": -10.7482,
+        "longitude": 164.3652,
+        "depth_km": 10,
+        "time_ms": 1779478238517,
+        "place": "156 km W of Lata, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sy8k",
+        "magnitude": 5.7,
+        "latitude": -8.5885,
+        "longitude": 160.8774,
+        "depth_km": 37.762,
+        "time_ms": 1778944678214,
+        "place": "27 km NE of Auki, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sx5k",
+        "magnitude": 5.6,
+        "latitude": -10.649,
+        "longitude": 164.9925,
+        "depth_km": 68.161,
+        "time_ms": 1778600371100,
+        "place": "88 km W of Lata, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000swvm",
+        "magnitude": 5.2,
+        "latitude": -9.2967,
+        "longitude": 159.1915,
+        "depth_km": 10,
+        "time_ms": 1778492931604,
+        "place": "72 km NW of Malango, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.52
   },
   {
     "country": "Tonga",
@@ -1943,9 +1762,9 @@
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-05-19",
-      "depth_km": 56.5,
-      "latitude": -14.2075,
-      "longitude": -75.5167
+      "depth_km": 58.8,
+      "latitude": -14.1767,
+      "longitude": -75.5147
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1958,23 +1777,23 @@
         "latitude": -13.7449,
         "longitude": -76.220299,
         "municipality": "Pisco",
-        "closest_quake_distance_km": 91.7,
+        "closest_quake_distance_km": 90.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000syt5",
             "magnitude": 5.8,
-            "latitude": -14.2075,
-            "longitude": -75.5167,
-            "depth_km": 56.53,
-            "time_ms": 1779213474220,
-            "place": "20 km ESE of Pampa de Tate, Peru",
-            "distance_km": 91.7,
-            "exposure_contribution": 2.07,
+            "latitude": -14.1767,
+            "longitude": -75.5147,
+            "depth_km": 58.799,
+            "time_ms": 1779213474411,
+            "place": "19 km E of Pampa de Tate, Peru",
+            "distance_km": 90.0,
+            "exposure_contribution": 2.08,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.07
+        "exposure_score": 2.08
       }
     ],
     "earthquakes": [
@@ -1992,11 +1811,11 @@
       {
         "id": "us6000syt5",
         "magnitude": 5.8,
-        "latitude": -14.2075,
-        "longitude": -75.5167,
-        "depth_km": 56.53,
-        "time_ms": 1779213474220,
-        "place": "20 km ESE of Pampa de Tate, Peru",
+        "latitude": -14.1767,
+        "longitude": -75.5147,
+        "depth_km": 58.799,
+        "time_ms": 1779213474411,
+        "place": "19 km E of Pampa de Tate, Peru",
         "country_code": "PE",
         "shakemap_available": true
       },
@@ -2012,7 +1831,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.07
+    "seismic_hub_risk_score": 2.08
   },
   {
     "country": "Papua New Guinea",
@@ -2118,11 +1937,11 @@
       {
         "id": "us6000t028",
         "magnitude": 5,
-        "latitude": -4.7343,
-        "longitude": 153.126,
-        "depth_km": 66.807,
-        "time_ms": 1779721231611,
-        "place": "104 km ESE of Kokopo, Papua New Guinea",
+        "latitude": -4.7914,
+        "longitude": 153.1957,
+        "depth_km": 55.928,
+        "time_ms": 1779721230276,
+        "place": "114 km ESE of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
@@ -2195,11 +2014,11 @@
       {
         "id": "us6000sw6y",
         "magnitude": 5.6,
-        "latitude": -2.9127,
-        "longitude": 147.7321,
+        "latitude": -2.8761,
+        "longitude": 147.7722,
         "depth_km": 10,
-        "time_ms": 1778242951861,
-        "place": "109 km SSE of Lorengau, Papua New Guinea",
+        "time_ms": 1778242951971,
+        "place": "108 km SSE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       },
@@ -2227,103 +2046,5 @@
       }
     ],
     "seismic_hub_risk_score": 1.66
-  },
-  {
-    "country": "Fiji",
-    "iso_alpha2": "FJ",
-    "iso_alpha3": "FJI",
-    "capital": "Suva",
-    "population": 900869,
-    "area_km2": 18272.0,
-    "region": "Oceania",
-    "subregion": "Melanesia",
-    "currencies": [
-      {
-        "code": "FJD",
-        "name": "Fijian dollar"
-      }
-    ],
-    "languages": [
-      "English",
-      "Fiji Hindi",
-      "Fijian"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.1,
-    "strongest_earthquake": {
-      "magnitude": 5.1,
-      "date": "2026-05-20",
-      "depth_km": 10,
-      "latitude": -17.312,
-      "longitude": 175.9863
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadi International Airport",
-        "iata_code": "NAN",
-        "latitude": -17.761822,
-        "longitude": 177.437843,
-        "municipality": "Nadi",
-        "closest_quake_distance_km": 161.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syxz",
-            "magnitude": 5.1,
-            "latitude": -17.312,
-            "longitude": 175.9863,
-            "depth_km": 10,
-            "time_ms": 1779270032226,
-            "place": "159 km WNW of Lautoka, Fiji",
-            "distance_km": 161.8,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.48
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000syxz",
-        "magnitude": 5.1,
-        "latitude": -17.312,
-        "longitude": 175.9863,
-        "depth_km": 10,
-        "time_ms": 1779270032226,
-        "place": "159 km WNW of Lautoka, Fiji",
-        "country_code": "FJ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swtd",
-        "magnitude": 5.1,
-        "latitude": -23.3823,
-        "longitude": 179.9389,
-        "depth_km": 562.321,
-        "time_ms": 1778454943934,
-        "place": "south of the Fiji Islands",
-        "country_code": "FJ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000shnl",
-        "magnitude": 5.1,
-        "latitude": -24.4445,
-        "longitude": 178.839,
-        "depth_km": 546.153,
-        "time_ms": 1777687597019,
-        "place": "south of the Fiji Islands",
-        "country_code": "FJ",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.48
   }
 ]
