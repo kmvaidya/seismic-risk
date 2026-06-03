@@ -1,27 +1,26 @@
 # Seismic Risk Report
-Generated: 2026-06-02 10:07 UTC
+Generated: 2026-06-03 10:44 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-03-04 to 2026-06-02).
+Based on 89 snapshots (2026-03-05 to 2026-06-03).
 
-**Dropped off**: Fiji
 
 **Top score changes**:
 
-- Japan (JPN): -12.8
-- Indonesia (IDN): +0.5
-- Solomon Islands (SLB): -0.4
-- Peru (PER): +0.0
+- Philippines (PHL): +0.0
 - Vanuatu (VUT): 0.0
+- United States (USA): 0.0
+- Japan (JPN): 0.0
+- Chile (CHL): 0.0
 
 **Top airport exposure changes**:
 
-- Honiara International Airport (HIR, SLB): -0.4
-- Captain Renán Elías Olivera International Airport (PIO, PER): +0.0
+- Laoag International Airport (LAO, PHL): +0.0
 - Bauerfield International Airport (VLI, VUT): 0.0
 - Ellison Onizuka Kona International Airport at Keāhole (KOA, USA): 0.0
 - Kahului International Airport (OGG, USA): 0.0
+- Sendai Airport (SDJ, JPN): 0.0
 
 ## Country Summary
 
@@ -29,13 +28,13 @@ Based on 89 snapshots (2026-03-04 to 2026-06-02).
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 | Vanuatu | VUT | Oceania | 10.2 | ~ | 5.3 | M5.7 (2026-05-19) | 5 | 1 | - | No | 0 |
 | United States | USA | Americas | 8.9 | ~ | 5.5 | M5.96 (2026-05-23) | 4 | 2 | yellow | No | 1 |
-| Japan | JPN | Asia | 6.7 | -12.8 | 5.5 | M6.7 (2026-05-15) | 7 | 3 | green | No | 1 |
+| Japan | JPN | Asia | 6.7 | ~ | 5.5 | M6.7 (2026-05-15) | 7 | 3 | green | No | 1 |
 | Philippines | PHL | Asia | 4.0 | ~ | 5.3 | M6 (2026-05-04) | 7 | 3 | - | No | 0 |
 | Chile | CHL | Americas | 4.0 | ~ | 5.6 | M6.9 (2026-05-25) | 10 | 3 | green | No | 3 |
 | Indonesia | IDN | Asia | 3.6 | ~ | 5.4 | M6.2 (2026-05-14) | 12 | 2 | - | No | 0 |
-| China | CHN | Asia | 2.6 | ~ | 5.1 | M5.3 (2026-05-29) | 5 | 2 | orange | No | 1 |
+| China | CHN | Asia | 2.6 | ~ | 5.1 | M5.3 (2026-05-29) | 4 | 2 | orange | No | 1 |
 | Solomon Islands | SLB | Oceania | 2.5 | ~ | 5.5 | M5.7 (2026-05-16) | 4 | 1 | - | No | 0 |
-| Tonga | TON | Oceania | 2.1 | ~ | 5.2 | M5.7 (2026-05-12) | 14 | 2 | - | No | 0 |
+| Tonga | TON | Oceania | 2.1 | ~ | 5.2 | M5.7 (2026-05-12) | 15 | 2 | - | No | 0 |
 | Peru | PER | Americas | 2.1 | ~ | 5.3 | M5.8 (2026-05-19) | 3 | 1 | - | No | 0 |
 | Papua New Guinea | PNG | Oceania | 1.7 | ~ | 5.2 | M5.7 (2026-05-22) | 11 | 1 | - | No | 0 |
 
@@ -51,12 +50,12 @@ Based on 89 snapshots (2026-03-04 to 2026-06-02).
 | Naha International Airport | OKA | Naha | Japan | 1.0 | ~ | - | 172.0 | 1 |
 | Francisco Bangoy International Airport | DVO | Davao | Philippines | 2.2 | ~ | - | 110.4 | 3 |
 | General Santos International Airport | GES | General Santos | Philippines | 1.0 | ~ | - | 95.6 | 1 |
-| Laoag International Airport | LAO | Laoag City | Philippines | 0.9 | ~ | - | 125.8 | 1 |
+| Laoag International Airport | LAO | Laoag City | Philippines | 0.9 | ~ | - | 125.6 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago | Chile | 1.7 | ~ | 0.0173 | 119.5 | 1 |
 | Carriel Sur International Airport | CCP | Concepcion | Chile | 1.3 | ~ | - | 110.5 | 1 |
 | La Araucanía International Airport | ZCO | Temuco | Chile | 0.9 | ~ | - | 139.4 | 1 |
 | Sam Ratulangi International Airport | MDC | Manado | Indonesia | 3.1 | ~ | - | 138.3 | 3 |
-| Dortheys Hiyo Eluay International Airport | DJJ | Sentani | Indonesia | 0.5 | NEW | - | 195.2 | 1 |
+| Dortheys Hiyo Eluay International Airport | DJJ | Sentani | Indonesia | 0.5 | ~ | - | 195.2 | 1 |
 | Guilin Liangjiang International Airport | KWL | Guilin (Lingui) | China | 2.1 | ~ | 0.0142 | 111.7 | 2 |
 | Ürümqi Tianshan International Airport | URC | Ürümqi | China | 0.4 | ~ | - | 199.3 | 1 |
 | Honiara International Airport | HIR | Honiara | Solomon Islands | 2.5 | ~ | - | 95.9 | 2 |
