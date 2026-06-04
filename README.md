@@ -76,20 +76,20 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-06-03 10:44 UTC*
+*Last updated: 2026-06-04 09:44 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Vanuatu | VUT | 10.2 | ~ | 5 | 1 | - |
-| 2 | United States | USA | 8.9 | ~ | 4 | 2 | yellow |
-| 3 | Japan | JPN | 6.7 | ~ | 7 | 3 | green |
-| 4 | Philippines | PHL | 4.0 | ~ | 7 | 3 | - |
+| 1 | Vanuatu | VUT | 10.4 | ~ | 6 | 1 | - |
+| 2 | United States | USA | 9.0 | ~ | 6 | 2 | yellow |
+| 3 | Japan | JPN | 6.7 | ~ | 6 | 3 | green |
+| 4 | Philippines | PHL | 4.0 | ~ | 6 | 3 | - |
 | 5 | Chile | CHL | 4.0 | ~ | 10 | 3 | green |
 | 6 | Indonesia | IDN | 3.6 | ~ | 12 | 2 | - |
-| 7 | China | CHN | 2.6 | ~ | 4 | 2 | orange |
-| 8 | Solomon Islands | SLB | 2.5 | ~ | 4 | 1 | - |
-| 9 | Tonga | TON | 2.1 | ~ | 15 | 2 | - |
-| 10 | Peru | PER | 2.1 | ~ | 3 | 1 | - |
+| 7 | Peru | PER | 2.7 | +0.6 | 4 | 2 | - |
+| 8 | China | CHN | 2.6 | ~ | 4 | 2 | orange |
+| 9 | Solomon Islands | SLB | 2.5 | ~ | 4 | 1 | - |
+| 10 | Tonga | TON | 2.1 | ~ | 15 | 2 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works

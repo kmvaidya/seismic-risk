@@ -21,14 +21,14 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-19",
       "depth_km": 27,
-      "latitude": -18.1511,
-      "longitude": 168.0931
+      "latitude": -18.1664,
+      "longitude": 168.2247
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -41,18 +41,18 @@
         "latitude": -17.699301,
         "longitude": 168.320007,
         "municipality": "Port Vila",
-        "closest_quake_distance_km": 55.7,
+        "closest_quake_distance_km": 52.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000synm",
             "magnitude": 5.7,
-            "latitude": -18.1511,
-            "longitude": 168.0931,
+            "latitude": -18.1664,
+            "longitude": 168.2247,
             "depth_km": 27,
-            "time_ms": 1779157764366,
-            "place": "51 km SSW of Port-Vila, Vanuatu",
-            "distance_km": 55.7,
-            "exposure_contribution": 4.08,
+            "time_ms": 1779157764032,
+            "place": "48 km S of Port-Vila, Vanuatu",
+            "distance_km": 52.9,
+            "exposure_contribution": 4.32,
             "pga_g": null,
             "mmi": null
           },
@@ -109,10 +109,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 10.16
+        "exposure_score": 10.39
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sq90",
+        "magnitude": 5.6,
+        "latitude": -20.4457,
+        "longitude": 173.0405,
+        "depth_km": 10,
+        "time_ms": 1780482037618,
+        "place": "Vanuatu region",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
       {
         "id": "us7000splm",
         "magnitude": 5,
@@ -127,11 +138,11 @@
       {
         "id": "us6000synm",
         "magnitude": 5.7,
-        "latitude": -18.1511,
-        "longitude": 168.0931,
+        "latitude": -18.1664,
+        "longitude": 168.2247,
         "depth_km": 27,
-        "time_ms": 1779157764366,
-        "place": "51 km SSW of Port-Vila, Vanuatu",
+        "time_ms": 1779157764032,
+        "place": "48 km S of Port-Vila, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       },
@@ -169,7 +180,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 10.16
+    "seismic_hub_risk_score": 10.39
   },
   {
     "country": "United States",
@@ -194,8 +205,8 @@
       "CAN",
       "MEX"
     ],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.51,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.48,
     "strongest_earthquake": {
       "magnitude": 5.96,
       "date": "2026-05-23",
@@ -204,7 +215,7 @@
       "longitude": -155.8425
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 7195,
+    "max_felt_reports": 7196,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -225,12 +236,12 @@
             "time_ms": 1779522361480,
             "place": "13 km S of Honaunau-Napoopoo, Hawaii",
             "distance_km": 49.2,
-            "exposure_contribution": 7.2,
-            "pga_g": 0.071993,
-            "mmi": 4.9
+            "exposure_contribution": 7.06,
+            "pga_g": 0.070584,
+            "mmi": 4.8
           }
         ],
-        "exposure_score": 7.2
+        "exposure_score": 7.06
       },
       {
         "name": "Kahului International Airport",
@@ -249,15 +260,37 @@
             "time_ms": 1779522361480,
             "place": "13 km S of Honaunau-Napoopoo, Hawaii",
             "distance_km": 183.6,
-            "exposure_contribution": 1.73,
-            "pga_g": 0.017257,
+            "exposure_contribution": 1.92,
+            "pga_g": 0.019159,
             "mmi": 3.6
           }
         ],
-        "exposure_score": 1.73
+        "exposure_score": 1.92
       }
     ],
     "earthquakes": [
+      {
+        "id": "nc75370186",
+        "magnitude": 5.1,
+        "latitude": 40.3646666666667,
+        "longitude": -125.017833333333,
+        "depth_km": 10,
+        "time_ms": 1780490736790,
+        "place": "62 km W of Petrolia, CA",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sq93",
+        "magnitude": 5.7,
+        "latitude": 41.8967,
+        "longitude": -126.1861,
+        "depth_km": 10,
+        "time_ms": 1780484034074,
+        "place": "154 km WSW of Pistol River, Oregon",
+        "country_code": "US",
+        "shakemap_available": true
+      },
       {
         "id": "us7000snz9",
         "magnitude": 5.2,
@@ -303,7 +336,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 8.93
+    "seismic_hub_risk_score": 8.98
   },
   {
     "country": "Japan",
@@ -325,8 +358,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.54,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.6,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-05-15",
@@ -478,17 +511,6 @@
         "place": "70 km ESE of Isen, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000si9t",
-        "magnitude": 5.2,
-        "latitude": 39.9553,
-        "longitude": 143.0788,
-        "depth_km": 40.128,
-        "time_ms": 1777938847597,
-        "place": "103 km ENE of Miyako, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 6.69
@@ -514,14 +536,14 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
-      "magnitude": 6,
-      "date": "2026-05-04",
-      "depth_km": 43,
-      "latitude": 11.7423,
-      "longitude": 125.3411
+      "magnitude": 5.5,
+      "date": "2026-05-24",
+      "depth_km": 34,
+      "latitude": 9.2997,
+      "longitude": 126.2839
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -691,17 +713,6 @@
         "depth_km": 29,
         "time_ms": 1778081749132,
         "place": "22 km ENE of Baculin, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000si2z",
-        "magnitude": 6,
-        "latitude": 11.7423,
-        "longitude": 125.3411,
-        "depth_km": 43,
-        "time_ms": 1777874987173,
-        "place": "8 km WSW of Nena, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       }
@@ -1138,11 +1149,11 @@
       {
         "id": "us6000sx3v",
         "magnitude": 5,
-        "latitude": 4.8333,
-        "longitude": 127.5121,
-        "depth_km": 108.574,
-        "time_ms": 1778576036666,
-        "place": "224 km SE of Pondaguitan, Philippines",
+        "latitude": 4.7983,
+        "longitude": 127.5163,
+        "depth_km": 120.156,
+        "time_ms": 1778576037637,
+        "place": "227 km SE of Pondaguitan, Philippines",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1181,6 +1192,145 @@
       }
     ],
     "seismic_hub_risk_score": 3.57
+  },
+  {
+    "country": "Peru",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "PER",
+    "capital": "Lima",
+    "population": 34350244,
+    "area_km2": 1285216.0,
+    "region": "Americas",
+    "subregion": "South America",
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Peruvian sol"
+      }
+    ],
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.3,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-05-19",
+      "depth_km": 58.8,
+      "latitude": -14.1767,
+      "longitude": -75.5147
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 41.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sqcu",
+            "magnitude": 5.2,
+            "latitude": -8.2012,
+            "longitude": -74.2436,
+            "depth_km": 139.126,
+            "time_ms": 1780507284203,
+            "place": "39 km NE of San Fernando, Peru",
+            "distance_km": 41.4,
+            "exposure_contribution": 0.65,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.65
+      },
+      {
+        "name": "Captain Renán Elías Olivera International Airport",
+        "iata_code": "PIO",
+        "latitude": -13.7449,
+        "longitude": -76.220299,
+        "municipality": "Pisco",
+        "closest_quake_distance_km": 90.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syt5",
+            "magnitude": 5.8,
+            "latitude": -14.1767,
+            "longitude": -75.5147,
+            "depth_km": 58.799,
+            "time_ms": 1779213474411,
+            "place": "19 km E of Pampa de Tate, Peru",
+            "distance_km": 90.0,
+            "exposure_contribution": 2.08,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.08
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000sqcu",
+        "magnitude": 5.2,
+        "latitude": -8.2012,
+        "longitude": -74.2436,
+        "depth_km": 139.126,
+        "time_ms": 1780507284203,
+        "place": "39 km NE of San Fernando, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sp7p",
+        "magnitude": 5.1,
+        "latitude": -18.4158,
+        "longitude": -71.4602,
+        "depth_km": 10,
+        "time_ms": 1780032759548,
+        "place": "86 km S of Pacocha, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000syt5",
+        "magnitude": 5.8,
+        "latitude": -14.1767,
+        "longitude": -75.5147,
+        "depth_km": 58.799,
+        "time_ms": 1779213474411,
+        "place": "19 km E of Pampa de Tate, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000svc4",
+        "magnitude": 5.1,
+        "latitude": -3.5485,
+        "longitude": -80.6374,
+        "depth_km": 51.058,
+        "time_ms": 1777996707101,
+        "place": "15 km NNE of Zorritos, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.73
   },
   {
     "country": "China",
@@ -1383,18 +1533,18 @@
         "latitude": -9.428,
         "longitude": 160.054993,
         "municipality": "Honiara",
-        "closest_quake_distance_km": 95.9,
+        "closest_quake_distance_km": 96.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000swvm",
             "magnitude": 5.2,
-            "latitude": -9.2967,
-            "longitude": 159.1915,
+            "latitude": -9.3115,
+            "longitude": 159.1816,
             "depth_km": 10,
-            "time_ms": 1778492931604,
+            "time_ms": 1778492931381,
             "place": "72 km NW of Malango, Solomon Islands",
-            "distance_km": 95.9,
-            "exposure_contribution": 1.23,
+            "distance_km": 96.7,
+            "exposure_contribution": 1.21,
             "pga_g": null,
             "mmi": null
           },
@@ -1412,7 +1562,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.52
+        "exposure_score": 2.51
       }
     ],
     "earthquakes": [
@@ -1441,27 +1591,27 @@
       {
         "id": "us6000sx5k",
         "magnitude": 5.6,
-        "latitude": -10.649,
-        "longitude": 164.9925,
-        "depth_km": 68.161,
-        "time_ms": 1778600371100,
-        "place": "88 km W of Lata, Solomon Islands",
+        "latitude": -10.6401,
+        "longitude": 164.9581,
+        "depth_km": 64.72,
+        "time_ms": 1778600370733,
+        "place": "92 km W of Lata, Solomon Islands",
         "country_code": "SB",
         "shakemap_available": true
       },
       {
         "id": "us6000swvm",
         "magnitude": 5.2,
-        "latitude": -9.2967,
-        "longitude": 159.1915,
+        "latitude": -9.3115,
+        "longitude": 159.1816,
         "depth_km": 10,
-        "time_ms": 1778492931604,
+        "time_ms": 1778492931381,
         "place": "72 km NW of Malango, Solomon Islands",
         "country_code": "SB",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.52
+    "seismic_hub_risk_score": 2.51
   },
   {
     "country": "Tonga",
@@ -1728,110 +1878,6 @@
       }
     ],
     "seismic_hub_risk_score": 2.11
-  },
-  {
-    "country": "Peru",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "PER",
-    "capital": "Lima",
-    "population": 34350244,
-    "area_km2": 1285216.0,
-    "region": "Americas",
-    "subregion": "South America",
-    "currencies": [
-      {
-        "code": "PEN",
-        "name": "Peruvian sol"
-      }
-    ],
-    "languages": [
-      "Aymara",
-      "Quechua",
-      "Spanish"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "BOL",
-      "BRA",
-      "CHL",
-      "COL",
-      "ECU"
-    ],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.33,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-05-19",
-      "depth_km": 58.8,
-      "latitude": -14.1767,
-      "longitude": -75.5147
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Captain Renán Elías Olivera International Airport",
-        "iata_code": "PIO",
-        "latitude": -13.7449,
-        "longitude": -76.220299,
-        "municipality": "Pisco",
-        "closest_quake_distance_km": 90.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syt5",
-            "magnitude": 5.8,
-            "latitude": -14.1767,
-            "longitude": -75.5147,
-            "depth_km": 58.799,
-            "time_ms": 1779213474411,
-            "place": "19 km E of Pampa de Tate, Peru",
-            "distance_km": 90.0,
-            "exposure_contribution": 2.08,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.08
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000sp7p",
-        "magnitude": 5.1,
-        "latitude": -18.4158,
-        "longitude": -71.4602,
-        "depth_km": 10,
-        "time_ms": 1780032759548,
-        "place": "86 km S of Pacocha, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000syt5",
-        "magnitude": 5.8,
-        "latitude": -14.1767,
-        "longitude": -75.5147,
-        "depth_km": 58.799,
-        "time_ms": 1779213474411,
-        "place": "19 km E of Pampa de Tate, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000svc4",
-        "magnitude": 5.1,
-        "latitude": -3.5485,
-        "longitude": -80.6374,
-        "depth_km": 51.058,
-        "time_ms": 1777996707101,
-        "place": "15 km NNE of Zorritos, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.08
   },
   {
     "country": "Papua New Guinea",
