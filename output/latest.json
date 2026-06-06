@@ -1,5 +1,220 @@
 [
   {
+    "country": "Philippines",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "PHL",
+    "capital": "Manila",
+    "population": 114123600,
+    "area_km2": 342353.0,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Philippine peso"
+      }
+    ],
+    "languages": [
+      "English",
+      "Filipino"
+    ],
+    "un_member": true,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.2,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-05-24",
+      "depth_km": 34,
+      "latitude": 9.2997,
+      "longitude": 126.2839
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Laoag International Airport",
+        "iata_code": "LAO",
+        "latitude": 18.175089,
+        "longitude": 120.531006,
+        "municipality": "Laoag City",
+        "closest_quake_distance_km": 125.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sxk1",
+            "magnitude": 5.3,
+            "latitude": 19.0885,
+            "longitude": 121.233,
+            "depth_km": 35,
+            "time_ms": 1778709666625,
+            "place": "53 km N of Namuac, Philippines",
+            "distance_km": 125.6,
+            "exposure_contribution": 0.87,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.87
+      },
+      {
+        "name": "Bicol International Airport",
+        "iata_code": "DRP",
+        "latitude": 13.111915,
+        "longitude": 123.676829,
+        "municipality": "Legazpi",
+        "closest_quake_distance_km": 20.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000squy",
+            "magnitude": 5.3,
+            "latitude": 13.1856,
+            "longitude": 123.8507,
+            "depth_km": 10,
+            "time_ms": 1780667879739,
+            "place": "7 km NNW of Manito, Philippines",
+            "distance_km": 20.5,
+            "exposure_contribution": 9.28,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 9.28
+      },
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 110.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sy76",
+            "magnitude": 5,
+            "latitude": 6.8189,
+            "longitude": 124.695,
+            "depth_km": 10,
+            "time_ms": 1778930744044,
+            "place": "4 km SW of Badak, Philippines",
+            "distance_km": 110.4,
+            "exposure_contribution": 0.79,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000szzw",
+            "magnitude": 5,
+            "latitude": 8.0315,
+            "longitude": 126.9336,
+            "depth_km": 35,
+            "time_ms": 1779676358428,
+            "place": "54 km E of Santa Maria, Philippines",
+            "distance_km": 174.0,
+            "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.16
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 95.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000sy76",
+            "magnitude": 5,
+            "latitude": 6.8189,
+            "longitude": 124.695,
+            "depth_km": 10,
+            "time_ms": 1778930744044,
+            "place": "4 km SW of Badak, Philippines",
+            "distance_km": 95.6,
+            "exposure_contribution": 0.98,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.98
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000squy",
+        "magnitude": 5.3,
+        "latitude": 13.1856,
+        "longitude": 123.8507,
+        "depth_km": 10,
+        "time_ms": 1780667879739,
+        "place": "7 km NNW of Manito, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000szzw",
+        "magnitude": 5,
+        "latitude": 8.0315,
+        "longitude": 126.9336,
+        "depth_km": 35,
+        "time_ms": 1779676358428,
+        "place": "54 km E of Santa Maria, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000szxz",
+        "magnitude": 5.5,
+        "latitude": 9.2997,
+        "longitude": 126.2839,
+        "depth_km": 34,
+        "time_ms": 1779641321017,
+        "place": "10 km ENE of Cortes, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000szxh",
+        "magnitude": 5.1,
+        "latitude": 9.1379,
+        "longitude": 126.5217,
+        "depth_km": 53.181,
+        "time_ms": 1779628745760,
+        "place": "33 km ENE of La Paz, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sy76",
+        "magnitude": 5,
+        "latitude": 6.8189,
+        "longitude": 124.695,
+        "depth_km": 10,
+        "time_ms": 1778930744044,
+        "place": "4 km SW of Badak, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sxk1",
+        "magnitude": 5.3,
+        "latitude": 19.0885,
+        "longitude": 121.233,
+        "depth_km": 35,
+        "time_ms": 1778709666625,
+        "place": "53 km N of Namuac, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 12.29
+  },
+  {
     "country": "Vanuatu",
     "iso_alpha2": "VU",
     "iso_alpha3": "VUT",
@@ -402,23 +617,23 @@
         "latitude": 26.192437,
         "longitude": 127.639804,
         "municipality": "Naha",
-        "closest_quake_distance_km": 172.0,
+        "closest_quake_distance_km": 177.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000syw4",
             "magnitude": 5.9,
-            "latitude": 27.392,
-            "longitude": 128.7336,
+            "latitude": 27.4815,
+            "longitude": 128.6878,
             "depth_km": 42,
-            "time_ms": 1779245184884,
-            "place": "8 km E of Wadomari, Japan",
-            "distance_km": 172.0,
-            "exposure_contribution": 1.04,
+            "time_ms": 1779245184608,
+            "place": "11 km NNE of Wadomari, Japan",
+            "distance_km": 177.1,
+            "exposure_contribution": 1.0,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.04
+        "exposure_score": 1.0
       },
       {
         "name": "Kadena Air Base",
@@ -426,23 +641,23 @@
         "latitude": 26.351667,
         "longitude": 127.769444,
         "municipality": "Okinawa",
-        "closest_quake_distance_km": 150.1,
+        "closest_quake_distance_km": 155.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000syw4",
             "magnitude": 5.9,
-            "latitude": 27.392,
-            "longitude": 128.7336,
+            "latitude": 27.4815,
+            "longitude": 128.6878,
             "depth_km": 42,
-            "time_ms": 1779245184884,
-            "place": "8 km E of Wadomari, Japan",
-            "distance_km": 150.1,
-            "exposure_contribution": 1.3,
+            "time_ms": 1779245184608,
+            "place": "11 km NNE of Wadomari, Japan",
+            "distance_km": 155.2,
+            "exposure_contribution": 1.23,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.3
+        "exposure_score": 1.23
       }
     ],
     "earthquakes": [
@@ -460,11 +675,11 @@
       {
         "id": "us6000syw4",
         "magnitude": 5.9,
-        "latitude": 27.392,
-        "longitude": 128.7336,
+        "latitude": 27.4815,
+        "longitude": 128.6878,
         "depth_km": 42,
-        "time_ms": 1779245184884,
-        "place": "8 km E of Wadomari, Japan",
+        "time_ms": 1779245184608,
+        "place": "11 km NNE of Wadomari, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -513,211 +728,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 6.69
-  },
-  {
-    "country": "Philippines",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "PHL",
-    "capital": "Manila",
-    "population": 114123600,
-    "area_km2": 342353.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "PHP",
-        "name": "Philippine peso"
-      }
-    ],
-    "languages": [
-      "English",
-      "Filipino"
-    ],
-    "un_member": true,
-    "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.23,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-05-24",
-      "depth_km": 34,
-      "latitude": 9.2997,
-      "longitude": 126.2839
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Laoag International Airport",
-        "iata_code": "LAO",
-        "latitude": 18.175089,
-        "longitude": 120.531006,
-        "municipality": "Laoag City",
-        "closest_quake_distance_km": 125.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sxk1",
-            "magnitude": 5.3,
-            "latitude": 19.0885,
-            "longitude": 121.233,
-            "depth_km": 35,
-            "time_ms": 1778709666625,
-            "place": "53 km N of Namuac, Philippines",
-            "distance_km": 125.6,
-            "exposure_contribution": 0.87,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.87
-      },
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 110.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sy76",
-            "magnitude": 5,
-            "latitude": 6.8189,
-            "longitude": 124.695,
-            "depth_km": 10,
-            "time_ms": 1778930744044,
-            "place": "4 km SW of Badak, Philippines",
-            "distance_km": 110.4,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000svp9",
-            "magnitude": 5.5,
-            "latitude": 7.5271,
-            "longitude": 126.7728,
-            "depth_km": 29,
-            "time_ms": 1778081749132,
-            "place": "22 km ENE of Baculin, Philippines",
-            "distance_km": 132.0,
-            "exposure_contribution": 1.03,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000szzw",
-            "magnitude": 5,
-            "latitude": 8.0315,
-            "longitude": 126.9336,
-            "depth_km": 35,
-            "time_ms": 1779676358428,
-            "place": "54 km E of Santa Maria, Philippines",
-            "distance_km": 174.0,
-            "exposure_contribution": 0.37,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.19
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 95.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sy76",
-            "magnitude": 5,
-            "latitude": 6.8189,
-            "longitude": 124.695,
-            "depth_km": 10,
-            "time_ms": 1778930744044,
-            "place": "4 km SW of Badak, Philippines",
-            "distance_km": 95.6,
-            "exposure_contribution": 0.98,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.98
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000szzw",
-        "magnitude": 5,
-        "latitude": 8.0315,
-        "longitude": 126.9336,
-        "depth_km": 35,
-        "time_ms": 1779676358428,
-        "place": "54 km E of Santa Maria, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000szxz",
-        "magnitude": 5.5,
-        "latitude": 9.2997,
-        "longitude": 126.2839,
-        "depth_km": 34,
-        "time_ms": 1779641321017,
-        "place": "10 km ENE of Cortes, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000szxh",
-        "magnitude": 5.1,
-        "latitude": 9.1379,
-        "longitude": 126.5217,
-        "depth_km": 53.181,
-        "time_ms": 1779628745760,
-        "place": "33 km ENE of La Paz, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sy76",
-        "magnitude": 5,
-        "latitude": 6.8189,
-        "longitude": 124.695,
-        "depth_km": 10,
-        "time_ms": 1778930744044,
-        "place": "4 km SW of Badak, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxk1",
-        "magnitude": 5.3,
-        "latitude": 19.0885,
-        "longitude": 121.233,
-        "depth_km": 35,
-        "time_ms": 1778709666625,
-        "place": "53 km N of Namuac, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000svp9",
-        "magnitude": 5.5,
-        "latitude": 7.5271,
-        "longitude": 126.7728,
-        "depth_km": 29,
-        "time_ms": 1778081749132,
-        "place": "22 km ENE of Baculin, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 4.04
+    "seismic_hub_risk_score": 6.58
   },
   {
     "country": "Chile",
@@ -911,10 +922,10 @@
       {
         "id": "us6000syx0",
         "magnitude": 5,
-        "latitude": -41.3229,
-        "longitude": -89.5644,
+        "latitude": -41.5382,
+        "longitude": -89.3747,
         "depth_km": 10,
-        "time_ms": 1779245179106,
+        "time_ms": 1779245177986,
         "place": "southeast of Easter Island",
         "country_code": "CL",
         "shakemap_available": false
@@ -1230,23 +1241,23 @@
         "latitude": -8.378064,
         "longitude": -74.574495,
         "municipality": "Pucallpa",
-        "closest_quake_distance_km": 41.4,
+        "closest_quake_distance_km": 38.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sqcu",
             "magnitude": 5.2,
-            "latitude": -8.2012,
-            "longitude": -74.2436,
-            "depth_km": 139.126,
-            "time_ms": 1780507284203,
-            "place": "39 km NE of San Fernando, Peru",
-            "distance_km": 41.4,
-            "exposure_contribution": 0.65,
+            "latitude": -8.2249,
+            "longitude": -74.263,
+            "depth_km": 150.096,
+            "time_ms": 1780507285301,
+            "place": "35 km ENE of San Fernando, Peru",
+            "distance_km": 38.3,
+            "exposure_contribution": 0.58,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.65
+        "exposure_score": 0.58
       },
       {
         "name": "Captain Renán Elías Olivera International Airport",
@@ -1277,11 +1288,11 @@
       {
         "id": "us7000sqcu",
         "magnitude": 5.2,
-        "latitude": -8.2012,
-        "longitude": -74.2436,
-        "depth_km": 139.126,
-        "time_ms": 1780507284203,
-        "place": "39 km NE of San Fernando, Peru",
+        "latitude": -8.2249,
+        "longitude": -74.263,
+        "depth_km": 150.096,
+        "time_ms": 1780507285301,
+        "place": "35 km ENE of San Fernando, Peru",
         "country_code": "PE",
         "shakemap_available": false
       },
@@ -1308,7 +1319,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.73
+    "seismic_hub_risk_score": 2.66
   },
   {
     "country": "Solomon Islands",
@@ -1591,7 +1602,7 @@
     "bordering_countries": [
       "IDN"
     ],
-    "earthquake_count": 11,
+    "earthquake_count": 10,
     "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.7,
@@ -1766,17 +1777,6 @@
         "place": "134 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000svm3",
-        "magnitude": 5.2,
-        "latitude": -5.7231,
-        "longitude": 154.4237,
-        "depth_km": 103.578,
-        "time_ms": 1778060593682,
-        "place": "134 km WNW of Panguna, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.66
@@ -1866,6 +1866,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sr0g",
+        "magnitude": 5,
+        "latitude": -29.3155,
+        "longitude": -176.8622,
+        "depth_km": 10,
+        "time_ms": 1780698122934,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000sppt",
         "magnitude": 5,
@@ -2017,17 +2028,6 @@
         "depth_km": 35,
         "time_ms": 1778144007146,
         "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000svmz",
-        "magnitude": 5.1,
-        "latitude": -32.2013,
-        "longitude": -177.9213,
-        "depth_km": 10,
-        "time_ms": 1778068008800,
-        "place": "south of the Kermadec Islands",
         "country_code": "TO",
         "shakemap_available": true
       }
