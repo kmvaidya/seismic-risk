@@ -731,6 +731,268 @@
     "seismic_hub_risk_score": 6.58
   },
   {
+    "country": "Indonesia",
+    "iso_alpha2": "ID",
+    "iso_alpha3": "IDN",
+    "capital": "Jakarta",
+    "population": 284438782,
+    "area_km2": 1904569.0,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Indonesian rupiah"
+      }
+    ],
+    "languages": [
+      "Indonesian"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "earthquake_count": 12,
+    "avg_magnitude": 5.37,
+    "strongest_earthquake": {
+      "magnitude": 6.2,
+      "date": "2026-05-14",
+      "depth_km": 137,
+      "latitude": -6.1497,
+      "longitude": 130.3809
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Dortheys Hiyo Eluay International Airport",
+        "iata_code": "DJJ",
+        "latitude": -2.579627,
+        "longitude": 140.519857,
+        "municipality": "Sentani",
+        "closest_quake_distance_km": 195.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000spya",
+            "magnitude": 5.4,
+            "latitude": -2.0575,
+            "longitude": 138.8427,
+            "depth_km": 29.55,
+            "time_ms": 1780354877102,
+            "place": "207 km WNW of Abepura, Indonesia",
+            "distance_km": 195.2,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.49
+      },
+      {
+        "name": "Sam Ratulangi International Airport",
+        "iata_code": "MDC",
+        "latitude": 1.548591,
+        "longitude": 124.92625,
+        "municipality": "Manado",
+        "closest_quake_distance_km": 137.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t04f",
+            "magnitude": 5.6,
+            "latitude": 1.0732,
+            "longitude": 126.0686,
+            "depth_km": 30.978,
+            "time_ms": 1779741560530,
+            "place": "112 km ESE of Bitung, Indonesia",
+            "distance_km": 137.6,
+            "exposure_contribution": 1.08,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000szdy",
+            "magnitude": 5.9,
+            "latitude": 1.0433,
+            "longitude": 126.067,
+            "depth_km": 35,
+            "time_ms": 1779411908540,
+            "place": "113 km ESE of Bitung, Indonesia",
+            "distance_km": 138.7,
+            "exposure_contribution": 1.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sntr",
+            "magnitude": 5.1,
+            "latitude": 0.4707,
+            "longitude": 125.8106,
+            "depth_km": 19.144,
+            "time_ms": 1779863056451,
+            "place": "131 km SE of Bitung, Indonesia",
+            "distance_km": 155.0,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sr4k",
+            "magnitude": 5.2,
+            "latitude": 0.0113,
+            "longitude": 125.2243,
+            "depth_km": 35,
+            "time_ms": 1780772207148,
+            "place": "100 km ESE of Modisi, Indonesia",
+            "distance_km": 174.1,
+            "exposure_contribution": 0.46,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.55
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000sr4k",
+        "magnitude": 5.2,
+        "latitude": 0.0113,
+        "longitude": 125.2243,
+        "depth_km": 35,
+        "time_ms": 1780772207148,
+        "place": "100 km ESE of Modisi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sqrh",
+        "magnitude": 5.2,
+        "latitude": -0.1639,
+        "longitude": 123.0614,
+        "depth_km": 128.812,
+        "time_ms": 1780615712786,
+        "place": "77 km S of Gorontalo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000spya",
+        "magnitude": 5.4,
+        "latitude": -2.0575,
+        "longitude": 138.8427,
+        "depth_km": 29.55,
+        "time_ms": 1780354877102,
+        "place": "207 km WNW of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000snzn",
+        "magnitude": 5.1,
+        "latitude": -10.451,
+        "longitude": 124.473,
+        "depth_km": 10,
+        "time_ms": 1779932778726,
+        "place": "68 km SSE of Soe, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sntr",
+        "magnitude": 5.1,
+        "latitude": 0.4707,
+        "longitude": 125.8106,
+        "depth_km": 19.144,
+        "time_ms": 1779863056451,
+        "place": "131 km SE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t04f",
+        "magnitude": 5.6,
+        "latitude": 1.0732,
+        "longitude": 126.0686,
+        "depth_km": 30.978,
+        "time_ms": 1779741560530,
+        "place": "112 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000szq3",
+        "magnitude": 5.3,
+        "latitude": -4.5338,
+        "longitude": 102.7044,
+        "depth_km": 68.472,
+        "time_ms": 1779540028190,
+        "place": "82 km SW of Pagar Alam, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000szdy",
+        "magnitude": 5.9,
+        "latitude": 1.0433,
+        "longitude": 126.067,
+        "depth_km": 35,
+        "time_ms": 1779411908540,
+        "place": "113 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syy1",
+        "magnitude": 5.2,
+        "latitude": -8.2248,
+        "longitude": 119.2187,
+        "depth_km": 10,
+        "time_ms": 1779272929290,
+        "place": "45 km NE of Sape, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sxqf",
+        "magnitude": 6.2,
+        "latitude": -6.1497,
+        "longitude": 130.3809,
+        "depth_km": 137,
+        "time_ms": 1778781193718,
+        "place": "268 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000sx3v",
+        "magnitude": 5,
+        "latitude": 4.7983,
+        "longitude": 127.5163,
+        "depth_km": 120.156,
+        "time_ms": 1778576037637,
+        "place": "227 km SE of Pondaguitan, Philippines",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000swk8",
+        "magnitude": 5.2,
+        "latitude": -7.0199,
+        "longitude": 131.9032,
+        "depth_km": 10,
+        "time_ms": 1778380944247,
+        "place": "180 km SSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 4.04
+  },
+  {
     "country": "Chile",
     "iso_alpha2": "CL",
     "iso_alpha3": "CHL",
@@ -954,244 +1216,6 @@
       }
     ],
     "seismic_hub_risk_score": 3.97
-  },
-  {
-    "country": "Indonesia",
-    "iso_alpha2": "ID",
-    "iso_alpha3": "IDN",
-    "capital": "Jakarta",
-    "population": 284438782,
-    "area_km2": 1904569.0,
-    "region": "Asia",
-    "subregion": "South-Eastern Asia",
-    "currencies": [
-      {
-        "code": "IDR",
-        "name": "Indonesian rupiah"
-      }
-    ],
-    "languages": [
-      "Indonesian"
-    ],
-    "un_member": true,
-    "bordering_countries": [
-      "TLS",
-      "MYS",
-      "PNG"
-    ],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.38,
-    "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-05-14",
-      "depth_km": 137,
-      "latitude": -6.1497,
-      "longitude": 130.3809
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Dortheys Hiyo Eluay International Airport",
-        "iata_code": "DJJ",
-        "latitude": -2.579627,
-        "longitude": 140.519857,
-        "municipality": "Sentani",
-        "closest_quake_distance_km": 195.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000spya",
-            "magnitude": 5.4,
-            "latitude": -2.0575,
-            "longitude": 138.8427,
-            "depth_km": 29.55,
-            "time_ms": 1780354877102,
-            "place": "207 km WNW of Abepura, Indonesia",
-            "distance_km": 195.2,
-            "exposure_contribution": 0.49,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.49
-      },
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 137.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t04f",
-            "magnitude": 5.6,
-            "latitude": 1.0732,
-            "longitude": 126.0686,
-            "depth_km": 30.978,
-            "time_ms": 1779741560530,
-            "place": "112 km ESE of Bitung, Indonesia",
-            "distance_km": 137.6,
-            "exposure_contribution": 1.08,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000szdy",
-            "magnitude": 5.9,
-            "latitude": 1.0433,
-            "longitude": 126.067,
-            "depth_km": 35,
-            "time_ms": 1779411908540,
-            "place": "113 km ESE of Bitung, Indonesia",
-            "distance_km": 138.7,
-            "exposure_contribution": 1.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000sntr",
-            "magnitude": 5.1,
-            "latitude": 0.4707,
-            "longitude": 125.8106,
-            "depth_km": 19.144,
-            "time_ms": 1779863056451,
-            "place": "131 km SE of Bitung, Indonesia",
-            "distance_km": 155.0,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 3.08
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000sqrh",
-        "magnitude": 5.2,
-        "latitude": -0.1639,
-        "longitude": 123.0614,
-        "depth_km": 128.812,
-        "time_ms": 1780615712786,
-        "place": "77 km S of Gorontalo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spya",
-        "magnitude": 5.4,
-        "latitude": -2.0575,
-        "longitude": 138.8427,
-        "depth_km": 29.55,
-        "time_ms": 1780354877102,
-        "place": "207 km WNW of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000snzn",
-        "magnitude": 5.1,
-        "latitude": -10.451,
-        "longitude": 124.473,
-        "depth_km": 10,
-        "time_ms": 1779932778726,
-        "place": "68 km SSE of Soe, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sntr",
-        "magnitude": 5.1,
-        "latitude": 0.4707,
-        "longitude": 125.8106,
-        "depth_km": 19.144,
-        "time_ms": 1779863056451,
-        "place": "131 km SE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t04f",
-        "magnitude": 5.6,
-        "latitude": 1.0732,
-        "longitude": 126.0686,
-        "depth_km": 30.978,
-        "time_ms": 1779741560530,
-        "place": "112 km ESE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000szq3",
-        "magnitude": 5.3,
-        "latitude": -4.5338,
-        "longitude": 102.7044,
-        "depth_km": 68.472,
-        "time_ms": 1779540028190,
-        "place": "82 km SW of Pagar Alam, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000szdy",
-        "magnitude": 5.9,
-        "latitude": 1.0433,
-        "longitude": 126.067,
-        "depth_km": 35,
-        "time_ms": 1779411908540,
-        "place": "113 km ESE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000syy1",
-        "magnitude": 5.2,
-        "latitude": -8.2248,
-        "longitude": 119.2187,
-        "depth_km": 10,
-        "time_ms": 1779272929290,
-        "place": "45 km NE of Sape, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxqf",
-        "magnitude": 6.2,
-        "latitude": -6.1497,
-        "longitude": 130.3809,
-        "depth_km": 137,
-        "time_ms": 1778781193718,
-        "place": "268 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx3v",
-        "magnitude": 5,
-        "latitude": 4.7983,
-        "longitude": 127.5163,
-        "depth_km": 120.156,
-        "time_ms": 1778576037637,
-        "place": "227 km SE of Pondaguitan, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000swk8",
-        "magnitude": 5.2,
-        "latitude": -7.0199,
-        "longitude": 131.9032,
-        "depth_km": 10,
-        "time_ms": 1778380944247,
-        "place": "180 km SSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 3.57
   },
   {
     "country": "Peru",
@@ -1602,8 +1626,8 @@
     "bordering_countries": [
       "IDN"
     ],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.2,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-22",
@@ -1766,17 +1790,6 @@
         "place": "108 km SSE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000svu7",
-        "magnitude": 5.1,
-        "latitude": -5.8139,
-        "longitude": 154.3801,
-        "depth_km": 120.273,
-        "time_ms": 1778116982376,
-        "place": "134 km WNW of Panguna, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.66
@@ -1803,7 +1816,7 @@
     "un_member": true,
     "bordering_countries": [],
     "earthquake_count": 15,
-    "avg_magnitude": 5.19,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-12",
@@ -1866,6 +1879,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sr3u",
+        "magnitude": 5.3,
+        "latitude": -17.5707,
+        "longitude": -172.2247,
+        "depth_km": 10,
+        "time_ms": 1780754985001,
+        "place": "221 km ENE of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000sr0g",
         "magnitude": 5,
@@ -2019,17 +2043,6 @@
         "place": "south of the Fiji Islands",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000svw1",
-        "magnitude": 5.4,
-        "latitude": -27.348,
-        "longitude": -176.655,
-        "depth_km": 35,
-        "time_ms": 1778144007146,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.51
