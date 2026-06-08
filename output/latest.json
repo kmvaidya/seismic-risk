@@ -20,19 +20,19 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.2,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.67,
     "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-05-24",
-      "depth_km": 34,
-      "latitude": 9.2997,
-      "longitude": 126.2839
+      "magnitude": 7.8,
+      "date": "2026-06-07",
+      "depth_km": 55.2,
+      "latitude": 5.5918,
+      "longitude": 125.0469
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "orange",
+    "max_felt_reports": 138,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Laoag International Airport",
@@ -104,6 +104,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000src3",
+            "magnitude": 6,
+            "latitude": 5.7148,
+            "longitude": 125.3204,
+            "depth_km": 35,
+            "time_ms": 1780876153914,
+            "place": "4 km ENE of Pangyan, Philippines",
+            "distance_km": 160.9,
+            "exposure_contribution": 1.33,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000szzw",
             "magnitude": 5,
             "latitude": 8.0315,
@@ -115,9 +128,35 @@
             "exposure_contribution": 0.37,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000srb1",
+            "magnitude": 7.8,
+            "latitude": 5.5918,
+            "longitude": 125.0469,
+            "depth_km": 55.193,
+            "time_ms": 1780875461803,
+            "place": "26 km SW of Kablalan, Philippines",
+            "distance_km": 182.9,
+            "exposure_contribution": 7.96,
+            "pga_g": 0.0796,
+            "mmi": 5.4
+          },
+          {
+            "earthquake_id": "us7000srbe",
+            "magnitude": 6,
+            "latitude": 5.5222,
+            "longitude": 125.2096,
+            "depth_km": 81.843,
+            "time_ms": 1780876091405,
+            "place": "16 km WSW of Balangonan, Philippines",
+            "distance_km": 184.7,
+            "exposure_contribution": 0.93,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.16
+        "exposure_score": 11.37
       },
       {
         "name": "General Santos International Airport",
@@ -125,8 +164,47 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 95.6,
+        "closest_quake_distance_km": 45.4,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000src3",
+            "magnitude": 6,
+            "latitude": 5.7148,
+            "longitude": 125.3204,
+            "depth_km": 35,
+            "time_ms": 1780876153914,
+            "place": "4 km ENE of Pangyan, Philippines",
+            "distance_km": 45.4,
+            "exposure_contribution": 6.4,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000srb1",
+            "magnitude": 7.8,
+            "latitude": 5.5918,
+            "longitude": 125.0469,
+            "depth_km": 55.193,
+            "time_ms": 1780875461803,
+            "place": "26 km SW of Kablalan, Philippines",
+            "distance_km": 52.0,
+            "exposure_contribution": 62.7,
+            "pga_g": 0.627046,
+            "mmi": 7.7
+          },
+          {
+            "earthquake_id": "us7000srbe",
+            "magnitude": 6,
+            "latitude": 5.5222,
+            "longitude": 125.2096,
+            "depth_km": 81.843,
+            "time_ms": 1780876091405,
+            "place": "16 km WSW of Balangonan, Philippines",
+            "distance_km": 60.8,
+            "exposure_contribution": 2.83,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us6000sy76",
             "magnitude": 5,
@@ -141,10 +219,43 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.98
+        "exposure_score": 72.91
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000src3",
+        "magnitude": 6,
+        "latitude": 5.7148,
+        "longitude": 125.3204,
+        "depth_km": 35,
+        "time_ms": 1780876153914,
+        "place": "4 km ENE of Pangyan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000srbe",
+        "magnitude": 6,
+        "latitude": 5.5222,
+        "longitude": 125.2096,
+        "depth_km": 81.843,
+        "time_ms": 1780876091405,
+        "place": "16 km WSW of Balangonan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000srb1",
+        "magnitude": 7.8,
+        "latitude": 5.5918,
+        "longitude": 125.0469,
+        "depth_km": 55.193,
+        "time_ms": 1780875461803,
+        "place": "26 km SW of Kablalan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
       {
         "id": "us7000squy",
         "magnitude": 5.3,
@@ -212,7 +323,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 12.29
+    "seismic_hub_risk_score": 94.43
   },
   {
     "country": "Vanuatu",
@@ -430,7 +541,7 @@
       "longitude": -155.8425
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 7196,
+    "max_felt_reports": 7200,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -774,17 +885,17 @@
         "latitude": -2.579627,
         "longitude": 140.519857,
         "municipality": "Sentani",
-        "closest_quake_distance_km": 195.2,
+        "closest_quake_distance_km": 194.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000spya",
             "magnitude": 5.4,
-            "latitude": -2.0575,
-            "longitude": 138.8427,
-            "depth_km": 29.55,
-            "time_ms": 1780354877102,
-            "place": "207 km WNW of Abepura, Indonesia",
-            "distance_km": 195.2,
+            "latitude": -2.0683,
+            "longitude": 138.8508,
+            "depth_km": 27.275,
+            "time_ms": 1780354876792,
+            "place": "206 km WNW of Abepura, Indonesia",
+            "distance_km": 194.0,
             "exposure_contribution": 0.49,
             "pga_g": null,
             "mmi": null
@@ -882,11 +993,11 @@
       {
         "id": "us7000spya",
         "magnitude": 5.4,
-        "latitude": -2.0575,
-        "longitude": 138.8427,
-        "depth_km": 29.55,
-        "time_ms": 1780354877102,
-        "place": "207 km WNW of Abepura, Indonesia",
+        "latitude": -2.0683,
+        "longitude": 138.8508,
+        "depth_km": 27.275,
+        "time_ms": 1780354876792,
+        "place": "206 km WNW of Abepura, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1016,8 +1127,8 @@
       "BOL",
       "PER"
     ],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.61,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.63,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-05-25",
@@ -1036,23 +1147,23 @@
         "latitude": -33.393002,
         "longitude": -70.785797,
         "municipality": "Santiago",
-        "closest_quake_distance_km": 119.5,
+        "closest_quake_distance_km": 120.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000spqc",
             "magnitude": 6,
-            "latitude": -32.8047,
-            "longitude": -71.8593,
+            "latitude": -32.8194,
+            "longitude": -71.8796,
             "depth_km": 25,
-            "time_ms": 1780263258026,
+            "time_ms": 1780263257983,
             "place": "33 km NW of Valparaíso, Chile",
-            "distance_km": 119.5,
-            "exposure_contribution": 1.73,
-            "pga_g": 0.017288,
+            "distance_km": 120.2,
+            "exposure_contribution": 1.72,
+            "pga_g": 0.017176,
             "mmi": 3.8
           }
         ],
-        "exposure_score": 1.73
+        "exposure_score": 1.72
       },
       {
         "name": "Carriel Sur International Airport",
@@ -1105,6 +1216,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000sr9r",
+        "magnitude": 5.8,
+        "latitude": -29.1847,
+        "longitude": -112.2108,
+        "depth_km": 10,
+        "time_ms": 1780855280966,
+        "place": "Easter Island region",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
         "id": "us7000sprv",
         "magnitude": 5.3,
         "latitude": -35.387,
@@ -1118,10 +1240,10 @@
       {
         "id": "us7000spqc",
         "magnitude": 6,
-        "latitude": -32.8047,
-        "longitude": -71.8593,
+        "latitude": -32.8194,
+        "longitude": -71.8796,
         "depth_km": 25,
-        "time_ms": 1780263258026,
+        "time_ms": 1780263257983,
         "place": "33 km NW of Valparaíso, Chile",
         "country_code": "CL",
         "shakemap_available": true
@@ -1215,7 +1337,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.97
+    "seismic_hub_risk_score": 3.96
   },
   {
     "country": "Peru",
@@ -1626,8 +1748,8 @@
     "bordering_countries": [
       "IDN"
     ],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-22",
@@ -1779,17 +1901,6 @@
         "place": "106 km SSE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sw6y",
-        "magnitude": 5.6,
-        "latitude": -2.8761,
-        "longitude": 147.7722,
-        "depth_km": 10,
-        "time_ms": 1778242951971,
-        "place": "108 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.66
@@ -1815,8 +1926,8 @@
     ],
     "un_member": true,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.18,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-12",
@@ -1880,6 +1991,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000sr6c",
+        "magnitude": 5.4,
+        "latitude": -24.3729,
+        "longitude": -179.849,
+        "depth_km": 506.648,
+        "time_ms": 1780804617053,
+        "place": "south of the Fiji Islands",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
         "id": "us7000sr3u",
         "magnitude": 5.3,
         "latitude": -17.5707,
@@ -1904,11 +2026,11 @@
       {
         "id": "us7000sppt",
         "magnitude": 5,
-        "latitude": -30.5996,
-        "longitude": -179.0432,
-        "depth_km": 98.548,
-        "time_ms": 1780254939818,
-        "place": "Kermadec Islands region",
+        "latitude": -30.677,
+        "longitude": -178.8597,
+        "depth_km": 107.579,
+        "time_ms": 1780254939354,
+        "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -2046,5 +2168,104 @@
       }
     ],
     "seismic_hub_risk_score": 1.51
+  },
+  {
+    "country": "Timor-Leste",
+    "iso_alpha2": "TL",
+    "iso_alpha3": "TLS",
+    "capital": "Dili",
+    "population": 1391221,
+    "area_km2": 14874.0,
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "United States dollar"
+      }
+    ],
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "un_member": true,
+    "bordering_countries": [
+      "IDN"
+    ],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.2,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-06-05",
+      "depth_km": 154.1,
+      "latitude": -7.6807,
+      "longitude": 127.2652
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Presidente Nicolau Lobato International Airport",
+        "iata_code": "DIL",
+        "latitude": -8.546562,
+        "longitude": 125.524507,
+        "municipality": "Dili",
+        "closest_quake_distance_km": 117.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sr5i",
+            "magnitude": 5.2,
+            "latitude": -8.6648,
+            "longitude": 126.5825,
+            "depth_km": 10,
+            "time_ms": 1780785515829,
+            "place": "22 km E of Venilale, Timor Leste",
+            "distance_km": 117.1,
+            "exposure_contribution": 0.91,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.91
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000sr64",
+        "magnitude": 5.1,
+        "latitude": -7.4742,
+        "longitude": 128.439,
+        "depth_km": 161.221,
+        "time_ms": 1780800785880,
+        "place": "196 km NE of Lospalos, Timor Leste",
+        "country_code": "TL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sr5i",
+        "magnitude": 5.2,
+        "latitude": -8.6648,
+        "longitude": 126.5825,
+        "depth_km": 10,
+        "time_ms": 1780785515829,
+        "place": "22 km E of Venilale, Timor Leste",
+        "country_code": "TL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sqvk",
+        "magnitude": 5.3,
+        "latitude": -7.6807,
+        "longitude": 127.2652,
+        "depth_km": 154.139,
+        "time_ms": 1780675025030,
+        "place": "97 km NNE of Lospalos, Timor Leste",
+        "country_code": "TL",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.91
   }
 ]

@@ -76,20 +76,20 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-06-07 08:46 UTC*
+*Last updated: 2026-06-08 10:20 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Philippines | PHL | 12.3 | ~ | 6 | 4 | - |
+| 1 | Philippines | PHL | 94.4 | +82.1 | 9 | 4 | orange |
 | 2 | Vanuatu | VUT | 10.4 | ~ | 6 | 1 | - |
 | 3 | United States | USA | 9.0 | ~ | 6 | 2 | yellow |
 | 4 | Japan | JPN | 6.6 | ~ | 6 | 3 | green |
 | 5 | Indonesia | IDN | 4.0 | ~ | 12 | 2 | - |
-| 6 | Chile | CHL | 4.0 | ~ | 10 | 3 | green |
+| 6 | Chile | CHL | 4.0 | ~ | 11 | 3 | green |
 | 7 | Peru | PER | 2.7 | ~ | 3 | 2 | - |
 | 8 | Solomon Islands | SLB | 2.5 | ~ | 4 | 1 | - |
 | 9 | China | CHN | 2.1 | ~ | 4 | 1 | orange |
-| 10 | Papua New Guinea | PNG | 1.7 | ~ | 9 | 1 | - |
+| 10 | Papua New Guinea | PNG | 1.7 | ~ | 8 | 1 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works
