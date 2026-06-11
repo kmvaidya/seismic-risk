@@ -76,20 +76,20 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-06-10 09:41 UTC*
+*Last updated: 2026-06-11 10:09 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 | Philippines | PHL | 140.7 | +10.5 | 33 | 5 | orange |
-| 2 | Vanuatu | VUT | 10.4 | ~ | 7 | 1 | - |
-| 3 | United States | USA | 9.0 | ~ | 6 | 2 | yellow |
-| 4 | Japan | JPN | 6.8 | ~ | 7 | 3 | green |
-| 5 | Indonesia | IDN | 4.0 | ~ | 11 | 2 | - |
-| 6 | Peru | PER | 2.7 | ~ | 3 | 2 | - |
-| 7 | Solomon Islands | SLB | 2.5 | ~ | 4 | 1 | - |
-| 8 | China | CHN | 2.1 | ~ | 4 | 1 | orange |
-| 9 | Chile | CHL | 1.7 | -2.2 | 10 | 1 | green |
-| 10 | Tonga | TON | 1.5 | ~ | 12 | 2 | - |
+| 1 |  |  | 145.9 | NEW | 37 | 5 | orange |
+| 2 |  |  | 10.4 | NEW | 7 | 1 | - |
+| 3 |  |  | 9.0 | NEW | 6 | 2 | yellow |
+| 4 |  |  | 6.8 | NEW | 6 | 3 | green |
+| 5 |  |  | 4.1 | NEW | 11 | 2 | - |
+| 6 |  |  | 2.7 | NEW | 3 | 2 | - |
+| 7 |  |  | 2.1 | NEW | 4 | 1 | orange |
+| 8 |  |  | 2.1 | NEW | 13 | 2 | - |
+| 9 |  |  | 1.7 | NEW | 10 | 1 | green |
+| 10 |  |  | 1.4 | NEW | 3 | 1 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works
