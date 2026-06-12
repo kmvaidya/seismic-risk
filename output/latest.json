@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 37,
+    "earthquake_count": 40,
     "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.8,
@@ -22,7 +22,7 @@
       "longitude": 125.0469
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 164,
+    "max_felt_reports": 167,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -144,19 +144,6 @@
             "place": "6 km SSW of Pangyan, Philippines",
             "distance_km": 169.7,
             "exposure_contribution": 1.19,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000szzw",
-            "magnitude": 5,
-            "latitude": 8.0315,
-            "longitude": 126.9336,
-            "depth_km": 35,
-            "time_ms": 1779676358428,
-            "place": "54 km E of Santa Maria, Philippines",
-            "distance_km": 174.0,
-            "exposure_contribution": 0.37,
             "pga_g": null,
             "mmi": null
           },
@@ -330,7 +317,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 19.14
+        "exposure_score": 18.77
       },
       {
         "name": "General Santos International Airport",
@@ -692,6 +679,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ss57",
+            "magnitude": 5.5,
+            "latitude": 4.8778,
+            "longitude": 125.4356,
+            "depth_km": 49.891,
+            "time_ms": 1781142974675,
+            "place": "58 km S of Sarangani, Philippines",
+            "distance_km": 136.4,
+            "exposure_contribution": 0.92,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000sruf",
             "magnitude": 5.1,
             "latitude": 4.8395,
@@ -701,6 +701,19 @@
             "place": "65 km SSW of Sarangani, Philippines",
             "distance_km": 137.0,
             "exposure_contribution": 0.6,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ss6g",
+            "magnitude": 5.4,
+            "latitude": 4.8685,
+            "longitude": 125.4495,
+            "depth_km": 72.962,
+            "time_ms": 1781163203077,
+            "place": "59 km S of Sarangani, Philippines",
+            "distance_km": 137.8,
+            "exposure_contribution": 0.73,
             "pga_g": null,
             "mmi": null
           },
@@ -718,6 +731,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ss7v",
+            "magnitude": 5.1,
+            "latitude": 4.837,
+            "longitude": 125.5183,
+            "depth_km": 35.164,
+            "time_ms": 1781178418234,
+            "place": "62 km S of Sarangani, Philippines",
+            "distance_km": 143.5,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srdu",
             "magnitude": 5.3,
             "latitude": 4.787,
@@ -727,6 +753,19 @@
             "place": "69 km S of Sarangani, Philippines",
             "distance_km": 144.0,
             "exposure_contribution": 0.67,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ss60",
+            "magnitude": 5,
+            "latitude": 4.8238,
+            "longitude": 125.5812,
+            "depth_km": 62.85,
+            "time_ms": 1781156326440,
+            "place": "65 km SSE of Sarangani, Philippines",
+            "distance_km": 147.3,
+            "exposure_contribution": 0.44,
             "pga_g": null,
             "mmi": null
           },
@@ -744,7 +783,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 115.96
+        "exposure_score": 118.6
       },
       {
         "name": "Laguindingan International Airport",
@@ -772,6 +811,50 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ss7v",
+        "magnitude": 5.1,
+        "latitude": 4.837,
+        "longitude": 125.5183,
+        "depth_km": 35.164,
+        "time_ms": 1781178418234,
+        "place": "62 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ss6g",
+        "magnitude": 5.4,
+        "latitude": 4.8685,
+        "longitude": 125.4495,
+        "depth_km": 72.962,
+        "time_ms": 1781163203077,
+        "place": "59 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ss60",
+        "magnitude": 5,
+        "latitude": 4.8238,
+        "longitude": 125.5812,
+        "depth_km": 62.85,
+        "time_ms": 1781156326440,
+        "place": "65 km SSE of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ss57",
+        "magnitude": 5.5,
+        "latitude": 4.8778,
+        "longitude": 125.4356,
+        "depth_km": 49.891,
+        "time_ms": 1781142974675,
+        "place": "58 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
       {
         "id": "us7000ss4r",
         "magnitude": 5.1,
@@ -1125,17 +1208,6 @@
         "shakemap_available": false
       },
       {
-        "id": "us6000szzw",
-        "magnitude": 5,
-        "latitude": 8.0315,
-        "longitude": 126.9336,
-        "depth_km": 35,
-        "time_ms": 1779676358428,
-        "place": "54 km E of Santa Maria, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000szxz",
         "magnitude": 5.5,
         "latitude": 9.2997,
@@ -1180,7 +1252,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 145.89
+    "seismic_hub_risk_score": 148.16
   },
   {
     "country": "",
@@ -1195,8 +1267,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-19",
@@ -1246,13 +1318,13 @@
           {
             "earthquake_id": "us6000sy90",
             "magnitude": 5.5,
-            "latitude": -17.9035,
-            "longitude": 169.0942,
+            "latitude": -17.845,
+            "longitude": 169.1032,
             "depth_km": 10,
-            "time_ms": 1778947084517,
-            "place": "84 km ESE of Port-Vila, Vanuatu",
-            "distance_km": 85.1,
-            "exposure_contribution": 2.06,
+            "time_ms": 1778947084245,
+            "place": "84 km E of Port-Vila, Vanuatu",
+            "distance_km": 84.5,
+            "exposure_contribution": 2.08,
             "pga_g": null,
             "mmi": null
           },
@@ -1281,12 +1353,36 @@
             "exposure_contribution": 1.27,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ssct",
+            "magnitude": 5,
+            "latitude": -18.9647,
+            "longitude": 169.0532,
+            "depth_km": 168.418,
+            "time_ms": 1781213567364,
+            "place": "68 km NNW of Isangel, Vanuatu",
+            "distance_km": 160.6,
+            "exposure_contribution": 0.23,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 10.39
+        "exposure_score": 10.63
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssct",
+        "magnitude": 5,
+        "latitude": -18.9647,
+        "longitude": 169.0532,
+        "depth_km": 168.418,
+        "time_ms": 1781213567364,
+        "place": "68 km NNW of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
       {
         "id": "us7000srkc",
         "magnitude": 5.4,
@@ -1334,11 +1430,11 @@
       {
         "id": "us6000sy90",
         "magnitude": 5.5,
-        "latitude": -17.9035,
-        "longitude": 169.0942,
+        "latitude": -17.845,
+        "longitude": 169.1032,
         "depth_km": 10,
-        "time_ms": 1778947084517,
-        "place": "84 km ESE of Port-Vila, Vanuatu",
+        "time_ms": 1778947084245,
+        "place": "84 km E of Port-Vila, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       },
@@ -1365,7 +1461,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 10.39
+    "seismic_hub_risk_score": 10.63
   },
   {
     "country": "",
@@ -1390,7 +1486,7 @@
       "longitude": -155.8425
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 7203,
+    "max_felt_reports": 7205,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -1696,8 +1792,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-05-14",
@@ -1908,17 +2004,6 @@
         "place": "268 km WSW of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000sx3v",
-        "magnitude": 5,
-        "latitude": 4.7983,
-        "longitude": 127.5163,
-        "depth_km": 120.156,
-        "time_ms": 1778576037637,
-        "place": "227 km SE of Pondaguitan, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 4.11
@@ -2151,7 +2236,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "TO",
+    "iso_alpha2": "CL",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -2163,13 +2248,212 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 13,
-    "avg_magnitude": 5.22,
+    "avg_magnitude": 5.55,
+    "strongest_earthquake": {
+      "magnitude": 6.9,
+      "date": "2026-05-25",
+      "depth_km": 109,
+      "latitude": -22.3975,
+      "longitude": -68.6779
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 155,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 3,
+    "exposed_airports": [
+      {
+        "name": "Comodoro Arturo Merino Benítez International Airport",
+        "iata_code": "SCL",
+        "latitude": -33.393002,
+        "longitude": -70.785797,
+        "municipality": "Santiago",
+        "closest_quake_distance_km": 120.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000spqc",
+            "magnitude": 6,
+            "latitude": -32.8194,
+            "longitude": -71.8796,
+            "depth_km": 25,
+            "time_ms": 1780263257983,
+            "place": "33 km NW of Valparaíso, Chile",
+            "distance_km": 120.2,
+            "exposure_contribution": 1.72,
+            "pga_g": 0.017176,
+            "mmi": 3.8
+          }
+        ],
+        "exposure_score": 1.72
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ss82",
+        "magnitude": 5.5,
+        "latitude": -27.8038,
+        "longitude": -71.7406,
+        "depth_km": 10,
+        "time_ms": 1781180526272,
+        "place": "128 km NW of Vallenar, Chile",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ss7x",
+        "magnitude": 5.1,
+        "latitude": -27.8153,
+        "longitude": -71.6744,
+        "depth_km": 10,
+        "time_ms": 1781179588998,
+        "place": "123 km NW of Vallenar, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ss5y",
+        "magnitude": 5.2,
+        "latitude": -27.8358,
+        "longitude": -71.6196,
+        "depth_km": 10,
+        "time_ms": 1781155184569,
+        "place": "117 km NW of Vallenar, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sr9r",
+        "magnitude": 5.8,
+        "latitude": -29.1847,
+        "longitude": -112.2108,
+        "depth_km": 10,
+        "time_ms": 1780855280966,
+        "place": "Easter Island region",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sprv",
+        "magnitude": 5.3,
+        "latitude": -35.387,
+        "longitude": -104.6576,
+        "depth_km": 10,
+        "time_ms": 1780285211053,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000spqc",
+        "magnitude": 6,
+        "latitude": -32.8194,
+        "longitude": -71.8796,
+        "depth_km": 25,
+        "time_ms": 1780263257983,
+        "place": "33 km NW of Valparaíso, Chile",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000snt8",
+        "magnitude": 5.1,
+        "latitude": -22.282,
+        "longitude": -68.7512,
+        "depth_km": 102.493,
+        "time_ms": 1779859410376,
+        "place": "26 km NE of Calama, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t04s",
+        "magnitude": 6.9,
+        "latitude": -22.3975,
+        "longitude": -68.6779,
+        "depth_km": 109,
+        "time_ms": 1779745940045,
+        "place": "26 km ENE of Calama, Chile",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000szx2",
+        "magnitude": 5.3,
+        "latitude": -35.7227,
+        "longitude": -104.9819,
+        "depth_km": 10,
+        "time_ms": 1779563946591,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sz1t",
+        "magnitude": 5,
+        "latitude": -54.7169,
+        "longitude": -118.7178,
+        "depth_km": 10,
+        "time_ms": 1779302199519,
+        "place": "southern East Pacific Rise",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sz1d",
+        "magnitude": 6.6,
+        "latitude": -55.9978,
+        "longitude": -122.2979,
+        "depth_km": 10,
+        "time_ms": 1779298981865,
+        "place": "southern East Pacific Rise",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syx0",
+        "magnitude": 5,
+        "latitude": -41.5382,
+        "longitude": -89.3747,
+        "depth_km": 10,
+        "time_ms": 1779245177986,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000syg1",
+        "magnitude": 5.4,
+        "latitude": -43.4469,
+        "longitude": -82.4535,
+        "depth_km": 10,
+        "time_ms": 1779070241440,
+        "place": "West Chile Rise",
+        "country_code": "CL",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.72
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.17,
     "strongest_earthquake": {
       "magnitude": 5.7,
-      "date": "2026-05-12",
-      "depth_km": 154,
-      "latitude": -23.3501,
-      "longitude": -176.8356
+      "date": "2026-05-22",
+      "depth_km": 10,
+      "latitude": -2.857,
+      "longitude": 147.713
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2177,29 +2461,308 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Fua'amotu International Airport",
-        "iata_code": "TBU",
-        "latitude": -21.241438,
-        "longitude": -175.149164,
-        "municipality": "Nuku'alofa",
-        "closest_quake_distance_km": 90.6,
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 97.6,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000sxaj",
-            "magnitude": 5.1,
-            "latitude": -21.5221,
-            "longitude": -174.3272,
-            "depth_km": 10,
-            "time_ms": 1778622823461,
-            "place": "68 km ESE of ‘Ohonua, Tonga",
-            "distance_km": 90.6,
-            "exposure_contribution": 1.18,
+            "earthquake_id": "us6000syfk",
+            "magnitude": 5,
+            "latitude": -6.4292,
+            "longitude": 147.5985,
+            "depth_km": 64.1,
+            "time_ms": 1779058712631,
+            "place": "30 km WNW of Finschhafen, Papua New Guinea",
+            "distance_km": 97.6,
+            "exposure_contribution": 0.73,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000spkp",
+            "magnitude": 5,
+            "latitude": -7.2968,
+            "longitude": 147.4544,
+            "depth_km": 68.854,
+            "time_ms": 1780181151647,
+            "place": "81 km SE of Lae, Papua New Guinea",
+            "distance_km": 114.1,
+            "exposure_contribution": 0.59,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.18
+        "exposure_score": 1.32
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000spkp",
+        "magnitude": 5,
+        "latitude": -7.2968,
+        "longitude": 147.4544,
+        "depth_km": 68.854,
+        "time_ms": 1780181151647,
+        "place": "81 km SE of Lae, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
       },
+      {
+        "id": "us6000t028",
+        "magnitude": 5,
+        "latitude": -4.7914,
+        "longitude": 153.1957,
+        "depth_km": 55.928,
+        "time_ms": 1779721230276,
+        "place": "114 km ESE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000szgb",
+        "magnitude": 5.7,
+        "latitude": -2.857,
+        "longitude": 147.713,
+        "depth_km": 10,
+        "time_ms": 1779444499139,
+        "place": "103 km SSE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syfk",
+        "magnitude": 5,
+        "latitude": -6.4292,
+        "longitude": 147.5985,
+        "depth_km": 64.1,
+        "time_ms": 1779058712631,
+        "place": "30 km WNW of Finschhafen, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000syby",
+        "magnitude": 5,
+        "latitude": -2.9481,
+        "longitude": 147.7111,
+        "depth_km": 10,
+        "time_ms": 1779004316759,
+        "place": "112 km SSE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000sxu9",
+        "magnitude": 5.3,
+        "latitude": -3.0286,
+        "longitude": 147.7949,
+        "depth_km": 10,
+        "time_ms": 1778807638743,
+        "place": "124 km SSE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.32
+  },
+  {
+    "country": "",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 9,
+    "avg_magnitude": 5.39,
+    "strongest_earthquake": {
+      "magnitude": 6.1,
+      "date": "2026-06-07",
+      "depth_km": 35,
+      "latitude": 49.8993,
+      "longitude": 157.3799
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 170.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ss1g",
+            "magnitude": 5.2,
+            "latitude": 52.5396,
+            "longitude": 160.7735,
+            "depth_km": 10,
+            "time_ms": 1781099126037,
+            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 170.9,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000srvv",
+            "magnitude": 5.2,
+            "latitude": 52.3674,
+            "longitude": 160.7499,
+            "depth_km": 10,
+            "time_ms": 1781034543951,
+            "place": "163 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 178.5,
+            "exposure_contribution": 0.46,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.95
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ss5v",
+        "magnitude": 5,
+        "latitude": 55.187,
+        "longitude": 165.3069,
+        "depth_km": 10,
+        "time_ms": 1781153078172,
+        "place": "212 km SE of Ust’-Kamchatsk Staryy, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ss1g",
+        "magnitude": 5.2,
+        "latitude": 52.5396,
+        "longitude": 160.7735,
+        "depth_km": 10,
+        "time_ms": 1781099126037,
+        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ss03",
+        "magnitude": 5.7,
+        "latitude": 43.6289,
+        "longitude": 135.6736,
+        "depth_km": 343.313,
+        "time_ms": 1781087657371,
+        "place": "33 km ESE of Ol’ga, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000srvv",
+        "magnitude": 5.2,
+        "latitude": 52.3674,
+        "longitude": 160.7499,
+        "depth_km": 10,
+        "time_ms": 1781034543951,
+        "place": "163 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sr8v",
+        "magnitude": 5.5,
+        "latitude": 49.8979,
+        "longitude": 157.6645,
+        "depth_km": 10,
+        "time_ms": 1780844036180,
+        "place": "139 km SE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sr7l",
+        "magnitude": 6.1,
+        "latitude": 49.8993,
+        "longitude": 157.3799,
+        "depth_km": 35,
+        "time_ms": 1780828918596,
+        "place": "124 km SE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sqcw",
+        "magnitude": 5.2,
+        "latitude": 51.3903,
+        "longitude": 159.7076,
+        "depth_km": 13.439,
+        "time_ms": 1780507411747,
+        "place": "193 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000spd9",
+        "magnitude": 5.2,
+        "latitude": 50.0244,
+        "longitude": 159.5519,
+        "depth_km": 10,
+        "time_ms": 1780070758389,
+        "place": "254 km ESE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000syc2",
+        "magnitude": 5.4,
+        "latitude": 50.7292,
+        "longitude": 157.3884,
+        "depth_km": 44,
+        "time_ms": 1779005057327,
+        "place": "89 km E of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.95
+  },
+  {
+    "country": "",
+    "iso_alpha2": "TO",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 11,
+    "avg_magnitude": 5.18,
+    "strongest_earthquake": {
+      "magnitude": 5.4,
+      "date": "2026-06-10",
+      "depth_km": 10,
+      "latitude": -19.0625,
+      "longitude": -172.365
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
       {
         "name": "Vava'u International Airport",
         "iata_code": "VAV",
@@ -2359,578 +2922,9 @@
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sxaj",
-        "magnitude": 5.1,
-        "latitude": -21.5221,
-        "longitude": -174.3272,
-        "depth_km": 10,
-        "time_ms": 1778622823461,
-        "place": "68 km ESE of ‘Ohonua, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sx9x",
-        "magnitude": 5.7,
-        "latitude": -23.3501,
-        "longitude": -176.8356,
-        "depth_km": 154,
-        "time_ms": 1778620776715,
-        "place": "288 km SSW of Houma, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.1
-  },
-  {
-    "country": "",
-    "iso_alpha2": "CL",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.64,
-    "strongest_earthquake": {
-      "magnitude": 6.9,
-      "date": "2026-05-25",
-      "depth_km": 109,
-      "latitude": -22.3975,
-      "longitude": -68.6779
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 155,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 3,
-    "exposed_airports": [
-      {
-        "name": "Comodoro Arturo Merino Benítez International Airport",
-        "iata_code": "SCL",
-        "latitude": -33.393002,
-        "longitude": -70.785797,
-        "municipality": "Santiago",
-        "closest_quake_distance_km": 120.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000spqc",
-            "magnitude": 6,
-            "latitude": -32.8194,
-            "longitude": -71.8796,
-            "depth_km": 25,
-            "time_ms": 1780263257983,
-            "place": "33 km NW of Valparaíso, Chile",
-            "distance_km": 120.2,
-            "exposure_contribution": 1.72,
-            "pga_g": 0.017176,
-            "mmi": 3.8
-          }
-        ],
-        "exposure_score": 1.72
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000sr9r",
-        "magnitude": 5.8,
-        "latitude": -29.1847,
-        "longitude": -112.2108,
-        "depth_km": 10,
-        "time_ms": 1780855280966,
-        "place": "Easter Island region",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sprv",
-        "magnitude": 5.3,
-        "latitude": -35.387,
-        "longitude": -104.6576,
-        "depth_km": 10,
-        "time_ms": 1780285211053,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spqc",
-        "magnitude": 6,
-        "latitude": -32.8194,
-        "longitude": -71.8796,
-        "depth_km": 25,
-        "time_ms": 1780263257983,
-        "place": "33 km NW of Valparaíso, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000snt8",
-        "magnitude": 5.1,
-        "latitude": -22.282,
-        "longitude": -68.7512,
-        "depth_km": 102.493,
-        "time_ms": 1779859410376,
-        "place": "26 km NE of Calama, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t04s",
-        "magnitude": 6.9,
-        "latitude": -22.3975,
-        "longitude": -68.6779,
-        "depth_km": 109,
-        "time_ms": 1779745940045,
-        "place": "26 km ENE of Calama, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000szx2",
-        "magnitude": 5.3,
-        "latitude": -35.7227,
-        "longitude": -104.9819,
-        "depth_km": 10,
-        "time_ms": 1779563946591,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sz1t",
-        "magnitude": 5,
-        "latitude": -54.7454,
-        "longitude": -118.6623,
-        "depth_km": 10,
-        "time_ms": 1779302199632,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sz1d",
-        "magnitude": 6.6,
-        "latitude": -55.984,
-        "longitude": -122.2988,
-        "depth_km": 10,
-        "time_ms": 1779298981910,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000syx0",
-        "magnitude": 5,
-        "latitude": -41.5382,
-        "longitude": -89.3747,
-        "depth_km": 10,
-        "time_ms": 1779245177986,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000syg1",
-        "magnitude": 5.4,
-        "latitude": -43.4469,
-        "longitude": -82.4535,
-        "depth_km": 10,
-        "time_ms": 1779070241440,
-        "place": "West Chile Rise",
-        "country_code": "CL",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.72
-  },
-  {
-    "country": "",
-    "iso_alpha2": "SB",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.53,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-05-16",
-      "depth_km": 32,
-      "latitude": -8.6195,
-      "longitude": 160.8153
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Honiara International Airport",
-        "iata_code": "HIR",
-        "latitude": -9.428,
-        "longitude": 160.054993,
-        "municipality": "Honiara",
-        "closest_quake_distance_km": 122.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sy8k",
-            "magnitude": 5.7,
-            "latitude": -8.6195,
-            "longitude": 160.8153,
-            "depth_km": 32,
-            "time_ms": 1778944677369,
-            "place": "20 km NE of Auki, Solomon Islands",
-            "distance_km": 122.7,
-            "exposure_contribution": 1.44,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.44
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000szk5",
-        "magnitude": 5.3,
-        "latitude": -10.7482,
-        "longitude": 164.3652,
-        "depth_km": 10,
-        "time_ms": 1779478238517,
-        "place": "156 km W of Lata, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sy8k",
-        "magnitude": 5.7,
-        "latitude": -8.6195,
-        "longitude": 160.8153,
-        "depth_km": 32,
-        "time_ms": 1778944677369,
-        "place": "20 km NE of Auki, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sx5k",
-        "magnitude": 5.6,
-        "latitude": -10.6401,
-        "longitude": 164.9581,
-        "depth_km": 64.72,
-        "time_ms": 1778600370733,
-        "place": "92 km W of Lata, Solomon Islands",
-        "country_code": "SB",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.44
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PG",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.17,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-05-22",
-      "depth_km": 10,
-      "latitude": -2.857,
-      "longitude": 147.713
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 97.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syfk",
-            "magnitude": 5,
-            "latitude": -6.4292,
-            "longitude": 147.5985,
-            "depth_km": 64.1,
-            "time_ms": 1779058712631,
-            "place": "30 km WNW of Finschhafen, Papua New Guinea",
-            "distance_km": 97.6,
-            "exposure_contribution": 0.73,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000spkp",
-            "magnitude": 5,
-            "latitude": -7.2968,
-            "longitude": 147.4544,
-            "depth_km": 68.854,
-            "time_ms": 1780181151647,
-            "place": "81 km SE of Lae, Papua New Guinea",
-            "distance_km": 114.1,
-            "exposure_contribution": 0.59,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000spkp",
-        "magnitude": 5,
-        "latitude": -7.2968,
-        "longitude": 147.4544,
-        "depth_km": 68.854,
-        "time_ms": 1780181151647,
-        "place": "81 km SE of Lae, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t028",
-        "magnitude": 5,
-        "latitude": -4.7914,
-        "longitude": 153.1957,
-        "depth_km": 55.928,
-        "time_ms": 1779721230276,
-        "place": "114 km ESE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000szgb",
-        "magnitude": 5.7,
-        "latitude": -2.857,
-        "longitude": 147.713,
-        "depth_km": 10,
-        "time_ms": 1779444499139,
-        "place": "103 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000syfk",
-        "magnitude": 5,
-        "latitude": -6.4292,
-        "longitude": 147.5985,
-        "depth_km": 64.1,
-        "time_ms": 1779058712631,
-        "place": "30 km WNW of Finschhafen, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000syby",
-        "magnitude": 5,
-        "latitude": -2.9481,
-        "longitude": 147.7111,
-        "depth_km": 10,
-        "time_ms": 1779004316759,
-        "place": "112 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxu9",
-        "magnitude": 5.3,
-        "latitude": -3.0286,
-        "longitude": 147.7949,
-        "depth_km": 10,
-        "time_ms": 1778807638743,
-        "place": "124 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.32
-  },
-  {
-    "country": "",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.44,
-    "strongest_earthquake": {
-      "magnitude": 6.1,
-      "date": "2026-06-07",
-      "depth_km": 35,
-      "latitude": 49.8993,
-      "longitude": 157.3799
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 170.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ss1g",
-            "magnitude": 5.2,
-            "latitude": 52.5396,
-            "longitude": 160.7735,
-            "depth_km": 10,
-            "time_ms": 1781099126037,
-            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 170.9,
-            "exposure_contribution": 0.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srvv",
-            "magnitude": 5.2,
-            "latitude": 52.3674,
-            "longitude": 160.7499,
-            "depth_km": 10,
-            "time_ms": 1781034543951,
-            "place": "163 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 178.5,
-            "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.95
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000ss1g",
-        "magnitude": 5.2,
-        "latitude": 52.5396,
-        "longitude": 160.7735,
-        "depth_km": 10,
-        "time_ms": 1781099126037,
-        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss03",
-        "magnitude": 5.7,
-        "latitude": 43.6289,
-        "longitude": 135.6736,
-        "depth_km": 343.313,
-        "time_ms": 1781087657371,
-        "place": "33 km ESE of Ol’ga, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srvv",
-        "magnitude": 5.2,
-        "latitude": 52.3674,
-        "longitude": 160.7499,
-        "depth_km": 10,
-        "time_ms": 1781034543951,
-        "place": "163 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sr8v",
-        "magnitude": 5.5,
-        "latitude": 49.8979,
-        "longitude": 157.6645,
-        "depth_km": 10,
-        "time_ms": 1780844036180,
-        "place": "139 km SE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sr7l",
-        "magnitude": 6.1,
-        "latitude": 49.8993,
-        "longitude": 157.3799,
-        "depth_km": 35,
-        "time_ms": 1780828918596,
-        "place": "124 km SE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sqcw",
-        "magnitude": 5.2,
-        "latitude": 51.3903,
-        "longitude": 159.7076,
-        "depth_km": 13.439,
-        "time_ms": 1780507411747,
-        "place": "193 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spd9",
-        "magnitude": 5.2,
-        "latitude": 50.0244,
-        "longitude": 159.5519,
-        "depth_km": 10,
-        "time_ms": 1780070758389,
-        "place": "254 km ESE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000syc2",
-        "magnitude": 5.4,
-        "latitude": 50.7292,
-        "longitude": 157.3884,
-        "depth_km": 44,
-        "time_ms": 1779005057327,
-        "place": "89 km E of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 0.95
+    "seismic_hub_risk_score": 0.92
   },
   {
     "country": "",
