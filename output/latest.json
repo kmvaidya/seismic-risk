@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 40,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 41,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-06-07",
@@ -22,34 +22,10 @@
       "longitude": 125.0469
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 167,
+    "max_felt_reports": 171,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
-      {
-        "name": "Laoag International Airport",
-        "iata_code": "LAO",
-        "latitude": 18.175089,
-        "longitude": 120.531006,
-        "municipality": "Laoag City",
-        "closest_quake_distance_km": 125.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sxk1",
-            "magnitude": 5.3,
-            "latitude": 19.0885,
-            "longitude": 121.233,
-            "depth_km": 35,
-            "time_ms": 1778709666625,
-            "place": "53 km N of Namuac, Philippines",
-            "distance_km": 125.6,
-            "exposure_contribution": 0.87,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.87
-      },
       {
         "name": "Bicol International Airport",
         "iata_code": "DRP",
@@ -150,13 +126,13 @@
           {
             "earthquake_id": "us7000sru0",
             "magnitude": 5.1,
-            "latitude": 5.5352,
-            "longitude": 125.3855,
-            "depth_km": 59.19,
-            "time_ms": 1781023764753,
-            "place": "4 km SSW of Bukid, Philippines",
-            "distance_km": 179.2,
-            "exposure_contribution": 0.37,
+            "latitude": 5.5634,
+            "longitude": 125.3482,
+            "depth_km": 78.518,
+            "time_ms": 1781023766926,
+            "place": "1 km SSW of Balangonan, Philippines",
+            "distance_km": 176.8,
+            "exposure_contribution": 0.36,
             "pga_g": null,
             "mmi": null
           },
@@ -265,6 +241,19 @@
             "mmi": 4.0
           },
           {
+            "earthquake_id": "us7000ssit",
+            "magnitude": 5,
+            "latitude": 5.5979,
+            "longitude": 124.8728,
+            "depth_km": 65.816,
+            "time_ms": 1781287120438,
+            "place": "30 km SSW of Daliao, Philippines",
+            "distance_km": 190.1,
+            "exposure_contribution": 0.3,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srem",
             "magnitude": 5,
             "latitude": 5.4985,
@@ -317,7 +306,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 18.77
+        "exposure_score": 19.05
       },
       {
         "name": "General Santos International Airport",
@@ -419,6 +408,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ssit",
+            "magnitude": 5,
+            "latitude": 5.5979,
+            "longitude": 124.8728,
+            "depth_km": 65.816,
+            "time_ms": 1781287120438,
+            "place": "30 km SSW of Daliao, Philippines",
+            "distance_km": 56.7,
+            "exposure_contribution": 1.13,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srbe",
             "magnitude": 6,
             "latitude": 5.5222,
@@ -441,6 +443,19 @@
             "place": "12 km WSW of Balangonan, Philippines",
             "distance_km": 60.9,
             "exposure_contribution": 1.6,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sru0",
+            "magnitude": 5.1,
+            "latitude": 5.5634,
+            "longitude": 125.3482,
+            "depth_km": 78.518,
+            "time_ms": 1781023766926,
+            "place": "1 km SSW of Balangonan, Philippines",
+            "distance_km": 61.6,
+            "exposure_contribution": 1.04,
             "pga_g": null,
             "mmi": null
           },
@@ -469,19 +484,6 @@
             "exposure_contribution": 12.21,
             "pga_g": 0.122103,
             "mmi": 5.3
-          },
-          {
-            "earthquake_id": "us7000sru0",
-            "magnitude": 5.1,
-            "latitude": 5.5352,
-            "longitude": 125.3855,
-            "depth_km": 59.19,
-            "time_ms": 1781023764753,
-            "place": "4 km SSW of Bukid, Philippines",
-            "distance_km": 66.3,
-            "exposure_contribution": 1.23,
-            "pga_g": null,
-            "mmi": null
           },
           {
             "earthquake_id": "us7000ss0f",
@@ -731,6 +733,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ssje",
+            "magnitude": 5.2,
+            "latitude": 4.8121,
+            "longitude": 125.3914,
+            "depth_km": 10,
+            "time_ms": 1781291403582,
+            "place": "65 km S of Sarangani, Philippines",
+            "distance_km": 142.3,
+            "exposure_contribution": 0.67,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000ss7v",
             "magnitude": 5.1,
             "latitude": 4.837,
@@ -783,7 +798,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 118.6
+        "exposure_score": 120.21
       },
       {
         "name": "Laguindingan International Airport",
@@ -811,6 +826,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssje",
+        "magnitude": 5.2,
+        "latitude": 4.8121,
+        "longitude": 125.3914,
+        "depth_km": 10,
+        "time_ms": 1781291403582,
+        "place": "65 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ssit",
+        "magnitude": 5,
+        "latitude": 5.5979,
+        "longitude": 124.8728,
+        "depth_km": 65.816,
+        "time_ms": 1781287120438,
+        "place": "30 km SSW of Daliao, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ss7v",
         "magnitude": 5.1,
@@ -924,11 +961,11 @@
       {
         "id": "us7000sru0",
         "magnitude": 5.1,
-        "latitude": 5.5352,
-        "longitude": 125.3855,
-        "depth_km": 59.19,
-        "time_ms": 1781023764753,
-        "place": "4 km SSW of Bukid, Philippines",
+        "latitude": 5.5634,
+        "longitude": 125.3482,
+        "depth_km": 78.518,
+        "time_ms": 1781023766926,
+        "place": "1 km SSW of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1239,20 +1276,9 @@
         "place": "4 km SW of Badak, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sxk1",
-        "magnitude": 5.3,
-        "latitude": 19.0885,
-        "longitude": 121.233,
-        "depth_km": 35,
-        "time_ms": 1778709666625,
-        "place": "53 km N of Namuac, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 148.16
+    "seismic_hub_risk_score": 149.18
   },
   {
     "country": "",
@@ -1305,13 +1331,13 @@
           {
             "earthquake_id": "us7000splm",
             "magnitude": 5,
-            "latitude": -17.3616,
-            "longitude": 167.751,
+            "latitude": -17.3448,
+            "longitude": 167.7742,
             "depth_km": 35,
-            "time_ms": 1780195681280,
-            "place": "72 km NW of Port-Vila, Vanuatu",
-            "distance_km": 71.1,
-            "exposure_contribution": 1.29,
+            "time_ms": 1780195681177,
+            "place": "71 km NW of Port-Vila, Vanuatu",
+            "distance_km": 70.0,
+            "exposure_contribution": 1.32,
             "pga_g": null,
             "mmi": null
           },
@@ -1368,7 +1394,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 10.63
+        "exposure_score": 10.66
       }
     ],
     "earthquakes": [
@@ -1408,11 +1434,11 @@
       {
         "id": "us7000splm",
         "magnitude": 5,
-        "latitude": -17.3616,
-        "longitude": 167.751,
+        "latitude": -17.3448,
+        "longitude": 167.7742,
         "depth_km": 35,
-        "time_ms": 1780195681280,
-        "place": "72 km NW of Port-Vila, Vanuatu",
+        "time_ms": 1780195681177,
+        "place": "71 km NW of Port-Vila, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       },
@@ -1461,7 +1487,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 10.63
+    "seismic_hub_risk_score": 10.66
   },
   {
     "country": "",
@@ -1476,8 +1502,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.48,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.53,
     "strongest_earthquake": {
       "magnitude": 5.96,
       "date": "2026-05-23",
@@ -1563,17 +1589,6 @@
         "shakemap_available": true
       },
       {
-        "id": "us7000snz9",
-        "magnitude": 5.2,
-        "latitude": 51.7852,
-        "longitude": -175.9331,
-        "depth_km": 58.274,
-        "time_ms": 1779927921947,
-        "place": "49 km ESE of Adak, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
         "id": "us6000szt5",
         "magnitude": 5.3,
         "latitude": 51.7357,
@@ -1622,8 +1637,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.62,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.72,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-05-15",
@@ -1762,17 +1777,6 @@
         "depth_km": 139.505,
         "time_ms": 1778772844551,
         "place": "Volcano Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000sxc0",
-        "magnitude": 5.1,
-        "latitude": 30.3404,
-        "longitude": 138.3561,
-        "depth_km": 484.752,
-        "time_ms": 1778641715413,
-        "place": "Izu Islands, Japan region",
         "country_code": "JP",
         "shakemap_available": false
       }
@@ -2749,8 +2753,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.18,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-06-10",
@@ -2854,17 +2858,6 @@
         "depth_km": 107.579,
         "time_ms": 1780254939354,
         "place": "Kermadec Islands, New Zealand",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000splv",
-        "magnitude": 5,
-        "latitude": -24.0984,
-        "longitude": -179.7084,
-        "depth_km": 486.212,
-        "time_ms": 1780199825760,
-        "place": "south of the Fiji Islands",
         "country_code": "TO",
         "shakemap_available": false
       },
