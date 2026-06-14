@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 41,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 43,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-06-07",
@@ -22,7 +22,7 @@
       "longitude": 125.0469
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 171,
+    "max_felt_reports": 183,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -68,6 +68,19 @@
             "place": "4 km SW of Badak, Philippines",
             "distance_km": 110.4,
             "exposure_contribution": 0.79,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ssls",
+            "magnitude": 5.2,
+            "latitude": 5.774,
+            "longitude": 125.1803,
+            "depth_km": 69.522,
+            "time_ms": 1781316353272,
+            "place": "2 km WSW of Kablalan, Philippines",
+            "distance_km": 158.8,
+            "exposure_contribution": 0.48,
             "pga_g": null,
             "mmi": null
           },
@@ -306,7 +319,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 19.05
+        "exposure_score": 19.54
       },
       {
         "name": "General Santos International Airport",
@@ -326,6 +339,19 @@
             "place": "8 km SW of Taluya, Philippines",
             "distance_km": 32.5,
             "exposure_contribution": 2.58,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ssls",
+            "magnitude": 5.2,
+            "latitude": 5.774,
+            "longitude": 125.1803,
+            "depth_km": 69.522,
+            "time_ms": 1781316353272,
+            "place": "2 km WSW of Kablalan, Philippines",
+            "distance_km": 32.8,
+            "exposure_contribution": 1.7,
             "pga_g": null,
             "mmi": null
           },
@@ -603,6 +629,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ssqy",
+            "magnitude": 5,
+            "latitude": 5.2843,
+            "longitude": 125.7394,
+            "depth_km": 35,
+            "time_ms": 1781383915063,
+            "place": "33 km ESE of Sarangani, Philippines",
+            "distance_km": 111.6,
+            "exposure_contribution": 0.73,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srgq",
             "magnitude": 5.2,
             "latitude": 5.0648,
@@ -798,7 +837,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 120.21
+        "exposure_score": 122.64
       },
       {
         "name": "Laguindingan International Airport",
@@ -826,6 +865,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssqy",
+        "magnitude": 5,
+        "latitude": 5.2843,
+        "longitude": 125.7394,
+        "depth_km": 35,
+        "time_ms": 1781383915063,
+        "place": "33 km ESE of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ssls",
+        "magnitude": 5.2,
+        "latitude": 5.774,
+        "longitude": 125.1803,
+        "depth_km": 69.522,
+        "time_ms": 1781316353272,
+        "place": "2 km WSW of Kablalan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ssje",
         "magnitude": 5.2,
@@ -1278,7 +1339,133 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 149.18
+    "seismic_hub_risk_score": 152.1
+  },
+  {
+    "country": "",
+    "iso_alpha2": "MX",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.2,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-05-28",
+      "depth_km": 10,
+      "latitude": 19.6528,
+      "longitude": -109.5065
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "General Juan N. Álvarez International Airport",
+        "iata_code": "ACA",
+        "latitude": 16.757126,
+        "longitude": -99.753113,
+        "municipality": "Acapulco",
+        "closest_quake_distance_km": 12.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ssq9",
+            "magnitude": 5.1,
+            "latitude": 16.7529,
+            "longitude": -99.6335,
+            "depth_km": 10,
+            "time_ms": 1781374842423,
+            "place": "2 km S of Cerro de Piedra, Mexico",
+            "distance_km": 12.7,
+            "exposure_contribution": 11.12,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sqzv",
+            "magnitude": 5.2,
+            "latitude": 16.7654,
+            "longitude": -98.4106,
+            "depth_km": 32.93,
+            "time_ms": 1780692903336,
+            "place": "2 km WSW of Santa María, Mexico",
+            "distance_km": 142.9,
+            "exposure_contribution": 0.64,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 11.76
+      },
+      {
+        "name": "Xoxocotlán International Airport",
+        "iata_code": "OAX",
+        "latitude": 16.998773,
+        "longitude": -96.726092,
+        "municipality": "Oaxaca",
+        "closest_quake_distance_km": 181.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sqzv",
+            "magnitude": 5.2,
+            "latitude": 16.7654,
+            "longitude": -98.4106,
+            "depth_km": 32.93,
+            "time_ms": 1780692903336,
+            "place": "2 km WSW of Santa María, Mexico",
+            "distance_km": 181.1,
+            "exposure_contribution": 0.44,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.44
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ssq9",
+        "magnitude": 5.1,
+        "latitude": 16.7529,
+        "longitude": -99.6335,
+        "depth_km": 10,
+        "time_ms": 1781374842423,
+        "place": "2 km S of Cerro de Piedra, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sqzv",
+        "magnitude": 5.2,
+        "latitude": 16.7654,
+        "longitude": -98.4106,
+        "depth_km": 32.93,
+        "time_ms": 1780692903336,
+        "place": "2 km WSW of Santa María, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sp4a",
+        "magnitude": 5.3,
+        "latitude": 19.6528,
+        "longitude": -109.5065,
+        "depth_km": 10,
+        "time_ms": 1779985089748,
+        "place": "Revilla Gigedo Islands region",
+        "country_code": "MX",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 12.2
   },
   {
     "country": "",
@@ -1502,8 +1689,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.53,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.39,
     "strongest_earthquake": {
       "magnitude": 5.96,
       "date": "2026-05-23",
@@ -1566,6 +1753,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssnz",
+        "magnitude": 5.1,
+        "latitude": 51.3511,
+        "longitude": -179.5103,
+        "depth_km": 28.374,
+        "time_ms": 1781349894194,
+        "place": "207 km WSW of Adak, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ssnv",
+        "magnitude": 5,
+        "latitude": 53.0785,
+        "longitude": -166.9697,
+        "depth_km": 41.492,
+        "time_ms": 1781347127612,
+        "place": "93 km SSW of Unalaska, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
       {
         "id": "nc75370186",
         "magnitude": 5.1,
@@ -1637,8 +1846,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.72,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.85,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-05-15",
@@ -1768,17 +1977,6 @@
         "place": "44 km ESE of Ōfunato, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000sxnw",
-        "magnitude": 5.2,
-        "latitude": 25.1294,
-        "longitude": 141.4667,
-        "depth_km": 139.505,
-        "time_ms": 1778772844551,
-        "place": "Volcano Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 6.83
@@ -1797,13 +1995,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 10,
-    "avg_magnitude": 5.42,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-05-14",
-      "depth_km": 137,
-      "latitude": -6.1497,
-      "longitude": 130.3809
+      "magnitude": 5.9,
+      "date": "2026-05-22",
+      "depth_km": 35,
+      "latitude": 1.0085,
+      "longitude": 126.0066
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1869,6 +2067,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ssp2",
+            "magnitude": 5.1,
+            "latitude": 1.0796,
+            "longitude": 126.1267,
+            "depth_km": 35,
+            "time_ms": 1781352334332,
+            "place": "118 km ESE of Bitung, Indonesia",
+            "distance_km": 143.3,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000sntr",
             "magnitude": 5.1,
             "latitude": 0.4707,
@@ -1895,10 +2106,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.62
+        "exposure_score": 4.19
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssp2",
+        "magnitude": 5.1,
+        "latitude": 1.0796,
+        "longitude": 126.1267,
+        "depth_km": 35,
+        "time_ms": 1781352334332,
+        "place": "118 km ESE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000sr4k",
         "magnitude": 5.2,
@@ -1997,20 +2219,9 @@
         "place": "49 km NE of Sape, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sxqf",
-        "magnitude": 6.2,
-        "latitude": -6.1497,
-        "longitude": 130.3809,
-        "depth_km": 137,
-        "time_ms": 1778781193718,
-        "place": "268 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 4.11
+    "seismic_hub_risk_score": 4.68
   },
   {
     "country": "",
@@ -2025,8 +2236,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-05-19",
@@ -2089,6 +2300,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssms",
+        "magnitude": 5.1,
+        "latitude": -4.5157,
+        "longitude": -79.9986,
+        "depth_km": 72.251,
+        "time_ms": 1781332539650,
+        "place": "0 km ESE of Suyo, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
       {
         "id": "us7000sqcu",
         "magnitude": 5.2,
@@ -2251,8 +2473,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.55,
+    "earthquake_count": 14,
+    "avg_magnitude": 5.51,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-05-25",
@@ -2291,6 +2513,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssp1",
+        "magnitude": 5,
+        "latitude": -30.6288,
+        "longitude": -71.4544,
+        "depth_km": 60.576,
+        "time_ms": 1781352254390,
+        "place": "24 km W of Ovalle, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ss82",
         "magnitude": 5.5,
@@ -2586,7 +2819,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.39,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-06-07",
@@ -2605,18 +2838,18 @@
         "latitude": 53.168716,
         "longitude": 158.451068,
         "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 170.9,
+        "closest_quake_distance_km": 170.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000ss1g",
-            "magnitude": 5.2,
-            "latitude": 52.5396,
-            "longitude": 160.7735,
-            "depth_km": 10,
-            "time_ms": 1781099126037,
-            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 170.9,
-            "exposure_contribution": 0.49,
+            "magnitude": 5.4,
+            "latitude": 52.5126,
+            "longitude": 160.7493,
+            "depth_km": 8,
+            "time_ms": 1781099125060,
+            "place": "155 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 170.7,
+            "exposure_contribution": 0.62,
             "pga_g": null,
             "mmi": null
           },
@@ -2634,7 +2867,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.95
+        "exposure_score": 1.08
       }
     ],
     "earthquakes": [
@@ -2651,14 +2884,14 @@
       },
       {
         "id": "us7000ss1g",
-        "magnitude": 5.2,
-        "latitude": 52.5396,
-        "longitude": 160.7735,
-        "depth_km": 10,
-        "time_ms": 1781099126037,
-        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "magnitude": 5.4,
+        "latitude": 52.5126,
+        "longitude": 160.7493,
+        "depth_km": 8,
+        "time_ms": 1781099125060,
+        "place": "155 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us7000ss03",
@@ -2738,7 +2971,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.95
+    "seismic_hub_risk_score": 1.08
   },
   {
     "country": "",
