@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 43,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 45,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-06-07",
@@ -22,7 +22,7 @@
       "longitude": 125.0469
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 183,
+    "max_felt_reports": 202,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -862,9 +862,127 @@
           }
         ],
         "exposure_score": 0.64
+      },
+      {
+        "name": "Bohol-Panglao International Airport",
+        "iata_code": "TAG",
+        "latitude": 9.573045,
+        "longitude": 123.770143,
+        "municipality": "Panglao",
+        "closest_quake_distance_km": 194.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ssv0",
+            "magnitude": 5.1,
+            "latitude": 10.2151,
+            "longitude": 122.1173,
+            "depth_km": 10,
+            "time_ms": 1781451282713,
+            "place": "27 km SE of Magdalena, Philippines",
+            "distance_km": 194.6,
+            "exposure_contribution": 0.35,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.35
+      },
+      {
+        "name": "Bacolod-Silay International Airport",
+        "iata_code": "BCD",
+        "latitude": 10.776237,
+        "longitude": 123.018879,
+        "municipality": "Bacolod City",
+        "closest_quake_distance_km": 116.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ssv0",
+            "magnitude": 5.1,
+            "latitude": 10.2151,
+            "longitude": 122.1173,
+            "depth_km": 10,
+            "time_ms": 1781451282713,
+            "place": "27 km SE of Magdalena, Philippines",
+            "distance_km": 116.7,
+            "exposure_contribution": 0.81,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.81
+      },
+      {
+        "name": "Iloilo International Airport",
+        "iata_code": "ILO",
+        "latitude": 10.833017,
+        "longitude": 122.493358,
+        "municipality": "Cabatuan",
+        "closest_quake_distance_km": 80.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ssv0",
+            "magnitude": 5.1,
+            "latitude": 10.2151,
+            "longitude": 122.1173,
+            "depth_km": 10,
+            "time_ms": 1781451282713,
+            "place": "27 km SE of Magdalena, Philippines",
+            "distance_km": 80.1,
+            "exposure_contribution": 1.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.41
+      },
+      {
+        "name": "Kalibo International Airport",
+        "iata_code": "KLO",
+        "latitude": 11.6794,
+        "longitude": 122.375999,
+        "municipality": "Kalibo",
+        "closest_quake_distance_km": 165.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ssv0",
+            "magnitude": 5.1,
+            "latitude": 10.2151,
+            "longitude": 122.1173,
+            "depth_km": 10,
+            "time_ms": 1781451282713,
+            "place": "27 km SE of Magdalena, Philippines",
+            "distance_km": 165.3,
+            "exposure_contribution": 0.47,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.47
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ssv0",
+        "magnitude": 5.1,
+        "latitude": 10.2151,
+        "longitude": 122.1173,
+        "depth_km": 10,
+        "time_ms": 1781451282713,
+        "place": "27 km SE of Magdalena, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ssub",
+        "magnitude": 5.2,
+        "latitude": 8.6152,
+        "longitude": 126.7531,
+        "depth_km": 35,
+        "time_ms": 1781446132615,
+        "place": "53 km ENE of Hinatuan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ssqy",
         "magnitude": 5,
@@ -1339,7 +1457,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 152.1
+    "seismic_hub_risk_score": 155.14
   },
   {
     "country": "",
@@ -1835,154 +1953,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "JP",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.85,
-    "strongest_earthquake": {
-      "magnitude": 6.7,
-      "date": "2026-05-15",
-      "depth_km": 42,
-      "latitude": 38.9095,
-      "longitude": 142.1826
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 95,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Sendai Airport",
-        "iata_code": "SDJ",
-        "latitude": 38.139702,
-        "longitude": 140.917007,
-        "municipality": "Natori",
-        "closest_quake_distance_km": 139.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000sxwq",
-            "magnitude": 6.7,
-            "latitude": 38.9095,
-            "longitude": 142.1826,
-            "depth_km": 42,
-            "time_ms": 1778844121566,
-            "place": "44 km ESE of Ōfunato, Japan",
-            "distance_km": 139.5,
-            "exposure_contribution": 4.6,
-            "pga_g": 0.045982,
-            "mmi": 4.3
-          }
-        ],
-        "exposure_score": 4.6
-      },
-      {
-        "name": "Naha International Airport",
-        "iata_code": "OKA",
-        "latitude": 26.192437,
-        "longitude": 127.639804,
-        "municipality": "Naha",
-        "closest_quake_distance_km": 177.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syw4",
-            "magnitude": 5.9,
-            "latitude": 27.4815,
-            "longitude": 128.6878,
-            "depth_km": 42,
-            "time_ms": 1779245184608,
-            "place": "11 km NNE of Wadomari, Japan",
-            "distance_km": 177.1,
-            "exposure_contribution": 1.0,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.0
-      },
-      {
-        "name": "Kadena Air Base",
-        "iata_code": "DNA",
-        "latitude": 26.351667,
-        "longitude": 127.769444,
-        "municipality": "Okinawa",
-        "closest_quake_distance_km": 155.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syw4",
-            "magnitude": 5.9,
-            "latitude": 27.4815,
-            "longitude": 128.6878,
-            "depth_km": 42,
-            "time_ms": 1779245184608,
-            "place": "11 km NNE of Wadomari, Japan",
-            "distance_km": 155.2,
-            "exposure_contribution": 1.23,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.23
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000srvk",
-        "magnitude": 5.1,
-        "latitude": 44.8123,
-        "longitude": 149.2865,
-        "depth_km": 56.076,
-        "time_ms": 1781033135189,
-        "place": "120 km ESE of Kuril’sk, Russia",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spru",
-        "magnitude": 5.7,
-        "latitude": 30.7158,
-        "longitude": 141.7476,
-        "depth_km": 11,
-        "time_ms": 1780284870871,
-        "place": "Izu Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000syw4",
-        "magnitude": 5.9,
-        "latitude": 27.4815,
-        "longitude": 128.6878,
-        "depth_km": 42,
-        "time_ms": 1779245184608,
-        "place": "11 km NNE of Wadomari, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000sxwq",
-        "magnitude": 6.7,
-        "latitude": 38.9095,
-        "longitude": 142.1826,
-        "depth_km": 42,
-        "time_ms": 1778844121566,
-        "place": "44 km ESE of Ōfunato, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 6.83
-  },
-  {
-    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -2349,6 +2319,119 @@
   },
   {
     "country": "",
+    "iso_alpha2": "JP",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.57,
+    "strongest_earthquake": {
+      "magnitude": 5.9,
+      "date": "2026-05-20",
+      "depth_km": 42,
+      "latitude": 27.4815,
+      "longitude": 128.6878
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Naha International Airport",
+        "iata_code": "OKA",
+        "latitude": 26.192437,
+        "longitude": 127.639804,
+        "municipality": "Naha",
+        "closest_quake_distance_km": 177.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syw4",
+            "magnitude": 5.9,
+            "latitude": 27.4815,
+            "longitude": 128.6878,
+            "depth_km": 42,
+            "time_ms": 1779245184608,
+            "place": "11 km NNE of Wadomari, Japan",
+            "distance_km": 177.1,
+            "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.0
+      },
+      {
+        "name": "Kadena Air Base",
+        "iata_code": "DNA",
+        "latitude": 26.351667,
+        "longitude": 127.769444,
+        "municipality": "Okinawa",
+        "closest_quake_distance_km": 155.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000syw4",
+            "magnitude": 5.9,
+            "latitude": 27.4815,
+            "longitude": 128.6878,
+            "depth_km": 42,
+            "time_ms": 1779245184608,
+            "place": "11 km NNE of Wadomari, Japan",
+            "distance_km": 155.2,
+            "exposure_contribution": 1.23,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.23
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000srvk",
+        "magnitude": 5.1,
+        "latitude": 44.8123,
+        "longitude": 149.2865,
+        "depth_km": 56.076,
+        "time_ms": 1781033135189,
+        "place": "120 km ESE of Kuril’sk, Russia",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000spru",
+        "magnitude": 5.7,
+        "latitude": 30.7158,
+        "longitude": 141.7476,
+        "depth_km": 11,
+        "time_ms": 1780284870871,
+        "place": "Izu Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000syw4",
+        "magnitude": 5.9,
+        "latitude": 27.4815,
+        "longitude": 128.6878,
+        "depth_km": 42,
+        "time_ms": 1779245184608,
+        "place": "11 km NNE of Wadomari, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 2.23
+  },
+  {
+    "country": "",
     "iso_alpha2": "CN",
     "iso_alpha3": "",
     "capital": "",
@@ -2683,8 +2766,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.14,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-22",
@@ -2790,17 +2873,6 @@
         "place": "112 km SSE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000sxu9",
-        "magnitude": 5.3,
-        "latitude": -3.0286,
-        "longitude": 147.7949,
-        "depth_km": 10,
-        "time_ms": 1778807638743,
-        "place": "124 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.32
@@ -2987,7 +3059,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 10,
-    "avg_magnitude": 5.2,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-06-10",
@@ -3129,14 +3201,14 @@
       },
       {
         "id": "us6000t05n",
-        "magnitude": 5.3,
-        "latitude": -28.3135,
-        "longitude": -176.5972,
+        "magnitude": 5.4,
+        "latitude": -28.2457,
+        "longitude": -176.6054,
         "depth_km": 10,
-        "time_ms": 1779761283420,
+        "time_ms": 1779761283505,
         "place": "Kermadec Islands region",
         "country_code": "TO",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us6000sy5x",
