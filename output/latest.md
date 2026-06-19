@@ -1,47 +1,47 @@
 # Seismic Risk Report
-Generated: 2026-06-18 10:07 UTC
+Generated: 2026-06-19 10:14 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-03-20 to 2026-06-18).
+Based on 89 snapshots (2026-03-21 to 2026-06-19).
 
 
 **Top score changes**:
 
--  (): 0.0
+-  (): -0.0
 
 **Top airport exposure changes**:
 
-- Francisco Bangoy International Airport (DVO, ): +4.0
-- General Santos International Airport (GES, ): -0.1
-- Bicol International Airport (DRP, ): 0.0
+- Bicol International Airport (DRP, ): +4.8
+- Bauerfield International Airport (VLI, ): -4.3
+- General Santos International Airport (GES, ): +1.7
+- Francisco Bangoy International Airport (DVO, ): +1.2
 - Laguindingan International Airport (CGY, ): 0.0
-- Bohol-Panglao International Airport (TAG, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 162.2 | ~ | 5.4 | M7.8 (2026-06-07) | 49 | 8 | orange | No | 2 |
+|  |  |  | 169.9 | ~ | 5.4 | M7.8 (2026-06-07) | 51 | 8 | orange | No | 2 |
 |  |  |  | 12.2 | ~ | 5.2 | M5.3 (2026-05-28) | 3 | 2 | - | No | 0 |
-|  |  |  | 9.0 | ~ | 5.4 | M5.96 (2026-05-23) | 7 | 2 | yellow | No | 1 |
-|  |  |  | 8.5 | ~ | 5.5 | M5.9 (2026-05-20) | 4 | 6 | - | No | 0 |
-|  |  |  | 5.9 | ~ | 5.3 | M5.7 (2026-05-19) | 5 | 1 | - | No | 0 |
+|  |  |  | 9.0 | ~ | 5.3 | M5.96 (2026-05-23) | 8 | 2 | yellow | No | 1 |
+|  |  |  | 8.5 | ~ | 5.5 | M5.9 (2026-05-20) | 5 | 6 | - | No | 0 |
 |  |  |  | 4.6 | ~ | 5.3 | M6.7 (2026-06-16) | 16 | 2 | yellow | No | 1 |
-|  |  |  | 2.7 | ~ | 5.3 | M5.8 (2026-05-19) | 4 | 2 | - | No | 0 |
 |  |  |  | 1.7 | ~ | 5.6 | M6.9 (2026-05-25) | 12 | 1 | green | No | 3 |
+|  |  |  | 1.5 | ~ | 5.2 | M5.6 (2026-06-03) | 4 | 1 | - | No | 0 |
 |  |  |  | 1.1 | ~ | 5.4 | M6.1 (2026-06-07) | 8 | 1 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.2 | M5.4 (2026-06-10) | 9 | 1 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.2 | M5.3 (2026-06-05) | 3 | 1 | - | No | 0 |
-|  |  |  | 0.6 | ~ | 5.2 | M5.7 (2026-05-22) | 3 | 1 | - | No | 0 |
+|  |  |  | 0.6 | ~ | 5.2 | M5.7 (2026-05-22) | 4 | 1 | - | No | 0 |
+|  |  |  | 0.6 | ~ | 5.1 | M5.2 (2026-06-03) | 3 | 1 | - | No | 0 |
 
 ## Airport Details
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Max PGA (g) | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|------------:|-------------------:|--------------:|
-| General Santos International Airport | GES | General Santos |  | 124.6 | ~ | 0.5736 | 32.5 | 43 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 24.6 | +4.0 | 0.1015 | 158.8 | 24 |
-| Bicol International Airport | DRP | Legazpi |  | 9.3 | ~ | - | 20.5 | 1 |
+| General Santos International Airport | GES | General Santos |  | 126.3 | +1.7 | 0.5736 | 32.5 | 45 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 25.8 | +1.2 | 0.1015 | 143.0 | 26 |
+| Bicol International Airport | DRP | Legazpi |  | 14.1 | +4.8 | - | 10.7 | 1 |
 | Iloilo International Airport | ILO | Cabatuan |  | 1.4 | ~ | - | 80.1 | 1 |
 | Bacolod-Silay International Airport | BCD | Bacolod City |  | 0.8 | ~ | - | 116.7 | 1 |
 | Laguindingan International Airport | CGY | Laguindingan |  | 0.6 | ~ | - | 136.2 | 1 |
@@ -57,13 +57,12 @@ Based on 89 snapshots (2026-03-20 to 2026-06-18).
 | Kadena Air Base | DNA | Okinawa |  | 1.2 | ~ | - | 155.2 | 1 |
 | Naha International Airport | OKA | Naha |  | 1.0 | ~ | - | 177.1 | 1 |
 | Mount Fuji Shizuoka Airport | FSZ | Makinohara / Shimada |  | 0.5 | ~ | - | 199.2 | 1 |
-| Bauerfield International Airport | VLI | Port Vila |  | 5.9 | ~ | - | 52.9 | 3 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 4.1 | ~ | - | 134.3 | 5 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.5 | ~ | - | 194.0 | 1 |
-| Captain Renán Elías Olivera International Airport | PIO | Pisco |  | 2.1 | ~ | - | 90.0 | 1 |
-| Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 0.6 | ~ | - | 38.3 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.7 | ~ | 0.0172 | 120.2 | 1 |
+| Bauerfield International Airport | VLI | Port Vila |  | 1.5 | -4.3 | - | 70.0 | 2 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 1.1 | ~ | - | 170.7 | 2 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.9 | ~ | - | 147.0 | 2 |
 | Presidente Nicolau Lobato International Airport | DIL | Dili |  | 0.9 | ~ | - | 117.1 | 1 |
 | Nadzab Tomodachi International Airport | LAE | Lae |  | 0.6 | ~ | - | 114.1 | 1 |
+| Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 0.6 | ~ | - | 38.3 | 1 |

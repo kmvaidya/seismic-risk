@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 49,
+    "earthquake_count": 51,
     "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.8,
@@ -32,23 +32,23 @@
         "latitude": 13.111915,
         "longitude": 123.676829,
         "municipality": "Legazpi",
-        "closest_quake_distance_km": 20.5,
+        "closest_quake_distance_km": 10.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000squy",
-            "magnitude": 5.3,
-            "latitude": 13.1856,
-            "longitude": 123.8507,
+            "magnitude": 5.2,
+            "latitude": 13.1517,
+            "longitude": 123.7663,
             "depth_km": 10,
-            "time_ms": 1780667879739,
-            "place": "7 km NNW of Manito, Philippines",
-            "distance_km": 20.5,
-            "exposure_contribution": 9.28,
+            "time_ms": 1780667879545,
+            "place": "1 km ESE of San Roque, Philippines",
+            "distance_km": 10.7,
+            "exposure_contribution": 14.09,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 9.28
+        "exposure_score": 14.09
       },
       {
         "name": "Francisco Bangoy International Airport",
@@ -56,8 +56,21 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 158.8,
+        "closest_quake_distance_km": 143.0,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sucj",
+            "magnitude": 5.3,
+            "latitude": 6.5597,
+            "longitude": 126.809,
+            "depth_km": 10,
+            "time_ms": 1781800438155,
+            "place": "63 km ESE of Bobon, Philippines",
+            "distance_km": 143.0,
+            "exposure_contribution": 0.74,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000ssls",
             "magnitude": 5.2,
@@ -67,6 +80,19 @@
             "time_ms": 1781316353272,
             "place": "2 km WSW of Kablalan, Philippines",
             "distance_km": 158.8,
+            "exposure_contribution": 0.48,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000su9f",
+            "magnitude": 5.3,
+            "latitude": 5.7634,
+            "longitude": 125.1953,
+            "depth_km": 95.287,
+            "time_ms": 1781765857092,
+            "place": "1 km S of Kablalan, Philippines",
+            "distance_km": 159.4,
             "exposure_contribution": 0.48,
             "pga_g": null,
             "mmi": null
@@ -371,7 +397,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 24.61
+        "exposure_score": 25.83
       },
       {
         "name": "General Santos International Airport",
@@ -404,6 +430,19 @@
             "place": "2 km WSW of Kablalan, Philippines",
             "distance_km": 32.8,
             "exposure_contribution": 1.7,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000su9f",
+            "magnitude": 5.3,
+            "latitude": 5.7634,
+            "longitude": 125.1953,
+            "depth_km": 95.287,
+            "time_ms": 1781765857092,
+            "place": "1 km S of Kablalan, Philippines",
+            "distance_km": 34.5,
+            "exposure_contribution": 1.28,
             "pga_g": null,
             "mmi": null
           },
@@ -939,9 +978,22 @@
             "exposure_contribution": 1.04,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sucj",
+            "magnitude": 5.3,
+            "latitude": 6.5597,
+            "longitude": 126.809,
+            "depth_km": 10,
+            "time_ms": 1781800438155,
+            "place": "63 km ESE of Bobon, Philippines",
+            "distance_km": 197.4,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 124.6
+        "exposure_score": 126.31
       },
       {
         "name": "Laguindingan International Airport",
@@ -1065,6 +1117,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sucj",
+        "magnitude": 5.3,
+        "latitude": 6.5597,
+        "longitude": 126.809,
+        "depth_km": 10,
+        "time_ms": 1781800438155,
+        "place": "63 km ESE of Bobon, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000su9f",
+        "magnitude": 5.3,
+        "latitude": 5.7634,
+        "longitude": 125.1953,
+        "depth_km": 95.287,
+        "time_ms": 1781765857092,
+        "place": "1 km S of Kablalan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000st48",
         "magnitude": 5.5,
@@ -1573,12 +1647,12 @@
       },
       {
         "id": "us7000squy",
-        "magnitude": 5.3,
-        "latitude": 13.1856,
-        "longitude": 123.8507,
+        "magnitude": 5.2,
+        "latitude": 13.1517,
+        "longitude": 123.7663,
         "depth_km": 10,
-        "time_ms": 1780667879739,
-        "place": "7 km NNW of Manito, Philippines",
+        "time_ms": 1780667879545,
+        "place": "1 km ESE of San Roque, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1605,7 +1679,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 162.17
+    "seismic_hub_risk_score": 169.91
   },
   {
     "country": "",
@@ -1746,8 +1820,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 5.96,
       "date": "2026-05-23",
@@ -1810,6 +1884,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000subg",
+        "magnitude": 5,
+        "latitude": 51.3541,
+        "longitude": -179.5739,
+        "depth_km": 35.299,
+        "time_ms": 1781791108055,
+        "place": "211 km WSW of Adak, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
       {
         "id": "us7000ssnz",
         "magnitude": 5.1,
@@ -1903,8 +1988,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.55,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.5,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-05-20",
@@ -2064,6 +2149,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000suds",
+        "magnitude": 5.3,
+        "latitude": 30.6099,
+        "longitude": 142.2657,
+        "depth_km": 10,
+        "time_ms": 1781810260105,
+        "place": "Izu Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000std7",
         "magnitude": 5.5,
         "latitude": 35.9814,
@@ -2109,143 +2205,6 @@
       }
     ],
     "seismic_hub_risk_score": 8.51
-  },
-  {
-    "country": "",
-    "iso_alpha2": "VU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.34,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-05-19",
-      "depth_km": 27,
-      "latitude": -18.1664,
-      "longitude": 168.2247
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Bauerfield International Airport",
-        "iata_code": "VLI",
-        "latitude": -17.699301,
-        "longitude": 168.320007,
-        "municipality": "Port Vila",
-        "closest_quake_distance_km": 52.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000synm",
-            "magnitude": 5.7,
-            "latitude": -18.1664,
-            "longitude": 168.2247,
-            "depth_km": 27,
-            "time_ms": 1779157764032,
-            "place": "48 km S of Port-Vila, Vanuatu",
-            "distance_km": 52.9,
-            "exposure_contribution": 4.32,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000splm",
-            "magnitude": 5,
-            "latitude": -17.3448,
-            "longitude": 167.7742,
-            "depth_km": 35,
-            "time_ms": 1780195681177,
-            "place": "71 km NW of Port-Vila, Vanuatu",
-            "distance_km": 70.0,
-            "exposure_contribution": 1.32,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ssct",
-            "magnitude": 5,
-            "latitude": -18.9647,
-            "longitude": 169.0532,
-            "depth_km": 168.418,
-            "time_ms": 1781213567364,
-            "place": "68 km NNW of Isangel, Vanuatu",
-            "distance_km": 160.6,
-            "exposure_contribution": 0.23,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 5.86
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000ssct",
-        "magnitude": 5,
-        "latitude": -18.9647,
-        "longitude": 169.0532,
-        "depth_km": 168.418,
-        "time_ms": 1781213567364,
-        "place": "68 km NNW of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srkc",
-        "magnitude": 5.4,
-        "latitude": -21.1981,
-        "longitude": 169.9905,
-        "depth_km": 59.614,
-        "time_ms": 1780944586908,
-        "place": "197 km SSE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sq90",
-        "magnitude": 5.6,
-        "latitude": -20.4457,
-        "longitude": 173.0405,
-        "depth_km": 10,
-        "time_ms": 1780482037618,
-        "place": "Vanuatu region",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000splm",
-        "magnitude": 5,
-        "latitude": -17.3448,
-        "longitude": 167.7742,
-        "depth_km": 35,
-        "time_ms": 1780195681177,
-        "place": "71 km NW of Port-Vila, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000synm",
-        "magnitude": 5.7,
-        "latitude": -18.1664,
-        "longitude": 168.2247,
-        "depth_km": 27,
-        "time_ms": 1779157764032,
-        "place": "48 km S of Port-Vila, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 5.86
   },
   {
     "country": "",
@@ -2557,130 +2516,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.3,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-05-19",
-      "depth_km": 58.8,
-      "latitude": -14.1767,
-      "longitude": -75.5147
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 38.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sqcu",
-            "magnitude": 5.2,
-            "latitude": -8.2249,
-            "longitude": -74.263,
-            "depth_km": 150.096,
-            "time_ms": 1780507285301,
-            "place": "35 km ENE of San Fernando, Peru",
-            "distance_km": 38.3,
-            "exposure_contribution": 0.58,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.58
-      },
-      {
-        "name": "Captain Renán Elías Olivera International Airport",
-        "iata_code": "PIO",
-        "latitude": -13.7449,
-        "longitude": -76.220299,
-        "municipality": "Pisco",
-        "closest_quake_distance_km": 90.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000syt5",
-            "magnitude": 5.8,
-            "latitude": -14.1767,
-            "longitude": -75.5147,
-            "depth_km": 58.799,
-            "time_ms": 1779213474411,
-            "place": "19 km E of Pampa de Tate, Peru",
-            "distance_km": 90.0,
-            "exposure_contribution": 2.08,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.08
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000ssms",
-        "magnitude": 5.1,
-        "latitude": -4.5157,
-        "longitude": -79.9986,
-        "depth_km": 72.251,
-        "time_ms": 1781332539650,
-        "place": "0 km ESE of Suyo, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sqcu",
-        "magnitude": 5.2,
-        "latitude": -8.2249,
-        "longitude": -74.263,
-        "depth_km": 150.096,
-        "time_ms": 1780507285301,
-        "place": "35 km ENE of San Fernando, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sp7p",
-        "magnitude": 5.1,
-        "latitude": -18.4348,
-        "longitude": -71.3892,
-        "depth_km": 10,
-        "time_ms": 1780032759575,
-        "place": "87 km S of Pacocha, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000syt5",
-        "magnitude": 5.8,
-        "latitude": -14.1767,
-        "longitude": -75.5147,
-        "depth_km": 58.799,
-        "time_ms": 1779213474411,
-        "place": "19 km E of Pampa de Tate, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.66
-  },
-  {
-    "country": "",
     "iso_alpha2": "CL",
     "iso_alpha3": "",
     "capital": "",
@@ -2866,6 +2701,119 @@
       }
     ],
     "seismic_hub_risk_score": 1.72
+  },
+  {
+    "country": "",
+    "iso_alpha2": "VU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.25,
+    "strongest_earthquake": {
+      "magnitude": 5.6,
+      "date": "2026-06-03",
+      "depth_km": 10,
+      "latitude": -20.4457,
+      "longitude": 173.0405
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Bauerfield International Airport",
+        "iata_code": "VLI",
+        "latitude": -17.699301,
+        "longitude": 168.320007,
+        "municipality": "Port Vila",
+        "closest_quake_distance_km": 70.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000splm",
+            "magnitude": 5,
+            "latitude": -17.3448,
+            "longitude": 167.7742,
+            "depth_km": 35,
+            "time_ms": 1780195681177,
+            "place": "71 km NW of Port-Vila, Vanuatu",
+            "distance_km": 70.0,
+            "exposure_contribution": 1.32,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ssct",
+            "magnitude": 5,
+            "latitude": -18.9647,
+            "longitude": 169.0532,
+            "depth_km": 168.418,
+            "time_ms": 1781213567364,
+            "place": "68 km NNW of Isangel, Vanuatu",
+            "distance_km": 160.6,
+            "exposure_contribution": 0.23,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.54
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ssct",
+        "magnitude": 5,
+        "latitude": -18.9647,
+        "longitude": 169.0532,
+        "depth_km": 168.418,
+        "time_ms": 1781213567364,
+        "place": "68 km NNW of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000srkc",
+        "magnitude": 5.4,
+        "latitude": -21.1981,
+        "longitude": 169.9905,
+        "depth_km": 59.614,
+        "time_ms": 1780944586908,
+        "place": "197 km SSE of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sq90",
+        "magnitude": 5.6,
+        "latitude": -20.4457,
+        "longitude": 173.0405,
+        "depth_km": 10,
+        "time_ms": 1780482037618,
+        "place": "Vanuatu region",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000splm",
+        "magnitude": 5,
+        "latitude": -17.3448,
+        "longitude": 167.7742,
+        "depth_km": 35,
+        "time_ms": 1780195681177,
+        "place": "71 km NW of Port-Vila, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.54
   },
   {
     "country": "",
@@ -3148,11 +3096,11 @@
       {
         "id": "us7000snxg",
         "magnitude": 5.3,
-        "latitude": -18.0405,
-        "longitude": -176.563,
+        "latitude": -18.0193,
+        "longitude": -176.5481,
         "depth_km": 10,
-        "time_ms": 1779908993651,
-        "place": "280 km WNW of Neiafu, Tonga",
+        "time_ms": 1779908993738,
+        "place": "279 km WNW of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -3294,14 +3242,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.23,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-05-22",
       "depth_km": 10,
-      "latitude": -2.857,
-      "longitude": 147.713
+      "latitude": -2.9546,
+      "longitude": 147.7054
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -3357,17 +3305,117 @@
         "shakemap_available": false
       },
       {
+        "id": "us7000spai",
+        "magnitude": 5.1,
+        "latitude": -3.1018,
+        "longitude": 147.9191,
+        "depth_km": 10,
+        "time_ms": 1779444538453,
+        "place": "138 km SSE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000szgb",
         "magnitude": 5.7,
-        "latitude": -2.857,
-        "longitude": 147.713,
+        "latitude": -2.9546,
+        "longitude": 147.7054,
         "depth_km": 10,
-        "time_ms": 1779444499139,
-        "place": "103 km SSE of Lorengau, Papua New Guinea",
+        "time_ms": 1779444499175,
+        "place": "112 km SSE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.59
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.13,
+    "strongest_earthquake": {
+      "magnitude": 5.2,
+      "date": "2026-06-03",
+      "depth_km": 150.1,
+      "latitude": -8.2249,
+      "longitude": -74.263
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 38.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sqcu",
+            "magnitude": 5.2,
+            "latitude": -8.2249,
+            "longitude": -74.263,
+            "depth_km": 150.096,
+            "time_ms": 1780507285301,
+            "place": "35 km ENE of San Fernando, Peru",
+            "distance_km": 38.3,
+            "exposure_contribution": 0.58,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.58
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ssms",
+        "magnitude": 5.1,
+        "latitude": -4.5157,
+        "longitude": -79.9986,
+        "depth_km": 72.251,
+        "time_ms": 1781332539650,
+        "place": "0 km ESE of Suyo, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sqcu",
+        "magnitude": 5.2,
+        "latitude": -8.2249,
+        "longitude": -74.263,
+        "depth_km": 150.096,
+        "time_ms": 1780507285301,
+        "place": "35 km ENE of San Fernando, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sp7p",
+        "magnitude": 5.1,
+        "latitude": -18.4348,
+        "longitude": -71.3892,
+        "depth_km": 10,
+        "time_ms": 1780032759575,
+        "place": "87 km S of Pacocha, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.58
   }
 ]
