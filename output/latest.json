@@ -22,7 +22,7 @@
       "longitude": 125.0472
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 297,
+    "max_felt_reports": 328,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -811,28 +811,15 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srck",
-            "magnitude": 5.1,
-            "latitude": 4.8963,
-            "longitude": 125.1798,
-            "depth_km": 76.712,
-            "time_ms": 1780881058485,
-            "place": "64 km SSW of Sarangani, Philippines",
-            "distance_km": 129.4,
-            "exposure_contribution": 0.55,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000srk7",
             "magnitude": 5.1,
-            "latitude": 4.9304,
-            "longitude": 125.4615,
-            "depth_km": 69.499,
-            "time_ms": 1780943342497,
-            "place": "52 km S of Sarangani, Philippines",
-            "distance_km": 131.7,
-            "exposure_contribution": 0.56,
+            "latitude": 4.9172,
+            "longitude": 125.4299,
+            "depth_km": 46.231,
+            "time_ms": 1780943340051,
+            "place": "53 km S of Sarangani, Philippines",
+            "distance_km": 132.0,
+            "exposure_contribution": 0.62,
             "pga_g": null,
             "mmi": null
           },
@@ -872,6 +859,19 @@
             "place": "65 km SSW of Sarangani, Philippines",
             "distance_km": 137.0,
             "exposure_contribution": 0.6,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000srck",
+            "magnitude": 5.1,
+            "latitude": 4.8254,
+            "longitude": 125.1805,
+            "depth_km": 100.266,
+            "time_ms": 1780881060901,
+            "place": "71 km SSW of Sarangani, Philippines",
+            "distance_km": 137.3,
+            "exposure_contribution": 0.45,
             "pga_g": null,
             "mmi": null
           },
@@ -993,7 +993,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 125.9
+        "exposure_score": 125.86
       },
       {
         "name": "Laguindingan International Airport",
@@ -1395,11 +1395,11 @@
       {
         "id": "us7000srk7",
         "magnitude": 5.1,
-        "latitude": 4.9304,
-        "longitude": 125.4615,
-        "depth_km": 69.499,
-        "time_ms": 1780943342497,
-        "place": "52 km S of Sarangani, Philippines",
+        "latitude": 4.9172,
+        "longitude": 125.4299,
+        "depth_km": 46.231,
+        "time_ms": 1780943340051,
+        "place": "53 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1538,11 +1538,11 @@
       {
         "id": "us7000srck",
         "magnitude": 5.1,
-        "latitude": 4.8963,
-        "longitude": 125.1798,
-        "depth_km": 76.712,
-        "time_ms": 1780881058485,
-        "place": "64 km SSW of Sarangani, Philippines",
+        "latitude": 4.8254,
+        "longitude": 125.1805,
+        "depth_km": 100.266,
+        "time_ms": 1780881060901,
+        "place": "71 km SSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1679,7 +1679,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 169.44
+    "seismic_hub_risk_score": 169.4
   },
   {
     "country": "",
@@ -1820,8 +1820,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.96,
       "date": "2026-05-23",
@@ -1829,10 +1829,10 @@
       "latitude": 19.3403,
       "longitude": -155.8425
     },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 7205,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Ellison Onizuka Kona International Airport at Keāhole",
@@ -1851,12 +1851,12 @@
             "time_ms": 1779522361480,
             "place": "13 km S of Honaunau-Napoopoo, Hawaii",
             "distance_km": 49.2,
-            "exposure_contribution": 7.06,
-            "pga_g": 0.070584,
-            "mmi": 4.8
+            "exposure_contribution": 6.61,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 7.06
+        "exposure_score": 6.61
       },
       {
         "name": "Kahului International Airport",
@@ -1875,12 +1875,12 @@
             "time_ms": 1779522361480,
             "place": "13 km S of Honaunau-Napoopoo, Hawaii",
             "distance_km": 183.6,
-            "exposure_contribution": 1.92,
-            "pga_g": 0.019159,
-            "mmi": 3.6
+            "exposure_contribution": 1.04,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.92
+        "exposure_score": 1.04
       }
     ],
     "earthquakes": [
@@ -1960,20 +1960,9 @@
         "place": "13 km S of Honaunau-Napoopoo, Hawaii",
         "country_code": "US",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000szgm",
-        "magnitude": 5.6,
-        "latitude": 52.4123,
-        "longitude": -171.6588,
-        "depth_km": 13.237,
-        "time_ms": 1779452173681,
-        "place": "175 km E of Atka, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 8.98
+    "seismic_hub_risk_score": 7.65
   },
   {
     "country": "",
@@ -1989,7 +1978,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 13,
-    "avg_magnitude": 5.59,
+    "avg_magnitude": 5.58,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-06-19",
@@ -2207,12 +2196,12 @@
       },
       {
         "id": "us7000sr8v",
-        "magnitude": 5.5,
-        "latitude": 49.8979,
-        "longitude": 157.6645,
-        "depth_km": 10,
-        "time_ms": 1780844036180,
-        "place": "139 km SE of Severo-Kuril’sk, Russia",
+        "magnitude": 5.4,
+        "latitude": 49.9054,
+        "longitude": 157.5581,
+        "depth_km": 17,
+        "time_ms": 1780844037211,
+        "place": "133 km SE of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -2437,8 +2426,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-06-16",
@@ -2481,21 +2470,8 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 134.3,
+        "closest_quake_distance_km": 137.6,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000szdy",
-            "magnitude": 5.9,
-            "latitude": 1.0085,
-            "longitude": 126.0066,
-            "depth_km": 35,
-            "time_ms": 1779411908626,
-            "place": "108 km ESE of Bitung, Indonesia",
-            "distance_km": 134.3,
-            "exposure_contribution": 1.57,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000t04f",
             "magnitude": 5.6,
@@ -2549,7 +2525,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.05
+        "exposure_score": 2.48
       }
     ],
     "earthquakes": [
@@ -2717,20 +2693,9 @@
         "place": "82 km SW of Pagar Alam, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000szdy",
-        "magnitude": 5.9,
-        "latitude": 1.0085,
-        "longitude": 126.0066,
-        "depth_km": 35,
-        "time_ms": 1779411908626,
-        "place": "108 km ESE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 4.54
+    "seismic_hub_risk_score": 2.97
   },
   {
     "country": "",
@@ -2978,11 +2943,11 @@
       {
         "id": "us7000srkc",
         "magnitude": 5.4,
-        "latitude": -21.1981,
-        "longitude": 169.9905,
-        "depth_km": 59.614,
-        "time_ms": 1780944586908,
-        "place": "197 km SSE of Isangel, Vanuatu",
+        "latitude": -21.206,
+        "longitude": 169.9816,
+        "depth_km": 69.209,
+        "time_ms": 1780944587820,
+        "place": "198 km SSE of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       },
@@ -3113,8 +3078,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.23,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-06-10",
@@ -3166,6 +3131,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sv1m",
+        "magnitude": 5,
+        "latitude": -30.5449,
+        "longitude": -178.5252,
+        "depth_km": 10,
+        "time_ms": 1782083679792,
+        "place": "Kermadec Islands, New Zealand",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ss4s",
         "magnitude": 5.4,
@@ -3356,105 +3332,5 @@
       }
     ],
     "seismic_hub_risk_score": 0.58
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PG",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.2,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-05-22",
-      "depth_km": 10,
-      "latitude": -2.9546,
-      "longitude": 147.7054
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 122.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000spkp",
-            "magnitude": 5,
-            "latitude": -7.3507,
-            "longitude": 147.5076,
-            "depth_km": 72.552,
-            "time_ms": 1780181151926,
-            "place": "87 km E of Wau, Papua New Guinea",
-            "distance_km": 122.5,
-            "exposure_contribution": 0.53,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.53
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000spkp",
-        "magnitude": 5,
-        "latitude": -7.3507,
-        "longitude": 147.5076,
-        "depth_km": 72.552,
-        "time_ms": 1780181151926,
-        "place": "87 km E of Wau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t028",
-        "magnitude": 5,
-        "latitude": -4.7914,
-        "longitude": 153.1957,
-        "depth_km": 55.928,
-        "time_ms": 1779721230276,
-        "place": "114 km ESE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spai",
-        "magnitude": 5.1,
-        "latitude": -3.1018,
-        "longitude": 147.9191,
-        "depth_km": 10,
-        "time_ms": 1779444538453,
-        "place": "138 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000szgb",
-        "magnitude": 5.7,
-        "latitude": -2.9546,
-        "longitude": 147.7054,
-        "depth_km": 10,
-        "time_ms": 1779444499175,
-        "place": "112 km SSE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 0.53
   }
 ]
