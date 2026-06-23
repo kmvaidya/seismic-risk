@@ -22,7 +22,7 @@
       "longitude": 125.0472
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 328,
+    "max_felt_reports": 339,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1809,163 +1809,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "US",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.31,
-    "strongest_earthquake": {
-      "magnitude": 5.96,
-      "date": "2026-05-23",
-      "depth_km": 22.6,
-      "latitude": 19.3403,
-      "longitude": -155.8425
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Ellison Onizuka Kona International Airport at Keāhole",
-        "iata_code": "KOA",
-        "latitude": 19.738783,
-        "longitude": -156.045603,
-        "municipality": "Kailua-Kona",
-        "closest_quake_distance_km": 49.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "hv74966427",
-            "magnitude": 5.96,
-            "latitude": 19.3403333333333,
-            "longitude": -155.8425,
-            "depth_km": 22.64,
-            "time_ms": 1779522361480,
-            "place": "13 km S of Honaunau-Napoopoo, Hawaii",
-            "distance_km": 49.2,
-            "exposure_contribution": 6.61,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 6.61
-      },
-      {
-        "name": "Kahului International Airport",
-        "iata_code": "OGG",
-        "latitude": 20.896263,
-        "longitude": -156.431837,
-        "municipality": "Kahului",
-        "closest_quake_distance_km": 183.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "hv74966427",
-            "magnitude": 5.96,
-            "latitude": 19.3403333333333,
-            "longitude": -155.8425,
-            "depth_km": 22.64,
-            "time_ms": 1779522361480,
-            "place": "13 km S of Honaunau-Napoopoo, Hawaii",
-            "distance_km": 183.6,
-            "exposure_contribution": 1.04,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.04
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000subg",
-        "magnitude": 5,
-        "latitude": 51.3541,
-        "longitude": -179.5739,
-        "depth_km": 35.299,
-        "time_ms": 1781791108055,
-        "place": "211 km WSW of Adak, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ssnz",
-        "magnitude": 5.1,
-        "latitude": 51.3511,
-        "longitude": -179.5103,
-        "depth_km": 28.374,
-        "time_ms": 1781349894194,
-        "place": "207 km WSW of Adak, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ssnv",
-        "magnitude": 5,
-        "latitude": 53.0785,
-        "longitude": -166.9697,
-        "depth_km": 41.492,
-        "time_ms": 1781347127612,
-        "place": "93 km SSW of Unalaska, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "nc75370186",
-        "magnitude": 5.1,
-        "latitude": 40.3646666666667,
-        "longitude": -125.017833333333,
-        "depth_km": 10,
-        "time_ms": 1780490736790,
-        "place": "62 km W of Petrolia, CA",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sq93",
-        "magnitude": 5.7,
-        "latitude": 41.8967,
-        "longitude": -126.1861,
-        "depth_km": 10,
-        "time_ms": 1780484034074,
-        "place": "154 km WSW of Pistol River, Oregon",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000szt5",
-        "magnitude": 5.3,
-        "latitude": 51.7357,
-        "longitude": -170.3306,
-        "depth_km": 10.084,
-        "time_ms": 1779572957372,
-        "place": "167 km SW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "hv74966427",
-        "magnitude": 5.96,
-        "latitude": 19.3403333333333,
-        "longitude": -155.8425,
-        "depth_km": 22.64,
-        "time_ms": 1779522361480,
-        "place": "13 km S of Honaunau-Napoopoo, Hawaii",
-        "country_code": "US",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 7.65
-  },
-  {
-    "country": "",
     "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
@@ -2426,7 +2269,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
+    "earthquake_count": 14,
     "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 6.7,
@@ -2682,17 +2525,6 @@
         "place": "112 km ESE of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000szq3",
-        "magnitude": 5.3,
-        "latitude": -4.5338,
-        "longitude": 102.7044,
-        "depth_km": 68.472,
-        "time_ms": 1779540028190,
-        "place": "82 km SW of Pagar Alam, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.97
@@ -2710,8 +2542,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.52,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.54,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-05-25",
@@ -2848,17 +2680,6 @@
         "place": "26 km ENE of Calama, Chile",
         "country_code": "CL",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000szx2",
-        "magnitude": 5.3,
-        "latitude": -35.7227,
-        "longitude": -104.9819,
-        "depth_km": 10,
-        "time_ms": 1779563946591,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.72
@@ -3078,7 +2899,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
+    "earthquake_count": 11,
     "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.4,
@@ -3132,12 +2953,23 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000t7gf",
+        "magnitude": 5.1,
+        "latitude": -31.9328,
+        "longitude": -178.2858,
+        "depth_km": 28.23,
+        "time_ms": 1782157571598,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000sv1m",
-        "magnitude": 5,
-        "latitude": -30.5449,
-        "longitude": -178.5252,
-        "depth_km": 10,
-        "time_ms": 1782083679792,
+        "magnitude": 5.1,
+        "latitude": -30.3614,
+        "longitude": -178.4702,
+        "depth_km": 64.795,
+        "time_ms": 1782083684424,
         "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": false
