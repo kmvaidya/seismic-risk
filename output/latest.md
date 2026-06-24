@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-06-23 09:24 UTC
+Generated: 2026-06-24 08:54 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-03-25 to 2026-06-23).
+Based on 89 snapshots (2026-03-26 to 2026-06-24).
 
 
 **Top score changes**:
@@ -12,9 +12,9 @@ Based on 89 snapshots (2026-03-25 to 2026-06-23).
 
 **Top airport exposure changes**:
 
+- General Santos International Airport (GES, ): -0.4
+- Francisco Bangoy International Airport (DVO, ): -0.0
 - Bicol International Airport (DRP, ): 0.0
-- Francisco Bangoy International Airport (DVO, ): 0.0
-- General Santos International Airport (GES, ): 0.0
 - Laguindingan International Airport (CGY, ): 0.0
 - Bohol-Panglao International Airport (TAG, ): 0.0
 
@@ -22,23 +22,23 @@ Based on 89 snapshots (2026-03-25 to 2026-06-23).
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 169.4 | ~ | 5.4 | M7.8 (2026-06-07) | 51 | 8 | orange | No | 2 |
+|  |  |  | 169.0 | ~ | 5.4 | M7.8 (2026-06-07) | 49 | 8 | orange | No | 2 |
 |  |  |  | 12.2 | ~ | 5.2 | M5.3 (2026-05-28) | 3 | 2 | - | No | 0 |
 |  |  |  | 6.9 | ~ | 5.6 | M6.6 (2026-06-19) | 13 | 1 | green | No | 1 |
 |  |  |  | 6.3 | ~ | 5.4 | M5.7 (2026-06-01) | 4 | 4 | - | No | 0 |
 |  |  |  | 3.0 | ~ | 5.3 | M6.7 (2026-06-16) | 14 | 2 | yellow | No | 1 |
 |  |  |  | 1.7 | ~ | 5.5 | M6.9 (2026-05-25) | 9 | 1 | green | No | 2 |
-|  |  |  | 1.5 | ~ | 5.2 | M5.6 (2026-06-03) | 4 | 1 | - | No | 0 |
+|  |  |  | 1.5 | ~ | 5.3 | M5.6 (2026-06-03) | 5 | 1 | - | No | 0 |
 |  |  |  | 1.0 | ~ | 5.2 | M5.3 (2026-06-05) | 3 | 1 | - | No | 0 |
-|  |  |  | 0.9 | ~ | 5.2 | M5.4 (2026-06-10) | 11 | 1 | - | No | 0 |
+|  |  |  | 0.9 | ~ | 5.2 | M5.4 (2026-06-10) | 13 | 1 | - | No | 0 |
 |  |  |  | 0.6 | ~ | 5.1 | M5.2 (2026-06-03) | 3 | 1 | - | No | 0 |
 
 ## Airport Details
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Max PGA (g) | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|------------:|-------------------:|--------------:|
-| General Santos International Airport | GES | General Santos |  | 125.9 | ~ | 0.5736 | 32.5 | 45 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 25.8 | ~ | 0.1015 | 143.0 | 26 |
+| General Santos International Airport | GES | General Santos |  | 125.5 | ~ | 0.5736 | 32.5 | 45 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 25.7 | ~ | 0.1015 | 143.0 | 26 |
 | Bicol International Airport | DRP | Legazpi |  | 14.1 | ~ | - | 10.7 | 1 |
 | Iloilo International Airport | ILO | Cabatuan |  | 1.4 | ~ | - | 80.1 | 1 |
 | Bacolod-Silay International Airport | BCD | Bacolod City |  | 0.8 | ~ | - | 116.7 | 1 |

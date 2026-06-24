@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 51,
+    "earthquake_count": 49,
     "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.8,
@@ -202,6 +202,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000srh8",
+            "magnitude": 5.2,
+            "latitude": 5.7353,
+            "longitude": 124.8562,
+            "depth_km": 54.706,
+            "time_ms": 1780930385204,
+            "place": "15 km SSW of Lumatil, Philippines",
+            "distance_km": 177.5,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srmq",
             "magnitude": 5,
             "latitude": 5.5171,
@@ -226,19 +239,6 @@
             "exposure_contribution": 10.15,
             "pga_g": 0.101474,
             "mmi": 6.3
-          },
-          {
-            "earthquake_id": "us7000srh8",
-            "magnitude": 5.3,
-            "latitude": 5.7068,
-            "longitude": 124.8303,
-            "depth_km": 45.995,
-            "time_ms": 1780930384491,
-            "place": "19 km SSW of Lumatil, Philippines",
-            "distance_km": 181.7,
-            "exposure_contribution": 0.47,
-            "pga_g": null,
-            "mmi": null
           },
           {
             "earthquake_id": "us7000srbe",
@@ -397,7 +397,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.77
+        "exposure_score": 25.73
       },
       {
         "name": "General Santos International Airport",
@@ -460,6 +460,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000srh8",
+            "magnitude": 5.2,
+            "latitude": 5.7353,
+            "longitude": 124.8562,
+            "depth_km": 54.706,
+            "time_ms": 1780930385204,
+            "place": "15 km SSW of Lumatil, Philippines",
+            "distance_km": 44.6,
+            "exposure_contribution": 1.92,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000st48",
             "magnitude": 5.5,
             "latitude": 5.658,
@@ -482,19 +495,6 @@
             "place": "6 km SW of Pangyan, Philippines",
             "distance_km": 48.2,
             "exposure_contribution": 5.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srh8",
-            "magnitude": 5.3,
-            "latitude": 5.7068,
-            "longitude": 124.8303,
-            "depth_km": 45.995,
-            "time_ms": 1780930384491,
-            "place": "19 km SSW of Lumatil, Philippines",
-            "distance_km": 48.8,
-            "exposure_contribution": 2.31,
             "pga_g": null,
             "mmi": null
           },
@@ -774,13 +774,13 @@
           {
             "earthquake_id": "us7000srgq",
             "magnitude": 5.2,
-            "latitude": 5.0648,
-            "longitude": 125.2439,
-            "depth_km": 55.698,
-            "time_ms": 1780925878742,
-            "place": "44 km SSW of Sarangani, Philippines",
-            "distance_km": 111.6,
-            "exposure_contribution": 0.83,
+            "latitude": 5.006,
+            "longitude": 125.2001,
+            "depth_km": 44.66,
+            "time_ms": 1780925877211,
+            "place": "52 km SSW of Sarangani, Philippines",
+            "distance_km": 117.5,
+            "exposure_contribution": 0.82,
             "pga_g": null,
             "mmi": null
           },
@@ -993,7 +993,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 125.86
+        "exposure_score": 125.46
       },
       {
         "name": "Laguindingan International Airport",
@@ -1405,23 +1405,23 @@
       },
       {
         "id": "us7000srh8",
-        "magnitude": 5.3,
-        "latitude": 5.7068,
-        "longitude": 124.8303,
-        "depth_km": 45.995,
-        "time_ms": 1780930384491,
-        "place": "19 km SSW of Lumatil, Philippines",
+        "magnitude": 5.2,
+        "latitude": 5.7353,
+        "longitude": 124.8562,
+        "depth_km": 54.706,
+        "time_ms": 1780930385204,
+        "place": "15 km SSW of Lumatil, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
       {
         "id": "us7000srgq",
         "magnitude": 5.2,
-        "latitude": 5.0648,
-        "longitude": 125.2439,
-        "depth_km": 55.698,
-        "time_ms": 1780925878742,
-        "place": "44 km SSW of Sarangani, Philippines",
+        "latitude": 5.006,
+        "longitude": 125.2001,
+        "depth_km": 44.66,
+        "time_ms": 1780925877211,
+        "place": "52 km SSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1655,31 +1655,9 @@
         "place": "1 km ESE of San Roque, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000szxz",
-        "magnitude": 5.5,
-        "latitude": 9.2997,
-        "longitude": 126.2839,
-        "depth_km": 34,
-        "time_ms": 1779641321017,
-        "place": "10 km ENE of Cortes, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000szxh",
-        "magnitude": 5.1,
-        "latitude": 9.1379,
-        "longitude": 126.5217,
-        "depth_km": 53.181,
-        "time_ms": 1779628745760,
-        "place": "33 km ENE of La Paz, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 169.4
+    "seismic_hub_risk_score": 168.96
   },
   {
     "country": "",
@@ -2103,8 +2081,8 @@
       "magnitude": 5.7,
       "date": "2026-06-01",
       "depth_km": 11,
-      "latitude": 30.7158,
-      "longitude": 141.7476
+      "latitude": 30.6616,
+      "longitude": 141.7398
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2245,10 +2223,10 @@
       {
         "id": "us7000spru",
         "magnitude": 5.7,
-        "latitude": 30.7158,
-        "longitude": 141.7476,
+        "latitude": 30.6616,
+        "longitude": 141.7398,
         "depth_km": 11,
-        "time_ms": 1780284870871,
+        "time_ms": 1780284870868,
         "place": "Izu Islands, Japan region",
         "country_code": "JP",
         "shakemap_available": true
@@ -2279,7 +2257,7 @@
       "longitude": 120.199
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 8,
+    "max_felt_reports": 9,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -2548,8 +2526,8 @@
       "magnitude": 6.9,
       "date": "2026-05-25",
       "depth_km": 109,
-      "latitude": -22.3975,
-      "longitude": -68.6779
+      "latitude": -22.3667,
+      "longitude": -68.6013
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 155,
@@ -2640,10 +2618,10 @@
       {
         "id": "us7000sprv",
         "magnitude": 5.3,
-        "latitude": -35.387,
-        "longitude": -104.6576,
+        "latitude": -35.3053,
+        "longitude": -104.543,
         "depth_km": 10,
-        "time_ms": 1780285211053,
+        "time_ms": 1780285211362,
         "place": "southeast of Easter Island",
         "country_code": "CL",
         "shakemap_available": false
@@ -2673,11 +2651,11 @@
       {
         "id": "us6000t04s",
         "magnitude": 6.9,
-        "latitude": -22.3975,
-        "longitude": -68.6779,
+        "latitude": -22.3667,
+        "longitude": -68.6013,
         "depth_km": 109,
-        "time_ms": 1779745940045,
-        "place": "26 km ENE of Calama, Chile",
+        "time_ms": 1779745940140,
+        "place": "34 km ENE of Calama, Chile",
         "country_code": "CL",
         "shakemap_available": true
       }
@@ -2697,8 +2675,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-06-03",
@@ -2750,6 +2728,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000t7lb",
+        "magnitude": 5.3,
+        "latitude": -20.6302,
+        "longitude": 169.2307,
+        "depth_km": 21.543,
+        "time_ms": 1782223114774,
+        "place": "120 km S of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ssct",
         "magnitude": 5,
@@ -2899,8 +2888,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-06-10",
@@ -2952,6 +2941,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000t7k4",
+        "magnitude": 5,
+        "latitude": -16.1772,
+        "longitude": -172.1796,
+        "depth_km": 10,
+        "time_ms": 1782198674440,
+        "place": "174 km E of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t7iy",
+        "magnitude": 5.3,
+        "latitude": -27.1921,
+        "longitude": -177.7691,
+        "depth_km": 140.331,
+        "time_ms": 1782181580999,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000t7gf",
         "magnitude": 5.1,
