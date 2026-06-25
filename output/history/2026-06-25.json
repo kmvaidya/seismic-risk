@@ -1,0 +1,316 @@
+{
+  "date": "2026-06-25",
+  "scoring_method": "shakemap",
+  "countries": [
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 168.72,
+      "earthquake_count": 50,
+      "exposed_airport_count": 8,
+      "avg_magnitude": 5.35,
+      "airports": [
+        {
+          "iata_code": "DRP",
+          "name": "Bicol International Airport",
+          "exposure_score": 14.09,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 10.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DVO",
+          "name": "Francisco Bangoy International Airport",
+          "exposure_score": 25.8,
+          "nearby_quake_count": 26,
+          "closest_quake_km": 143.0,
+          "max_pga_g": 0.1015
+        },
+        {
+          "iata_code": "GES",
+          "name": "General Santos International Airport",
+          "exposure_score": 125.15,
+          "nearby_quake_count": 45,
+          "closest_quake_km": 32.8,
+          "max_pga_g": 0.5736
+        },
+        {
+          "iata_code": "CGY",
+          "name": "Laguindingan International Airport",
+          "exposure_score": 0.64,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 136.2,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "TAG",
+          "name": "Bohol-Panglao International Airport",
+          "exposure_score": 0.35,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 194.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "BCD",
+          "name": "Bacolod-Silay International Airport",
+          "exposure_score": 0.81,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 116.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "ILO",
+          "name": "Iloilo International Airport",
+          "exposure_score": 1.41,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 80.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "KLO",
+          "name": "Kalibo International Airport",
+          "exposure_score": 0.47,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 165.3,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 13.29,
+      "earthquake_count": 5,
+      "exposed_airport_count": 6,
+      "avg_magnitude": 5.7,
+      "airports": [
+        {
+          "iata_code": "NRT",
+          "name": "Narita International Airport",
+          "exposure_score": 1.9,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 55.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "IBR",
+          "name": "Ibaraki Airport",
+          "exposure_score": 1.87,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 56.5,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "HKD",
+          "name": "Hakodate Airport",
+          "exposure_score": 2.12,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 196.2,
+          "max_pga_g": 0.0212
+        },
+        {
+          "iata_code": "FSZ",
+          "name": "Mount Fuji Shizuoka Airport",
+          "exposure_score": 0.48,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 199.2,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "AOJ",
+          "name": "Aomori Airport",
+          "exposure_score": 4.89,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 128.8,
+          "max_pga_g": 0.0489
+        },
+        {
+          "iata_code": "HND",
+          "name": "Tokyo Haneda International Airport",
+          "exposure_score": 2.03,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 48.2,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 12.2,
+      "earthquake_count": 3,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.2,
+      "airports": [
+        {
+          "iata_code": "ACA",
+          "name": "General Juan N. \u00c1lvarez International Airport",
+          "exposure_score": 11.76,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 12.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "OAX",
+          "name": "Xoxocotl\u00e1n International Airport",
+          "exposure_score": 0.44,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 181.1,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 6.78,
+      "earthquake_count": 13,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.58,
+      "airports": [
+        {
+          "iata_code": "PKC",
+          "name": "Yelizovo Airport",
+          "exposure_score": 6.78,
+          "nearby_quake_count": 7,
+          "closest_quake_km": 147.5,
+          "max_pga_g": 0.0218
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.89,
+      "earthquake_count": 13,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.25,
+      "airports": [
+        {
+          "iata_code": "DJJ",
+          "name": "Dortheys Hiyo Eluay International Airport",
+          "exposure_score": 0.49,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 194.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "MDC",
+          "name": "Sam Ratulangi International Airport",
+          "exposure_score": 1.4,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 143.3,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.72,
+      "earthquake_count": 8,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.38,
+      "airports": [
+        {
+          "iata_code": "SCL",
+          "name": "Comodoro Arturo Merino Ben\u00edtez International Airport",
+          "exposure_score": 1.72,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 120.4,
+          "max_pga_g": 0.0172
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.54,
+      "earthquake_count": 5,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.26,
+      "airports": [
+        {
+          "iata_code": "VLI",
+          "name": "Bauerfield International Airport",
+          "exposure_score": 1.54,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 70.0,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 0.99,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.2,
+      "airports": [
+        {
+          "iata_code": "DIL",
+          "name": "Presidente Nicolau Lobato International Airport",
+          "exposure_score": 0.99,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 110.9,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 0.92,
+      "earthquake_count": 13,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.2,
+      "airports": [
+        {
+          "iata_code": "VAV",
+          "name": "Vava'u International Airport",
+          "exposure_score": 0.92,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 147.0,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 0.62,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.13,
+      "airports": [
+        {
+          "iata_code": "PCL",
+          "name": "Cap FAP David Abenzur Rengifo International Airport",
+          "exposure_score": 0.62,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 32.3,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 0.22,
+      "earthquake_count": 6,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.25,
+      "airports": [
+        {
+          "iata_code": "SMF",
+          "name": "Sacramento International Airport",
+          "exposure_score": 0.22,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 159.7,
+          "max_pga_g": 0.0022
+        }
+      ]
+    }
+  ]
+}
