@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 51,
+    "earthquake_count": 52,
     "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 7.8,
@@ -22,7 +22,7 @@
       "longitude": 125.0472
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 356,
+    "max_felt_reports": 360,
     "tsunami_warning_issued": false,
     "significant_events_count": 3,
     "exposed_airports": [
@@ -56,18 +56,18 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 143.0,
+        "closest_quake_distance_km": 146.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sucj",
-            "magnitude": 5.3,
-            "latitude": 6.5597,
-            "longitude": 126.809,
+            "magnitude": 5.2,
+            "latitude": 6.4841,
+            "longitude": 126.8073,
             "depth_km": 10,
-            "time_ms": 1781800438155,
-            "place": "63 km ESE of Bobon, Philippines",
-            "distance_km": 143.0,
-            "exposure_contribution": 0.74,
+            "time_ms": 1781800438269,
+            "place": "67 km SE of Bobon, Philippines",
+            "distance_km": 146.7,
+            "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
           },
@@ -384,7 +384,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.49
+        "exposure_score": 25.38
       },
       {
         "name": "General Santos International Airport",
@@ -889,6 +889,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000ss60",
+            "magnitude": 5,
+            "latitude": 4.8694,
+            "longitude": 125.5184,
+            "depth_km": 69.87,
+            "time_ms": 1781156327300,
+            "place": "59 km S of Sarangani, Philippines",
+            "distance_km": 140.1,
+            "exposure_contribution": 0.46,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000ssje",
             "magnitude": 5.2,
             "latitude": 4.8121,
@@ -928,19 +941,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000ss60",
-            "magnitude": 5,
-            "latitude": 4.8238,
-            "longitude": 125.5812,
-            "depth_km": 62.85,
-            "time_ms": 1781156326440,
-            "place": "65 km SSE of Sarangani, Philippines",
-            "distance_km": 147.3,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000srfa",
             "magnitude": 5.1,
             "latitude": 4.7279,
@@ -968,19 +968,19 @@
           },
           {
             "earthquake_id": "us7000sucj",
-            "magnitude": 5.3,
-            "latitude": 6.5597,
-            "longitude": 126.809,
+            "magnitude": 5.2,
+            "latitude": 6.4841,
+            "longitude": 126.8073,
             "depth_km": 10,
-            "time_ms": 1781800438155,
-            "place": "63 km ESE of Bobon, Philippines",
-            "distance_km": 197.4,
-            "exposure_contribution": 0.43,
+            "time_ms": 1781800438269,
+            "place": "67 km SE of Bobon, Philippines",
+            "distance_km": 195.0,
+            "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 132.34
+        "exposure_score": 132.32
       },
       {
         "name": "Laguindingan International Airport",
@@ -1105,6 +1105,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000t8ux",
+        "magnitude": 5,
+        "latitude": 16.5146,
+        "longitude": 119.2088,
+        "depth_km": 10,
+        "time_ms": 1782673743928,
+        "place": "68 km WNW of Catuday, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000t8ec",
         "magnitude": 6.5,
         "latitude": 5.2392,
@@ -1139,12 +1150,12 @@
       },
       {
         "id": "us7000sucj",
-        "magnitude": 5.3,
-        "latitude": 6.5597,
-        "longitude": 126.809,
+        "magnitude": 5.2,
+        "latitude": 6.4841,
+        "longitude": 126.8073,
         "depth_km": 10,
-        "time_ms": 1781800438155,
-        "place": "63 km ESE of Bobon, Philippines",
+        "time_ms": 1781800438269,
+        "place": "67 km SE of Bobon, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1261,11 +1272,11 @@
       {
         "id": "us7000ss60",
         "magnitude": 5,
-        "latitude": 4.8238,
-        "longitude": 125.5812,
-        "depth_km": 62.85,
-        "time_ms": 1781156326440,
-        "place": "65 km SSE of Sarangani, Philippines",
+        "latitude": 4.8694,
+        "longitude": 125.5184,
+        "depth_km": 69.87,
+        "time_ms": 1781156327300,
+        "place": "59 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1666,7 +1677,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 175.67
+    "seismic_hub_risk_score": 175.54
   },
   {
     "country": "",
@@ -2049,8 +2060,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.58,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.61,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-06-19",
@@ -2296,17 +2307,6 @@
         "depth_km": 9.441,
         "time_ms": 1780507411165,
         "place": "193 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spd9",
-        "magnitude": 5.2,
-        "latitude": 50.0244,
-        "longitude": 159.5519,
-        "depth_km": 10,
-        "time_ms": 1780070758389,
-        "place": "254 km ESE of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       }
@@ -2755,7 +2755,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 5,
-    "avg_magnitude": 5.26,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-06-03",
@@ -2788,25 +2788,23 @@
             "exposure_contribution": 1.32,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ssct",
-            "magnitude": 5,
-            "latitude": -18.9647,
-            "longitude": 169.0532,
-            "depth_km": 168.418,
-            "time_ms": 1781213567364,
-            "place": "68 km NNW of Isangel, Vanuatu",
-            "distance_km": 160.6,
-            "exposure_contribution": 0.23,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.54
+        "exposure_score": 1.32
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000t8sl",
+        "magnitude": 5.2,
+        "latitude": -14.7852,
+        "longitude": 167.4024,
+        "depth_km": 160.295,
+        "time_ms": 1782630345186,
+        "place": "45 km NE of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
       {
         "id": "us6000t7lb",
         "magnitude": 5.3,
@@ -2815,17 +2813,6 @@
         "depth_km": 21.543,
         "time_ms": 1782223114774,
         "place": "120 km S of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ssct",
-        "magnitude": 5,
-        "latitude": -18.9647,
-        "longitude": 169.0532,
-        "depth_km": 168.418,
-        "time_ms": 1781213567364,
-        "place": "68 km NNW of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       },
@@ -2863,7 +2850,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.54
+    "seismic_hub_risk_score": 1.32
   },
   {
     "country": "",
@@ -3043,10 +3030,10 @@
       {
         "id": "us6000t7gf",
         "magnitude": 5.1,
-        "latitude": -31.9328,
-        "longitude": -178.2858,
-        "depth_km": 28.23,
-        "time_ms": 1782157571598,
+        "latitude": -31.9144,
+        "longitude": -178.3672,
+        "depth_km": 41.908,
+        "time_ms": 1782157573484,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
@@ -3054,10 +3041,10 @@
       {
         "id": "us7000sv1m",
         "magnitude": 5.1,
-        "latitude": -30.3614,
-        "longitude": -178.4702,
-        "depth_km": 64.795,
-        "time_ms": 1782083684424,
+        "latitude": -30.2733,
+        "longitude": -178.4186,
+        "depth_km": 69.715,
+        "time_ms": 1782083685110,
         "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": false
@@ -3122,7 +3109,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PE",
+    "iso_alpha2": "NZ",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -3134,13 +3121,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 3,
-    "avg_magnitude": 5.13,
+    "avg_magnitude": 5.53,
     "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-06-03",
-      "depth_km": 146.6,
-      "latitude": -8.2311,
-      "longitude": -74.3212
+      "magnitude": 6,
+      "date": "2026-06-10",
+      "depth_km": 6.2,
+      "latitude": -49.7494,
+      "longitude": 164.0645
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -3148,66 +3135,66 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 32.3,
+        "name": "Wellington International Airport",
+        "iata_code": "WLG",
+        "latitude": -41.326839,
+        "longitude": 174.806862,
+        "municipality": "Wellington",
+        "closest_quake_distance_km": 107.7,
         "nearby_quakes": [
           {
-            "earthquake_id": "us7000sqcu",
-            "magnitude": 5.2,
-            "latitude": -8.2311,
-            "longitude": -74.3212,
-            "depth_km": 146.611,
-            "time_ms": 1780507284923,
-            "place": "30 km NE of San Fernando, Peru",
-            "distance_km": 32.3,
-            "exposure_contribution": 0.62,
+            "earthquake_id": "us6000t8t3",
+            "magnitude": 5,
+            "latitude": -40.3938,
+            "longitude": 174.4645,
+            "depth_km": 81.184,
+            "time_ms": 1782644652997,
+            "place": "65 km W of Foxton Beach, New Zealand",
+            "distance_km": 107.7,
+            "exposure_contribution": 0.58,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.62
+        "exposure_score": 0.58
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000ssms",
-        "magnitude": 5.1,
-        "latitude": -4.5157,
-        "longitude": -79.9986,
-        "depth_km": 72.251,
-        "time_ms": 1781332539650,
-        "place": "0 km ESE of Suyo, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
+        "id": "us6000t8t3",
+        "magnitude": 5,
+        "latitude": -40.3938,
+        "longitude": 174.4645,
+        "depth_km": 81.184,
+        "time_ms": 1782644652997,
+        "place": "65 km W of Foxton Beach, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
       },
       {
-        "id": "us7000sqcu",
-        "magnitude": 5.2,
-        "latitude": -8.2311,
-        "longitude": -74.3212,
-        "depth_km": 146.611,
-        "time_ms": 1780507284923,
-        "place": "30 km NE of San Fernando, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
+        "id": "us7000srxn",
+        "magnitude": 6,
+        "latitude": -49.7494,
+        "longitude": 164.0645,
+        "depth_km": 6.209,
+        "time_ms": 1781052259738,
+        "place": "Auckland Islands, New Zealand region",
+        "country_code": "NZ",
+        "shakemap_available": true
       },
       {
-        "id": "us7000sp7p",
-        "magnitude": 5.1,
-        "latitude": -18.4348,
-        "longitude": -71.3892,
+        "id": "us7000sqzx",
+        "magnitude": 5.6,
+        "latitude": -61.7682,
+        "longitude": 161.3301,
         "depth_km": 10,
-        "time_ms": 1780032759575,
-        "place": "87 km S of Pacocha, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
+        "time_ms": 1780693089571,
+        "place": "Balleny Islands region",
+        "country_code": "NZ",
+        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.62
+    "seismic_hub_risk_score": 0.58
   },
   {
     "country": "",
@@ -3300,6 +3287,139 @@
   },
   {
     "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 7,
+    "avg_magnitude": 5.36,
+    "strongest_earthquake": {
+      "magnitude": 6.3,
+      "date": "2026-06-16",
+      "depth_km": 10,
+      "latitude": 37.8888,
+      "longitude": 95.4028
+    },
+    "highest_pager_alert": "orange",
+    "max_felt_reports": 1,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Chengdu Tianfu International Airport",
+        "iata_code": "TFU",
+        "latitude": 30.31252,
+        "longitude": 104.441284,
+        "municipality": "Chengdu (Jianyang)",
+        "closest_quake_distance_km": 194.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8u3",
+            "magnitude": 5.2,
+            "latitude": 28.6031,
+            "longitude": 104.8416,
+            "depth_km": 10,
+            "time_ms": 1782663128958,
+            "place": "8 km WNW of Changning, China",
+            "distance_km": 194.0,
+            "exposure_contribution": 0.4,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.4
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000t8u3",
+        "magnitude": 5.2,
+        "latitude": 28.6031,
+        "longitude": 104.8416,
+        "depth_km": 10,
+        "time_ms": 1782663128958,
+        "place": "8 km WNW of Changning, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t7ll",
+        "magnitude": 5.2,
+        "latitude": 37.8214,
+        "longitude": 95.2983,
+        "depth_km": 8.098,
+        "time_ms": 1782228542332,
+        "place": "265 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000stn8",
+        "magnitude": 5.2,
+        "latitude": 37.9513,
+        "longitude": 95.621,
+        "depth_km": 10,
+        "time_ms": 1781706004138,
+        "place": "258 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000stdb",
+        "magnitude": 5,
+        "latitude": 37.8819,
+        "longitude": 95.4313,
+        "depth_km": 10,
+        "time_ms": 1781608457721,
+        "place": "261 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000stcs",
+        "magnitude": 5.4,
+        "latitude": 37.6989,
+        "longitude": 95.2125,
+        "depth_km": 10,
+        "time_ms": 1781603126434,
+        "place": "277 km S of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000std2",
+        "magnitude": 5.2,
+        "latitude": 38.0579,
+        "longitude": 95.4312,
+        "depth_km": 10,
+        "time_ms": 1781602955214,
+        "place": "242 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000stbz",
+        "magnitude": 6.3,
+        "latitude": 37.8888,
+        "longitude": 95.4028,
+        "depth_km": 10,
+        "time_ms": 1781600815226,
+        "place": "260 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.4
+  },
+  {
+    "country": "",
     "iso_alpha2": "US",
     "iso_alpha3": "",
     "capital": "",
@@ -3321,7 +3441,7 @@
       "longitude": -126.0698
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 5290,
+    "max_felt_reports": 5292,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
