@@ -202,6 +202,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000srfx",
+            "magnitude": 5.5,
+            "latitude": 5.5916,
+            "longitude": 125.206,
+            "depth_km": 88.29,
+            "time_ms": 1780917753435,
+            "place": "14 km SW of Pangyan, Philippines",
+            "distance_km": 177.4,
+            "exposure_contribution": 0.54,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srh8",
             "magnitude": 5.2,
             "latitude": 5.7353,
@@ -250,19 +263,6 @@
             "place": "6 km SSE of Balangonan, Philippines",
             "distance_km": 181.9,
             "exposure_contribution": 1.18,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srfx",
-            "magnitude": 5.5,
-            "latitude": 5.532,
-            "longitude": 125.2525,
-            "depth_km": 81.095,
-            "time_ms": 1780917752657,
-            "place": "12 km WSW of Balangonan, Philippines",
-            "distance_km": 182.4,
-            "exposure_contribution": 0.53,
             "pga_g": null,
             "mmi": null
           },
@@ -332,6 +332,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000srp0",
+            "magnitude": 5.2,
+            "latitude": 5.4391,
+            "longitude": 125.2128,
+            "depth_km": 83.053,
+            "time_ms": 1780985718530,
+            "place": "21 km SW of Balangonan, Philippines",
+            "distance_km": 193.5,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000ss0f",
             "magnitude": 5,
             "latitude": 5.4152,
@@ -384,7 +397,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.38
+        "exposure_score": 25.73
       },
       {
         "name": "General Santos International Airport",
@@ -512,6 +525,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000srfx",
+            "magnitude": 5.5,
+            "latitude": 5.5916,
+            "longitude": 125.206,
+            "depth_km": 88.29,
+            "time_ms": 1780917753435,
+            "place": "14 km SW of Pangyan, Philippines",
+            "distance_km": 53.2,
+            "exposure_contribution": 1.57,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srzt",
             "magnitude": 5.1,
             "latitude": 5.6757,
@@ -534,19 +560,6 @@
             "place": "3 km WNW of Nuing, Philippines",
             "distance_km": 56.6,
             "exposure_contribution": 2.46,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srfx",
-            "magnitude": 5.5,
-            "latitude": 5.532,
-            "longitude": 125.2525,
-            "depth_km": 81.095,
-            "time_ms": 1780917752657,
-            "place": "12 km WSW of Balangonan, Philippines",
-            "distance_km": 60.9,
-            "exposure_contribution": 1.6,
             "pga_g": null,
             "mmi": null
           },
@@ -616,6 +629,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000srp0",
+            "magnitude": 5.2,
+            "latitude": 5.4391,
+            "longitude": 125.2128,
+            "depth_km": 83.053,
+            "time_ms": 1780985718530,
+            "place": "21 km SW of Balangonan, Philippines",
+            "distance_km": 69.9,
+            "exposure_contribution": 1.03,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srmq",
             "magnitude": 5,
             "latitude": 5.5171,
@@ -677,19 +703,6 @@
             "place": "2 km SSW of Sarangani, Philippines",
             "distance_km": 85.5,
             "exposure_contribution": 1.65,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srp0",
-            "magnitude": 5.2,
-            "latitude": 5.2857,
-            "longitude": 125.3116,
-            "depth_km": 82.366,
-            "time_ms": 1780985717758,
-            "place": "21 km SW of Sarangani, Philippines",
-            "distance_km": 89.0,
-            "exposure_contribution": 0.87,
             "pga_g": null,
             "mmi": null
           },
@@ -980,7 +993,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 132.32
+        "exposure_score": 132.44
       },
       {
         "name": "Laguindingan International Airport",
@@ -1393,11 +1406,11 @@
       {
         "id": "us7000srp0",
         "magnitude": 5.2,
-        "latitude": 5.2857,
-        "longitude": 125.3116,
-        "depth_km": 82.366,
-        "time_ms": 1780985717758,
-        "place": "21 km SW of Sarangani, Philippines",
+        "latitude": 5.4391,
+        "longitude": 125.2128,
+        "depth_km": 83.053,
+        "time_ms": 1780985718530,
+        "place": "21 km SW of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1448,11 +1461,11 @@
       {
         "id": "us7000srfx",
         "magnitude": 5.5,
-        "latitude": 5.532,
-        "longitude": 125.2525,
-        "depth_km": 81.095,
-        "time_ms": 1780917752657,
-        "place": "12 km WSW of Balangonan, Philippines",
+        "latitude": 5.5916,
+        "longitude": 125.206,
+        "depth_km": 88.29,
+        "time_ms": 1780917753435,
+        "place": "14 km SW of Pangyan, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -1677,7 +1690,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 175.86
+    "seismic_hub_risk_score": 176.33
   },
   {
     "country": "",
@@ -1693,7 +1706,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 8,
-    "avg_magnitude": 5.72,
+    "avg_magnitude": 5.76,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-06-24",
@@ -2002,14 +2015,14 @@
       },
       {
         "id": "us7000suds",
-        "magnitude": 5.3,
-        "latitude": 30.6099,
-        "longitude": 142.2657,
+        "magnitude": 5.6,
+        "latitude": 30.4823,
+        "longitude": 142.1488,
         "depth_km": 10,
-        "time_ms": 1781810260105,
+        "time_ms": 1781810259316,
         "place": "Izu Islands, Japan region",
         "country_code": "JP",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us7000std7",
@@ -2049,6 +2062,204 @@
   },
   {
     "country": "",
+    "iso_alpha2": "MX",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.4,
+    "strongest_earthquake": {
+      "magnitude": 6,
+      "date": "2026-06-30",
+      "depth_km": 10,
+      "latitude": 24.8239,
+      "longitude": -108.9285
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "General Juan N. Álvarez International Airport",
+        "iata_code": "ACA",
+        "latitude": 16.757126,
+        "longitude": -99.753113,
+        "municipality": "Acapulco",
+        "closest_quake_distance_km": 13.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ssq9",
+            "magnitude": 5.1,
+            "latitude": 16.7591,
+            "longitude": -99.6271,
+            "depth_km": 10,
+            "time_ms": 1781374842578,
+            "place": "1 km S of Cerro de Piedra, Mexico",
+            "distance_km": 13.4,
+            "exposure_contribution": 10.71,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000sqzv",
+            "magnitude": 5.2,
+            "latitude": 16.7654,
+            "longitude": -98.4106,
+            "depth_km": 32.93,
+            "time_ms": 1780692903336,
+            "place": "2 km WSW of Santa María, Mexico",
+            "distance_km": 142.9,
+            "exposure_contribution": 0.64,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 11.34
+      },
+      {
+        "name": "Bachigualato Federal International Airport",
+        "iata_code": "CUL",
+        "latitude": 24.76504,
+        "longitude": -107.475228,
+        "municipality": "Culiacán",
+        "closest_quake_distance_km": 146.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t99j",
+            "magnitude": 6,
+            "latitude": 24.8239,
+            "longitude": -108.9285,
+            "depth_km": 10,
+            "time_ms": 1782848740116,
+            "place": "75 km SSW of El Progreso, Mexico",
+            "distance_km": 146.8,
+            "exposure_contribution": 1.6,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t9a4",
+            "magnitude": 5.3,
+            "latitude": 24.6598,
+            "longitude": -109.0169,
+            "depth_km": 10,
+            "time_ms": 1782853294191,
+            "place": "95 km SSW of El Progreso, Mexico",
+            "distance_km": 156.2,
+            "exposure_contribution": 0.64,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.24
+      },
+      {
+        "name": "Xoxocotlán International Airport",
+        "iata_code": "OAX",
+        "latitude": 16.998773,
+        "longitude": -96.726092,
+        "municipality": "Oaxaca",
+        "closest_quake_distance_km": 181.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sqzv",
+            "magnitude": 5.2,
+            "latitude": 16.7654,
+            "longitude": -98.4106,
+            "depth_km": 32.93,
+            "time_ms": 1780692903336,
+            "place": "2 km WSW of Santa María, Mexico",
+            "distance_km": 181.1,
+            "exposure_contribution": 0.44,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.44
+      },
+      {
+        "name": "Los Cabos International Airport",
+        "iata_code": "SJD",
+        "latitude": 23.151919,
+        "longitude": -109.720731,
+        "municipality": "San José del Cabo",
+        "closest_quake_distance_km": 182.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t9a4",
+            "magnitude": 5.3,
+            "latitude": 24.6598,
+            "longitude": -109.0169,
+            "depth_km": 10,
+            "time_ms": 1782853294191,
+            "place": "95 km SSW of El Progreso, Mexico",
+            "distance_km": 182.3,
+            "exposure_contribution": 0.5,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.5
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000t9a4",
+        "magnitude": 5.3,
+        "latitude": 24.6598,
+        "longitude": -109.0169,
+        "depth_km": 10,
+        "time_ms": 1782853294191,
+        "place": "95 km SSW of El Progreso, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t99j",
+        "magnitude": 6,
+        "latitude": 24.8239,
+        "longitude": -108.9285,
+        "depth_km": 10,
+        "time_ms": 1782848740116,
+        "place": "75 km SSW of El Progreso, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ssq9",
+        "magnitude": 5.1,
+        "latitude": 16.7591,
+        "longitude": -99.6271,
+        "depth_km": 10,
+        "time_ms": 1781374842578,
+        "place": "1 km S of Cerro de Piedra, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000sqzv",
+        "magnitude": 5.2,
+        "latitude": 16.7654,
+        "longitude": -98.4106,
+        "depth_km": 32.93,
+        "time_ms": 1780692903336,
+        "place": "2 km WSW of Santa María, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 14.52
+  },
+  {
+    "country": "",
     "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
@@ -2061,7 +2272,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 12,
-    "avg_magnitude": 5.61,
+    "avg_magnitude": 5.6,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-06-19",
@@ -2290,12 +2501,12 @@
       },
       {
         "id": "us7000sr7l",
-        "magnitude": 6.1,
-        "latitude": 49.8993,
-        "longitude": 157.3799,
-        "depth_km": 35,
-        "time_ms": 1780828918596,
-        "place": "124 km SE of Severo-Kuril’sk, Russia",
+        "magnitude": 6,
+        "latitude": 49.9841,
+        "longitude": 157.2596,
+        "depth_km": 18,
+        "time_ms": 1780828916563,
+        "place": "111 km SE of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -2621,250 +2832,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CL",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.41,
-    "strongest_earthquake": {
-      "magnitude": 6,
-      "date": "2026-05-31",
-      "depth_km": 25,
-      "latitude": -32.8292,
-      "longitude": -71.8897
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 155,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Comodoro Arturo Merino Benítez International Airport",
-        "iata_code": "SCL",
-        "latitude": -33.393002,
-        "longitude": -70.785797,
-        "municipality": "Santiago",
-        "closest_quake_distance_km": 120.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000spqc",
-            "magnitude": 6,
-            "latitude": -32.8292,
-            "longitude": -71.8897,
-            "depth_km": 25,
-            "time_ms": 1780263257953,
-            "place": "33 km NW of Valparaíso, Chile",
-            "distance_km": 120.4,
-            "exposure_contribution": 1.72,
-            "pga_g": 0.017182,
-            "mmi": 3.8
-          }
-        ],
-        "exposure_score": 1.72
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000ssp1",
-        "magnitude": 5,
-        "latitude": -30.6288,
-        "longitude": -71.4544,
-        "depth_km": 60.576,
-        "time_ms": 1781352254390,
-        "place": "24 km W of Ovalle, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss82",
-        "magnitude": 5.5,
-        "latitude": -27.8038,
-        "longitude": -71.7406,
-        "depth_km": 10,
-        "time_ms": 1781180526272,
-        "place": "128 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ss7x",
-        "magnitude": 5.1,
-        "latitude": -27.8153,
-        "longitude": -71.6744,
-        "depth_km": 10,
-        "time_ms": 1781179588998,
-        "place": "123 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss5y",
-        "magnitude": 5.2,
-        "latitude": -27.8375,
-        "longitude": -71.6251,
-        "depth_km": 10.001,
-        "time_ms": 1781155184524,
-        "place": "118 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sr9r",
-        "magnitude": 5.8,
-        "latitude": -29.3006,
-        "longitude": -112.2703,
-        "depth_km": 10,
-        "time_ms": 1780855279286,
-        "place": "Easter Island region",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sprv",
-        "magnitude": 5.3,
-        "latitude": -35.3053,
-        "longitude": -104.543,
-        "depth_km": 10,
-        "time_ms": 1780285211362,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000spqc",
-        "magnitude": 6,
-        "latitude": -32.8292,
-        "longitude": -71.8897,
-        "depth_km": 25,
-        "time_ms": 1780263257953,
-        "place": "33 km NW of Valparaíso, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.72
-  },
-  {
-    "country": "",
-    "iso_alpha2": "VU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.3,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-06-03",
-      "depth_km": 10,
-      "latitude": -20.4987,
-      "longitude": 173.0944
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Bauerfield International Airport",
-        "iata_code": "VLI",
-        "latitude": -17.699301,
-        "longitude": 168.320007,
-        "municipality": "Port Vila",
-        "closest_quake_distance_km": 70.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000splm",
-            "magnitude": 5,
-            "latitude": -17.3448,
-            "longitude": 167.7742,
-            "depth_km": 35,
-            "time_ms": 1780195681177,
-            "place": "71 km NW of Port-Vila, Vanuatu",
-            "distance_km": 70.0,
-            "exposure_contribution": 1.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t8sl",
-        "magnitude": 5.2,
-        "latitude": -14.7852,
-        "longitude": 167.4024,
-        "depth_km": 160.295,
-        "time_ms": 1782630345186,
-        "place": "45 km NE of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t7lb",
-        "magnitude": 5.3,
-        "latitude": -20.6302,
-        "longitude": 169.2307,
-        "depth_km": 21.543,
-        "time_ms": 1782223114774,
-        "place": "120 km S of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srkc",
-        "magnitude": 5.4,
-        "latitude": -21.206,
-        "longitude": 169.9816,
-        "depth_km": 69.209,
-        "time_ms": 1780944587820,
-        "place": "198 km SSE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sq90",
-        "magnitude": 5.6,
-        "latitude": -20.4987,
-        "longitude": 173.0944,
-        "depth_km": 10,
-        "time_ms": 1780482037213,
-        "place": "Vanuatu region",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000splm",
-        "magnitude": 5,
-        "latitude": -17.3448,
-        "longitude": 167.7742,
-        "depth_km": 35,
-        "time_ms": 1780195681177,
-        "place": "71 km NW of Port-Vila, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.32
-  },
-  {
-    "country": "",
     "iso_alpha2": "TL",
     "iso_alpha3": "",
     "capital": "",
@@ -2965,8 +2932,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-06-10",
@@ -3103,17 +3070,6 @@
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000sppt",
-        "magnitude": 5,
-        "latitude": -30.677,
-        "longitude": -178.8597,
-        "depth_km": 107.579,
-        "time_ms": 1780254939354,
-        "place": "Kermadec Islands, New Zealand",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.68
@@ -3220,8 +3176,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-06-16",
@@ -3232,7 +3188,7 @@
     "highest_pager_alert": "orange",
     "max_felt_reports": 1,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Chengdu Tianfu International Airport",
@@ -3260,6 +3216,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000t9bg",
+        "magnitude": 5.3,
+        "latitude": 37.8295,
+        "longitude": 95.3273,
+        "depth_km": 10,
+        "time_ms": 1782863094830,
+        "place": "265 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
       {
         "id": "us6000t8u3",
         "magnitude": 5.2,
@@ -3363,7 +3330,7 @@
       "longitude": -126.0698
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 5296,
+    "max_felt_reports": 5299,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
