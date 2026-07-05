@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 53,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 54,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-06-07",
@@ -85,19 +85,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000su9f",
-            "magnitude": 5.3,
-            "latitude": 5.7634,
-            "longitude": 125.1953,
-            "depth_km": 95.287,
-            "time_ms": 1781765857092,
-            "place": "1 km S of Kablalan, Philippines",
-            "distance_km": 159.4,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000st1c",
             "magnitude": 6.2,
             "latitude": 6.193,
@@ -109,6 +96,19 @@
             "exposure_contribution": 1.14,
             "pga_g": 0.011354,
             "mmi": 3.5
+          },
+          {
+            "earthquake_id": "us7000su9f",
+            "magnitude": 5.1,
+            "latitude": 5.736,
+            "longitude": 125.2013,
+            "depth_km": 91.404,
+            "time_ms": 1781765856624,
+            "place": "3 km WSW of Baliton, Philippines",
+            "distance_km": 162.1,
+            "exposure_contribution": 0.38,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us7000srzt",
@@ -345,6 +345,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000ta14",
+            "magnitude": 5.2,
+            "latitude": 5.429,
+            "longitude": 125.1808,
+            "depth_km": 10,
+            "time_ms": 1783131683141,
+            "place": "24 km SW of Balangonan, Philippines",
+            "distance_km": 195.5,
+            "exposure_contribution": 0.39,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000stu4",
             "magnitude": 5.2,
             "latitude": 5.3957,
@@ -358,7 +371,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 23.16
+        "exposure_score": 23.45
       },
       {
         "name": "General Santos International Airport",
@@ -366,18 +379,18 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 34.5,
+        "closest_quake_distance_km": 37.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000su9f",
-            "magnitude": 5.3,
-            "latitude": 5.7634,
-            "longitude": 125.1953,
-            "depth_km": 95.287,
-            "time_ms": 1781765857092,
-            "place": "1 km S of Kablalan, Philippines",
-            "distance_km": 34.5,
-            "exposure_contribution": 1.28,
+            "magnitude": 5.1,
+            "latitude": 5.736,
+            "longitude": 125.2013,
+            "depth_km": 91.404,
+            "time_ms": 1781765856624,
+            "place": "3 km WSW of Baliton, Philippines",
+            "distance_km": 37.6,
+            "exposure_contribution": 1.05,
             "pga_g": null,
             "mmi": null
           },
@@ -612,6 +625,19 @@
             "place": "21 km SW of Balangonan, Philippines",
             "distance_km": 69.9,
             "exposure_contribution": 1.03,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ta14",
+            "magnitude": 5.2,
+            "latitude": 5.429,
+            "longitude": 125.1808,
+            "depth_km": 10,
+            "time_ms": 1783131683141,
+            "place": "24 km SW of Balangonan, Philippines",
+            "distance_km": 70.5,
+            "exposure_contribution": 1.89,
             "pga_g": null,
             "mmi": null
           },
@@ -917,13 +943,13 @@
           {
             "earthquake_id": "us7000ssje",
             "magnitude": 5.2,
-            "latitude": 4.8121,
-            "longitude": 125.3914,
-            "depth_km": 10,
-            "time_ms": 1781291403582,
-            "place": "65 km S of Sarangani, Philippines",
-            "distance_km": 142.3,
-            "exposure_contribution": 0.67,
+            "latitude": 4.807,
+            "longitude": 125.3493,
+            "depth_km": 37.25,
+            "time_ms": 1781291407569,
+            "place": "67 km S of Sarangani, Philippines",
+            "distance_km": 141.8,
+            "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
           },
@@ -967,7 +993,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 126.98
+        "exposure_score": 128.62
       },
       {
         "name": "Laguindingan International Airport",
@@ -1092,6 +1118,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000ta14",
+        "magnitude": 5.2,
+        "latitude": 5.429,
+        "longitude": 125.1808,
+        "depth_km": 10,
+        "time_ms": 1783131683141,
+        "place": "24 km SW of Balangonan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000t8ux",
         "magnitude": 5,
         "latitude": 16.5146,
@@ -1148,12 +1185,12 @@
       },
       {
         "id": "us7000su9f",
-        "magnitude": 5.3,
-        "latitude": 5.7634,
-        "longitude": 125.1953,
-        "depth_km": 95.287,
-        "time_ms": 1781765857092,
-        "place": "1 km S of Kablalan, Philippines",
+        "magnitude": 5.1,
+        "latitude": 5.736,
+        "longitude": 125.2013,
+        "depth_km": 91.404,
+        "time_ms": 1781765856624,
+        "place": "3 km WSW of Baliton, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1226,11 +1263,11 @@
       {
         "id": "us7000ssje",
         "magnitude": 5.2,
-        "latitude": 4.8121,
-        "longitude": 125.3914,
-        "depth_km": 10,
-        "time_ms": 1781291403582,
-        "place": "65 km S of Sarangani, Philippines",
+        "latitude": 4.807,
+        "longitude": 125.3493,
+        "depth_km": 37.25,
+        "time_ms": 1781291407569,
+        "place": "67 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1675,7 +1712,209 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 168.23
+    "seismic_hub_risk_score": 170.16
+  },
+  {
+    "country": "",
+    "iso_alpha2": "VE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 6.57,
+    "strongest_earthquake": {
+      "magnitude": 7.5,
+      "date": "2026-06-24",
+      "depth_km": 10,
+      "latitude": 10.5086,
+      "longitude": -68.5036
+    },
+    "highest_pager_alert": "red",
+    "max_felt_reports": 697,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "Jacinto Lara International Airport",
+        "iata_code": "BRM",
+        "latitude": 10.042747,
+        "longitude": -69.35862,
+        "municipality": "Barquisimeto",
+        "closest_quake_distance_km": 96.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t7zc",
+            "magnitude": 7.2,
+            "latitude": 10.4085,
+            "longitude": -68.5571,
+            "depth_km": 27.588,
+            "time_ms": 1782338674363,
+            "place": "21 km ENE of San Felipe, Venezuela",
+            "distance_km": 96.7,
+            "exposure_contribution": 12.3,
+            "pga_g": 0.122976,
+            "mmi": 6.1
+          },
+          {
+            "earthquake_id": "us6000t7zp",
+            "magnitude": 7.5,
+            "latitude": 10.5086,
+            "longitude": -68.5036,
+            "depth_km": 10,
+            "time_ms": 1782338711743,
+            "place": "20 km ESE of Yumare, Venezuela",
+            "distance_km": 106.9,
+            "exposure_contribution": 7.74,
+            "pga_g": 0.077425,
+            "mmi": 5.0
+          }
+        ],
+        "exposure_score": 20.04
+      },
+      {
+        "name": "Maiquetía Simón Bolívar International Airport",
+        "iata_code": "CCS",
+        "latitude": 10.602214,
+        "longitude": -66.991174,
+        "municipality": "Maiquetía",
+        "closest_quake_distance_km": 31.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t9w3",
+            "magnitude": 5,
+            "latitude": 10.885,
+            "longitude": -66.973,
+            "depth_km": 10,
+            "time_ms": 1782341640175,
+            "place": "31 km NNE of Catia La Mar, Venezuela",
+            "distance_km": 31.5,
+            "exposure_contribution": 4.15,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t7zp",
+            "magnitude": 7.5,
+            "latitude": 10.5086,
+            "longitude": -68.5036,
+            "depth_km": 10,
+            "time_ms": 1782338711743,
+            "place": "20 km ESE of Yumare, Venezuela",
+            "distance_km": 165.7,
+            "exposure_contribution": 63.59,
+            "pga_g": 0.635922,
+            "mmi": 8.1
+          },
+          {
+            "earthquake_id": "us6000t7zc",
+            "magnitude": 7.2,
+            "latitude": 10.4085,
+            "longitude": -68.5571,
+            "depth_km": 27.588,
+            "time_ms": 1782338674363,
+            "place": "21 km ENE of San Felipe, Venezuela",
+            "distance_km": 172.6,
+            "exposure_contribution": 3.64,
+            "pga_g": 0.036431,
+            "mmi": 4.6
+          }
+        ],
+        "exposure_score": 71.39
+      },
+      {
+        "name": "Arturo Michelena International Airport",
+        "iata_code": "VLN",
+        "latitude": 10.149733,
+        "longitude": -67.928398,
+        "municipality": "Valencia",
+        "closest_quake_distance_km": 74.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t7zp",
+            "magnitude": 7.5,
+            "latitude": 10.5086,
+            "longitude": -68.5036,
+            "depth_km": 10,
+            "time_ms": 1782338711743,
+            "place": "20 km ESE of Yumare, Venezuela",
+            "distance_km": 74.5,
+            "exposure_contribution": 20.17,
+            "pga_g": 0.201652,
+            "mmi": 6.8
+          },
+          {
+            "earthquake_id": "us6000t7zc",
+            "magnitude": 7.2,
+            "latitude": 10.4085,
+            "longitude": -68.5571,
+            "depth_km": 27.588,
+            "time_ms": 1782338674363,
+            "place": "21 km ENE of San Felipe, Venezuela",
+            "distance_km": 74.6,
+            "exposure_contribution": 14.97,
+            "pga_g": 0.149705,
+            "mmi": 6.5
+          },
+          {
+            "earthquake_id": "us6000t9w3",
+            "magnitude": 5,
+            "latitude": 10.885,
+            "longitude": -66.973,
+            "depth_km": 10,
+            "time_ms": 1782341640175,
+            "place": "31 km NNE of Catia La Mar, Venezuela",
+            "distance_km": 132.6,
+            "exposure_contribution": 0.59,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 35.73
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000t9w3",
+        "magnitude": 5,
+        "latitude": 10.885,
+        "longitude": -66.973,
+        "depth_km": 10,
+        "time_ms": 1782341640175,
+        "place": "31 km NNE of Catia La Mar, Venezuela",
+        "country_code": "VE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t7zp",
+        "magnitude": 7.5,
+        "latitude": 10.5086,
+        "longitude": -68.5036,
+        "depth_km": 10,
+        "time_ms": 1782338711743,
+        "place": "20 km ESE of Yumare, Venezuela",
+        "country_code": "VE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t7zc",
+        "magnitude": 7.2,
+        "latitude": 10.4085,
+        "longitude": -68.5571,
+        "depth_km": 27.588,
+        "time_ms": 1782338674363,
+        "place": "21 km ENE of San Felipe, Venezuela",
+        "country_code": "VE",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 127.16
   },
   {
     "country": "",
@@ -1695,9 +1934,9 @@
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-06-24",
-      "depth_km": 50.9,
-      "latitude": 40.2912,
-      "longitude": 142.0981
+      "depth_km": 34,
+      "latitude": 40.2505,
+      "longitude": 142.1507
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 95,
@@ -1805,30 +2044,6 @@
         "exposure_score": 6.29
       },
       {
-        "name": "Hakodate Airport",
-        "iata_code": "HKD",
-        "latitude": 41.77,
-        "longitude": 140.822006,
-        "municipality": "Hakodate",
-        "closest_quake_distance_km": 196.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zq",
-            "magnitude": 6.9,
-            "latitude": 40.2912,
-            "longitude": 142.0981,
-            "depth_km": 50.923,
-            "time_ms": 1782340214931,
-            "place": "30 km ENE of Kuji, Japan",
-            "distance_km": 196.2,
-            "exposure_contribution": 2.5,
-            "pga_g": 0.024976,
-            "mmi": 4.0
-          }
-        ],
-        "exposure_score": 2.5
-      },
-      {
         "name": "Mount Fuji Shizuoka Airport",
         "iata_code": "FSZ",
         "latitude": 34.795022,
@@ -1871,20 +2086,20 @@
         "latitude": 40.733777,
         "longitude": 140.689477,
         "municipality": "Aomori",
-        "closest_quake_distance_km": 128.8,
+        "closest_quake_distance_km": 134.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t7zq",
             "magnitude": 6.9,
-            "latitude": 40.2912,
-            "longitude": 142.0981,
-            "depth_km": 50.923,
-            "time_ms": 1782340214931,
-            "place": "30 km ENE of Kuji, Japan",
-            "distance_km": 128.8,
-            "exposure_contribution": 3.38,
-            "pga_g": 0.033791,
-            "mmi": 4.5
+            "latitude": 40.2505,
+            "longitude": 142.1507,
+            "depth_km": 34,
+            "time_ms": 1782340212953,
+            "place": "32 km ENE of Noda, Japan",
+            "distance_km": 134.7,
+            "exposure_contribution": 4.34,
+            "pga_g": 0.043356,
+            "mmi": 4.4
           },
           {
             "earthquake_id": "us6000t8qd",
@@ -1913,7 +2128,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.82
+        "exposure_score": 6.77
       },
       {
         "name": "Sendai Airport",
@@ -2084,11 +2299,11 @@
       {
         "id": "us6000t7zq",
         "magnitude": 6.9,
-        "latitude": 40.2912,
-        "longitude": 142.0981,
-        "depth_km": 50.923,
-        "time_ms": 1782340214931,
-        "place": "30 km ENE of Kuji, Japan",
+        "latitude": 40.2505,
+        "longitude": 142.1507,
+        "depth_km": 34,
+        "time_ms": 1782340212953,
+        "place": "32 km ENE of Noda, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -2126,7 +2341,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 35.68
+    "seismic_hub_risk_score": 34.13
   },
   {
     "country": "",
@@ -2803,8 +3018,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-06-16",
@@ -2904,6 +3119,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ta34",
+        "magnitude": 5,
+        "latitude": 1.7873,
+        "longitude": 127.4364,
+        "depth_km": 128.155,
+        "time_ms": 1783155734524,
+        "place": "64 km W of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ta32",
+        "magnitude": 5.1,
+        "latitude": -2.5131,
+        "longitude": 138.2529,
+        "depth_km": 39.448,
+        "time_ms": 1783155354191,
+        "place": "264 km W of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000t9r5",
         "magnitude": 6.2,
@@ -3055,17 +3292,6 @@
         "depth_km": 35,
         "time_ms": 1780772207352,
         "place": "107 km SE of Modisi, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sqrh",
-        "magnitude": 5.2,
-        "latitude": -0.1157,
-        "longitude": 122.9863,
-        "depth_km": 133.685,
-        "time_ms": 1780615713768,
-        "place": "72 km S of Gorontalo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       }
@@ -3559,6 +3785,106 @@
       }
     ],
     "seismic_hub_risk_score": 0.4
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.28,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-06-25",
+      "depth_km": 33,
+      "latitude": -4.3413,
+      "longitude": 152.9318
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 125.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000ta2x",
+            "magnitude": 5.1,
+            "latitude": -5.5049,
+            "longitude": 147.103,
+            "depth_km": 182.779,
+            "time_ms": 1783151423853,
+            "place": "135 km N of Lae, Papua New Guinea",
+            "distance_km": 125.3,
+            "exposure_contribution": 0.28,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.28
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000ta2x",
+        "magnitude": 5.1,
+        "latitude": -5.5049,
+        "longitude": 147.103,
+        "depth_km": 182.779,
+        "time_ms": 1783151423853,
+        "place": "135 km N of Lae, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t978",
+        "magnitude": 5.4,
+        "latitude": -5.727,
+        "longitude": 150.9338,
+        "depth_km": 35,
+        "time_ms": 1782830470582,
+        "place": "90 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t81q",
+        "magnitude": 5.5,
+        "latitude": -4.3413,
+        "longitude": 152.9318,
+        "depth_km": 33,
+        "time_ms": 1782368375965,
+        "place": "73 km E of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t7t2",
+        "magnitude": 5.1,
+        "latitude": -6.7815,
+        "longitude": 155.1762,
+        "depth_km": 70.1,
+        "time_ms": 1782281842718,
+        "place": "61 km SSW of Panguna, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.28
   },
   {
     "country": "",
