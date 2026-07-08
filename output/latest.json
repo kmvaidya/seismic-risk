@@ -1,6 +1,208 @@
 [
   {
     "country": "",
+    "iso_alpha2": "VE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 6.57,
+    "strongest_earthquake": {
+      "magnitude": 7.5,
+      "date": "2026-06-24",
+      "depth_km": 10,
+      "latitude": 10.5086,
+      "longitude": -68.5036
+    },
+    "highest_pager_alert": "red",
+    "max_felt_reports": 704,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "Jacinto Lara International Airport",
+        "iata_code": "BRM",
+        "latitude": 10.042747,
+        "longitude": -69.35862,
+        "municipality": "Barquisimeto",
+        "closest_quake_distance_km": 96.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t7zc",
+            "magnitude": 7.2,
+            "latitude": 10.4085,
+            "longitude": -68.5571,
+            "depth_km": 27.588,
+            "time_ms": 1782338674363,
+            "place": "21 km ENE of San Felipe, Venezuela",
+            "distance_km": 96.7,
+            "exposure_contribution": 12.3,
+            "pga_g": 0.122976,
+            "mmi": 6.1
+          },
+          {
+            "earthquake_id": "us6000t7zp",
+            "magnitude": 7.5,
+            "latitude": 10.5086,
+            "longitude": -68.5036,
+            "depth_km": 10,
+            "time_ms": 1782338711743,
+            "place": "20 km ESE of Yumare, Venezuela",
+            "distance_km": 106.9,
+            "exposure_contribution": 7.76,
+            "pga_g": 0.077559,
+            "mmi": 5.0
+          }
+        ],
+        "exposure_score": 20.05
+      },
+      {
+        "name": "Maiquetía Simón Bolívar International Airport",
+        "iata_code": "CCS",
+        "latitude": 10.602214,
+        "longitude": -66.991174,
+        "municipality": "Maiquetía",
+        "closest_quake_distance_km": 31.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t9w3",
+            "magnitude": 5,
+            "latitude": 10.885,
+            "longitude": -66.973,
+            "depth_km": 10,
+            "time_ms": 1782341640175,
+            "place": "31 km NNE of Catia La Mar, Venezuela",
+            "distance_km": 31.5,
+            "exposure_contribution": 4.15,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t7zp",
+            "magnitude": 7.5,
+            "latitude": 10.5086,
+            "longitude": -68.5036,
+            "depth_km": 10,
+            "time_ms": 1782338711743,
+            "place": "20 km ESE of Yumare, Venezuela",
+            "distance_km": 165.7,
+            "exposure_contribution": 63.51,
+            "pga_g": 0.635078,
+            "mmi": 8.1
+          },
+          {
+            "earthquake_id": "us6000t7zc",
+            "magnitude": 7.2,
+            "latitude": 10.4085,
+            "longitude": -68.5571,
+            "depth_km": 27.588,
+            "time_ms": 1782338674363,
+            "place": "21 km ENE of San Felipe, Venezuela",
+            "distance_km": 172.6,
+            "exposure_contribution": 3.64,
+            "pga_g": 0.036431,
+            "mmi": 4.6
+          }
+        ],
+        "exposure_score": 71.3
+      },
+      {
+        "name": "Arturo Michelena International Airport",
+        "iata_code": "VLN",
+        "latitude": 10.149733,
+        "longitude": -67.928398,
+        "municipality": "Valencia",
+        "closest_quake_distance_km": 74.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t7zp",
+            "magnitude": 7.5,
+            "latitude": 10.5086,
+            "longitude": -68.5036,
+            "depth_km": 10,
+            "time_ms": 1782338711743,
+            "place": "20 km ESE of Yumare, Venezuela",
+            "distance_km": 74.5,
+            "exposure_contribution": 19.94,
+            "pga_g": 0.199357,
+            "mmi": 6.8
+          },
+          {
+            "earthquake_id": "us6000t7zc",
+            "magnitude": 7.2,
+            "latitude": 10.4085,
+            "longitude": -68.5571,
+            "depth_km": 27.588,
+            "time_ms": 1782338674363,
+            "place": "21 km ENE of San Felipe, Venezuela",
+            "distance_km": 74.6,
+            "exposure_contribution": 14.97,
+            "pga_g": 0.149705,
+            "mmi": 6.5
+          },
+          {
+            "earthquake_id": "us6000t9w3",
+            "magnitude": 5,
+            "latitude": 10.885,
+            "longitude": -66.973,
+            "depth_km": 10,
+            "time_ms": 1782341640175,
+            "place": "31 km NNE of Catia La Mar, Venezuela",
+            "distance_km": 132.6,
+            "exposure_contribution": 0.59,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 35.5
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000t9w3",
+        "magnitude": 5,
+        "latitude": 10.885,
+        "longitude": -66.973,
+        "depth_km": 10,
+        "time_ms": 1782341640175,
+        "place": "31 km NNE of Catia La Mar, Venezuela",
+        "country_code": "VE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t7zp",
+        "magnitude": 7.5,
+        "latitude": 10.5086,
+        "longitude": -68.5036,
+        "depth_km": 10,
+        "time_ms": 1782338711743,
+        "place": "20 km ESE of Yumare, Venezuela",
+        "country_code": "VE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t7zc",
+        "magnitude": 7.2,
+        "latitude": 10.4085,
+        "longitude": -68.5571,
+        "depth_km": 27.588,
+        "time_ms": 1782338674363,
+        "place": "21 km ENE of San Felipe, Venezuela",
+        "country_code": "VE",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 126.85
+  },
+  {
+    "country": "",
     "iso_alpha2": "PH",
     "iso_alpha3": "",
     "capital": "",
@@ -12,19 +214,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 55,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 51,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
-      "magnitude": 7.8,
-      "date": "2026-06-07",
-      "depth_km": 57.0,
-      "latitude": 5.5994,
-      "longitude": 125.056
+      "magnitude": 6.5,
+      "date": "2026-06-26",
+      "depth_km": 42,
+      "latitude": 5.2392,
+      "longitude": 125.1965
     },
-    "highest_pager_alert": "orange",
-    "max_felt_reports": 366,
+    "highest_pager_alert": "green",
+    "max_felt_reports": 49,
     "tsunami_warning_issued": false,
-    "significant_events_count": 4,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Francisco Bangoy International Airport",
@@ -100,19 +302,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000src3",
-            "magnitude": 5.9,
-            "latitude": 5.6916,
-            "longitude": 125.2882,
-            "depth_km": 60.941,
-            "time_ms": 1780876156465,
-            "place": "1 km SE of Pangyan, Philippines",
-            "distance_km": 164.3,
-            "exposure_contribution": 1.06,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000ssls",
             "magnitude": 5.2,
             "latitude": 5.6814,
@@ -122,19 +311,6 @@
             "place": "4 km SSW of Burias, Philippines",
             "distance_km": 166.7,
             "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000stu3",
-            "magnitude": 5.7,
-            "latitude": 5.644,
-            "longitude": 125.4164,
-            "depth_km": 69.857,
-            "time_ms": 1780876308977,
-            "place": "2 km WNW of Nuing, Philippines",
-            "distance_km": 166.7,
-            "exposure_contribution": 0.8,
             "pga_g": null,
             "mmi": null
           },
@@ -230,19 +406,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srb1",
-            "magnitude": 7.8,
-            "latitude": 5.5994,
-            "longitude": 125.056,
-            "depth_km": 56.991,
-            "time_ms": 1780875461970,
-            "place": "25 km SW of Kablalan, Philippines",
-            "distance_km": 181.8,
-            "exposure_contribution": 9.17,
-            "pga_g": 0.091669,
-            "mmi": 5.6
-          },
-          {
             "earthquake_id": "us7000srpu",
             "magnitude": 5.3,
             "latitude": 5.7252,
@@ -277,9 +440,9 @@
             "time_ms": 1780880112546,
             "place": "18 km SW of Balangonan, Philippines",
             "distance_km": 189.6,
-            "exposure_contribution": 2.56,
-            "pga_g": 0.025598,
-            "mmi": 4.0
+            "exposure_contribution": 1.62,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us7000srem",
@@ -291,19 +454,6 @@
             "place": "29 km SW of Burias, Philippines",
             "distance_km": 190.3,
             "exposure_contribution": 0.3,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srbe",
-            "magnitude": 6.1,
-            "latitude": 5.4579,
-            "longitude": 125.2171,
-            "depth_km": 44.674,
-            "time_ms": 1780876087276,
-            "place": "19 km SW of Balangonan, Philippines",
-            "distance_km": 191.4,
-            "exposure_contribution": 1.09,
             "pga_g": null,
             "mmi": null
           },
@@ -347,7 +497,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 23.27
+        "exposure_score": 10.21
       },
       {
         "name": "General Santos International Airport",
@@ -423,19 +573,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000src3",
-            "magnitude": 5.9,
-            "latitude": 5.6916,
-            "longitude": 125.2882,
-            "depth_km": 60.941,
-            "time_ms": 1780876156465,
-            "place": "1 km SE of Pangyan, Philippines",
-            "distance_km": 45.9,
-            "exposure_contribution": 3.85,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000sry1",
             "magnitude": 5,
             "latitude": 5.6601,
@@ -462,19 +599,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srb1",
-            "magnitude": 7.8,
-            "latitude": 5.5994,
-            "longitude": 125.056,
-            "depth_km": 56.991,
-            "time_ms": 1780875461970,
-            "place": "25 km SW of Kablalan, Philippines",
-            "distance_km": 51.1,
-            "exposure_contribution": 54.09,
-            "pga_g": 0.54087,
-            "mmi": 7.8
-          },
-          {
             "earthquake_id": "us7000srzt",
             "magnitude": 5.1,
             "latitude": 5.6831,
@@ -497,19 +621,6 @@
             "place": "14 km SW of Pangyan, Philippines",
             "distance_km": 53.2,
             "exposure_contribution": 1.57,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000stu3",
-            "magnitude": 5.7,
-            "latitude": 5.644,
-            "longitude": 125.4164,
-            "depth_km": 69.857,
-            "time_ms": 1780876308977,
-            "place": "2 km WNW of Nuing, Philippines",
-            "distance_km": 58.0,
-            "exposure_contribution": 2.38,
             "pga_g": null,
             "mmi": null
           },
@@ -561,20 +672,7 @@
             "time_ms": 1780880112546,
             "place": "18 km SW of Balangonan, Philippines",
             "distance_km": 66.1,
-            "exposure_contribution": 11.49,
-            "pga_g": 0.114939,
-            "mmi": 5.2
-          },
-          {
-            "earthquake_id": "us7000srbe",
-            "magnitude": 6.1,
-            "latitude": 5.4579,
-            "longitude": 125.2171,
-            "depth_km": 44.674,
-            "time_ms": 1780876087276,
-            "place": "19 km SW of Balangonan, Philippines",
-            "distance_km": 68.0,
-            "exposure_contribution": 4.42,
+            "exposure_contribution": 5.18,
             "pga_g": null,
             "mmi": null
           },
@@ -995,7 +1093,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 131.25
+        "exposure_score": 60.2
       },
       {
         "name": "Laguindingan International Airport",
@@ -1679,255 +1777,9 @@
         "place": "21 km WSW of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000stu3",
-        "magnitude": 5.7,
-        "latitude": 5.644,
-        "longitude": 125.4164,
-        "depth_km": 69.857,
-        "time_ms": 1780876308977,
-        "place": "2 km WNW of Nuing, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000src3",
-        "magnitude": 5.9,
-        "latitude": 5.6916,
-        "longitude": 125.2882,
-        "depth_km": 60.941,
-        "time_ms": 1780876156465,
-        "place": "1 km SE of Pangyan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srbe",
-        "magnitude": 6.1,
-        "latitude": 5.4579,
-        "longitude": 125.2171,
-        "depth_km": 44.674,
-        "time_ms": 1780876087276,
-        "place": "19 km SW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srb1",
-        "magnitude": 7.8,
-        "latitude": 5.5994,
-        "longitude": 125.056,
-        "depth_km": 56.991,
-        "time_ms": 1780875461970,
-        "place": "25 km SW of Kablalan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 158.2
-  },
-  {
-    "country": "",
-    "iso_alpha2": "VE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 6.57,
-    "strongest_earthquake": {
-      "magnitude": 7.5,
-      "date": "2026-06-24",
-      "depth_km": 10,
-      "latitude": 10.5086,
-      "longitude": -68.5036
-    },
-    "highest_pager_alert": "red",
-    "max_felt_reports": 702,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 2,
-    "exposed_airports": [
-      {
-        "name": "Jacinto Lara International Airport",
-        "iata_code": "BRM",
-        "latitude": 10.042747,
-        "longitude": -69.35862,
-        "municipality": "Barquisimeto",
-        "closest_quake_distance_km": 96.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zc",
-            "magnitude": 7.2,
-            "latitude": 10.4085,
-            "longitude": -68.5571,
-            "depth_km": 27.588,
-            "time_ms": 1782338674363,
-            "place": "21 km ENE of San Felipe, Venezuela",
-            "distance_km": 96.7,
-            "exposure_contribution": 12.3,
-            "pga_g": 0.122976,
-            "mmi": 6.1
-          },
-          {
-            "earthquake_id": "us6000t7zp",
-            "magnitude": 7.5,
-            "latitude": 10.5086,
-            "longitude": -68.5036,
-            "depth_km": 10,
-            "time_ms": 1782338711743,
-            "place": "20 km ESE of Yumare, Venezuela",
-            "distance_km": 106.9,
-            "exposure_contribution": 7.74,
-            "pga_g": 0.077425,
-            "mmi": 5.0
-          }
-        ],
-        "exposure_score": 20.04
-      },
-      {
-        "name": "Maiquetía Simón Bolívar International Airport",
-        "iata_code": "CCS",
-        "latitude": 10.602214,
-        "longitude": -66.991174,
-        "municipality": "Maiquetía",
-        "closest_quake_distance_km": 31.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9w3",
-            "magnitude": 5,
-            "latitude": 10.885,
-            "longitude": -66.973,
-            "depth_km": 10,
-            "time_ms": 1782341640175,
-            "place": "31 km NNE of Catia La Mar, Venezuela",
-            "distance_km": 31.5,
-            "exposure_contribution": 4.15,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t7zp",
-            "magnitude": 7.5,
-            "latitude": 10.5086,
-            "longitude": -68.5036,
-            "depth_km": 10,
-            "time_ms": 1782338711743,
-            "place": "20 km ESE of Yumare, Venezuela",
-            "distance_km": 165.7,
-            "exposure_contribution": 63.59,
-            "pga_g": 0.635922,
-            "mmi": 8.1
-          },
-          {
-            "earthquake_id": "us6000t7zc",
-            "magnitude": 7.2,
-            "latitude": 10.4085,
-            "longitude": -68.5571,
-            "depth_km": 27.588,
-            "time_ms": 1782338674363,
-            "place": "21 km ENE of San Felipe, Venezuela",
-            "distance_km": 172.6,
-            "exposure_contribution": 3.64,
-            "pga_g": 0.036431,
-            "mmi": 4.6
-          }
-        ],
-        "exposure_score": 71.39
-      },
-      {
-        "name": "Arturo Michelena International Airport",
-        "iata_code": "VLN",
-        "latitude": 10.149733,
-        "longitude": -67.928398,
-        "municipality": "Valencia",
-        "closest_quake_distance_km": 74.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zp",
-            "magnitude": 7.5,
-            "latitude": 10.5086,
-            "longitude": -68.5036,
-            "depth_km": 10,
-            "time_ms": 1782338711743,
-            "place": "20 km ESE of Yumare, Venezuela",
-            "distance_km": 74.5,
-            "exposure_contribution": 20.17,
-            "pga_g": 0.201652,
-            "mmi": 6.8
-          },
-          {
-            "earthquake_id": "us6000t7zc",
-            "magnitude": 7.2,
-            "latitude": 10.4085,
-            "longitude": -68.5571,
-            "depth_km": 27.588,
-            "time_ms": 1782338674363,
-            "place": "21 km ENE of San Felipe, Venezuela",
-            "distance_km": 74.6,
-            "exposure_contribution": 14.97,
-            "pga_g": 0.149705,
-            "mmi": 6.5
-          },
-          {
-            "earthquake_id": "us6000t9w3",
-            "magnitude": 5,
-            "latitude": 10.885,
-            "longitude": -66.973,
-            "depth_km": 10,
-            "time_ms": 1782341640175,
-            "place": "31 km NNE of Catia La Mar, Venezuela",
-            "distance_km": 132.6,
-            "exposure_contribution": 0.59,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 35.73
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t9w3",
-        "magnitude": 5,
-        "latitude": 10.885,
-        "longitude": -66.973,
-        "depth_km": 10,
-        "time_ms": 1782341640175,
-        "place": "31 km NNE of Catia La Mar, Venezuela",
-        "country_code": "VE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t7zp",
-        "magnitude": 7.5,
-        "latitude": 10.5086,
-        "longitude": -68.5036,
-        "depth_km": 10,
-        "time_ms": 1782338711743,
-        "place": "20 km ESE of Yumare, Venezuela",
-        "country_code": "VE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t7zc",
-        "magnitude": 7.2,
-        "latitude": 10.4085,
-        "longitude": -68.5571,
-        "depth_km": 27.588,
-        "time_ms": 1782338674363,
-        "place": "21 km ENE of San Felipe, Venezuela",
-        "country_code": "VE",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 127.16
+    "seismic_hub_risk_score": 74.09
   },
   {
     "country": "",
@@ -2431,12 +2283,12 @@
           {
             "earthquake_id": "us6000t9a4",
             "magnitude": 5.3,
-            "latitude": 24.6598,
-            "longitude": -109.0169,
+            "latitude": 24.6386,
+            "longitude": -109.0242,
             "depth_km": 10,
-            "time_ms": 1782853294191,
-            "place": "95 km SSW of El Progreso, Mexico",
-            "distance_km": 156.2,
+            "time_ms": 1782853294001,
+            "place": "98 km SSW of El Progreso, Mexico",
+            "distance_km": 157.1,
             "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
@@ -2450,34 +2302,34 @@
         "latitude": 23.151919,
         "longitude": -109.720731,
         "municipality": "San José del Cabo",
-        "closest_quake_distance_km": 182.3,
+        "closest_quake_distance_km": 179.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t9a4",
             "magnitude": 5.3,
-            "latitude": 24.6598,
-            "longitude": -109.0169,
+            "latitude": 24.6386,
+            "longitude": -109.0242,
             "depth_km": 10,
-            "time_ms": 1782853294191,
-            "place": "95 km SSW of El Progreso, Mexico",
-            "distance_km": 182.3,
-            "exposure_contribution": 0.5,
+            "time_ms": 1782853294001,
+            "place": "98 km SSW of El Progreso, Mexico",
+            "distance_km": 179.8,
+            "exposure_contribution": 0.51,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.5
+        "exposure_score": 0.51
       }
     ],
     "earthquakes": [
       {
         "id": "us6000t9a4",
         "magnitude": 5.3,
-        "latitude": 24.6598,
-        "longitude": -109.0169,
+        "latitude": 24.6386,
+        "longitude": -109.0242,
         "depth_km": 10,
-        "time_ms": 1782853294191,
-        "place": "95 km SSW of El Progreso, Mexico",
+        "time_ms": 1782853294001,
+        "place": "98 km SSW of El Progreso, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
@@ -2504,7 +2356,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 13.45
+    "seismic_hub_risk_score": 13.46
   },
   {
     "country": "",
@@ -2519,8 +2371,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.59,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.57,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-06-19",
@@ -2781,229 +2633,9 @@
         "place": "165 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000sr8v",
-        "magnitude": 5.4,
-        "latitude": 49.9054,
-        "longitude": 157.5581,
-        "depth_km": 17,
-        "time_ms": 1780844037211,
-        "place": "133 km SE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sr7l",
-        "magnitude": 6,
-        "latitude": 49.9841,
-        "longitude": 157.2596,
-        "depth_km": 18,
-        "time_ms": 1780828916563,
-        "place": "111 km SE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 7.13
-  },
-  {
-    "country": "",
-    "iso_alpha2": "GR",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.2,
-    "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-07-02",
-      "depth_km": 10,
-      "latitude": 35.3034,
-      "longitude": 27.2953
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Athens Eleftherios Venizelos International Airport",
-        "iata_code": "ATH",
-        "latitude": 37.936401,
-        "longitude": 23.9445,
-        "municipality": "Spata-Artemida",
-        "closest_quake_distance_km": 99.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sr7d",
-            "magnitude": 5.2,
-            "latitude": 38.7279,
-            "longitude": 23.4256,
-            "depth_km": 11.172,
-            "time_ms": 1780826569074,
-            "place": "5 km W of Prokópi, Greece",
-            "distance_km": 99.0,
-            "exposure_contribution": 1.17,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.17
-      },
-      {
-        "name": "Heraklion International Nikos Kazantzakis Airport",
-        "iata_code": "HER",
-        "latitude": 35.339699,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "closest_quake_distance_km": 118.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sutj",
-            "magnitude": 5.2,
-            "latitude": 34.7437,
-            "longitude": 24.0997,
-            "depth_km": 10,
-            "time_ms": 1781948244290,
-            "place": "10 km S of Kastrí, Greece",
-            "distance_km": 118.6,
-            "exposure_contribution": 0.89,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t9lz",
-            "magnitude": 5.2,
-            "latitude": 35.3034,
-            "longitude": 27.2953,
-            "depth_km": 10,
-            "time_ms": 1782990381727,
-            "place": "23 km SSE of Karpathos, Greece",
-            "distance_km": 191.9,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.29
-      },
-      {
-        "name": "Kos International Airport \"Ippokratis\"",
-        "iata_code": "KGS",
-        "latitude": 36.794523,
-        "longitude": 27.09115,
-        "municipality": "Kos Island",
-        "closest_quake_distance_km": 166.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9lz",
-            "magnitude": 5.2,
-            "latitude": 35.3034,
-            "longitude": 27.2953,
-            "depth_km": 10,
-            "time_ms": 1782990381727,
-            "place": "23 km SSE of Karpathos, Greece",
-            "distance_km": 166.8,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.51
-      },
-      {
-        "name": "Rhodes International Airport \"Diagoras\"",
-        "iata_code": "RHO",
-        "latitude": 36.405399,
-        "longitude": 28.086201,
-        "municipality": "Rhodes",
-        "closest_quake_distance_km": 141.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9lz",
-            "magnitude": 5.2,
-            "latitude": 35.3034,
-            "longitude": 27.2953,
-            "depth_km": 10,
-            "time_ms": 1782990381727,
-            "place": "23 km SSE of Karpathos, Greece",
-            "distance_km": 141.8,
-            "exposure_contribution": 0.67,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.67
-      },
-      {
-        "name": "Chania International Airport",
-        "iata_code": "CHQ",
-        "latitude": 35.531207,
-        "longitude": 24.150673,
-        "municipality": "Souda",
-        "closest_quake_distance_km": 87.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sutj",
-            "magnitude": 5.2,
-            "latitude": 34.7437,
-            "longitude": 24.0997,
-            "depth_km": 10,
-            "time_ms": 1781948244290,
-            "place": "10 km S of Kastrí, Greece",
-            "distance_km": 87.7,
-            "exposure_contribution": 1.39,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.39
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t9lz",
-        "magnitude": 5.2,
-        "latitude": 35.3034,
-        "longitude": 27.2953,
-        "depth_km": 10,
-        "time_ms": 1782990381727,
-        "place": "23 km SSE of Karpathos, Greece",
-        "country_code": "GR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sutj",
-        "magnitude": 5.2,
-        "latitude": 34.7437,
-        "longitude": 24.0997,
-        "depth_km": 10,
-        "time_ms": 1781948244290,
-        "place": "10 km S of Kastrí, Greece",
-        "country_code": "GR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sr7d",
-        "magnitude": 5.2,
-        "latitude": 38.7279,
-        "longitude": 23.4256,
-        "depth_km": 11.172,
-        "time_ms": 1780826569074,
-        "place": "5 km W of Prokópi, Greece",
-        "country_code": "GR",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 5.03
   },
   {
     "country": "",
@@ -3018,8 +2650,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-06-16",
@@ -3078,9 +2710,22 @@
             "exposure_contribution": 0.41,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tatd",
+            "magnitude": 5.1,
+            "latitude": 28.5702,
+            "longitude": 104.788,
+            "depth_km": 10,
+            "time_ms": 1783462349518,
+            "place": "13 km W of Changning, China",
+            "distance_km": 196.6,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.5
+        "exposure_score": 1.85
       },
       {
         "name": "Chengdu Shuangliu International Airport",
@@ -3122,6 +2767,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tatd",
+        "magnitude": 5.1,
+        "latitude": 28.5702,
+        "longitude": 104.788,
+        "depth_km": 10,
+        "time_ms": 1783462349518,
+        "place": "13 km W of Changning, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000taaa",
         "magnitude": 5,
         "latitude": 31.5649,
@@ -3146,11 +2802,11 @@
       {
         "id": "us6000t9bg",
         "magnitude": 5.3,
-        "latitude": 37.8295,
-        "longitude": 95.3273,
+        "latitude": 37.7819,
+        "longitude": 95.4116,
         "depth_km": 10,
-        "time_ms": 1782863094830,
-        "place": "265 km SSE of Dunhuang, China",
+        "time_ms": 1782863094898,
+        "place": "272 km SSE of Dunhuang, China",
         "country_code": "CN",
         "shakemap_available": true
       },
@@ -3232,7 +2888,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.07
+    "seismic_hub_risk_score": 3.42
   },
   {
     "country": "",
@@ -3247,7 +2903,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
+    "earthquake_count": 16,
     "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 6.7,
@@ -3332,9 +2988,55 @@
           }
         ],
         "exposure_score": 0.46
+      },
+      {
+        "name": "Soekarno-Hatta International Airport",
+        "iata_code": "CGK",
+        "latitude": -6.12557,
+        "longitude": 106.655998,
+        "municipality": "Jakarta",
+        "closest_quake_distance_km": 189.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tary",
+            "magnitude": 5.3,
+            "latitude": -6.7717,
+            "longitude": 105.0646,
+            "depth_km": 35,
+            "time_ms": 1783453492435,
+            "place": "95 km WSW of Labuan, Indonesia",
+            "distance_km": 189.9,
+            "exposure_contribution": 0.45,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.45
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tary",
+        "magnitude": 5.3,
+        "latitude": -6.7717,
+        "longitude": 105.0646,
+        "depth_km": 35,
+        "time_ms": 1783453492435,
+        "place": "95 km WSW of Labuan, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000talg",
+        "magnitude": 5.4,
+        "latitude": 3.1239,
+        "longitude": 127.5573,
+        "depth_km": 36.821,
+        "time_ms": 1783408586844,
+        "place": "162 km NNW of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000ta34",
         "magnitude": 5,
@@ -3490,7 +3192,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.46
+    "seismic_hub_risk_score": 1.91
   },
   {
     "country": "",
@@ -3505,8 +3207,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-05",
@@ -3643,17 +3345,6 @@
         "place": "162 km ESE of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000sr6c",
-        "magnitude": 5.4,
-        "latitude": -24.3638,
-        "longitude": -179.8294,
-        "depth_km": 509.081,
-        "time_ms": 1780804617328,
-        "place": "south of the Fiji Islands",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.68
@@ -3671,14 +3362,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.13,
     "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-06-07",
-      "depth_km": 10,
-      "latitude": -29.3006,
-      "longitude": -112.2703
+      "magnitude": 5.5,
+      "date": "2026-06-11",
+      "depth_km": 9,
+      "latitude": -27.7955,
+      "longitude": -71.6701
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -3787,17 +3478,6 @@
         "place": "118 km NW of Vallenar, Chile",
         "country_code": "CL",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000sr9r",
-        "magnitude": 5.8,
-        "latitude": -29.3006,
-        "longitude": -112.2703,
-        "depth_km": 10,
-        "time_ms": 1780855279286,
-        "place": "Easter Island region",
-        "country_code": "CL",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.64
@@ -3925,7 +3605,7 @@
       "longitude": -123.2288
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 5303,
+    "max_felt_reports": 5304,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -4013,11 +3693,11 @@
       {
         "id": "us7000ssnv",
         "magnitude": 5,
-        "latitude": 53.0785,
-        "longitude": -166.9697,
-        "depth_km": 41.492,
-        "time_ms": 1781347127612,
-        "place": "93 km SSW of Unalaska, Alaska",
+        "latitude": 53.1458,
+        "longitude": -167.0294,
+        "depth_km": 52.008,
+        "time_ms": 1781347128540,
+        "place": "87 km SSW of Unalaska, Alaska",
         "country_code": "US",
         "shakemap_available": true
       }
