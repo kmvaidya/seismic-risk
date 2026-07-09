@@ -22,7 +22,7 @@
       "longitude": -68.5036
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 704,
+    "max_felt_reports": 705,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -214,8 +214,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 51,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 29,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-06-26",
@@ -224,7 +224,7 @@
       "longitude": 125.1965
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 49,
+    "max_felt_reports": 53,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -354,45 +354,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srmq",
-            "magnitude": 5,
-            "latitude": 5.5438,
-            "longitude": 125.4558,
-            "depth_km": 55.075,
-            "time_ms": 1780961904150,
-            "place": "6 km ESE of Bukid, Philippines",
-            "distance_km": 177.1,
-            "exposure_contribution": 0.34,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srfx",
-            "magnitude": 5.5,
-            "latitude": 5.5916,
-            "longitude": 125.206,
-            "depth_km": 88.29,
-            "time_ms": 1780917753435,
-            "place": "14 km SW of Pangyan, Philippines",
-            "distance_km": 177.4,
-            "exposure_contribution": 0.54,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srh8",
-            "magnitude": 5.2,
-            "latitude": 5.7353,
-            "longitude": 124.8562,
-            "depth_km": 54.706,
-            "time_ms": 1780930385204,
-            "place": "15 km SSW of Lumatil, Philippines",
-            "distance_km": 177.5,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000srpr",
             "magnitude": 5.1,
             "latitude": 8.7247,
@@ -415,45 +376,6 @@
             "place": "18 km SSW of Katubao, Philippines",
             "distance_km": 182.7,
             "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000stu5",
-            "magnitude": 5.2,
-            "latitude": 5.4879,
-            "longitude": 125.181,
-            "depth_km": 68.76,
-            "time_ms": 1780877470015,
-            "place": "21 km WSW of Balangonan, Philippines",
-            "distance_km": 189.2,
-            "exposure_contribution": 0.37,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srcg",
-            "magnitude": 6.5,
-            "latitude": 5.4747,
-            "longitude": 125.2173,
-            "depth_km": 75.065,
-            "time_ms": 1780880112546,
-            "place": "18 km SW of Balangonan, Philippines",
-            "distance_km": 189.6,
-            "exposure_contribution": 1.62,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srem",
-            "magnitude": 5,
-            "latitude": 5.5078,
-            "longitude": 125.0837,
-            "depth_km": 56.454,
-            "time_ms": 1780902006730,
-            "place": "29 km SW of Burias, Philippines",
-            "distance_km": 190.3,
-            "exposure_contribution": 0.3,
             "pga_g": null,
             "mmi": null
           },
@@ -482,22 +404,9 @@
             "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000stu4",
-            "magnitude": 5.2,
-            "latitude": 5.3957,
-            "longitude": 125.3265,
-            "depth_km": 66.031,
-            "time_ms": 1780877900923,
-            "place": "15 km W of Sarangani, Philippines",
-            "distance_km": 195.6,
-            "exposure_contribution": 0.36,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 10.21
+        "exposure_score": 6.25
       },
       {
         "name": "General Santos International Airport",
@@ -530,19 +439,6 @@
             "place": "5 km ENE of Baliton, Philippines",
             "distance_km": 37.9,
             "exposure_contribution": 2.29,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srh8",
-            "magnitude": 5.2,
-            "latitude": 5.7353,
-            "longitude": 124.8562,
-            "depth_km": 54.706,
-            "time_ms": 1780930385204,
-            "place": "15 km SSW of Lumatil, Philippines",
-            "distance_km": 44.6,
-            "exposure_contribution": 1.92,
             "pga_g": null,
             "mmi": null
           },
@@ -612,32 +508,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srfx",
-            "magnitude": 5.5,
-            "latitude": 5.5916,
-            "longitude": 125.206,
-            "depth_km": 88.29,
-            "time_ms": 1780917753435,
-            "place": "14 km SW of Pangyan, Philippines",
-            "distance_km": 53.2,
-            "exposure_contribution": 1.57,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srem",
-            "magnitude": 5,
-            "latitude": 5.5078,
-            "longitude": 125.0837,
-            "depth_km": 56.454,
-            "time_ms": 1780902006730,
-            "place": "29 km SW of Burias, Philippines",
-            "distance_km": 61.1,
-            "exposure_contribution": 1.21,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000sru0",
             "magnitude": 5.1,
             "latitude": 5.5634,
@@ -647,45 +517,6 @@
             "place": "1 km SSW of Balangonan, Philippines",
             "distance_km": 61.6,
             "exposure_contribution": 1.04,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000stu5",
-            "magnitude": 5.2,
-            "latitude": 5.4879,
-            "longitude": 125.181,
-            "depth_km": 68.76,
-            "time_ms": 1780877470015,
-            "place": "21 km WSW of Balangonan, Philippines",
-            "distance_km": 64.0,
-            "exposure_contribution": 1.27,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srcg",
-            "magnitude": 6.5,
-            "latitude": 5.4747,
-            "longitude": 125.2173,
-            "depth_km": 75.065,
-            "time_ms": 1780880112546,
-            "place": "18 km SW of Balangonan, Philippines",
-            "distance_km": 66.1,
-            "exposure_contribution": 5.18,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srmq",
-            "magnitude": 5,
-            "latitude": 5.5438,
-            "longitude": 125.4558,
-            "depth_km": 55.075,
-            "time_ms": 1780961904150,
-            "place": "6 km ESE of Bukid, Philippines",
-            "distance_km": 69.6,
-            "exposure_contribution": 1.1,
             "pga_g": null,
             "mmi": null
           },
@@ -716,45 +547,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srf1",
-            "magnitude": 5.2,
-            "latitude": 5.3895,
-            "longitude": 125.0661,
-            "depth_km": 76.94,
-            "time_ms": 1780906425363,
-            "place": "37 km WSW of Balangonan, Philippines",
-            "distance_km": 74.3,
-            "exposure_contribution": 1.05,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000stu4",
-            "magnitude": 5.2,
-            "latitude": 5.3957,
-            "longitude": 125.3265,
-            "depth_km": 66.031,
-            "time_ms": 1780877900923,
-            "place": "15 km W of Sarangani, Philippines",
-            "distance_km": 77.8,
-            "exposure_contribution": 1.13,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000su57",
-            "magnitude": 5.1,
-            "latitude": 5.3253,
-            "longitude": 125.2873,
-            "depth_km": 79.643,
-            "time_ms": 1780895632454,
-            "place": "21 km WSW of Sarangani, Philippines",
-            "distance_km": 84.1,
-            "exposure_contribution": 0.83,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000t8ec",
             "magnitude": 6.5,
             "latitude": 5.2392,
@@ -768,32 +560,6 @@
             "mmi": 5.7
           },
           {
-            "earthquake_id": "us7000sre1",
-            "magnitude": 5.5,
-            "latitude": 5.2936,
-            "longitude": 125.4095,
-            "depth_km": 55.864,
-            "time_ms": 1780895524500,
-            "place": "13 km SSW of Sarangani, Philippines",
-            "distance_km": 91.7,
-            "exposure_contribution": 1.47,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srcf",
-            "magnitude": 5,
-            "latitude": 5.1977,
-            "longitude": 125.152,
-            "depth_km": 36.938,
-            "time_ms": 1780879983467,
-            "place": "41 km WSW of Sarangani, Philippines",
-            "distance_km": 95.8,
-            "exposure_contribution": 0.89,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000ssqy",
             "magnitude": 5.1,
             "latitude": 5.2862,
@@ -803,58 +569,6 @@
             "place": "25 km ESE of Sarangani, Philippines",
             "distance_km": 106.2,
             "exposure_contribution": 0.87,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srci",
-            "magnitude": 5.8,
-            "latitude": 5.2644,
-            "longitude": 125.729,
-            "depth_km": 85.546,
-            "time_ms": 1780880300882,
-            "place": "33 km ESE of Sarangani, Philippines",
-            "distance_km": 112.6,
-            "exposure_contribution": 1.35,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000sre8",
-            "magnitude": 5,
-            "latitude": 5.0164,
-            "longitude": 125.1297,
-            "depth_km": 35,
-            "time_ms": 1780898337415,
-            "place": "56 km SW of Sarangani, Philippines",
-            "distance_km": 115.8,
-            "exposure_contribution": 0.69,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srgq",
-            "magnitude": 5.2,
-            "latitude": 5.006,
-            "longitude": 125.2001,
-            "depth_km": 44.66,
-            "time_ms": 1780925877211,
-            "place": "52 km SSW of Sarangani, Philippines",
-            "distance_km": 117.5,
-            "exposure_contribution": 0.82,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srds",
-            "magnitude": 5.6,
-            "latitude": 4.9867,
-            "longitude": 125.2095,
-            "depth_km": 35,
-            "time_ms": 1780894002924,
-            "place": "54 km SSW of Sarangani, Philippines",
-            "distance_km": 119.7,
-            "exposure_contribution": 1.31,
             "pga_g": null,
             "mmi": null
           },
@@ -885,41 +599,15 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000stvj",
-            "magnitude": 5.2,
-            "latitude": 4.8998,
-            "longitude": 125.2449,
-            "depth_km": 12.686,
-            "time_ms": 1780894201566,
-            "place": "60 km SSW of Sarangani, Philippines",
-            "distance_km": 129.7,
-            "exposure_contribution": 0.77,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srk7",
-            "magnitude": 5.1,
-            "latitude": 4.9172,
-            "longitude": 125.4299,
-            "depth_km": 46.231,
-            "time_ms": 1780943340051,
-            "place": "53 km S of Sarangani, Philippines",
-            "distance_km": 132.0,
-            "exposure_contribution": 0.62,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srf8",
-            "magnitude": 5.6,
-            "latitude": 4.8817,
-            "longitude": 125.2956,
-            "depth_km": 35,
-            "time_ms": 1780910242755,
-            "place": "60 km SSW of Sarangani, Philippines",
-            "distance_km": 132.6,
-            "exposure_contribution": 1.13,
+            "earthquake_id": "us7000ss57",
+            "magnitude": 5.4,
+            "latitude": 4.9194,
+            "longitude": 125.3665,
+            "depth_km": 57.994,
+            "time_ms": 1781142975517,
+            "place": "54 km SSW of Sarangani, Philippines",
+            "distance_km": 130.0,
+            "exposure_contribution": 0.84,
             "pga_g": null,
             "mmi": null
           },
@@ -950,45 +638,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000ss57",
-            "magnitude": 5.5,
-            "latitude": 4.8778,
-            "longitude": 125.4356,
-            "depth_km": 49.891,
-            "time_ms": 1781142974675,
-            "place": "58 km S of Sarangani, Philippines",
-            "distance_km": 136.4,
-            "exposure_contribution": 0.92,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srck",
-            "magnitude": 5.1,
-            "latitude": 4.8254,
-            "longitude": 125.1805,
-            "depth_km": 100.266,
-            "time_ms": 1780881060901,
-            "place": "71 km SSW of Sarangani, Philippines",
-            "distance_km": 137.3,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srec",
-            "magnitude": 5.3,
-            "latitude": 4.8335,
-            "longitude": 125.3414,
-            "depth_km": 55.963,
-            "time_ms": 1780899716449,
-            "place": "64 km SSW of Sarangani, Philippines",
-            "distance_km": 138.7,
-            "exposure_contribution": 0.69,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000ss4r",
             "magnitude": 5.1,
             "latitude": 4.849,
@@ -1011,32 +660,6 @@
             "place": "59 km S of Sarangani, Philippines",
             "distance_km": 140.1,
             "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srfa",
-            "magnitude": 5.2,
-            "latitude": 4.8466,
-            "longitude": 125.4602,
-            "depth_km": 35,
-            "time_ms": 1780910910163,
-            "place": "61 km S of Sarangani, Philippines",
-            "distance_km": 140.5,
-            "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srdu",
-            "magnitude": 5.2,
-            "latitude": 4.807,
-            "longitude": 125.3096,
-            "depth_km": 35,
-            "time_ms": 1780893869910,
-            "place": "68 km SSW of Sarangani, Philippines",
-            "distance_km": 141.0,
-            "exposure_contribution": 0.65,
             "pga_g": null,
             "mmi": null
           },
@@ -1093,7 +716,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 60.2
+        "exposure_score": 33.39
       },
       {
         "name": "Laguindingan International Airport",
@@ -1428,12 +1051,12 @@
       },
       {
         "id": "us7000ss57",
-        "magnitude": 5.5,
-        "latitude": 4.8778,
-        "longitude": 125.4356,
-        "depth_km": 49.891,
-        "time_ms": 1781142974675,
-        "place": "58 km S of Sarangani, Philippines",
+        "magnitude": 5.4,
+        "latitude": 4.9194,
+        "longitude": 125.3665,
+        "depth_km": 57.994,
+        "time_ms": 1781142975517,
+        "place": "54 km SSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -1535,251 +1158,9 @@
         "place": "21 km SW of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000srmq",
-        "magnitude": 5,
-        "latitude": 5.5438,
-        "longitude": 125.4558,
-        "depth_km": 55.075,
-        "time_ms": 1780961904150,
-        "place": "6 km ESE of Bukid, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srk7",
-        "magnitude": 5.1,
-        "latitude": 4.9172,
-        "longitude": 125.4299,
-        "depth_km": 46.231,
-        "time_ms": 1780943340051,
-        "place": "53 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srh8",
-        "magnitude": 5.2,
-        "latitude": 5.7353,
-        "longitude": 124.8562,
-        "depth_km": 54.706,
-        "time_ms": 1780930385204,
-        "place": "15 km SSW of Lumatil, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srgq",
-        "magnitude": 5.2,
-        "latitude": 5.006,
-        "longitude": 125.2001,
-        "depth_km": 44.66,
-        "time_ms": 1780925877211,
-        "place": "52 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srfx",
-        "magnitude": 5.5,
-        "latitude": 5.5916,
-        "longitude": 125.206,
-        "depth_km": 88.29,
-        "time_ms": 1780917753435,
-        "place": "14 km SW of Pangyan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srfa",
-        "magnitude": 5.2,
-        "latitude": 4.8466,
-        "longitude": 125.4602,
-        "depth_km": 35,
-        "time_ms": 1780910910163,
-        "place": "61 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srf8",
-        "magnitude": 5.6,
-        "latitude": 4.8817,
-        "longitude": 125.2956,
-        "depth_km": 35,
-        "time_ms": 1780910242755,
-        "place": "60 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srf1",
-        "magnitude": 5.2,
-        "latitude": 5.3895,
-        "longitude": 125.0661,
-        "depth_km": 76.94,
-        "time_ms": 1780906425363,
-        "place": "37 km WSW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srem",
-        "magnitude": 5,
-        "latitude": 5.5078,
-        "longitude": 125.0837,
-        "depth_km": 56.454,
-        "time_ms": 1780902006730,
-        "place": "29 km SW of Burias, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srec",
-        "magnitude": 5.3,
-        "latitude": 4.8335,
-        "longitude": 125.3414,
-        "depth_km": 55.963,
-        "time_ms": 1780899716449,
-        "place": "64 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sre8",
-        "magnitude": 5,
-        "latitude": 5.0164,
-        "longitude": 125.1297,
-        "depth_km": 35,
-        "time_ms": 1780898337415,
-        "place": "56 km SW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000su57",
-        "magnitude": 5.1,
-        "latitude": 5.3253,
-        "longitude": 125.2873,
-        "depth_km": 79.643,
-        "time_ms": 1780895632454,
-        "place": "21 km WSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sre1",
-        "magnitude": 5.5,
-        "latitude": 5.2936,
-        "longitude": 125.4095,
-        "depth_km": 55.864,
-        "time_ms": 1780895524500,
-        "place": "13 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000stvj",
-        "magnitude": 5.2,
-        "latitude": 4.8998,
-        "longitude": 125.2449,
-        "depth_km": 12.686,
-        "time_ms": 1780894201566,
-        "place": "60 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srds",
-        "magnitude": 5.6,
-        "latitude": 4.9867,
-        "longitude": 125.2095,
-        "depth_km": 35,
-        "time_ms": 1780894002924,
-        "place": "54 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srdu",
-        "magnitude": 5.2,
-        "latitude": 4.807,
-        "longitude": 125.3096,
-        "depth_km": 35,
-        "time_ms": 1780893869910,
-        "place": "68 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srck",
-        "magnitude": 5.1,
-        "latitude": 4.8254,
-        "longitude": 125.1805,
-        "depth_km": 100.266,
-        "time_ms": 1780881060901,
-        "place": "71 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srci",
-        "magnitude": 5.8,
-        "latitude": 5.2644,
-        "longitude": 125.729,
-        "depth_km": 85.546,
-        "time_ms": 1780880300882,
-        "place": "33 km ESE of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srcg",
-        "magnitude": 6.5,
-        "latitude": 5.4747,
-        "longitude": 125.2173,
-        "depth_km": 75.065,
-        "time_ms": 1780880112546,
-        "place": "18 km SW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srcf",
-        "magnitude": 5,
-        "latitude": 5.1977,
-        "longitude": 125.152,
-        "depth_km": 36.938,
-        "time_ms": 1780879983467,
-        "place": "41 km WSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000stu4",
-        "magnitude": 5.2,
-        "latitude": 5.3957,
-        "longitude": 125.3265,
-        "depth_km": 66.031,
-        "time_ms": 1780877900923,
-        "place": "15 km W of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000stu5",
-        "magnitude": 5.2,
-        "latitude": 5.4879,
-        "longitude": 125.181,
-        "depth_km": 68.76,
-        "time_ms": 1780877470015,
-        "place": "21 km WSW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 74.09
+    "seismic_hub_risk_score": 43.32
   },
   {
     "country": "",
@@ -1795,7 +1176,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 10,
-    "avg_magnitude": 5.71,
+    "avg_magnitude": 5.69,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-06-24",
@@ -1831,14 +1212,14 @@
           },
           {
             "earthquake_id": "us7000std7",
-            "magnitude": 5.5,
-            "latitude": 35.9814,
-            "longitude": 139.8371,
-            "depth_km": 71.777,
-            "time_ms": 1781606794658,
-            "place": "4 km NW of Noda, Japan",
-            "distance_km": 55.0,
-            "exposure_contribution": 1.9,
+            "magnitude": 5.3,
+            "latitude": 36.1715,
+            "longitude": 139.6995,
+            "depth_km": 63.617,
+            "time_ms": 1781606795062,
+            "place": "2 km SW of Koga, Japan",
+            "distance_km": 76.5,
+            "exposure_contribution": 1.31,
             "pga_g": null,
             "mmi": null
           },
@@ -1856,7 +1237,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 9.26
+        "exposure_score": 8.67
       },
       {
         "name": "Ibaraki Airport",
@@ -1864,21 +1245,8 @@
         "latitude": 36.181456,
         "longitude": 140.414434,
         "municipality": "Omitama",
-        "closest_quake_distance_km": 56.5,
+        "closest_quake_distance_km": 61.8,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000std7",
-            "magnitude": 5.5,
-            "latitude": 35.9814,
-            "longitude": 139.8371,
-            "depth_km": 71.777,
-            "time_ms": 1781606794658,
-            "place": "4 km NW of Noda, Japan",
-            "distance_km": 56.5,
-            "exposure_contribution": 1.87,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000t8cy",
             "magnitude": 5.8,
@@ -1889,6 +1257,19 @@
             "place": "3 km SE of Yokoshiba, Japan",
             "distance_km": 61.8,
             "exposure_contribution": 3.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000std7",
+            "magnitude": 5.3,
+            "latitude": 36.1715,
+            "longitude": 139.6995,
+            "depth_km": 63.617,
+            "time_ms": 1781606795062,
+            "place": "2 km SW of Koga, Japan",
+            "distance_km": 64.2,
+            "exposure_contribution": 1.51,
             "pga_g": null,
             "mmi": null
           },
@@ -1906,7 +1287,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.98
+        "exposure_score": 5.61
       },
       {
         "name": "Mount Fuji Shizuoka Airport",
@@ -1928,22 +1309,9 @@
             "exposure_contribution": 0.85,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000std7",
-            "magnitude": 5.5,
-            "latitude": 35.9814,
-            "longitude": 139.8371,
-            "depth_km": 71.777,
-            "time_ms": 1781606794658,
-            "place": "4 km NW of Noda, Japan",
-            "distance_km": 199.2,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.33
+        "exposure_score": 0.85
       },
       {
         "name": "Aomori Airport",
@@ -2025,21 +1393,8 @@
         "latitude": 35.549678,
         "longitude": 139.786958,
         "municipality": "Tokyo",
-        "closest_quake_distance_km": 48.2,
+        "closest_quake_distance_km": 66.0,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000std7",
-            "magnitude": 5.5,
-            "latitude": 35.9814,
-            "longitude": 139.8371,
-            "depth_km": 71.777,
-            "time_ms": 1781606794658,
-            "place": "4 km NW of Noda, Japan",
-            "distance_km": 48.2,
-            "exposure_contribution": 2.03,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000t8cy",
             "magnitude": 5.8,
@@ -2050,6 +1405,19 @@
             "place": "3 km SE of Yokoshiba, Japan",
             "distance_km": 66.0,
             "exposure_contribution": 3.27,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000std7",
+            "magnitude": 5.3,
+            "latitude": 36.1715,
+            "longitude": 139.6995,
+            "depth_km": 63.617,
+            "time_ms": 1781606795062,
+            "place": "2 km SW of Koga, Japan",
+            "distance_km": 69.6,
+            "exposure_contribution": 1.42,
             "pga_g": null,
             "mmi": null
           },
@@ -2067,7 +1435,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 6.76
+        "exposure_score": 6.16
       },
       {
         "name": "Naha International Airport",
@@ -2185,12 +1553,12 @@
       },
       {
         "id": "us7000std7",
-        "magnitude": 5.5,
-        "latitude": 35.9814,
-        "longitude": 139.8371,
-        "depth_km": 71.777,
-        "time_ms": 1781606794658,
-        "place": "4 km NW of Noda, Japan",
+        "magnitude": 5.3,
+        "latitude": 36.1715,
+        "longitude": 139.6995,
+        "depth_km": 63.617,
+        "time_ms": 1781606795062,
+        "place": "2 km SW of Koga, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -2206,7 +1574,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 31.9
+    "seismic_hub_risk_score": 29.86
   },
   {
     "country": "",
@@ -2433,6 +1801,32 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000suii",
+            "magnitude": 5.8,
+            "latitude": 52.8032,
+            "longitude": 161.0383,
+            "depth_km": 10,
+            "time_ms": 1781855577678,
+            "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 177.9,
+            "exposure_contribution": 0.92,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000suik",
+            "magnitude": 5.2,
+            "latitude": 52.7246,
+            "longitude": 161.0403,
+            "depth_km": 10,
+            "time_ms": 1781856220712,
+            "place": "166 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 180.4,
+            "exposure_contribution": 0.45,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000srvv",
             "magnitude": 5.1,
             "latitude": 52.4303,
@@ -2442,19 +1836,6 @@
             "place": "165 km ESE of Petropavlovsk-Kamchatsky, Russia",
             "distance_km": 181.0,
             "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000suik",
-            "magnitude": 5.2,
-            "latitude": 52.7416,
-            "longitude": 161.06,
-            "depth_km": 10,
-            "time_ms": 1781856220851,
-            "place": "167 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 181.1,
-            "exposure_contribution": 0.45,
             "pga_g": null,
             "mmi": null
           },
@@ -2483,22 +1864,9 @@
             "exposure_contribution": 0.55,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000suii",
-            "magnitude": 5.8,
-            "latitude": 52.7355,
-            "longitude": 161.1149,
-            "depth_km": 10,
-            "time_ms": 1781855577734,
-            "place": "171 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 184.8,
-            "exposure_contribution": 0.86,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 7.13
+        "exposure_score": 7.2
       }
     ],
     "earthquakes": [
@@ -2538,22 +1906,22 @@
       {
         "id": "us7000suik",
         "magnitude": 5.2,
-        "latitude": 52.7416,
-        "longitude": 161.06,
+        "latitude": 52.7246,
+        "longitude": 161.0403,
         "depth_km": 10,
-        "time_ms": 1781856220851,
-        "place": "167 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "time_ms": 1781856220712,
+        "place": "166 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
       {
         "id": "us7000suii",
         "magnitude": 5.8,
-        "latitude": 52.7355,
-        "longitude": 161.1149,
+        "latitude": 52.8032,
+        "longitude": 161.0383,
         "depth_km": 10,
-        "time_ms": 1781855577734,
-        "place": "171 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "time_ms": 1781855577678,
+        "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -2635,7 +2003,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 7.13
+    "seismic_hub_risk_score": 7.2
   },
   {
     "country": "",
@@ -2650,8 +2018,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-06-16",
@@ -2712,6 +2080,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000taui",
+            "magnitude": 5,
+            "latitude": 28.5871,
+            "longitude": 104.7549,
+            "depth_km": 10,
+            "time_ms": 1783476528776,
+            "place": "15 km NNE of Xunchang, China",
+            "distance_km": 194.2,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tatd",
             "magnitude": 5.1,
             "latitude": 28.5702,
@@ -2725,7 +2106,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.85
+        "exposure_score": 2.16
       },
       {
         "name": "Chengdu Shuangliu International Airport",
@@ -2766,6 +2147,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sz3z",
+        "magnitude": 5,
+        "latitude": 28.4707,
+        "longitude": 104.7074,
+        "depth_km": 10,
+        "time_ms": 1783554253741,
+        "place": "1 km NNW of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000taui",
+        "magnitude": 5,
+        "latitude": 28.5871,
+        "longitude": 104.7549,
+        "depth_km": 10,
+        "time_ms": 1783476528776,
+        "place": "15 km NNE of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tatd",
         "magnitude": 5.1,
@@ -2888,7 +2291,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.42
+    "seismic_hub_risk_score": 3.73
   },
   {
     "country": "",
@@ -3207,8 +2610,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-05",
@@ -3248,6 +2651,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000taww",
+        "magnitude": 5.4,
+        "latitude": -23.5549,
+        "longitude": -174.9716,
+        "depth_km": 10,
+        "time_ms": 1783513139673,
+        "place": "245 km S of ‘Ohonua, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000taft",
         "magnitude": 5.1,
         "latitude": -16.892,
@@ -3272,11 +2686,11 @@
       {
         "id": "us6000t9hu",
         "magnitude": 5.7,
-        "latitude": -16.9457,
-        "longitude": -174.8243,
+        "latitude": -16.9598,
+        "longitude": -174.8208,
         "depth_km": 259,
-        "time_ms": 1782940420262,
-        "place": "155 km SW of Hihifo, Tonga",
+        "time_ms": 1782940420196,
+        "place": "156 km SW of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": true
       },
@@ -3495,8 +2909,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-06-25",
@@ -3535,6 +2949,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tawr",
+        "magnitude": 5,
+        "latitude": -6.1834,
+        "longitude": 150.91,
+        "depth_km": 25.506,
+        "time_ms": 1783509784023,
+        "place": "110 km SE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ta2x",
         "magnitude": 5.1,
