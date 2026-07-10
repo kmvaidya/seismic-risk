@@ -22,7 +22,7 @@
       "longitude": -68.5036
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 705,
+    "max_felt_reports": 727,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -203,6 +203,588 @@
   },
   {
     "country": "",
+    "iso_alpha2": "JP",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 10,
+    "avg_magnitude": 5.69,
+    "strongest_earthquake": {
+      "magnitude": 6.9,
+      "date": "2026-06-24",
+      "depth_km": 34,
+      "latitude": 40.2515,
+      "longitude": 142.1614
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 95,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Narita International Airport",
+        "iata_code": "NRT",
+        "latitude": 35.76858,
+        "longitude": 140.388714,
+        "municipality": "Narita",
+        "closest_quake_distance_km": 18.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8cy",
+            "magnitude": 5.8,
+            "latitude": 35.6314,
+            "longitude": 140.5099,
+            "depth_km": 43,
+            "time_ms": 1782445595803,
+            "place": "3 km SE of Yokoshiba, Japan",
+            "distance_km": 18.8,
+            "exposure_contribution": 6.64,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000std7",
+            "magnitude": 5.3,
+            "latitude": 36.1715,
+            "longitude": 139.6995,
+            "depth_km": 63.617,
+            "time_ms": 1781606795062,
+            "place": "2 km SW of Koga, Japan",
+            "distance_km": 76.5,
+            "exposure_contribution": 1.31,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t8fe",
+            "magnitude": 5.2,
+            "latitude": 35.6048,
+            "longitude": 138.9744,
+            "depth_km": 43.164,
+            "time_ms": 1782480541036,
+            "place": "1 km S of Ōtsuki, Japan",
+            "distance_km": 129.0,
+            "exposure_contribution": 0.72,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 8.67
+      },
+      {
+        "name": "Ibaraki Airport",
+        "iata_code": "IBR",
+        "latitude": 36.181456,
+        "longitude": 140.414434,
+        "municipality": "Omitama",
+        "closest_quake_distance_km": 61.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8cy",
+            "magnitude": 5.8,
+            "latitude": 35.6314,
+            "longitude": 140.5099,
+            "depth_km": 43,
+            "time_ms": 1782445595803,
+            "place": "3 km SE of Yokoshiba, Japan",
+            "distance_km": 61.8,
+            "exposure_contribution": 3.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000std7",
+            "magnitude": 5.3,
+            "latitude": 36.1715,
+            "longitude": 139.6995,
+            "depth_km": 63.617,
+            "time_ms": 1781606795062,
+            "place": "2 km SW of Koga, Japan",
+            "distance_km": 64.2,
+            "exposure_contribution": 1.51,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t8fe",
+            "magnitude": 5.2,
+            "latitude": 35.6048,
+            "longitude": 138.9744,
+            "depth_km": 43.164,
+            "time_ms": 1782480541036,
+            "place": "1 km S of Ōtsuki, Japan",
+            "distance_km": 144.7,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 5.61
+      },
+      {
+        "name": "Kansai International Airport",
+        "iata_code": "KIX",
+        "latitude": 34.427299,
+        "longitude": 135.244003,
+        "municipality": "Osaka",
+        "closest_quake_distance_km": 123.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 123.0,
+            "exposure_contribution": 0.75,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.75
+      },
+      {
+        "name": "Kobe Airport",
+        "iata_code": "UKB",
+        "latitude": 34.632801,
+        "longitude": 135.223999,
+        "municipality": "Kobe",
+        "closest_quake_distance_km": 145.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 145.2,
+            "exposure_contribution": 0.58,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.58
+      },
+      {
+        "name": "Mount Fuji Shizuoka Airport",
+        "iata_code": "FSZ",
+        "latitude": 34.795022,
+        "longitude": 138.190976,
+        "municipality": "Makinohara / Shimada",
+        "closest_quake_distance_km": 114.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8fe",
+            "magnitude": 5.2,
+            "latitude": 35.6048,
+            "longitude": 138.9744,
+            "depth_km": 43.164,
+            "time_ms": 1782480541036,
+            "place": "1 km S of Ōtsuki, Japan",
+            "distance_km": 114.8,
+            "exposure_contribution": 0.85,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.85
+      },
+      {
+        "name": "Okayama Momotaro Airport",
+        "iata_code": "OKJ",
+        "latitude": 34.756901,
+        "longitude": 133.854996,
+        "municipality": "Okayama",
+        "closest_quake_distance_km": 188.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 188.6,
+            "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.37
+      },
+      {
+        "name": "Kochi Ryoma Airport",
+        "iata_code": "KCZ",
+        "latitude": 33.545217,
+        "longitude": 133.670166,
+        "municipality": "Nankoku",
+        "closest_quake_distance_km": 124.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 124.1,
+            "exposure_contribution": 0.74,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.74
+      },
+      {
+        "name": "Osaka Itami International Airport",
+        "iata_code": "ITM",
+        "latitude": 34.780853,
+        "longitude": 135.440829,
+        "municipality": "Osaka",
+        "closest_quake_distance_km": 165.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 165.4,
+            "exposure_contribution": 0.47,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.47
+      },
+      {
+        "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
+        "iata_code": "TKS",
+        "latitude": 34.132559,
+        "longitude": 134.607816,
+        "municipality": "Tokushima",
+        "closest_quake_distance_km": 94.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 94.5,
+            "exposure_contribution": 1.11,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.11
+      },
+      {
+        "name": "Takamatsu Airport",
+        "iata_code": "TAK",
+        "latitude": 34.214963,
+        "longitude": 134.015454,
+        "municipality": "Takamatsu",
+        "closest_quake_distance_km": 132.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz7n",
+            "magnitude": 5.1,
+            "latitude": 33.3425,
+            "longitude": 134.9851,
+            "depth_km": 10,
+            "time_ms": 1783601937039,
+            "place": "50 km SW of Shirahama, Japan",
+            "distance_km": 132.1,
+            "exposure_contribution": 0.67,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.67
+      },
+      {
+        "name": "Aomori Airport",
+        "iata_code": "AOJ",
+        "latitude": 40.733777,
+        "longitude": 140.689477,
+        "municipality": "Aomori",
+        "closest_quake_distance_km": 135.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t7zq",
+            "magnitude": 6.9,
+            "latitude": 40.2515,
+            "longitude": 142.1614,
+            "depth_km": 34,
+            "time_ms": 1782340212989,
+            "place": "33 km ENE of Noda, Japan",
+            "distance_km": 135.5,
+            "exposure_contribution": 4.29,
+            "pga_g": 0.042924,
+            "mmi": 4.4
+          },
+          {
+            "earthquake_id": "us6000t8qd",
+            "magnitude": 5.8,
+            "latitude": 40.2536,
+            "longitude": 142.4257,
+            "depth_km": 34,
+            "time_ms": 1782591710787,
+            "place": "54 km ENE of Noda, Japan",
+            "distance_km": 156.2,
+            "exposure_contribution": 1.11,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t9ej",
+            "magnitude": 6,
+            "latitude": 40.1637,
+            "longitude": 142.3927,
+            "depth_km": 43.568,
+            "time_ms": 1782907709986,
+            "place": "49 km E of Noda, Japan",
+            "distance_km": 157.4,
+            "exposure_contribution": 1.34,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 6.74
+      },
+      {
+        "name": "Sendai Airport",
+        "iata_code": "SDJ",
+        "latitude": 38.139702,
+        "longitude": 140.917007,
+        "municipality": "Natori",
+        "closest_quake_distance_km": 133.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t9qx",
+            "magnitude": 5.1,
+            "latitude": 38.728,
+            "longitude": 142.2568,
+            "depth_km": 33.97,
+            "time_ms": 1783043090399,
+            "place": "60 km SE of Ōfunato, Japan",
+            "distance_km": 133.8,
+            "exposure_contribution": 0.63,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.63
+      },
+      {
+        "name": "Tokyo Haneda International Airport",
+        "iata_code": "HND",
+        "latitude": 35.549678,
+        "longitude": 139.786958,
+        "municipality": "Tokyo",
+        "closest_quake_distance_km": 66.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8cy",
+            "magnitude": 5.8,
+            "latitude": 35.6314,
+            "longitude": 140.5099,
+            "depth_km": 43,
+            "time_ms": 1782445595803,
+            "place": "3 km SE of Yokoshiba, Japan",
+            "distance_km": 66.0,
+            "exposure_contribution": 3.27,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000std7",
+            "magnitude": 5.3,
+            "latitude": 36.1715,
+            "longitude": 139.6995,
+            "depth_km": 63.617,
+            "time_ms": 1781606795062,
+            "place": "2 km SW of Koga, Japan",
+            "distance_km": 69.6,
+            "exposure_contribution": 1.42,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000t8fe",
+            "magnitude": 5.2,
+            "latitude": 35.6048,
+            "longitude": 138.9744,
+            "depth_km": 43.164,
+            "time_ms": 1782480541036,
+            "place": "1 km S of Ōtsuki, Japan",
+            "distance_km": 73.7,
+            "exposure_contribution": 1.46,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 6.16
+      },
+      {
+        "name": "Naha International Airport",
+        "iata_code": "OKA",
+        "latitude": 26.192437,
+        "longitude": 127.639804,
+        "municipality": "Naha",
+        "closest_quake_distance_km": 186.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t9sj",
+            "magnitude": 6.1,
+            "latitude": 25.9501,
+            "longitude": 125.7941,
+            "depth_km": 10,
+            "time_ms": 1783051488066,
+            "place": "136 km NNE of Hirara, Japan",
+            "distance_km": 186.3,
+            "exposure_contribution": 1.2,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.2
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000sz7n",
+        "magnitude": 5.1,
+        "latitude": 33.3425,
+        "longitude": 134.9851,
+        "depth_km": 10,
+        "time_ms": 1783601937039,
+        "place": "50 km SW of Shirahama, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t9sj",
+        "magnitude": 6.1,
+        "latitude": 25.9501,
+        "longitude": 125.7941,
+        "depth_km": 10,
+        "time_ms": 1783051488066,
+        "place": "136 km NNE of Hirara, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t9qx",
+        "magnitude": 5.1,
+        "latitude": 38.728,
+        "longitude": 142.2568,
+        "depth_km": 33.97,
+        "time_ms": 1783043090399,
+        "place": "60 km SE of Ōfunato, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t9ej",
+        "magnitude": 6,
+        "latitude": 40.1637,
+        "longitude": 142.3927,
+        "depth_km": 43.568,
+        "time_ms": 1782907709986,
+        "place": "49 km E of Noda, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t8qd",
+        "magnitude": 5.8,
+        "latitude": 40.2536,
+        "longitude": 142.4257,
+        "depth_km": 34,
+        "time_ms": 1782591710787,
+        "place": "54 km ENE of Noda, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t8fe",
+        "magnitude": 5.2,
+        "latitude": 35.6048,
+        "longitude": 138.9744,
+        "depth_km": 43.164,
+        "time_ms": 1782480541036,
+        "place": "1 km S of Ōtsuki, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t8cy",
+        "magnitude": 5.8,
+        "latitude": 35.6314,
+        "longitude": 140.5099,
+        "depth_km": 43,
+        "time_ms": 1782445595803,
+        "place": "3 km SE of Yokoshiba, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t7zq",
+        "magnitude": 6.9,
+        "latitude": 40.2515,
+        "longitude": 142.1614,
+        "depth_km": 34,
+        "time_ms": 1782340212989,
+        "place": "33 km ENE of Noda, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000suds",
+        "magnitude": 5.6,
+        "latitude": 30.4823,
+        "longitude": 142.1488,
+        "depth_km": 10,
+        "time_ms": 1781810259316,
+        "place": "Izu Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000std7",
+        "magnitude": 5.3,
+        "latitude": 36.1715,
+        "longitude": 139.6995,
+        "depth_km": 63.617,
+        "time_ms": 1781606795062,
+        "place": "2 km SW of Koga, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 34.55
+  },
+  {
+    "country": "",
     "iso_alpha2": "PH",
     "iso_alpha3": "",
     "capital": "",
@@ -214,8 +796,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 29,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 24,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-06-26",
@@ -224,7 +806,7 @@
       "longitude": 125.1965
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 53,
+    "max_felt_reports": 55,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -246,19 +828,6 @@
             "place": "67 km SE of Bobon, Philippines",
             "distance_km": 146.7,
             "exposure_contribution": 0.64,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srun",
-            "magnitude": 5.1,
-            "latitude": 5.7669,
-            "longitude": 125.2761,
-            "depth_km": 42.528,
-            "time_ms": 1781028593522,
-            "place": "5 km ENE of Baliton, Philippines",
-            "distance_km": 156.5,
-            "exposure_contribution": 0.48,
             "pga_g": null,
             "mmi": null
           },
@@ -341,58 +910,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000sru0",
-            "magnitude": 5.1,
-            "latitude": 5.5634,
-            "longitude": 125.3482,
-            "depth_km": 78.518,
-            "time_ms": 1781023766926,
-            "place": "1 km SSW of Balangonan, Philippines",
-            "distance_km": 176.8,
-            "exposure_contribution": 0.36,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srpr",
-            "magnitude": 5.1,
-            "latitude": 8.7247,
-            "longitude": 125.7378,
-            "depth_km": 40.999,
-            "time_ms": 1780997103195,
-            "place": "2 km NE of Maygatasan, Philippines",
-            "distance_km": 178.1,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srpu",
-            "magnitude": 5.3,
-            "latitude": 5.7252,
-            "longitude": 124.7805,
-            "depth_km": 28.778,
-            "time_ms": 1780999648010,
-            "place": "18 km SSW of Katubao, Philippines",
-            "distance_km": 182.7,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srp0",
-            "magnitude": 5.2,
-            "latitude": 5.4391,
-            "longitude": 125.2128,
-            "depth_km": 83.053,
-            "time_ms": 1780985718530,
-            "place": "21 km SW of Balangonan, Philippines",
-            "distance_km": 193.5,
-            "exposure_contribution": 0.34,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000ta14",
             "magnitude": 5.2,
             "latitude": 5.429,
@@ -406,7 +923,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 6.25
+        "exposure_score": 4.19
       },
       {
         "name": "General Santos International Airport",
@@ -426,19 +943,6 @@
             "place": "3 km WSW of Baliton, Philippines",
             "distance_km": 37.6,
             "exposure_contribution": 1.05,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srun",
-            "magnitude": 5.1,
-            "latitude": 5.7669,
-            "longitude": 125.2761,
-            "depth_km": 42.528,
-            "time_ms": 1781028593522,
-            "place": "5 km ENE of Baliton, Philippines",
-            "distance_km": 37.9,
-            "exposure_contribution": 2.29,
             "pga_g": null,
             "mmi": null
           },
@@ -482,19 +986,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srpu",
-            "magnitude": 5.3,
-            "latitude": 5.7252,
-            "longitude": 124.7805,
-            "depth_km": 28.778,
-            "time_ms": 1780999648010,
-            "place": "18 km SSW of Katubao, Philippines",
-            "distance_km": 50.8,
-            "exposure_contribution": 2.79,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000srzt",
             "magnitude": 5.1,
             "latitude": 5.6831,
@@ -504,32 +995,6 @@
             "place": "9 km NW of Nuing, Philippines",
             "distance_km": 51.3,
             "exposure_contribution": 1.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000sru0",
-            "magnitude": 5.1,
-            "latitude": 5.5634,
-            "longitude": 125.3482,
-            "depth_km": 78.518,
-            "time_ms": 1781023766926,
-            "place": "1 km SSW of Balangonan, Philippines",
-            "distance_km": 61.6,
-            "exposure_contribution": 1.04,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000srp0",
-            "magnitude": 5.2,
-            "latitude": 5.4391,
-            "longitude": 125.2128,
-            "depth_km": 83.053,
-            "time_ms": 1780985718530,
-            "place": "21 km SW of Balangonan, Philippines",
-            "distance_km": 69.9,
-            "exposure_contribution": 1.03,
             "pga_g": null,
             "mmi": null
           },
@@ -625,19 +1090,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000sruf",
-            "magnitude": 5.1,
-            "latitude": 4.8762,
-            "longitude": 125.2761,
-            "depth_km": 53.716,
-            "time_ms": 1781026839175,
-            "place": "61 km SSW of Sarangani, Philippines",
-            "distance_km": 132.8,
-            "exposure_contribution": 0.59,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000ss4r",
             "magnitude": 5.1,
             "latitude": 4.849,
@@ -716,31 +1168,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 33.39
-      },
-      {
-        "name": "Laguindingan International Airport",
-        "iata_code": "CGY",
-        "latitude": 8.612203,
-        "longitude": 124.456496,
-        "municipality": "Laguindingan",
-        "closest_quake_distance_km": 141.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000srpr",
-            "magnitude": 5.1,
-            "latitude": 8.7247,
-            "longitude": 125.7378,
-            "depth_km": 40.999,
-            "time_ms": 1780997103195,
-            "place": "2 km NE of Maygatasan, Philippines",
-            "distance_km": 141.4,
-            "exposure_contribution": 0.57,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.57
+        "exposure_score": 25.66
       },
       {
         "name": "Bohol-Panglao International Airport",
@@ -837,9 +1265,44 @@
           }
         ],
         "exposure_score": 0.47
+      },
+      {
+        "name": "Mactan Cebu International Airport",
+        "iata_code": "CEB",
+        "latitude": 10.309261,
+        "longitude": 123.97974,
+        "municipality": "Cebu City/Lapu-Lapu City",
+        "closest_quake_distance_km": 142.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz8l",
+            "magnitude": 5,
+            "latitude": 10.8094,
+            "longitude": 125.179,
+            "depth_km": 103.893,
+            "time_ms": 1783615609469,
+            "place": "19 km ENE of Abuyog, Philippines",
+            "distance_km": 142.4,
+            "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.37
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000sz8l",
+        "magnitude": 5,
+        "latitude": 10.8094,
+        "longitude": 125.179,
+        "depth_km": 103.893,
+        "time_ms": 1783615609469,
+        "place": "19 km ENE of Abuyog, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tadj",
         "magnitude": 5.4,
@@ -909,11 +1372,11 @@
       {
         "id": "us6000t7rx",
         "magnitude": 5,
-        "latitude": 16.5122,
-        "longitude": 119.1731,
+        "latitude": 16.4616,
+        "longitude": 119.2354,
         "depth_km": 10,
-        "time_ms": 1782266689661,
-        "place": "71 km WNW of Catuday, Philippines",
+        "time_ms": 1782266689742,
+        "place": "63 km WNW of Catuday, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1092,489 +1555,9 @@
         "place": "4 km SSW of Pangyan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000srun",
-        "magnitude": 5.1,
-        "latitude": 5.7669,
-        "longitude": 125.2761,
-        "depth_km": 42.528,
-        "time_ms": 1781028593522,
-        "place": "5 km ENE of Baliton, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sruf",
-        "magnitude": 5.1,
-        "latitude": 4.8762,
-        "longitude": 125.2761,
-        "depth_km": 53.716,
-        "time_ms": 1781026839175,
-        "place": "61 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sru0",
-        "magnitude": 5.1,
-        "latitude": 5.5634,
-        "longitude": 125.3482,
-        "depth_km": 78.518,
-        "time_ms": 1781023766926,
-        "place": "1 km SSW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srpu",
-        "magnitude": 5.3,
-        "latitude": 5.7252,
-        "longitude": 124.7805,
-        "depth_km": 28.778,
-        "time_ms": 1780999648010,
-        "place": "18 km SSW of Katubao, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srpr",
-        "magnitude": 5.1,
-        "latitude": 8.7247,
-        "longitude": 125.7378,
-        "depth_km": 40.999,
-        "time_ms": 1780997103195,
-        "place": "2 km NE of Maygatasan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000srp0",
-        "magnitude": 5.2,
-        "latitude": 5.4391,
-        "longitude": 125.2128,
-        "depth_km": 83.053,
-        "time_ms": 1780985718530,
-        "place": "21 km SW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 43.32
-  },
-  {
-    "country": "",
-    "iso_alpha2": "JP",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.69,
-    "strongest_earthquake": {
-      "magnitude": 6.9,
-      "date": "2026-06-24",
-      "depth_km": 34,
-      "latitude": 40.2515,
-      "longitude": 142.1614
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 95,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Narita International Airport",
-        "iata_code": "NRT",
-        "latitude": 35.76858,
-        "longitude": 140.388714,
-        "municipality": "Narita",
-        "closest_quake_distance_km": 18.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8cy",
-            "magnitude": 5.8,
-            "latitude": 35.6314,
-            "longitude": 140.5099,
-            "depth_km": 43,
-            "time_ms": 1782445595803,
-            "place": "3 km SE of Yokoshiba, Japan",
-            "distance_km": 18.8,
-            "exposure_contribution": 6.64,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000std7",
-            "magnitude": 5.3,
-            "latitude": 36.1715,
-            "longitude": 139.6995,
-            "depth_km": 63.617,
-            "time_ms": 1781606795062,
-            "place": "2 km SW of Koga, Japan",
-            "distance_km": 76.5,
-            "exposure_contribution": 1.31,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 129.0,
-            "exposure_contribution": 0.72,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 8.67
-      },
-      {
-        "name": "Ibaraki Airport",
-        "iata_code": "IBR",
-        "latitude": 36.181456,
-        "longitude": 140.414434,
-        "municipality": "Omitama",
-        "closest_quake_distance_km": 61.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8cy",
-            "magnitude": 5.8,
-            "latitude": 35.6314,
-            "longitude": 140.5099,
-            "depth_km": 43,
-            "time_ms": 1782445595803,
-            "place": "3 km SE of Yokoshiba, Japan",
-            "distance_km": 61.8,
-            "exposure_contribution": 3.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000std7",
-            "magnitude": 5.3,
-            "latitude": 36.1715,
-            "longitude": 139.6995,
-            "depth_km": 63.617,
-            "time_ms": 1781606795062,
-            "place": "2 km SW of Koga, Japan",
-            "distance_km": 64.2,
-            "exposure_contribution": 1.51,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 144.7,
-            "exposure_contribution": 0.61,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 5.61
-      },
-      {
-        "name": "Mount Fuji Shizuoka Airport",
-        "iata_code": "FSZ",
-        "latitude": 34.795022,
-        "longitude": 138.190976,
-        "municipality": "Makinohara / Shimada",
-        "closest_quake_distance_km": 114.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 114.8,
-            "exposure_contribution": 0.85,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.85
-      },
-      {
-        "name": "Aomori Airport",
-        "iata_code": "AOJ",
-        "latitude": 40.733777,
-        "longitude": 140.689477,
-        "municipality": "Aomori",
-        "closest_quake_distance_km": 135.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zq",
-            "magnitude": 6.9,
-            "latitude": 40.2515,
-            "longitude": 142.1614,
-            "depth_km": 34,
-            "time_ms": 1782340212989,
-            "place": "33 km ENE of Noda, Japan",
-            "distance_km": 135.5,
-            "exposure_contribution": 4.29,
-            "pga_g": 0.042924,
-            "mmi": 4.4
-          },
-          {
-            "earthquake_id": "us6000t8qd",
-            "magnitude": 5.8,
-            "latitude": 40.2536,
-            "longitude": 142.4257,
-            "depth_km": 34,
-            "time_ms": 1782591710787,
-            "place": "54 km ENE of Noda, Japan",
-            "distance_km": 156.2,
-            "exposure_contribution": 1.11,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t9ej",
-            "magnitude": 6,
-            "latitude": 40.1637,
-            "longitude": 142.3927,
-            "depth_km": 43.568,
-            "time_ms": 1782907709986,
-            "place": "49 km E of Noda, Japan",
-            "distance_km": 157.4,
-            "exposure_contribution": 1.34,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 6.74
-      },
-      {
-        "name": "Sendai Airport",
-        "iata_code": "SDJ",
-        "latitude": 38.139702,
-        "longitude": 140.917007,
-        "municipality": "Natori",
-        "closest_quake_distance_km": 133.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9qx",
-            "magnitude": 5.1,
-            "latitude": 38.728,
-            "longitude": 142.2568,
-            "depth_km": 33.97,
-            "time_ms": 1783043090399,
-            "place": "60 km SE of Ōfunato, Japan",
-            "distance_km": 133.8,
-            "exposure_contribution": 0.63,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.63
-      },
-      {
-        "name": "Tokyo Haneda International Airport",
-        "iata_code": "HND",
-        "latitude": 35.549678,
-        "longitude": 139.786958,
-        "municipality": "Tokyo",
-        "closest_quake_distance_km": 66.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8cy",
-            "magnitude": 5.8,
-            "latitude": 35.6314,
-            "longitude": 140.5099,
-            "depth_km": 43,
-            "time_ms": 1782445595803,
-            "place": "3 km SE of Yokoshiba, Japan",
-            "distance_km": 66.0,
-            "exposure_contribution": 3.27,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000std7",
-            "magnitude": 5.3,
-            "latitude": 36.1715,
-            "longitude": 139.6995,
-            "depth_km": 63.617,
-            "time_ms": 1781606795062,
-            "place": "2 km SW of Koga, Japan",
-            "distance_km": 69.6,
-            "exposure_contribution": 1.42,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 73.7,
-            "exposure_contribution": 1.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 6.16
-      },
-      {
-        "name": "Naha International Airport",
-        "iata_code": "OKA",
-        "latitude": 26.192437,
-        "longitude": 127.639804,
-        "municipality": "Naha",
-        "closest_quake_distance_km": 186.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9sj",
-            "magnitude": 6.1,
-            "latitude": 25.9501,
-            "longitude": 125.7941,
-            "depth_km": 10,
-            "time_ms": 1783051488066,
-            "place": "136 km NNE of Hirara, Japan",
-            "distance_km": 186.3,
-            "exposure_contribution": 1.2,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.2
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t9sj",
-        "magnitude": 6.1,
-        "latitude": 25.9501,
-        "longitude": 125.7941,
-        "depth_km": 10,
-        "time_ms": 1783051488066,
-        "place": "136 km NNE of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t9qx",
-        "magnitude": 5.1,
-        "latitude": 38.728,
-        "longitude": 142.2568,
-        "depth_km": 33.97,
-        "time_ms": 1783043090399,
-        "place": "60 km SE of Ōfunato, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t9ej",
-        "magnitude": 6,
-        "latitude": 40.1637,
-        "longitude": 142.3927,
-        "depth_km": 43.568,
-        "time_ms": 1782907709986,
-        "place": "49 km E of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8qd",
-        "magnitude": 5.8,
-        "latitude": 40.2536,
-        "longitude": 142.4257,
-        "depth_km": 34,
-        "time_ms": 1782591710787,
-        "place": "54 km ENE of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8fe",
-        "magnitude": 5.2,
-        "latitude": 35.6048,
-        "longitude": 138.9744,
-        "depth_km": 43.164,
-        "time_ms": 1782480541036,
-        "place": "1 km S of Ōtsuki, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8cy",
-        "magnitude": 5.8,
-        "latitude": 35.6314,
-        "longitude": 140.5099,
-        "depth_km": 43,
-        "time_ms": 1782445595803,
-        "place": "3 km SE of Yokoshiba, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t7zq",
-        "magnitude": 6.9,
-        "latitude": 40.2515,
-        "longitude": 142.1614,
-        "depth_km": 34,
-        "time_ms": 1782340212989,
-        "place": "33 km ENE of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000suds",
-        "magnitude": 5.6,
-        "latitude": 30.4823,
-        "longitude": 142.1488,
-        "depth_km": 10,
-        "time_ms": 1781810259316,
-        "place": "Izu Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000std7",
-        "magnitude": 5.3,
-        "latitude": 36.1715,
-        "longitude": 139.6995,
-        "depth_km": 63.617,
-        "time_ms": 1781606795062,
-        "place": "2 km SW of Koga, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000srvk",
-        "magnitude": 5.1,
-        "latitude": 44.5924,
-        "longitude": 149.4805,
-        "depth_km": 52.932,
-        "time_ms": 1781033133869,
-        "place": "144 km ESE of Kuril’sk, Russia",
-        "country_code": "JP",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 29.86
+    "seismic_hub_risk_score": 33.33
   },
   {
     "country": "",
@@ -1595,8 +1578,8 @@
       "magnitude": 6,
       "date": "2026-06-30",
       "depth_km": 10,
-      "latitude": 24.8239,
-      "longitude": -108.9285
+      "latitude": 24.8088,
+      "longitude": -108.8902
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1633,18 +1616,18 @@
         "latitude": 24.76504,
         "longitude": -107.475228,
         "municipality": "Culiacán",
-        "closest_quake_distance_km": 146.8,
+        "closest_quake_distance_km": 142.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t99j",
             "magnitude": 6,
-            "latitude": 24.8239,
-            "longitude": -108.9285,
+            "latitude": 24.8088,
+            "longitude": -108.8902,
             "depth_km": 10,
-            "time_ms": 1782848740116,
+            "time_ms": 1782848739422,
             "place": "75 km SSW of El Progreso, Mexico",
-            "distance_km": 146.8,
-            "exposure_contribution": 1.6,
+            "distance_km": 142.9,
+            "exposure_contribution": 1.67,
             "pga_g": null,
             "mmi": null
           },
@@ -1662,7 +1645,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.24
+        "exposure_score": 2.31
       },
       {
         "name": "Los Cabos International Airport",
@@ -1704,10 +1687,10 @@
       {
         "id": "us6000t99j",
         "magnitude": 6,
-        "latitude": 24.8239,
-        "longitude": -108.9285,
+        "latitude": 24.8088,
+        "longitude": -108.8902,
         "depth_km": 10,
-        "time_ms": 1782848740116,
+        "time_ms": 1782848739422,
         "place": "75 km SSW of El Progreso, Mexico",
         "country_code": "MX",
         "shakemap_available": true
@@ -1724,7 +1707,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 13.46
+    "seismic_hub_risk_score": 13.53
   },
   {
     "country": "",
@@ -1739,8 +1722,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.57,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.61,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-06-19",
@@ -1775,19 +1758,6 @@
             "mmi": 4.0
           },
           {
-            "earthquake_id": "us7000susb",
-            "magnitude": 5.8,
-            "latitude": 52.7287,
-            "longitude": 160.6412,
-            "depth_km": 35,
-            "time_ms": 1781927346278,
-            "place": "140 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 154.7,
-            "exposure_contribution": 1.12,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000sui2",
             "magnitude": 6,
             "latitude": 52.69,
@@ -1797,6 +1767,19 @@
             "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
             "distance_km": 170.3,
             "exposure_contribution": 1.22,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000susb",
+            "magnitude": 5.8,
+            "latitude": 52.6568,
+            "longitude": 160.8523,
+            "depth_km": 35,
+            "time_ms": 1781927346584,
+            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 170.8,
+            "exposure_contribution": 0.96,
             "pga_g": null,
             "mmi": null
           },
@@ -1827,19 +1810,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000srvv",
-            "magnitude": 5.1,
-            "latitude": 52.4303,
-            "longitude": 160.8508,
-            "depth_km": 10,
-            "time_ms": 1781034544399,
-            "place": "165 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 181.0,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000ss75",
             "magnitude": 5,
             "latitude": 52.2591,
@@ -1866,7 +1836,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 7.2
+        "exposure_score": 6.63
       }
     ],
     "earthquakes": [
@@ -1895,11 +1865,11 @@
       {
         "id": "us7000susb",
         "magnitude": 5.8,
-        "latitude": 52.7287,
-        "longitude": 160.6412,
+        "latitude": 52.6568,
+        "longitude": 160.8523,
         "depth_km": 35,
-        "time_ms": 1781927346278,
-        "place": "140 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "time_ms": 1781927346584,
+        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -1961,11 +1931,11 @@
       {
         "id": "us7000ss5v",
         "magnitude": 5,
-        "latitude": 55.187,
-        "longitude": 165.3069,
+        "latitude": 55.1654,
+        "longitude": 165.3677,
         "depth_km": 10,
-        "time_ms": 1781153078172,
-        "place": "212 km SE of Ust’-Kamchatsk Staryy, Russia",
+        "time_ms": 1781153077933,
+        "place": "216 km SE of Ust’-Kamchatsk Staryy, Russia",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -1990,20 +1960,9 @@
         "place": "48 km ESE of Ol’ga, Russia",
         "country_code": "RU",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000srvv",
-        "magnitude": 5.1,
-        "latitude": 52.4303,
-        "longitude": 160.8508,
-        "depth_km": 10,
-        "time_ms": 1781034544399,
-        "place": "165 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 7.2
+    "seismic_hub_risk_score": 6.63
   },
   {
     "country": "",
@@ -2030,7 +1989,7 @@
     "highest_pager_alert": "orange",
     "max_felt_reports": 1,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 3,
     "exposed_airports": [
       {
         "name": "Chengdu Tianfu International Airport",
@@ -2260,22 +2219,22 @@
       {
         "id": "us7000stcs",
         "magnitude": 5.4,
-        "latitude": 37.6989,
-        "longitude": 95.2125,
+        "latitude": 37.7544,
+        "longitude": 95.2738,
         "depth_km": 10,
-        "time_ms": 1781603126434,
-        "place": "277 km S of Dunhuang, China",
+        "time_ms": 1781603126194,
+        "place": "272 km S of Dunhuang, China",
         "country_code": "CN",
         "shakemap_available": true
       },
       {
         "id": "us7000std2",
         "magnitude": 5.2,
-        "latitude": 38.0579,
-        "longitude": 95.4312,
+        "latitude": 37.986,
+        "longitude": 95.385,
         "depth_km": 10,
-        "time_ms": 1781602955214,
-        "place": "242 km SSE of Dunhuang, China",
+        "time_ms": 1781602955101,
+        "place": "249 km SSE of Dunhuang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -2307,13 +2266,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 16,
-    "avg_magnitude": 5.35,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-06-16",
-      "depth_km": 10,
-      "latitude": -1.1173,
-      "longitude": 120.199
+      "depth_km": 11,
+      "latitude": -1.1245,
+      "longitude": 120.1842
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 9,
@@ -2486,12 +2445,12 @@
       },
       {
         "id": "us6000t8qv",
-        "magnitude": 5.1,
-        "latitude": -6.2095,
-        "longitude": 104.6082,
-        "depth_km": 10,
-        "time_ms": 1782594626101,
-        "place": "112 km SW of Bandar Lampung, Indonesia",
+        "magnitude": 5,
+        "latitude": -6.0545,
+        "longitude": 104.7911,
+        "depth_km": 61.721,
+        "time_ms": 1782594633314,
+        "place": "86 km SW of Bandar Lampung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2520,11 +2479,11 @@
       {
         "id": "us7000surx",
         "magnitude": 5,
-        "latitude": -4.913,
-        "longitude": 102.9796,
-        "depth_km": 55.123,
-        "time_ms": 1781919607238,
-        "place": "102 km SSW of Pagar Alam, Indonesia",
+        "latitude": -4.7985,
+        "longitude": 102.9775,
+        "depth_km": 66.267,
+        "time_ms": 1781919608687,
+        "place": "90 km SSW of Pagar Alam, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2553,33 +2512,33 @@
       {
         "id": "us7000sta1",
         "magnitude": 5.1,
-        "latitude": -1.1746,
-        "longitude": 120.2257,
+        "latitude": -1.2567,
+        "longitude": 120.1735,
         "depth_km": 10,
-        "time_ms": 1781583241591,
-        "place": "49 km SE of Palu, Indonesia",
+        "time_ms": 1781583241306,
+        "place": "51 km SE of Palu, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us7000st96",
         "magnitude": 5.2,
-        "latitude": -1.1104,
-        "longitude": 120.2135,
+        "latitude": -1.0839,
+        "longitude": 120.2364,
         "depth_km": 10,
-        "time_ms": 1781580653802,
-        "place": "44 km ESE of Palu, Indonesia",
+        "time_ms": 1781580653198,
+        "place": "45 km ESE of Palu, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us7000st95",
         "magnitude": 6.7,
-        "latitude": -1.1173,
-        "longitude": 120.199,
-        "depth_km": 10,
-        "time_ms": 1781580464418,
-        "place": "43 km ESE of Palu, Indonesia",
+        "latitude": -1.1245,
+        "longitude": 120.1842,
+        "depth_km": 11,
+        "time_ms": 1781580464379,
+        "place": "42 km SE of Palu, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
