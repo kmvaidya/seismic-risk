@@ -22,7 +22,7 @@
       "longitude": -68.5036
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 730,
+    "max_felt_reports": 732,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -796,8 +796,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 19,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-06-26",
@@ -806,7 +806,7 @@
       "longitude": 125.1965
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 55,
+    "max_felt_reports": 57,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -999,6 +999,32 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000szq0",
+            "magnitude": 5.4,
+            "latitude": 5.0334,
+            "longitude": 125.4897,
+            "depth_km": 57.099,
+            "time_ms": 1783767072845,
+            "place": "41 km S of Sarangani, Philippines",
+            "distance_km": 121.9,
+            "exposure_contribution": 0.92,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000szri",
+            "magnitude": 5.2,
+            "latitude": 4.9407,
+            "longitude": 125.2447,
+            "depth_km": 61.682,
+            "time_ms": 1783792171928,
+            "place": "56 km SSW of Sarangani, Philippines",
+            "distance_km": 125.2,
+            "exposure_contribution": 0.69,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tadj",
             "magnitude": 5.4,
             "latitude": 4.9091,
@@ -1012,45 +1038,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000ss57",
-            "magnitude": 5.4,
-            "latitude": 4.9194,
-            "longitude": 125.3665,
-            "depth_km": 57.994,
-            "time_ms": 1781142975517,
-            "place": "54 km SSW of Sarangani, Philippines",
-            "distance_km": 130.0,
-            "exposure_contribution": 0.84,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ss6g",
-            "magnitude": 5.4,
-            "latitude": 4.9094,
-            "longitude": 125.4266,
-            "depth_km": 60.918,
-            "time_ms": 1781163202122,
-            "place": "54 km S of Sarangani, Philippines",
-            "distance_km": 132.8,
-            "exposure_contribution": 0.81,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ss60",
-            "magnitude": 5,
-            "latitude": 4.8694,
-            "longitude": 125.5184,
-            "depth_km": 69.87,
-            "time_ms": 1781156327300,
-            "place": "59 km S of Sarangani, Philippines",
-            "distance_km": 140.1,
-            "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000ssje",
             "magnitude": 5.2,
             "latitude": 4.807,
@@ -1060,19 +1047,6 @@
             "place": "67 km S of Sarangani, Philippines",
             "distance_km": 141.8,
             "exposure_contribution": 0.64,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ss7v",
-            "magnitude": 5,
-            "latitude": 4.7894,
-            "longitude": 125.5946,
-            "depth_km": 52.436,
-            "time_ms": 1781178419149,
-            "place": "69 km SSE of Sarangani, Philippines",
-            "distance_km": 151.4,
-            "exposure_contribution": 0.44,
             "pga_g": null,
             "mmi": null
           },
@@ -1103,7 +1077,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 22.63
+        "exposure_score": 21.7
       },
       {
         "name": "Bohol-Panglao International Airport",
@@ -1227,6 +1201,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000szri",
+        "magnitude": 5.2,
+        "latitude": 4.9407,
+        "longitude": 125.2447,
+        "depth_km": 61.682,
+        "time_ms": 1783792171928,
+        "place": "56 km SSW of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000szq0",
+        "magnitude": 5.4,
+        "latitude": 5.0334,
+        "longitude": 125.4897,
+        "depth_km": 57.099,
+        "time_ms": 1783767072845,
+        "place": "41 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
       {
         "id": "us7000sz8l",
         "magnitude": 5,
@@ -1413,53 +1409,9 @@
         "place": "67 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000ss7v",
-        "magnitude": 5,
-        "latitude": 4.7894,
-        "longitude": 125.5946,
-        "depth_km": 52.436,
-        "time_ms": 1781178419149,
-        "place": "69 km SSE of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss6g",
-        "magnitude": 5.4,
-        "latitude": 4.9094,
-        "longitude": 125.4266,
-        "depth_km": 60.918,
-        "time_ms": 1781163202122,
-        "place": "54 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ss60",
-        "magnitude": 5,
-        "latitude": 4.8694,
-        "longitude": 125.5184,
-        "depth_km": 69.87,
-        "time_ms": 1781156327300,
-        "place": "59 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss57",
-        "magnitude": 5.4,
-        "latitude": 4.9194,
-        "longitude": 125.3665,
-        "depth_km": 57.994,
-        "time_ms": 1781142975517,
-        "place": "54 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 29.53
+    "seismic_hub_risk_score": 28.6
   },
   {
     "country": "",
@@ -1624,8 +1576,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.62,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.8,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-06-19",
@@ -1710,22 +1662,9 @@
             "exposure_contribution": 0.45,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ss75",
-            "magnitude": 5,
-            "latitude": 52.2591,
-            "longitude": 160.712,
-            "depth_km": 10,
-            "time_ms": 1781172032939,
-            "place": "167 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 182.8,
-            "exposure_contribution": 0.35,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 6.08
+        "exposure_score": 5.73
       }
     ],
     "earthquakes": [
@@ -1805,31 +1744,9 @@
         "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000ss75",
-        "magnitude": 5,
-        "latitude": 52.2591,
-        "longitude": 160.712,
-        "depth_km": 10,
-        "time_ms": 1781172032939,
-        "place": "167 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss5v",
-        "magnitude": 5,
-        "latitude": 55.1654,
-        "longitude": 165.3677,
-        "depth_km": 10,
-        "time_ms": 1781153077933,
-        "place": "216 km SE of Ust’-Kamchatsk Staryy, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 6.08
+    "seismic_hub_risk_score": 5.73
   },
   {
     "country": "",
@@ -1844,8 +1761,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-06-16",
@@ -1864,31 +1781,18 @@
         "latitude": 30.31252,
         "longitude": 104.441284,
         "municipality": "Chengdu (Jianyang)",
-        "closest_quake_distance_km": 138.5,
+        "closest_quake_distance_km": 145.3,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000taa2",
-            "magnitude": 5,
-            "latitude": 31.5223,
-            "longitude": 104.0978,
-            "depth_km": 10,
-            "time_ms": 1783263807206,
-            "place": "23 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "distance_km": 138.5,
-            "exposure_contribution": 0.56,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000taaa",
             "magnitude": 5,
-            "latitude": 31.5649,
-            "longitude": 104.126,
+            "latitude": 31.5778,
+            "longitude": 104.0599,
             "depth_km": 10,
-            "time_ms": 1783265413631,
-            "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "distance_km": 142.5,
-            "exposure_contribution": 0.53,
+            "time_ms": 1783265413662,
+            "place": "30 km NNW of Mianzhu, Deyang, Sichuan, China",
+            "distance_km": 145.3,
+            "exposure_contribution": 0.51,
             "pga_g": null,
             "mmi": null
           },
@@ -1932,7 +1836,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.16
+        "exposure_score": 1.59
       },
       {
         "name": "Chengdu Shuangliu International Airport",
@@ -1940,36 +1844,23 @@
         "latitude": 30.558257,
         "longitude": 103.945966,
         "municipality": "Chengdu (Shuangliu)",
-        "closest_quake_distance_km": 108.2,
+        "closest_quake_distance_km": 113.9,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000taa2",
-            "magnitude": 5,
-            "latitude": 31.5223,
-            "longitude": 104.0978,
-            "depth_km": 10,
-            "time_ms": 1783263807206,
-            "place": "23 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "distance_km": 108.2,
-            "exposure_contribution": 0.81,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000taaa",
             "magnitude": 5,
-            "latitude": 31.5649,
-            "longitude": 104.126,
+            "latitude": 31.5778,
+            "longitude": 104.0599,
             "depth_km": 10,
-            "time_ms": 1783265413631,
-            "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "distance_km": 113.2,
-            "exposure_contribution": 0.76,
+            "time_ms": 1783265413662,
+            "place": "30 km NNW of Mianzhu, Deyang, Sichuan, China",
+            "distance_km": 113.9,
+            "exposure_contribution": 0.75,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.57
+        "exposure_score": 0.75
       }
     ],
     "earthquakes": [
@@ -2009,22 +1900,11 @@
       {
         "id": "us6000taaa",
         "magnitude": 5,
-        "latitude": 31.5649,
-        "longitude": 104.126,
+        "latitude": 31.5778,
+        "longitude": 104.0599,
         "depth_km": 10,
-        "time_ms": 1783265413631,
-        "place": "26 km NNW of Mianzhu, Deyang, Sichuan, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000taa2",
-        "magnitude": 5,
-        "latitude": 31.5223,
-        "longitude": 104.0978,
-        "depth_km": 10,
-        "time_ms": 1783263807206,
-        "place": "23 km NNW of Mianzhu, Deyang, Sichuan, China",
+        "time_ms": 1783265413662,
+        "place": "30 km NNW of Mianzhu, Deyang, Sichuan, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -2117,7 +1997,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.73
+    "seismic_hub_risk_score": 2.34
   },
   {
     "country": "",
@@ -2436,14 +2316,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.13,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.03,
     "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-06-11",
-      "depth_km": 9,
-      "latitude": -27.7955,
-      "longitude": -71.6701
+      "magnitude": 5.1,
+      "date": "2026-07-06",
+      "depth_km": 21.0,
+      "latitude": -32.5446,
+      "longitude": -71.8252
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2490,22 +2370,11 @@
       {
         "id": "us6000taab",
         "magnitude": 5,
-        "latitude": -29.1964,
-        "longitude": -72.0113,
+        "latitude": -29.314,
+        "longitude": -72.0193,
         "depth_km": 10,
-        "time_ms": 1783266813718,
-        "place": "106 km NW of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ta9n",
-        "magnitude": 5,
-        "latitude": -29.2333,
-        "longitude": -71.9385,
-        "depth_km": 10,
-        "time_ms": 1783262524314,
-        "place": "98 km NW of Coquimbo, Chile",
+        "time_ms": 1783266814305,
+        "place": "96 km NW of Coquimbo, Chile",
         "country_code": "CL",
         "shakemap_available": false
       },
@@ -2519,42 +2388,98 @@
         "place": "43 km SW of Ovalle, Chile",
         "country_code": "CL",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000ss82",
-        "magnitude": 5.5,
-        "latitude": -27.7955,
-        "longitude": -71.6701,
-        "depth_km": 9,
-        "time_ms": 1781180526893,
-        "place": "124 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ss7x",
-        "magnitude": 5.1,
-        "latitude": -27.8253,
-        "longitude": -71.6445,
-        "depth_km": 10,
-        "time_ms": 1781179588993,
-        "place": "120 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ss5y",
-        "magnitude": 5.2,
-        "latitude": -27.8375,
-        "longitude": -71.6251,
-        "depth_km": 10.001,
-        "time_ms": 1781155184524,
-        "place": "118 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.64
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.07,
+    "strongest_earthquake": {
+      "magnitude": 5.1,
+      "date": "2026-07-11",
+      "depth_km": 10,
+      "latitude": -10.8592,
+      "longitude": -79.0295
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 60.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t9bv",
+            "magnitude": 5,
+            "latitude": -8.8555,
+            "longitude": -74.831,
+            "depth_km": 130.525,
+            "time_ms": 1782871238195,
+            "place": "16 km WNW of Tournavista, Peru",
+            "distance_km": 60.1,
+            "exposure_contribution": 0.53,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.53
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000sznq",
+        "magnitude": 5.1,
+        "latitude": -10.8592,
+        "longitude": -79.0295,
+        "depth_km": 10,
+        "time_ms": 1783756707116,
+        "place": "129 km SW of Huarmey, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t9bv",
+        "magnitude": 5,
+        "latitude": -8.8555,
+        "longitude": -74.831,
+        "depth_km": 130.525,
+        "time_ms": 1782871238195,
+        "place": "16 km WNW of Tournavista, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ssms",
+        "magnitude": 5.1,
+        "latitude": -4.5468,
+        "longitude": -80.0698,
+        "depth_km": 80.617,
+        "time_ms": 1781332539995,
+        "place": "8 km WSW of Suyo, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.53
   },
   {
     "country": "",
