@@ -22,7 +22,7 @@
       "longitude": -68.5036
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 733,
+    "max_felt_reports": 734,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -797,7 +797,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 18,
-    "avg_magnitude": 5.33,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-06-26",
@@ -806,10 +806,34 @@
       "longitude": 125.1965
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 60,
+    "max_felt_reports": 61,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
+      {
+        "name": "Bicol International Airport",
+        "iata_code": "DRP",
+        "latitude": 13.111915,
+        "longitude": 123.676829,
+        "municipality": "Legazpi",
+        "closest_quake_distance_km": 77.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000szyr",
+            "magnitude": 5.4,
+            "latitude": 12.7921,
+            "longitude": 123.0436,
+            "depth_km": 10,
+            "time_ms": 1783904042072,
+            "place": "24 km W of Mabiton, Philippines",
+            "distance_km": 77.3,
+            "exposure_contribution": 2.1,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.1
+      },
       {
         "name": "Francisco Bangoy International Airport",
         "iata_code": "DVO",
@@ -858,19 +882,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000ssls",
-            "magnitude": 5.2,
-            "latitude": 5.6814,
-            "longitude": 125.2416,
-            "depth_km": 68.638,
-            "time_ms": 1781316353032,
-            "place": "4 km SSW of Burias, Philippines",
-            "distance_km": 166.7,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000st48",
             "magnitude": 5.5,
             "latitude": 5.6677,
@@ -880,6 +891,19 @@
             "place": "6 km SSW of Burias, Philippines",
             "distance_km": 168.4,
             "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t048",
+            "magnitude": 5,
+            "latitude": 5.577,
+            "longitude": 125.4626,
+            "depth_km": 20.408,
+            "time_ms": 1783964669061,
+            "place": "5 km SE of Butulan, Philippines",
+            "distance_km": 173.4,
+            "exposure_contribution": 0.38,
             "pga_g": null,
             "mmi": null
           },
@@ -897,7 +921,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.42
+        "exposure_score": 3.35
       },
       {
         "name": "General Santos International Airport",
@@ -921,19 +945,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000ssls",
-            "magnitude": 5.2,
-            "latitude": 5.6814,
-            "longitude": 125.2416,
-            "depth_km": 68.638,
-            "time_ms": 1781316353032,
-            "place": "4 km SSW of Burias, Philippines",
-            "distance_km": 44.8,
-            "exposure_contribution": 1.55,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000st48",
             "magnitude": 5.5,
             "latitude": 5.6677,
@@ -943,6 +954,19 @@
             "place": "6 km SSW of Burias, Philippines",
             "distance_km": 45.9,
             "exposure_contribution": 1.9,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t048",
+            "magnitude": 5,
+            "latitude": 5.577,
+            "longitude": 125.4626,
+            "depth_km": 20.408,
+            "time_ms": 1783964669061,
+            "place": "5 km SE of Butulan, Philippines",
+            "distance_km": 67.0,
+            "exposure_contribution": 1.54,
             "pga_g": null,
             "mmi": null
           },
@@ -971,19 +995,6 @@
             "exposure_contribution": 8.27,
             "pga_g": 0.082728,
             "mmi": 5.7
-          },
-          {
-            "earthquake_id": "us7000ssqy",
-            "magnitude": 5.1,
-            "latitude": 5.2862,
-            "longitude": 125.6622,
-            "depth_km": 35,
-            "time_ms": 1781383915744,
-            "place": "25 km ESE of Sarangani, Philippines",
-            "distance_km": 106.2,
-            "exposure_contribution": 0.87,
-            "pga_g": null,
-            "mmi": null
           },
           {
             "earthquake_id": "us6000tadc",
@@ -1064,7 +1075,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 21.06
+        "exposure_score": 20.17
       },
       {
         "name": "Bohol-Panglao International Airport",
@@ -1144,8 +1155,21 @@
         "latitude": 11.6794,
         "longitude": 122.375999,
         "municipality": "Kalibo",
-        "closest_quake_distance_km": 165.3,
+        "closest_quake_distance_km": 143.4,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000szyr",
+            "magnitude": 5.4,
+            "latitude": 12.7921,
+            "longitude": 123.0436,
+            "depth_km": 10,
+            "time_ms": 1783904042072,
+            "place": "24 km W of Mabiton, Philippines",
+            "distance_km": 143.4,
+            "exposure_contribution": 0.83,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000ssv0",
             "magnitude": 5.1,
@@ -1160,7 +1184,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.47
+        "exposure_score": 1.3
       },
       {
         "name": "Mactan Cebu International Airport",
@@ -1188,6 +1212,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t048",
+        "magnitude": 5,
+        "latitude": 5.577,
+        "longitude": 125.4626,
+        "depth_km": 20.408,
+        "time_ms": 1783964669061,
+        "place": "5 km SE of Butulan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000szyr",
+        "magnitude": 5.4,
+        "latitude": 12.7921,
+        "longitude": 123.0436,
+        "depth_km": 10,
+        "time_ms": 1783904042072,
+        "place": "24 km W of Mabiton, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
       {
         "id": "us7000szri",
         "magnitude": 5.2,
@@ -1363,181 +1409,9 @@
         "place": "58 km ESE of Marihatag, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000ssqy",
-        "magnitude": 5.1,
-        "latitude": 5.2862,
-        "longitude": 125.6622,
-        "depth_km": 35,
-        "time_ms": 1781383915744,
-        "place": "25 km ESE of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ssls",
-        "magnitude": 5.2,
-        "latitude": 5.6814,
-        "longitude": 125.2416,
-        "depth_km": 68.638,
-        "time_ms": 1781316353032,
-        "place": "4 km SSW of Burias, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 27.96
-  },
-  {
-    "country": "",
-    "iso_alpha2": "MX",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.47,
-    "strongest_earthquake": {
-      "magnitude": 6,
-      "date": "2026-06-30",
-      "depth_km": 10,
-      "latitude": 24.8088,
-      "longitude": -108.8902
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "General Juan N. Álvarez International Airport",
-        "iata_code": "ACA",
-        "latitude": 16.757126,
-        "longitude": -99.753113,
-        "municipality": "Acapulco",
-        "closest_quake_distance_km": 13.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ssq9",
-            "magnitude": 5.1,
-            "latitude": 16.7591,
-            "longitude": -99.6271,
-            "depth_km": 10,
-            "time_ms": 1781374842578,
-            "place": "1 km S of Cerro de Piedra, Mexico",
-            "distance_km": 13.4,
-            "exposure_contribution": 10.71,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 10.71
-      },
-      {
-        "name": "Bachigualato Federal International Airport",
-        "iata_code": "CUL",
-        "latitude": 24.76504,
-        "longitude": -107.475228,
-        "municipality": "Culiacán",
-        "closest_quake_distance_km": 142.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t99j",
-            "magnitude": 6,
-            "latitude": 24.8088,
-            "longitude": -108.8902,
-            "depth_km": 10,
-            "time_ms": 1782848739422,
-            "place": "75 km SSW of El Progreso, Mexico",
-            "distance_km": 142.9,
-            "exposure_contribution": 1.67,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t9a4",
-            "magnitude": 5.3,
-            "latitude": 24.6386,
-            "longitude": -109.0242,
-            "depth_km": 10,
-            "time_ms": 1782853294001,
-            "place": "98 km SSW of El Progreso, Mexico",
-            "distance_km": 157.1,
-            "exposure_contribution": 0.64,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.31
-      },
-      {
-        "name": "Los Cabos International Airport",
-        "iata_code": "SJD",
-        "latitude": 23.151919,
-        "longitude": -109.720731,
-        "municipality": "San José del Cabo",
-        "closest_quake_distance_km": 179.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9a4",
-            "magnitude": 5.3,
-            "latitude": 24.6386,
-            "longitude": -109.0242,
-            "depth_km": 10,
-            "time_ms": 1782853294001,
-            "place": "98 km SSW of El Progreso, Mexico",
-            "distance_km": 179.8,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.51
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t9a4",
-        "magnitude": 5.3,
-        "latitude": 24.6386,
-        "longitude": -109.0242,
-        "depth_km": 10,
-        "time_ms": 1782853294001,
-        "place": "98 km SSW of El Progreso, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t99j",
-        "magnitude": 6,
-        "latitude": 24.8088,
-        "longitude": -108.8902,
-        "depth_km": 10,
-        "time_ms": 1782848739422,
-        "place": "75 km SSW of El Progreso, Mexico",
-        "country_code": "MX",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ssq9",
-        "magnitude": 5.1,
-        "latitude": 16.7591,
-        "longitude": -99.6271,
-        "depth_km": 10,
-        "time_ms": 1781374842578,
-        "place": "1 km S of Cerro de Piedra, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 13.53
+    "seismic_hub_risk_score": 29.93
   },
   {
     "country": "",
@@ -1988,8 +1862,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 17,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-06-16",
@@ -2025,30 +1899,6 @@
           }
         ],
         "exposure_score": 0.45
-      },
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 145.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ssp2",
-            "magnitude": 5.1,
-            "latitude": 1.0872,
-            "longitude": 126.1509,
-            "depth_km": 35,
-            "time_ms": 1781352334183,
-            "place": "120 km ESE of Bitung, Indonesia",
-            "distance_km": 145.5,
-            "exposure_contribution": 0.55,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.55
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -2286,20 +2136,9 @@
         "place": "42 km SE of Palu, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000ssp2",
-        "magnitude": 5.1,
-        "latitude": 1.0872,
-        "longitude": 126.1509,
-        "depth_km": 35,
-        "time_ms": 1781352334183,
-        "place": "120 km ESE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.91
+    "seismic_hub_risk_score": 1.36
   },
   {
     "country": "",
@@ -2400,95 +2239,6 @@
       }
     ],
     "seismic_hub_risk_score": 0.64
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.07,
-    "strongest_earthquake": {
-      "magnitude": 5.1,
-      "date": "2026-07-11",
-      "depth_km": 10,
-      "latitude": -10.8592,
-      "longitude": -79.0295
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 60.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9bv",
-            "magnitude": 5,
-            "latitude": -8.8555,
-            "longitude": -74.831,
-            "depth_km": 130.525,
-            "time_ms": 1782871238195,
-            "place": "16 km WNW of Tournavista, Peru",
-            "distance_km": 60.1,
-            "exposure_contribution": 0.53,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.53
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000sznq",
-        "magnitude": 5.1,
-        "latitude": -10.8592,
-        "longitude": -79.0295,
-        "depth_km": 10,
-        "time_ms": 1783756707116,
-        "place": "129 km SW of Huarmey, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t9bv",
-        "magnitude": 5,
-        "latitude": -8.8555,
-        "longitude": -74.831,
-        "depth_km": 130.525,
-        "time_ms": 1782871238195,
-        "place": "16 km WNW of Tournavista, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ssms",
-        "magnitude": 5.1,
-        "latitude": -4.5468,
-        "longitude": -80.0698,
-        "depth_km": 80.617,
-        "time_ms": 1781332539995,
-        "place": "8 km WSW of Suyo, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.53
   },
   {
     "country": "",
@@ -2691,19 +2441,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-06-25",
-      "depth_km": 33,
-      "latitude": -4.3413,
-      "longitude": 152.9318
+      "magnitude": 6.4,
+      "date": "2026-07-13",
+      "depth_km": 10,
+      "latitude": -3.2207,
+      "longitude": 148.5218
     },
-    "highest_pager_alert": null,
+    "highest_pager_alert": "green",
     "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Nadzab Tomodachi International Airport",
@@ -2731,6 +2481,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000szzy",
+        "magnitude": 6.4,
+        "latitude": -3.2207,
+        "longitude": 148.5218,
+        "depth_km": 10,
+        "time_ms": 1783932807913,
+        "place": "191 km SE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tawr",
         "magnitude": 5,
@@ -2802,8 +2563,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 5.59,
       "date": "2026-06-24",
@@ -2883,28 +2644,6 @@
         "depth_km": 31.491,
         "time_ms": 1781791107164,
         "place": "212 km WSW of Adak, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ssnz",
-        "magnitude": 5.2,
-        "latitude": 51.4616,
-        "longitude": -179.5055,
-        "depth_km": 46.957,
-        "time_ms": 1781349895836,
-        "place": "203 km WSW of Adak, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ssnv",
-        "magnitude": 5,
-        "latitude": 53.1458,
-        "longitude": -167.0294,
-        "depth_km": 52.008,
-        "time_ms": 1781347128540,
-        "place": "87 km SSW of Unalaska, Alaska",
         "country_code": "US",
         "shakemap_available": true
       }
