@@ -22,7 +22,7 @@
       "longitude": -68.5036
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 769,
+    "max_felt_reports": 771,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1293,226 +1293,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.63,
-    "strongest_earthquake": {
-      "magnitude": 6.6,
-      "date": "2026-06-19",
-      "depth_km": 10,
-      "latitude": 52.7912,
-      "longitude": 160.7824
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 161.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sui3",
-            "magnitude": 6.6,
-            "latitude": 52.7912,
-            "longitude": 160.7824,
-            "depth_km": 10,
-            "time_ms": 1781851951675,
-            "place": "148 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 161.6,
-            "exposure_contribution": 2.72,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000sui2",
-            "magnitude": 6,
-            "latitude": 52.7342,
-            "longitude": 160.883,
-            "depth_km": 10,
-            "time_ms": 1781851888648,
-            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 169.9,
-            "exposure_contribution": 1.25,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000susb",
-            "magnitude": 5.8,
-            "latitude": 52.6568,
-            "longitude": 160.8523,
-            "depth_km": 35,
-            "time_ms": 1781927346584,
-            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 170.8,
-            "exposure_contribution": 0.96,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t85p",
-            "magnitude": 5,
-            "latitude": 52.7216,
-            "longitude": 160.9303,
-            "depth_km": 10,
-            "time_ms": 1781852163094,
-            "place": "159 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 173.4,
-            "exposure_contribution": 0.38,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000suii",
-            "magnitude": 5.8,
-            "latitude": 52.8032,
-            "longitude": 161.0383,
-            "depth_km": 10,
-            "time_ms": 1781855577678,
-            "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 177.9,
-            "exposure_contribution": 0.92,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000suik",
-            "magnitude": 5.2,
-            "latitude": 52.7246,
-            "longitude": 161.0403,
-            "depth_km": 10,
-            "time_ms": 1781856220712,
-            "place": "166 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 180.4,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 6.68
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000t0k1",
-        "magnitude": 5.1,
-        "latitude": 51.3809,
-        "longitude": 159.5815,
-        "depth_km": 10,
-        "time_ms": 1784083338066,
-        "place": "190 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ta86",
-        "magnitude": 5.3,
-        "latitude": 49.9673,
-        "longitude": 156.0825,
-        "depth_km": 76.899,
-        "time_ms": 1783237026204,
-        "place": "78 km S of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t9tf",
-        "magnitude": 5.9,
-        "latitude": 48.3001,
-        "longitude": 154.2634,
-        "depth_km": 75.804,
-        "time_ms": 1783066973615,
-        "place": "296 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000susb",
-        "magnitude": 5.8,
-        "latitude": 52.6568,
-        "longitude": 160.8523,
-        "depth_km": 35,
-        "time_ms": 1781927346584,
-        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000suik",
-        "magnitude": 5.2,
-        "latitude": 52.7246,
-        "longitude": 161.0403,
-        "depth_km": 10,
-        "time_ms": 1781856220712,
-        "place": "166 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000suii",
-        "magnitude": 5.8,
-        "latitude": 52.8032,
-        "longitude": 161.0383,
-        "depth_km": 10,
-        "time_ms": 1781855577678,
-        "place": "164 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t85p",
-        "magnitude": 5,
-        "latitude": 52.7216,
-        "longitude": 160.9303,
-        "depth_km": 10,
-        "time_ms": 1781852163094,
-        "place": "159 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sui3",
-        "magnitude": 6.6,
-        "latitude": 52.7912,
-        "longitude": 160.7824,
-        "depth_km": 10,
-        "time_ms": 1781851951675,
-        "place": "148 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sui2",
-        "magnitude": 6,
-        "latitude": 52.7342,
-        "longitude": 160.883,
-        "depth_km": 10,
-        "time_ms": 1781851888648,
-        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 6.68
-  },
-  {
-    "country": "",
     "iso_alpha2": "GR",
     "iso_alpha3": "",
     "capital": "",
@@ -1737,7 +1517,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 19,
+    "earthquake_count": 22,
     "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.3,
@@ -1814,6 +1594,39 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t1tp",
+        "magnitude": 5.5,
+        "latitude": 14.1592,
+        "longitude": -92.9052,
+        "depth_km": 35,
+        "time_ms": 1784483116923,
+        "place": "81 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t1q6",
+        "magnitude": 5.3,
+        "latitude": 14.292,
+        "longitude": -92.7591,
+        "depth_km": 19.593,
+        "time_ms": 1784427534767,
+        "place": "59 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1q3",
+        "magnitude": 5.3,
+        "latitude": 14.1155,
+        "longitude": -92.9167,
+        "depth_km": 10,
+        "time_ms": 1784425644332,
+        "place": "85 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t1n5",
         "magnitude": 5.7,
@@ -2359,6 +2172,167 @@
   },
   {
     "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.4,
+    "strongest_earthquake": {
+      "magnitude": 5.6,
+      "date": "2026-07-14",
+      "depth_km": 140.1,
+      "latitude": -14.5779,
+      "longitude": -71.4358
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 11,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Jorge Chávez International Airport",
+        "iata_code": "LIM",
+        "latitude": -12.0219,
+        "longitude": -77.114305,
+        "municipality": "Lima",
+        "closest_quake_distance_km": 197.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t1q7",
+            "magnitude": 5.5,
+            "latitude": -12.0429,
+            "longitude": -75.3013,
+            "depth_km": 10,
+            "time_ms": 1784427876324,
+            "place": "2 km WSW of Sicaya, Peru",
+            "distance_km": 197.2,
+            "exposure_contribution": 0.35,
+            "pga_g": 0.003496,
+            "mmi": 3.0
+          }
+        ],
+        "exposure_score": 0.35
+      },
+      {
+        "name": "Inca Manco Capac International Airport",
+        "iata_code": "JUL",
+        "latitude": -15.467689,
+        "longitude": -70.15653,
+        "municipality": "Juliaca",
+        "closest_quake_distance_km": 169.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t0a3",
+            "magnitude": 5.6,
+            "latitude": -14.5779,
+            "longitude": -71.4358,
+            "depth_km": 140.088,
+            "time_ms": 1784017266499,
+            "place": "11 km N of Pichigua, Peru",
+            "distance_km": 169.3,
+            "exposure_contribution": 0.5,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.5
+      },
+      {
+        "name": "Rodríguez Ballón International Airport",
+        "iata_code": "AQP",
+        "latitude": -16.340786,
+        "longitude": -71.569485,
+        "municipality": "Arequipa",
+        "closest_quake_distance_km": 196.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t0a3",
+            "magnitude": 5.6,
+            "latitude": -14.5779,
+            "longitude": -71.4358,
+            "depth_km": 140.088,
+            "time_ms": 1784017266499,
+            "place": "11 km N of Pichigua, Peru",
+            "distance_km": 196.5,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      },
+      {
+        "name": "Alejandro Velasco Astete International Airport",
+        "iata_code": "CUZ",
+        "latitude": -13.5357,
+        "longitude": -71.938797,
+        "municipality": "Cusco",
+        "closest_quake_distance_km": 128.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t0a3",
+            "magnitude": 5.6,
+            "latitude": -14.5779,
+            "longitude": -71.4358,
+            "depth_km": 140.088,
+            "time_ms": 1784017266499,
+            "place": "11 km N of Pichigua, Peru",
+            "distance_km": 128.0,
+            "exposure_contribution": 0.66,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.66
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000t1q7",
+        "magnitude": 5.5,
+        "latitude": -12.0429,
+        "longitude": -75.3013,
+        "depth_km": 10,
+        "time_ms": 1784427876324,
+        "place": "2 km WSW of Sicaya, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t0a3",
+        "magnitude": 5.6,
+        "latitude": -14.5779,
+        "longitude": -71.4358,
+        "depth_km": 140.088,
+        "time_ms": 1784017266499,
+        "place": "11 km N of Pichigua, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sznq",
+        "magnitude": 5.1,
+        "latitude": -10.8592,
+        "longitude": -79.0295,
+        "depth_km": 10,
+        "time_ms": 1783756707116,
+        "place": "129 km SW of Huarmey, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.93
+  },
+  {
+    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -2438,23 +2412,23 @@
         "latitude": -6.12557,
         "longitude": 106.655998,
         "municipality": "Jakarta",
-        "closest_quake_distance_km": 189.9,
+        "closest_quake_distance_km": 183.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tary",
             "magnitude": 5.3,
-            "latitude": -6.7717,
-            "longitude": 105.0646,
-            "depth_km": 35,
-            "time_ms": 1783453492435,
-            "place": "95 km WSW of Labuan, Indonesia",
-            "distance_km": 189.9,
-            "exposure_contribution": 0.45,
+            "latitude": -6.628,
+            "longitude": 105.0792,
+            "depth_km": 32.655,
+            "time_ms": 1783453492097,
+            "place": "87 km WSW of Labuan, Indonesia",
+            "distance_km": 183.0,
+            "exposure_contribution": 0.48,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.45
+        "exposure_score": 0.48
       }
     ],
     "earthquakes": [
@@ -2483,11 +2457,11 @@
       {
         "id": "us6000tary",
         "magnitude": 5.3,
-        "latitude": -6.7717,
-        "longitude": 105.0646,
-        "depth_km": 35,
-        "time_ms": 1783453492435,
-        "place": "95 km WSW of Labuan, Indonesia",
+        "latitude": -6.628,
+        "longitude": 105.0792,
+        "depth_km": 32.655,
+        "time_ms": 1783453492097,
+        "place": "87 km WSW of Labuan, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2591,7 +2565,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.36
+    "seismic_hub_risk_score": 1.39
   },
   {
     "country": "",
@@ -2716,6 +2690,117 @@
       }
     ],
     "seismic_hub_risk_score": 1.31
+  },
+  {
+    "country": "",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.48,
+    "strongest_earthquake": {
+      "magnitude": 5.9,
+      "date": "2026-07-03",
+      "depth_km": 75.8,
+      "latitude": 48.3001,
+      "longitude": 154.2634
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 170.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000susb",
+            "magnitude": 5.8,
+            "latitude": 52.6568,
+            "longitude": 160.8523,
+            "depth_km": 35,
+            "time_ms": 1781927346584,
+            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 170.8,
+            "exposure_contribution": 0.96,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.96
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000t1py",
+        "magnitude": 5.3,
+        "latitude": 51.3859,
+        "longitude": 159.6116,
+        "depth_km": 10,
+        "time_ms": 1784421579917,
+        "place": "190 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t0k1",
+        "magnitude": 5.1,
+        "latitude": 51.3809,
+        "longitude": 159.5815,
+        "depth_km": 10,
+        "time_ms": 1784083338066,
+        "place": "190 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ta86",
+        "magnitude": 5.3,
+        "latitude": 49.9673,
+        "longitude": 156.0825,
+        "depth_km": 76.899,
+        "time_ms": 1783237026204,
+        "place": "78 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t9tf",
+        "magnitude": 5.9,
+        "latitude": 48.3001,
+        "longitude": 154.2634,
+        "depth_km": 75.804,
+        "time_ms": 1783066973615,
+        "place": "296 km SSW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000susb",
+        "magnitude": 5.8,
+        "latitude": 52.6568,
+        "longitude": 160.8523,
+        "depth_km": 35,
+        "time_ms": 1781927346584,
+        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.96
   },
   {
     "country": "",
@@ -2877,7 +2962,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 14,
-    "avg_magnitude": 5.29,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-15",
@@ -3006,7 +3091,7 @@
       },
       {
         "id": "us6000t9hu",
-        "magnitude": 5.7,
+        "magnitude": 5.6,
         "latitude": -16.9598,
         "longitude": -174.8208,
         "depth_km": 259,
