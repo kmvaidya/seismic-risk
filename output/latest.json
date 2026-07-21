@@ -1293,219 +1293,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "GR",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.13,
-    "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-07-02",
-      "depth_km": 10,
-      "latitude": 35.3034,
-      "longitude": 27.2953
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Heraklion International Nikos Kazantzakis Airport",
-        "iata_code": "HER",
-        "latitude": 35.339699,
-        "longitude": 25.1803,
-        "municipality": "Heraklion",
-        "closest_quake_distance_km": 120.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sutj",
-            "magnitude": 5.2,
-            "latitude": 34.6999,
-            "longitude": 24.1141,
-            "depth_km": 10,
-            "time_ms": 1781948244186,
-            "place": "15 km S of Kastrí, Greece",
-            "distance_km": 120.4,
-            "exposure_contribution": 0.87,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t7tc",
-            "magnitude": 5,
-            "latitude": 35.2677,
-            "longitude": 27.2665,
-            "depth_km": 10,
-            "time_ms": 1782289554428,
-            "place": "26 km S of Karpathos, Greece",
-            "distance_km": 189.5,
-            "exposure_contribution": 0.33,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t9lz",
-            "magnitude": 5.2,
-            "latitude": 35.3034,
-            "longitude": 27.2953,
-            "depth_km": 10,
-            "time_ms": 1782990381727,
-            "place": "23 km SSE of Karpathos, Greece",
-            "distance_km": 191.9,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.6
-      },
-      {
-        "name": "Kos International Airport \"Ippokratis\"",
-        "iata_code": "KGS",
-        "latitude": 36.794523,
-        "longitude": 27.09115,
-        "municipality": "Kos Island",
-        "closest_quake_distance_km": 166.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9lz",
-            "magnitude": 5.2,
-            "latitude": 35.3034,
-            "longitude": 27.2953,
-            "depth_km": 10,
-            "time_ms": 1782990381727,
-            "place": "23 km SSE of Karpathos, Greece",
-            "distance_km": 166.8,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t7tc",
-            "magnitude": 5,
-            "latitude": 35.2677,
-            "longitude": 27.2665,
-            "depth_km": 10,
-            "time_ms": 1782289554428,
-            "place": "26 km S of Karpathos, Greece",
-            "distance_km": 170.5,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.91
-      },
-      {
-        "name": "Rhodes International Airport \"Diagoras\"",
-        "iata_code": "RHO",
-        "latitude": 36.405399,
-        "longitude": 28.086201,
-        "municipality": "Rhodes",
-        "closest_quake_distance_km": 141.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9lz",
-            "magnitude": 5.2,
-            "latitude": 35.3034,
-            "longitude": 27.2953,
-            "depth_km": 10,
-            "time_ms": 1782990381727,
-            "place": "23 km SSE of Karpathos, Greece",
-            "distance_km": 141.8,
-            "exposure_contribution": 0.67,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t7tc",
-            "magnitude": 5,
-            "latitude": 35.2677,
-            "longitude": 27.2665,
-            "depth_km": 10,
-            "time_ms": 1782289554428,
-            "place": "26 km S of Karpathos, Greece",
-            "distance_km": 146.5,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.18
-      },
-      {
-        "name": "Chania International Airport",
-        "iata_code": "CHQ",
-        "latitude": 35.531207,
-        "longitude": 24.150673,
-        "municipality": "Souda",
-        "closest_quake_distance_km": 92.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sutj",
-            "magnitude": 5.2,
-            "latitude": 34.6999,
-            "longitude": 24.1141,
-            "depth_km": 10,
-            "time_ms": 1781948244186,
-            "place": "15 km S of Kastrí, Greece",
-            "distance_km": 92.5,
-            "exposure_contribution": 1.29,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.29
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t9lz",
-        "magnitude": 5.2,
-        "latitude": 35.3034,
-        "longitude": 27.2953,
-        "depth_km": 10,
-        "time_ms": 1782990381727,
-        "place": "23 km SSE of Karpathos, Greece",
-        "country_code": "GR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t7tc",
-        "magnitude": 5,
-        "latitude": 35.2677,
-        "longitude": 27.2665,
-        "depth_km": 10,
-        "time_ms": 1782289554428,
-        "place": "26 km S of Karpathos, Greece",
-        "country_code": "GR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sutj",
-        "magnitude": 5.2,
-        "latitude": 34.6999,
-        "longitude": 24.1141,
-        "depth_km": 10,
-        "time_ms": 1781948244186,
-        "place": "15 km S of Kastrí, Greece",
-        "country_code": "GR",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 4.98
-  },
-  {
-    "country": "",
     "iso_alpha2": "MX",
     "iso_alpha3": "",
     "capital": "",
@@ -1518,7 +1305,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 22,
-    "avg_magnitude": 5.36,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-07-17",
@@ -1529,7 +1316,7 @@
     "highest_pager_alert": "yellow",
     "max_felt_reports": 286,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Bachigualato Federal International Airport",
@@ -1761,12 +1548,12 @@
       },
       {
         "id": "us7000t1cc",
-        "magnitude": 6,
-        "latitude": 14.2369,
-        "longitude": -93.0929,
+        "magnitude": 6.4,
+        "latitude": 14.308,
+        "longitude": -93.1039,
         "depth_km": 10,
-        "time_ms": 1784301606868,
-        "place": "90 km SW of Puerto Madero, Mexico",
+        "time_ms": 1784301607228,
+        "place": "86 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": true
       },
@@ -1852,8 +1639,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-16",
@@ -1916,6 +1703,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t21e",
+        "magnitude": 5,
+        "latitude": -32.759,
+        "longitude": -178.0878,
+        "depth_km": 10,
+        "time_ms": 1784580259902,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t1jp",
         "magnitude": 5.2,
@@ -2345,7 +2143,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 12,
-    "avg_magnitude": 5.32,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-07-03",
@@ -2432,6 +2230,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t1wm",
+        "magnitude": 5.1,
+        "latitude": 1.6021,
+        "longitude": 127.2659,
+        "depth_km": 69.965,
+        "time_ms": 1784540443255,
+        "place": "83 km W of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000szvv",
         "magnitude": 5.4,
@@ -2550,17 +2359,6 @@
         "depth_km": 65.584,
         "time_ms": 1782546443012,
         "place": "114 km SSW of Trenggalek, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000surx",
-        "magnitude": 5,
-        "latitude": -4.7985,
-        "longitude": 102.9775,
-        "depth_km": 66.267,
-        "time_ms": 1781919608687,
-        "place": "90 km SSW of Pagar Alam, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       }
@@ -2690,117 +2488,6 @@
       }
     ],
     "seismic_hub_risk_score": 1.31
-  },
-  {
-    "country": "",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.48,
-    "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-03",
-      "depth_km": 75.8,
-      "latitude": 48.3001,
-      "longitude": 154.2634
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 170.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000susb",
-            "magnitude": 5.8,
-            "latitude": 52.6568,
-            "longitude": 160.8523,
-            "depth_km": 35,
-            "time_ms": 1781927346584,
-            "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 170.8,
-            "exposure_contribution": 0.96,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.96
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000t1py",
-        "magnitude": 5.3,
-        "latitude": 51.3859,
-        "longitude": 159.6116,
-        "depth_km": 10,
-        "time_ms": 1784421579917,
-        "place": "190 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0k1",
-        "magnitude": 5.1,
-        "latitude": 51.3809,
-        "longitude": 159.5815,
-        "depth_km": 10,
-        "time_ms": 1784083338066,
-        "place": "190 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ta86",
-        "magnitude": 5.3,
-        "latitude": 49.9673,
-        "longitude": 156.0825,
-        "depth_km": 76.899,
-        "time_ms": 1783237026204,
-        "place": "78 km S of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t9tf",
-        "magnitude": 5.9,
-        "latitude": 48.3001,
-        "longitude": 154.2634,
-        "depth_km": 75.804,
-        "time_ms": 1783066973615,
-        "place": "296 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000susb",
-        "magnitude": 5.8,
-        "latitude": 52.6568,
-        "longitude": 160.8523,
-        "depth_km": 35,
-        "time_ms": 1781927346584,
-        "place": "156 km ESE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 0.96
   },
   {
     "country": "",
