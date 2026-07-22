@@ -214,14 +214,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 18,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-06-26",
       "depth_km": 42,
-      "latitude": 5.2392,
-      "longitude": 125.1965
+      "latitude": 5.2867,
+      "longitude": 125.0719
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 79,
@@ -287,6 +287,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000t2a7",
+            "magnitude": 5.1,
+            "latitude": 5.739,
+            "longitude": 125.4295,
+            "depth_km": 68.769,
+            "time_ms": 1784658807762,
+            "place": "7 km WNW of Kalbay, Philippines",
+            "distance_km": 156.0,
+            "exposure_contribution": 0.44,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000t0bm",
             "magnitude": 5.2,
             "latitude": 5.6727,
@@ -314,19 +327,19 @@
           },
           {
             "earthquake_id": "us6000ta14",
-            "magnitude": 5.2,
-            "latitude": 5.429,
-            "longitude": 125.1808,
+            "magnitude": 5,
+            "latitude": 5.4641,
+            "longitude": 125.2867,
             "depth_km": 10,
-            "time_ms": 1783131683141,
-            "place": "24 km SW of Balangonan, Philippines",
-            "distance_km": 195.5,
-            "exposure_contribution": 0.39,
+            "time_ms": 1783131682989,
+            "place": "14 km SSW of Balangonan, Philippines",
+            "distance_km": 189.0,
+            "exposure_contribution": 0.33,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.78
+        "exposure_score": 2.16
       },
       {
         "name": "General Santos International Airport",
@@ -346,6 +359,19 @@
             "place": "11 km SE of Kiupo, Philippines",
             "distance_km": 45.4,
             "exposure_contribution": 1.32,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t2a7",
+            "magnitude": 5.1,
+            "latitude": 5.739,
+            "longitude": 125.4295,
+            "depth_km": 68.769,
+            "time_ms": 1784658807762,
+            "place": "7 km WNW of Kalbay, Philippines",
+            "distance_km": 51.1,
+            "exposure_contribution": 1.3,
             "pga_g": null,
             "mmi": null
           },
@@ -377,14 +403,14 @@
           },
           {
             "earthquake_id": "us6000ta14",
-            "magnitude": 5.2,
-            "latitude": 5.429,
-            "longitude": 125.1808,
+            "magnitude": 5,
+            "latitude": 5.4641,
+            "longitude": 125.2867,
             "depth_km": 10,
-            "time_ms": 1783131683141,
-            "place": "24 km SW of Balangonan, Philippines",
-            "distance_km": 70.5,
-            "exposure_contribution": 1.89,
+            "time_ms": 1783131682989,
+            "place": "14 km SSW of Balangonan, Philippines",
+            "distance_km": 69.2,
+            "exposure_contribution": 1.54,
             "pga_g": null,
             "mmi": null
           },
@@ -404,14 +430,14 @@
           {
             "earthquake_id": "us6000t8ec",
             "magnitude": 6.5,
-            "latitude": 5.2392,
-            "longitude": 125.1965,
+            "latitude": 5.2867,
+            "longitude": 125.0719,
             "depth_km": 42,
-            "time_ms": 1782473681498,
-            "place": "34 km WSW of Sarangani, Philippines",
-            "distance_km": 91.6,
-            "exposure_contribution": 8.27,
-            "pga_g": 0.082728,
+            "time_ms": 1782473681463,
+            "place": "44 km SW of Balangonan, Philippines",
+            "distance_km": 85.7,
+            "exposure_contribution": 8.76,
+            "pga_g": 0.087569,
             "mmi": 5.7
           },
           {
@@ -467,6 +493,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000t8x8",
+            "magnitude": 5.2,
+            "latitude": 4.5848,
+            "longitude": 125.2835,
+            "depth_km": 9.458,
+            "time_ms": 1782706985832,
+            "place": "92 km SSW of Sarangani, Philippines",
+            "distance_km": 165.0,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000t1it",
             "magnitude": 5.3,
             "latitude": 4.5057,
@@ -480,7 +519,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 26.11
+        "exposure_score": 28.06
       },
       {
         "name": "Kalibo International Airport",
@@ -521,6 +560,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t2a7",
+        "magnitude": 5.1,
+        "latitude": 5.739,
+        "longitude": 125.4295,
+        "depth_km": 68.769,
+        "time_ms": 1784658807762,
+        "place": "7 km WNW of Kalbay, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t1it",
         "magnitude": 5.3,
@@ -644,12 +694,23 @@
       },
       {
         "id": "us6000ta14",
-        "magnitude": 5.2,
-        "latitude": 5.429,
-        "longitude": 125.1808,
+        "magnitude": 5,
+        "latitude": 5.4641,
+        "longitude": 125.2867,
         "depth_km": 10,
-        "time_ms": 1783131683141,
-        "place": "24 km SW of Balangonan, Philippines",
+        "time_ms": 1783131682989,
+        "place": "14 km SSW of Balangonan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t8x8",
+        "magnitude": 5.2,
+        "latitude": 4.5848,
+        "longitude": 125.2835,
+        "depth_km": 9.458,
+        "time_ms": 1782706985832,
+        "place": "92 km SSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -667,11 +728,11 @@
       {
         "id": "us6000t8ec",
         "magnitude": 6.5,
-        "latitude": 5.2392,
-        "longitude": 125.1965,
+        "latitude": 5.2867,
+        "longitude": 125.0719,
         "depth_km": 42,
-        "time_ms": 1782473681498,
-        "place": "34 km WSW of Sarangani, Philippines",
+        "time_ms": 1782473681463,
+        "place": "44 km SW of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -698,7 +759,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 33.41
+    "seismic_hub_risk_score": 35.74
   },
   {
     "country": "",
@@ -1628,152 +1689,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "NZ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.18,
-    "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-16",
-      "depth_km": 76.4,
-      "latitude": -45.0434,
-      "longitude": 167.6107
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Queenstown Airport",
-        "iata_code": "ZQN",
-        "latitude": -45.019205,
-        "longitude": 168.746379,
-        "municipality": "Queenstown",
-        "closest_quake_distance_km": 89.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t0xb",
-            "magnitude": 5.9,
-            "latitude": -45.0434,
-            "longitude": 167.6107,
-            "depth_km": 76.397,
-            "time_ms": 1784193294293,
-            "place": "42 km NNW of Te Anau, New Zealand",
-            "distance_km": 89.3,
-            "exposure_contribution": 2.03,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.03
-      },
-      {
-        "name": "Wellington International Airport",
-        "iata_code": "WLG",
-        "latitude": -41.326839,
-        "longitude": 174.806862,
-        "municipality": "Wellington",
-        "closest_quake_distance_km": 107.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8t3",
-            "magnitude": 5,
-            "latitude": -40.3938,
-            "longitude": 174.4645,
-            "depth_km": 81.184,
-            "time_ms": 1782644652997,
-            "place": "65 km W of Foxton Beach, New Zealand",
-            "distance_km": 107.7,
-            "exposure_contribution": 0.58,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.58
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000t21e",
-        "magnitude": 5,
-        "latitude": -32.759,
-        "longitude": -178.0878,
-        "depth_km": 10,
-        "time_ms": 1784580259902,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1jp",
-        "magnitude": 5.2,
-        "latitude": -32.8189,
-        "longitude": -178.1149,
-        "depth_km": 10,
-        "time_ms": 1784353607673,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1b0",
-        "magnitude": 5,
-        "latitude": -32.9894,
-        "longitude": -177.9086,
-        "depth_km": 10,
-        "time_ms": 1784294219268,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0xb",
-        "magnitude": 5.9,
-        "latitude": -45.0434,
-        "longitude": 167.6107,
-        "depth_km": 76.397,
-        "time_ms": 1784193294293,
-        "place": "42 km NNW of Te Anau, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0x8",
-        "magnitude": 5,
-        "latitude": -37.3276,
-        "longitude": 179.8608,
-        "depth_km": 10,
-        "time_ms": 1784192278825,
-        "place": "141 km ENE of Hicks Bay, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t8t3",
-        "magnitude": 5,
-        "latitude": -40.3938,
-        "longitude": 174.4645,
-        "depth_km": 81.184,
-        "time_ms": 1782644652997,
-        "place": "65 km W of Foxton Beach, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.61
-  },
-  {
-    "country": "",
     "iso_alpha2": "CN",
     "iso_alpha3": "",
     "capital": "",
@@ -1834,14 +1749,14 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000taui",
+            "earthquake_id": "us7000sz3z",
             "magnitude": 5,
-            "latitude": 28.5871,
-            "longitude": 104.7549,
+            "latitude": 28.5835,
+            "longitude": 104.7181,
             "depth_km": 10,
-            "time_ms": 1783476528776,
-            "place": "15 km NNE of Xunchang, China",
-            "distance_km": 194.2,
+            "time_ms": 1783554254152,
+            "place": "14 km N of Xunchang, China",
+            "distance_km": 194.1,
             "exposure_contribution": 0.31,
             "pga_g": null,
             "mmi": null
@@ -1858,9 +1773,22 @@
             "exposure_contribution": 0.34,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000taui",
+            "magnitude": 5,
+            "latitude": 28.5224,
+            "longitude": 104.6418,
+            "depth_km": 10,
+            "time_ms": 1783476528690,
+            "place": "10 km NW of Xunchang, China",
+            "distance_km": 200.0,
+            "exposure_contribution": 0.3,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.59
+        "exposure_score": 1.89
       },
       {
         "name": "Chengdu Shuangliu International Airport",
@@ -1891,22 +1819,22 @@
       {
         "id": "us7000sz3z",
         "magnitude": 5,
-        "latitude": 28.4707,
-        "longitude": 104.7074,
+        "latitude": 28.5835,
+        "longitude": 104.7181,
         "depth_km": 10,
-        "time_ms": 1783554253741,
-        "place": "1 km NNW of Xunchang, China",
+        "time_ms": 1783554254152,
+        "place": "14 km N of Xunchang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
       {
         "id": "us6000taui",
         "magnitude": 5,
-        "latitude": 28.5871,
-        "longitude": 104.7549,
+        "latitude": 28.5224,
+        "longitude": 104.6418,
         "depth_km": 10,
-        "time_ms": 1783476528776,
-        "place": "15 km NNE of Xunchang, China",
+        "time_ms": 1783476528690,
+        "place": "10 km NW of Xunchang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -1966,7 +1894,129 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.34
+    "seismic_hub_risk_score": 2.64
+  },
+  {
+    "country": "",
+    "iso_alpha2": "NZ",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.2,
+    "strongest_earthquake": {
+      "magnitude": 5.9,
+      "date": "2026-07-16",
+      "depth_km": 76.4,
+      "latitude": -45.0434,
+      "longitude": 167.6107
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Queenstown Airport",
+        "iata_code": "ZQN",
+        "latitude": -45.019205,
+        "longitude": 168.746379,
+        "municipality": "Queenstown",
+        "closest_quake_distance_km": 89.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t0xb",
+            "magnitude": 5.9,
+            "latitude": -45.0434,
+            "longitude": 167.6107,
+            "depth_km": 76.397,
+            "time_ms": 1784193294293,
+            "place": "42 km NNW of Te Anau, New Zealand",
+            "distance_km": 89.3,
+            "exposure_contribution": 2.03,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.03
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000t21e",
+        "magnitude": 5,
+        "latitude": -32.759,
+        "longitude": -178.0878,
+        "depth_km": 10,
+        "time_ms": 1784580259902,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1jp",
+        "magnitude": 5.2,
+        "latitude": -32.8189,
+        "longitude": -178.1149,
+        "depth_km": 10,
+        "time_ms": 1784353607673,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1b0",
+        "magnitude": 5,
+        "latitude": -32.9894,
+        "longitude": -177.9086,
+        "depth_km": 10,
+        "time_ms": 1784294219268,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t0xb",
+        "magnitude": 5.9,
+        "latitude": -45.0434,
+        "longitude": 167.6107,
+        "depth_km": 76.397,
+        "time_ms": 1784193294293,
+        "place": "42 km NNW of Te Anau, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t0x8",
+        "magnitude": 5,
+        "latitude": -37.3276,
+        "longitude": 179.8608,
+        "depth_km": 10,
+        "time_ms": 1784192278825,
+        "place": "141 km ENE of Hicks Bay, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t8di",
+        "magnitude": 5.1,
+        "latitude": -32.574,
+        "longitude": -177.9384,
+        "depth_km": 10,
+        "time_ms": 1782454739263,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.03
   },
   {
     "country": "",
@@ -1991,7 +2041,7 @@
       "longitude": -71.4358
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 11,
+    "max_felt_reports": 12,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -2001,19 +2051,19 @@
         "latitude": -12.0219,
         "longitude": -77.114305,
         "municipality": "Lima",
-        "closest_quake_distance_km": 197.2,
+        "closest_quake_distance_km": 197.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000t1q7",
             "magnitude": 5.5,
-            "latitude": -12.0429,
-            "longitude": -75.3013,
+            "latitude": -12.1036,
+            "longitude": -75.3034,
             "depth_km": 10,
-            "time_ms": 1784427876324,
-            "place": "2 km WSW of Sicaya, Peru",
-            "distance_km": 197.2,
+            "time_ms": 1784427875623,
+            "place": "4 km SSW of Chupaca, Peru",
+            "distance_km": 197.1,
             "exposure_contribution": 0.35,
-            "pga_g": 0.003496,
+            "pga_g": 0.003508,
             "mmi": 3.0
           }
         ],
@@ -2096,11 +2146,11 @@
       {
         "id": "us7000t1q7",
         "magnitude": 5.5,
-        "latitude": -12.0429,
-        "longitude": -75.3013,
+        "latitude": -12.1036,
+        "longitude": -75.3034,
         "depth_km": 10,
-        "time_ms": 1784427876324,
-        "place": "2 km WSW of Sicaya, Peru",
+        "time_ms": 1784427875623,
+        "place": "4 km SSW of Chupaca, Peru",
         "country_code": "PE",
         "shakemap_available": true
       },
@@ -2142,8 +2192,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-07-03",
@@ -2162,23 +2212,23 @@
         "latitude": -7.905338,
         "longitude": 110.057264,
         "municipality": "Yogyakarta",
-        "closest_quake_distance_km": 167.6,
+        "closest_quake_distance_km": 160.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t8me",
             "magnitude": 5.2,
-            "latitude": -8.9563,
-            "longitude": 111.1499,
-            "depth_km": 65.584,
-            "time_ms": 1782546443012,
-            "place": "114 km SSW of Trenggalek, Indonesia",
-            "distance_km": 167.6,
-            "exposure_contribution": 0.45,
+            "latitude": -8.7198,
+            "longitude": 111.2648,
+            "depth_km": 71.683,
+            "time_ms": 1782546444293,
+            "place": "86 km SW of Trenggalek, Indonesia",
+            "distance_km": 160.8,
+            "exposure_contribution": 0.47,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.45
+        "exposure_score": 0.47
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -2186,23 +2236,23 @@
         "latitude": -7.516044,
         "longitude": 110.757492,
         "municipality": "Surakarta",
-        "closest_quake_distance_km": 165.9,
+        "closest_quake_distance_km": 145.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t8me",
             "magnitude": 5.2,
-            "latitude": -8.9563,
-            "longitude": 111.1499,
-            "depth_km": 65.584,
-            "time_ms": 1782546443012,
-            "place": "114 km SSW of Trenggalek, Indonesia",
-            "distance_km": 165.9,
-            "exposure_contribution": 0.46,
+            "latitude": -8.7198,
+            "longitude": 111.2648,
+            "depth_km": 71.683,
+            "time_ms": 1782546444293,
+            "place": "86 km SW of Trenggalek, Indonesia",
+            "distance_km": 145.0,
+            "exposure_contribution": 0.54,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.46
+        "exposure_score": 0.54
       },
       {
         "name": "Soekarno-Hatta International Airport",
@@ -2319,17 +2369,6 @@
         "shakemap_available": true
       },
       {
-        "id": "us6000t8x8",
-        "magnitude": 5.2,
-        "latitude": 4.4724,
-        "longitude": 125.1893,
-        "depth_km": 9.906,
-        "time_ms": 1782706985855,
-        "place": "107 km SSW of Sarangani, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000t8qv",
         "magnitude": 5,
         "latitude": -6.0545,
@@ -2343,27 +2382,27 @@
       {
         "id": "us6000t8nf",
         "magnitude": 5.9,
-        "latitude": -6.7898,
-        "longitude": 125.6119,
-        "depth_km": 525.542,
-        "time_ms": 1782556622333,
-        "place": "192 km N of Metinaro, Timor Leste",
+        "latitude": -6.7876,
+        "longitude": 125.6325,
+        "depth_km": 514,
+        "time_ms": 1782556621427,
+        "place": "193 km N of Metinaro, Timor Leste",
         "country_code": "ID",
         "shakemap_available": true
       },
       {
         "id": "us6000t8me",
         "magnitude": 5.2,
-        "latitude": -8.9563,
-        "longitude": 111.1499,
-        "depth_km": 65.584,
-        "time_ms": 1782546443012,
-        "place": "114 km SSW of Trenggalek, Indonesia",
+        "latitude": -8.7198,
+        "longitude": 111.2648,
+        "depth_km": 71.683,
+        "time_ms": 1782546444293,
+        "place": "86 km SW of Trenggalek, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.39
+    "seismic_hub_risk_score": 1.49
   },
   {
     "country": "",
@@ -2478,11 +2517,11 @@
       {
         "id": "us6000ta18",
         "magnitude": 5,
-        "latitude": -30.9133,
-        "longitude": -71.4792,
-        "depth_km": 49.84,
-        "time_ms": 1783134573198,
-        "place": "43 km SW of Ovalle, Chile",
+        "latitude": -30.9277,
+        "longitude": -71.3591,
+        "depth_km": 51.786,
+        "time_ms": 1783134573400,
+        "place": "39 km SSW of Ovalle, Chile",
         "country_code": "CL",
         "shakemap_available": false
       }
@@ -2613,11 +2652,11 @@
       {
         "id": "us6000t81q",
         "magnitude": 5.5,
-        "latitude": -4.3413,
-        "longitude": 152.9318,
+        "latitude": -4.3042,
+        "longitude": 152.9505,
         "depth_km": 33,
-        "time_ms": 1782368375965,
-        "place": "73 km E of Kokopo, Papua New Guinea",
+        "time_ms": 1782368375977,
+        "place": "75 km E of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       },
@@ -2648,8 +2687,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-15",
@@ -2688,6 +2727,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t25y",
+        "magnitude": 5.6,
+        "latitude": -29.5116,
+        "longitude": -176.9951,
+        "depth_km": 10,
+        "time_ms": 1784636073338,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
       {
         "id": "us7000t0u6",
         "magnitude": 5.8,
@@ -2788,17 +2838,6 @@
         "shakemap_available": true
       },
       {
-        "id": "us6000t8di",
-        "magnitude": 5.1,
-        "latitude": -32.4752,
-        "longitude": -177.9409,
-        "depth_km": 10,
-        "time_ms": 1782454739942,
-        "place": "south of the Kermadec Islands",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000t7k4",
         "magnitude": 5,
         "latitude": -16.242,
@@ -2828,17 +2867,6 @@
         "depth_km": 41.908,
         "time_ms": 1782157573484,
         "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000sv1m",
-        "magnitude": 5.1,
-        "latitude": -30.2733,
-        "longitude": -178.4186,
-        "depth_km": 69.715,
-        "time_ms": 1782083685110,
-        "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": false
       }
@@ -2934,11 +2962,11 @@
       {
         "id": "us6000t8yt",
         "magnitude": 5.5,
-        "latitude": 43.3828,
-        "longitude": -127.0788,
+        "latitude": 43.3073,
+        "longitude": -127.1835,
         "depth_km": 10,
-        "time_ms": 1782732933629,
-        "place": "218 km W of Bandon, Oregon",
+        "time_ms": 1782732932831,
+        "place": "226 km W of Langlois, Oregon",
         "country_code": "US",
         "shakemap_available": true
       },
