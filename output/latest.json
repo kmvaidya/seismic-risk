@@ -22,7 +22,7 @@
       "longitude": -68.5036
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 771,
+    "max_felt_reports": 780,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -224,7 +224,7 @@
       "longitude": 125.0719
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 79,
+    "max_felt_reports": 80,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1139,18 +1139,18 @@
           {
             "earthquake_id": "us6000t9ej",
             "magnitude": 6,
-            "latitude": 40.1637,
-            "longitude": 142.3927,
-            "depth_km": 43.568,
-            "time_ms": 1782907709986,
-            "place": "49 km E of Noda, Japan",
-            "distance_km": 157.4,
-            "exposure_contribution": 1.34,
+            "latitude": 40.2085,
+            "longitude": 142.4411,
+            "depth_km": 35,
+            "time_ms": 1782907709154,
+            "place": "54 km ENE of Noda, Japan",
+            "distance_km": 159.3,
+            "exposure_contribution": 1.35,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 6.74
+        "exposure_score": 6.75
       },
       {
         "name": "Sendai Airport",
@@ -1297,11 +1297,11 @@
       {
         "id": "us6000t9ej",
         "magnitude": 6,
-        "latitude": 40.1637,
-        "longitude": 142.3927,
-        "depth_km": 43.568,
-        "time_ms": 1782907709986,
-        "place": "49 km E of Noda, Japan",
+        "latitude": 40.2085,
+        "longitude": 142.4411,
+        "depth_km": 35,
+        "time_ms": 1782907709154,
+        "place": "54 km ENE of Noda, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -1350,7 +1350,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 31.77
+    "seismic_hub_risk_score": 31.78
   },
   {
     "country": "",
@@ -2192,8 +2192,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-07-03",
@@ -2277,9 +2277,44 @@
           }
         ],
         "exposure_score": 0.48
+      },
+      {
+        "name": "Kualanamu International Airport",
+        "iata_code": "KNO",
+        "latitude": 3.637847,
+        "longitude": 98.870566,
+        "municipality": "Beringin",
+        "closest_quake_distance_km": 163.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t2dz",
+            "magnitude": 5,
+            "latitude": 4.2441,
+            "longitude": 97.5238,
+            "depth_km": 10,
+            "time_ms": 1784693902071,
+            "place": "55 km WSW of Langsa, Indonesia",
+            "distance_km": 163.9,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t2dz",
+        "magnitude": 5,
+        "latitude": 4.2441,
+        "longitude": 97.5238,
+        "depth_km": 10,
+        "time_ms": 1784693902071,
+        "place": "55 km WSW of Langsa, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t1wm",
         "magnitude": 5.1,
@@ -2336,17 +2371,6 @@
         "shakemap_available": true
       },
       {
-        "id": "us6000ta34",
-        "magnitude": 5,
-        "latitude": 1.7873,
-        "longitude": 127.4364,
-        "depth_km": 128.155,
-        "time_ms": 1783155734524,
-        "place": "64 km W of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000ta32",
         "magnitude": 5.1,
         "latitude": -2.5131,
@@ -2380,6 +2404,17 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000taet",
+        "magnitude": 5.1,
+        "latitude": -6.5143,
+        "longitude": 130.3316,
+        "depth_km": 160.359,
+        "time_ms": 1782571802284,
+        "place": "285 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000t8nf",
         "magnitude": 5.9,
         "latitude": -6.7876,
@@ -2402,7 +2437,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.49
+    "seismic_hub_risk_score": 1.91
   },
   {
     "country": "",
@@ -2417,8 +2452,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.14,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.13,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-07-12",
@@ -2467,9 +2502,55 @@
           }
         ],
         "exposure_score": 1.31
+      },
+      {
+        "name": "Andrés Sabella Gálvez International Airport",
+        "iata_code": "ANF",
+        "latitude": -23.445274,
+        "longitude": -70.445232,
+        "municipality": "Antofagasta",
+        "closest_quake_distance_km": 195.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t2h9",
+            "magnitude": 5.1,
+            "latitude": -23.3767,
+            "longitude": -68.5273,
+            "depth_km": 108.731,
+            "time_ms": 1784741676746,
+            "place": "61 km SSW of San Pedro de Atacama, Chile",
+            "distance_km": 195.9,
+            "exposure_contribution": 0.27,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.27
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t2h9",
+        "magnitude": 5.1,
+        "latitude": -23.3767,
+        "longitude": -68.5273,
+        "depth_km": 108.731,
+        "time_ms": 1784741676746,
+        "place": "61 km SSW of San Pedro de Atacama, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t2fd",
+        "magnitude": 5.1,
+        "latitude": -27.8666,
+        "longitude": -71.7009,
+        "depth_km": 10,
+        "time_ms": 1784712862317,
+        "place": "121 km NW of Vallenar, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t0it",
         "magnitude": 5.1,
@@ -2526,7 +2607,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.31
+    "seismic_hub_risk_score": 1.58
   },
   {
     "country": "",
@@ -2688,7 +2769,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 13,
-    "avg_magnitude": 5.33,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-15",
@@ -2727,6 +2808,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t2j3",
+        "magnitude": 5,
+        "latitude": -29.6177,
+        "longitude": -177.9234,
+        "depth_km": 46.903,
+        "time_ms": 1784754182092,
+        "place": "Kermadec Islands, New Zealand",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t25y",
         "magnitude": 5.6,
@@ -2855,17 +2947,6 @@
         "longitude": -177.8614,
         "depth_km": 145.155,
         "time_ms": 1782181581911,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t7gf",
-        "magnitude": 5.1,
-        "latitude": -31.9144,
-        "longitude": -178.3672,
-        "depth_km": 41.908,
-        "time_ms": 1782157573484,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false

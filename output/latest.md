@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-07-22 08:10 UTC
+Generated: 2026-07-23 08:18 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-04-23 to 2026-07-22).
+Based on 89 snapshots (2026-04-24 to 2026-07-23).
 
 
 **Top score changes**:
@@ -12,11 +12,11 @@ Based on 89 snapshots (2026-04-23 to 2026-07-22).
 
 **Top airport exposure changes**:
 
-- General Santos International Airport (GES, ): +1.9
-- Francisco Bangoy International Airport (DVO, ): +0.4
-- Chengdu Tianfu International Airport (TFU, ): +0.3
-- Adisoemarmo International Airport (SOC, ): +0.1
-- Yogyakarta International Airport (YIA, ): +0.0
+- Aomori Airport (AOJ, ): +0.0
+- Jacinto Lara International Airport (BRM, ): 0.0
+- Maiquetía Simón Bolívar International Airport (CCS, ): 0.0
+- Arturo Michelena International Airport (VLN, ): 0.0
+- Bicol International Airport (DRP, ): 0.0
 
 ## Country Summary
 
@@ -29,8 +29,8 @@ Based on 89 snapshots (2026-04-23 to 2026-07-22).
 |  |  |  | 2.6 | ~ | 5.1 | M5.3 (2026-06-30) | 7 | 2 | yellow | No | 1 |
 |  |  |  | 2.0 | ~ | 5.2 | M5.9 (2026-07-16) | 6 | 1 | - | No | 0 |
 |  |  |  | 1.9 | ~ | 5.4 | M5.6 (2026-07-14) | 3 | 4 | yellow | No | 1 |
-|  |  |  | 1.5 | ~ | 5.3 | M6.2 (2026-07-03) | 11 | 3 | - | No | 0 |
-|  |  |  | 1.3 | ~ | 5.1 | M5.5 (2026-07-12) | 5 | 1 | - | No | 0 |
+|  |  |  | 1.9 | ~ | 5.3 | M6.2 (2026-07-03) | 12 | 4 | - | No | 0 |
+|  |  |  | 1.6 | ~ | 5.1 | M5.5 (2026-07-12) | 7 | 2 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.4 | M6.4 (2026-07-13) | 7 | 1 | green | No | 1 |
 |  |  |  | 0.5 | ~ | 5.3 | M5.8 (2026-07-15) | 13 | 1 | - | No | 0 |
 |  |  |  | 0.2 | ~ | 5.4 | M5.59 (2026-06-24) | 6 | 1 | yellow | No | 1 |
@@ -42,12 +42,12 @@ Based on 89 snapshots (2026-04-23 to 2026-07-22).
 | Maiquetía Simón Bolívar International Airport | CCS | Maiquetía |  | 81.5 | ~ | 0.7371 | 31.5 | 3 |
 | Arturo Michelena International Airport | VLN | Valencia |  | 36.3 | ~ | 0.2069 | 74.5 | 3 |
 | Jacinto Lara International Airport | BRM | Barquisimeto |  | 20.2 | ~ | 0.1230 | 96.7 | 2 |
-| General Santos International Airport | GES | General Santos |  | 28.1 | +1.9 | 0.0876 | 45.4 | 13 |
+| General Santos International Airport | GES | General Santos |  | 28.1 | ~ | 0.0876 | 45.4 | 13 |
 | Bicol International Airport | DRP | Legazpi |  | 4.1 | ~ | - | 68.3 | 2 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 2.2 | ~ | - | 154.7 | 5 |
 | Kalibo International Airport | KLO | Kalibo |  | 1.4 | ~ | - | 143.4 | 2 |
 | Narita International Airport | NRT | Narita |  | 7.4 | ~ | - | 18.8 | 2 |
-| Aomori Airport | AOJ | Aomori |  | 6.7 | ~ | 0.0429 | 135.5 | 3 |
+| Aomori Airport | AOJ | Aomori |  | 6.8 | ~ | 0.0429 | 135.5 | 3 |
 | Tokyo Haneda International Airport | HND | Tokyo |  | 4.7 | ~ | - | 66.0 | 2 |
 | Ibaraki Airport | IBR | Omitama |  | 4.1 | ~ | - | 61.8 | 2 |
 | Naha International Airport | OKA | Naha |  | 1.2 | ~ | - | 186.3 | 1 |
@@ -74,7 +74,9 @@ Based on 89 snapshots (2026-04-23 to 2026-07-22).
 | Adisoemarmo International Airport | SOC | Surakarta |  | 0.5 | ~ | - | 145.0 | 1 |
 | Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.5 | ~ | - | 183.0 | 1 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 0.5 | ~ | - | 160.8 | 1 |
+| Kualanamu International Airport | KNO | Beringin |  | 0.4 | NEW | - | 163.9 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.3 | ~ | - | 131.7 | 2 |
+| Andrés Sabella Gálvez International Airport | ANF | Antofagasta |  | 0.3 | NEW | - | 195.9 | 1 |
 | Nadzab Tomodachi International Airport | LAE | Lae |  | 0.9 | ~ | - | 110.3 | 2 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.5 | ~ | - | 153.3 | 1 |
 | Sacramento International Airport | SMF | Sacramento |  | 0.2 | ~ | 0.0022 | 159.7 | 1 |
