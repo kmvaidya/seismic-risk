@@ -1,208 +1,6 @@
 [
   {
     "country": "",
-    "iso_alpha2": "VE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 6.57,
-    "strongest_earthquake": {
-      "magnitude": 7.5,
-      "date": "2026-06-24",
-      "depth_km": 10,
-      "latitude": 10.5086,
-      "longitude": -68.5036
-    },
-    "highest_pager_alert": "red",
-    "max_felt_reports": 780,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 2,
-    "exposed_airports": [
-      {
-        "name": "Jacinto Lara International Airport",
-        "iata_code": "BRM",
-        "latitude": 10.042747,
-        "longitude": -69.35862,
-        "municipality": "Barquisimeto",
-        "closest_quake_distance_km": 96.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zc",
-            "magnitude": 7.2,
-            "latitude": 10.4085,
-            "longitude": -68.5571,
-            "depth_km": 27.588,
-            "time_ms": 1782338674363,
-            "place": "21 km ENE of San Felipe, Venezuela",
-            "distance_km": 96.7,
-            "exposure_contribution": 12.3,
-            "pga_g": 0.122976,
-            "mmi": 6.1
-          },
-          {
-            "earthquake_id": "us6000t7zp",
-            "magnitude": 7.5,
-            "latitude": 10.5086,
-            "longitude": -68.5036,
-            "depth_km": 10,
-            "time_ms": 1782338711743,
-            "place": "20 km ESE of Yumare, Venezuela",
-            "distance_km": 106.9,
-            "exposure_contribution": 7.96,
-            "pga_g": 0.07956,
-            "mmi": 5.0
-          }
-        ],
-        "exposure_score": 20.25
-      },
-      {
-        "name": "Maiquetía Simón Bolívar International Airport",
-        "iata_code": "CCS",
-        "latitude": 10.602214,
-        "longitude": -66.991174,
-        "municipality": "Maiquetía",
-        "closest_quake_distance_km": 31.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9w3",
-            "magnitude": 5,
-            "latitude": 10.885,
-            "longitude": -66.973,
-            "depth_km": 10,
-            "time_ms": 1782341640175,
-            "place": "31 km NNE of Catia La Mar, Venezuela",
-            "distance_km": 31.5,
-            "exposure_contribution": 4.15,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t7zp",
-            "magnitude": 7.5,
-            "latitude": 10.5086,
-            "longitude": -68.5036,
-            "depth_km": 10,
-            "time_ms": 1782338711743,
-            "place": "20 km ESE of Yumare, Venezuela",
-            "distance_km": 165.7,
-            "exposure_contribution": 73.71,
-            "pga_g": 0.73708,
-            "mmi": 8.4
-          },
-          {
-            "earthquake_id": "us6000t7zc",
-            "magnitude": 7.2,
-            "latitude": 10.4085,
-            "longitude": -68.5571,
-            "depth_km": 27.588,
-            "time_ms": 1782338674363,
-            "place": "21 km ENE of San Felipe, Venezuela",
-            "distance_km": 172.6,
-            "exposure_contribution": 3.64,
-            "pga_g": 0.036431,
-            "mmi": 4.6
-          }
-        ],
-        "exposure_score": 81.5
-      },
-      {
-        "name": "Arturo Michelena International Airport",
-        "iata_code": "VLN",
-        "latitude": 10.149733,
-        "longitude": -67.928398,
-        "municipality": "Valencia",
-        "closest_quake_distance_km": 74.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zp",
-            "magnitude": 7.5,
-            "latitude": 10.5086,
-            "longitude": -68.5036,
-            "depth_km": 10,
-            "time_ms": 1782338711743,
-            "place": "20 km ESE of Yumare, Venezuela",
-            "distance_km": 74.5,
-            "exposure_contribution": 20.69,
-            "pga_g": 0.206906,
-            "mmi": 6.8
-          },
-          {
-            "earthquake_id": "us6000t7zc",
-            "magnitude": 7.2,
-            "latitude": 10.4085,
-            "longitude": -68.5571,
-            "depth_km": 27.588,
-            "time_ms": 1782338674363,
-            "place": "21 km ENE of San Felipe, Venezuela",
-            "distance_km": 74.6,
-            "exposure_contribution": 14.97,
-            "pga_g": 0.149705,
-            "mmi": 6.5
-          },
-          {
-            "earthquake_id": "us6000t9w3",
-            "magnitude": 5,
-            "latitude": 10.885,
-            "longitude": -66.973,
-            "depth_km": 10,
-            "time_ms": 1782341640175,
-            "place": "31 km NNE of Catia La Mar, Venezuela",
-            "distance_km": 132.6,
-            "exposure_contribution": 0.59,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 36.26
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000t9w3",
-        "magnitude": 5,
-        "latitude": 10.885,
-        "longitude": -66.973,
-        "depth_km": 10,
-        "time_ms": 1782341640175,
-        "place": "31 km NNE of Catia La Mar, Venezuela",
-        "country_code": "VE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t7zp",
-        "magnitude": 7.5,
-        "latitude": 10.5086,
-        "longitude": -68.5036,
-        "depth_km": 10,
-        "time_ms": 1782338711743,
-        "place": "20 km ESE of Yumare, Venezuela",
-        "country_code": "VE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t7zc",
-        "magnitude": 7.2,
-        "latitude": 10.4085,
-        "longitude": -68.5571,
-        "depth_km": 27.588,
-        "time_ms": 1782338674363,
-        "place": "21 km ENE of San Felipe, Venezuela",
-        "country_code": "VE",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 138.01
-  },
-  {
-    "country": "",
     "iso_alpha2": "PH",
     "iso_alpha3": "",
     "capital": "",
@@ -214,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 17,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-06-26",
@@ -315,13 +113,13 @@
           {
             "earthquake_id": "us7000t048",
             "magnitude": 5,
-            "latitude": 5.577,
-            "longitude": 125.4626,
-            "depth_km": 20.408,
-            "time_ms": 1783964669061,
-            "place": "5 km SE of Butulan, Philippines",
-            "distance_km": 173.4,
-            "exposure_contribution": 0.38,
+            "latitude": 5.6455,
+            "longitude": 125.4074,
+            "depth_km": 43.069,
+            "time_ms": 1783964672236,
+            "place": "3 km WNW of Nuing, Philippines",
+            "distance_km": 166.7,
+            "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
           },
@@ -339,7 +137,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.16
+        "exposure_score": 2.17
       },
       {
         "name": "General Santos International Airport",
@@ -391,13 +189,13 @@
           {
             "earthquake_id": "us7000t048",
             "magnitude": 5,
-            "latitude": 5.577,
-            "longitude": 125.4626,
-            "depth_km": 20.408,
-            "time_ms": 1783964669061,
-            "place": "5 km SE of Butulan, Philippines",
-            "distance_km": 67.0,
-            "exposure_contribution": 1.54,
+            "latitude": 5.6455,
+            "longitude": 125.4074,
+            "depth_km": 43.069,
+            "time_ms": 1783964672236,
+            "place": "3 km WNW of Nuing, Philippines",
+            "distance_km": 57.3,
+            "exposure_contribution": 1.49,
             "pga_g": null,
             "mmi": null
           },
@@ -469,13 +267,13 @@
           {
             "earthquake_id": "us7000szri",
             "magnitude": 5.2,
-            "latitude": 4.9407,
-            "longitude": 125.2447,
-            "depth_km": 61.682,
-            "time_ms": 1783792171928,
-            "place": "56 km SSW of Sarangani, Philippines",
-            "distance_km": 125.2,
-            "exposure_contribution": 0.69,
+            "latitude": 4.953,
+            "longitude": 125.2097,
+            "depth_km": 51.176,
+            "time_ms": 1783792170922,
+            "place": "57 km SSW of Sarangani, Philippines",
+            "distance_km": 123.4,
+            "exposure_contribution": 0.74,
             "pga_g": null,
             "mmi": null
           },
@@ -629,11 +427,11 @@
       {
         "id": "us7000t048",
         "magnitude": 5,
-        "latitude": 5.577,
-        "longitude": 125.4626,
-        "depth_km": 20.408,
-        "time_ms": 1783964669061,
-        "place": "5 km SE of Butulan, Philippines",
+        "latitude": 5.6455,
+        "longitude": 125.4074,
+        "depth_km": 43.069,
+        "time_ms": 1783964672236,
+        "place": "3 km WNW of Nuing, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -651,11 +449,11 @@
       {
         "id": "us7000szri",
         "magnitude": 5.2,
-        "latitude": 4.9407,
-        "longitude": 125.2447,
-        "depth_km": 61.682,
-        "time_ms": 1783792171928,
-        "place": "56 km SSW of Sarangani, Philippines",
+        "latitude": 4.953,
+        "longitude": 125.2097,
+        "depth_km": 51.176,
+        "time_ms": 1783792170922,
+        "place": "57 km SSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -746,20 +544,9 @@
         "place": "90 km E of Union, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000t7rx",
-        "magnitude": 5,
-        "latitude": 16.4616,
-        "longitude": 119.2354,
-        "depth_km": 10,
-        "time_ms": 1782266689742,
-        "place": "63 km WNW of Catuday, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 35.74
+    "seismic_hub_risk_score": 35.75
   },
   {
     "country": "",
@@ -774,19 +561,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.57,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.44,
     "strongest_earthquake": {
-      "magnitude": 6.9,
-      "date": "2026-06-24",
-      "depth_km": 34,
-      "latitude": 40.2515,
-      "longitude": 142.1614
+      "magnitude": 6.1,
+      "date": "2026-07-03",
+      "depth_km": 10,
+      "latitude": 25.9501,
+      "longitude": 125.7941
     },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 95,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Narita International Airport",
@@ -1108,21 +895,8 @@
         "latitude": 40.733777,
         "longitude": 140.689477,
         "municipality": "Aomori",
-        "closest_quake_distance_km": 135.5,
+        "closest_quake_distance_km": 156.2,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t7zq",
-            "magnitude": 6.9,
-            "latitude": 40.2515,
-            "longitude": 142.1614,
-            "depth_km": 34,
-            "time_ms": 1782340212989,
-            "place": "33 km ENE of Noda, Japan",
-            "distance_km": 135.5,
-            "exposure_contribution": 4.29,
-            "pga_g": 0.042924,
-            "mmi": 4.4
-          },
           {
             "earthquake_id": "us6000t8qd",
             "magnitude": 5.8,
@@ -1150,7 +924,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 6.75
+        "exposure_score": 2.45
       },
       {
         "name": "Sendai Airport",
@@ -1348,20 +1122,387 @@
         "place": "3 km SE of Yokoshiba, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t7zq",
-        "magnitude": 6.9,
-        "latitude": 40.2515,
-        "longitude": 142.1614,
-        "depth_km": 34,
-        "time_ms": 1782340212989,
-        "place": "33 km ENE of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 31.78
+    "seismic_hub_risk_score": 27.48
+  },
+  {
+    "country": "",
+    "iso_alpha2": "ID",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 16,
+    "avg_magnitude": 5.34,
+    "strongest_earthquake": {
+      "magnitude": 6.2,
+      "date": "2026-07-03",
+      "depth_km": 120.9,
+      "latitude": 1.8205,
+      "longitude": 127.4916
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yogyakarta International Airport",
+        "iata_code": "YIA",
+        "latitude": -7.905338,
+        "longitude": 110.057264,
+        "municipality": "Yogyakarta",
+        "closest_quake_distance_km": 160.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8me",
+            "magnitude": 5.2,
+            "latitude": -8.7198,
+            "longitude": 111.2648,
+            "depth_km": 71.683,
+            "time_ms": 1782546444293,
+            "place": "86 km SW of Trenggalek, Indonesia",
+            "distance_km": 160.8,
+            "exposure_contribution": 0.47,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.47
+      },
+      {
+        "name": "Dortheys Hiyo Eluay International Airport",
+        "iata_code": "DJJ",
+        "latitude": -2.579627,
+        "longitude": 140.519857,
+        "municipality": "Sentani",
+        "closest_quake_distance_km": 182.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t30v",
+            "magnitude": 5.1,
+            "latitude": -2.6055,
+            "longitude": 138.8797,
+            "depth_km": 10,
+            "time_ms": 1784896022974,
+            "place": "194 km W of Abepura, Indonesia",
+            "distance_km": 182.2,
+            "exposure_contribution": 0.39,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t309",
+            "magnitude": 5.3,
+            "latitude": -2.5436,
+            "longitude": 138.8612,
+            "depth_km": 10,
+            "time_ms": 1784891494234,
+            "place": "197 km W of Abepura, Indonesia",
+            "distance_km": 184.3,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t30r",
+            "magnitude": 5.4,
+            "latitude": -2.5572,
+            "longitude": 138.8159,
+            "depth_km": 10,
+            "time_ms": 1784895268267,
+            "place": "202 km W of Abepura, Indonesia",
+            "distance_km": 189.3,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.4
+      },
+      {
+        "name": "Sam Ratulangi International Airport",
+        "iata_code": "MDC",
+        "latitude": 1.548591,
+        "longitude": 124.92625,
+        "municipality": "Manado",
+        "closest_quake_distance_km": 179.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t2w3",
+            "magnitude": 5.8,
+            "latitude": 0.592,
+            "longitude": 126.2244,
+            "depth_km": 49.188,
+            "time_ms": 1784847516362,
+            "place": "130 km W of Ternate, Indonesia",
+            "distance_km": 179.3,
+            "exposure_contribution": 0.85,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.85
+      },
+      {
+        "name": "Adisoemarmo International Airport",
+        "iata_code": "SOC",
+        "latitude": -7.516044,
+        "longitude": 110.757492,
+        "municipality": "Surakarta",
+        "closest_quake_distance_km": 145.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000t8me",
+            "magnitude": 5.2,
+            "latitude": -8.7198,
+            "longitude": 111.2648,
+            "depth_km": 71.683,
+            "time_ms": 1782546444293,
+            "place": "86 km SW of Trenggalek, Indonesia",
+            "distance_km": 145.0,
+            "exposure_contribution": 0.54,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.54
+      },
+      {
+        "name": "Soekarno-Hatta International Airport",
+        "iata_code": "CGK",
+        "latitude": -6.12557,
+        "longitude": 106.655998,
+        "municipality": "Jakarta",
+        "closest_quake_distance_km": 183.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tary",
+            "magnitude": 5.3,
+            "latitude": -6.628,
+            "longitude": 105.0792,
+            "depth_km": 32.655,
+            "time_ms": 1783453492097,
+            "place": "87 km WSW of Labuan, Indonesia",
+            "distance_km": 183.0,
+            "exposure_contribution": 0.48,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.48
+      },
+      {
+        "name": "Kualanamu International Airport",
+        "iata_code": "KNO",
+        "latitude": 3.637847,
+        "longitude": 98.870566,
+        "municipality": "Beringin",
+        "closest_quake_distance_km": 163.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t2dz",
+            "magnitude": 5,
+            "latitude": 4.2441,
+            "longitude": 97.5238,
+            "depth_km": 10,
+            "time_ms": 1784693902071,
+            "place": "55 km WSW of Langsa, Indonesia",
+            "distance_km": 163.9,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000t30v",
+        "magnitude": 5.1,
+        "latitude": -2.6055,
+        "longitude": 138.8797,
+        "depth_km": 10,
+        "time_ms": 1784896022974,
+        "place": "194 km W of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t30r",
+        "magnitude": 5.4,
+        "latitude": -2.5572,
+        "longitude": 138.8159,
+        "depth_km": 10,
+        "time_ms": 1784895268267,
+        "place": "202 km W of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t309",
+        "magnitude": 5.3,
+        "latitude": -2.5436,
+        "longitude": 138.8612,
+        "depth_km": 10,
+        "time_ms": 1784891494234,
+        "place": "197 km W of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t2w3",
+        "magnitude": 5.8,
+        "latitude": 0.592,
+        "longitude": 126.2244,
+        "depth_km": 49.188,
+        "time_ms": 1784847516362,
+        "place": "130 km W of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t2dz",
+        "magnitude": 5,
+        "latitude": 4.2441,
+        "longitude": 97.5238,
+        "depth_km": 10,
+        "time_ms": 1784693902071,
+        "place": "55 km WSW of Langsa, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1wm",
+        "magnitude": 5.1,
+        "latitude": 1.6021,
+        "longitude": 127.2659,
+        "depth_km": 69.965,
+        "time_ms": 1784540443255,
+        "place": "83 km W of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000szvv",
+        "magnitude": 5.4,
+        "latitude": 1.1373,
+        "longitude": 121.4207,
+        "depth_km": 35,
+        "time_ms": 1783863997155,
+        "place": "194 km WNW of Gorontalo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000szvq",
+        "magnitude": 5.1,
+        "latitude": -9.611,
+        "longitude": 119.4034,
+        "depth_km": 46.568,
+        "time_ms": 1783862426624,
+        "place": "27 km SE of Tambolaka, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tary",
+        "magnitude": 5.3,
+        "latitude": -6.628,
+        "longitude": 105.0792,
+        "depth_km": 32.655,
+        "time_ms": 1783453492097,
+        "place": "87 km WSW of Labuan, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000talg",
+        "magnitude": 5.4,
+        "latitude": 3.1239,
+        "longitude": 127.5573,
+        "depth_km": 36.821,
+        "time_ms": 1783408586844,
+        "place": "162 km NNW of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ta32",
+        "magnitude": 5.1,
+        "latitude": -2.5131,
+        "longitude": 138.2529,
+        "depth_km": 39.448,
+        "time_ms": 1783155354191,
+        "place": "264 km W of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t9r5",
+        "magnitude": 6.2,
+        "latitude": 1.8205,
+        "longitude": 127.4916,
+        "depth_km": 120.932,
+        "time_ms": 1783045888846,
+        "place": "58 km W of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t8qv",
+        "magnitude": 5,
+        "latitude": -6.0545,
+        "longitude": 104.7911,
+        "depth_km": 61.721,
+        "time_ms": 1782594633314,
+        "place": "86 km SW of Bandar Lampung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000taet",
+        "magnitude": 5.1,
+        "latitude": -6.5143,
+        "longitude": 130.3316,
+        "depth_km": 160.359,
+        "time_ms": 1782571802284,
+        "place": "285 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000t8nf",
+        "magnitude": 5.9,
+        "latitude": -6.7876,
+        "longitude": 125.6325,
+        "depth_km": 514,
+        "time_ms": 1782556621427,
+        "place": "193 km N of Metinaro, Timor Leste",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000t8me",
+        "magnitude": 5.2,
+        "latitude": -8.7198,
+        "longitude": 111.2648,
+        "depth_km": 71.683,
+        "time_ms": 1782546444293,
+        "place": "86 km SW of Trenggalek, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 4.16
   },
   {
     "country": "",
@@ -1386,7 +1527,7 @@
       "longitude": -92.9517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 286,
+    "max_felt_reports": 287,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1700,301 +1841,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "ID",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.35,
-    "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-07-03",
-      "depth_km": 120.9,
-      "latitude": 1.8205,
-      "longitude": 127.4916
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yogyakarta International Airport",
-        "iata_code": "YIA",
-        "latitude": -7.905338,
-        "longitude": 110.057264,
-        "municipality": "Yogyakarta",
-        "closest_quake_distance_km": 160.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8me",
-            "magnitude": 5.2,
-            "latitude": -8.7198,
-            "longitude": 111.2648,
-            "depth_km": 71.683,
-            "time_ms": 1782546444293,
-            "place": "86 km SW of Trenggalek, Indonesia",
-            "distance_km": 160.8,
-            "exposure_contribution": 0.47,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.47
-      },
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 179.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t2w3",
-            "magnitude": 5.8,
-            "latitude": 0.592,
-            "longitude": 126.2244,
-            "depth_km": 49.188,
-            "time_ms": 1784847516362,
-            "place": "130 km W of Ternate, Indonesia",
-            "distance_km": 179.3,
-            "exposure_contribution": 0.85,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.85
-      },
-      {
-        "name": "Adisoemarmo International Airport",
-        "iata_code": "SOC",
-        "latitude": -7.516044,
-        "longitude": 110.757492,
-        "municipality": "Surakarta",
-        "closest_quake_distance_km": 145.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8me",
-            "magnitude": 5.2,
-            "latitude": -8.7198,
-            "longitude": 111.2648,
-            "depth_km": 71.683,
-            "time_ms": 1782546444293,
-            "place": "86 km SW of Trenggalek, Indonesia",
-            "distance_km": 145.0,
-            "exposure_contribution": 0.54,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.54
-      },
-      {
-        "name": "Soekarno-Hatta International Airport",
-        "iata_code": "CGK",
-        "latitude": -6.12557,
-        "longitude": 106.655998,
-        "municipality": "Jakarta",
-        "closest_quake_distance_km": 183.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tary",
-            "magnitude": 5.3,
-            "latitude": -6.628,
-            "longitude": 105.0792,
-            "depth_km": 32.655,
-            "time_ms": 1783453492097,
-            "place": "87 km WSW of Labuan, Indonesia",
-            "distance_km": 183.0,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.48
-      },
-      {
-        "name": "Kualanamu International Airport",
-        "iata_code": "KNO",
-        "latitude": 3.637847,
-        "longitude": 98.870566,
-        "municipality": "Beringin",
-        "closest_quake_distance_km": 163.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t2dz",
-            "magnitude": 5,
-            "latitude": 4.2441,
-            "longitude": 97.5238,
-            "depth_km": 10,
-            "time_ms": 1784693902071,
-            "place": "55 km WSW of Langsa, Indonesia",
-            "distance_km": 163.9,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.42
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000t2w3",
-        "magnitude": 5.8,
-        "latitude": 0.592,
-        "longitude": 126.2244,
-        "depth_km": 49.188,
-        "time_ms": 1784847516362,
-        "place": "130 km W of Ternate, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t2dz",
-        "magnitude": 5,
-        "latitude": 4.2441,
-        "longitude": 97.5238,
-        "depth_km": 10,
-        "time_ms": 1784693902071,
-        "place": "55 km WSW of Langsa, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1wm",
-        "magnitude": 5.1,
-        "latitude": 1.6021,
-        "longitude": 127.2659,
-        "depth_km": 69.965,
-        "time_ms": 1784540443255,
-        "place": "83 km W of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000szvv",
-        "magnitude": 5.4,
-        "latitude": 1.1373,
-        "longitude": 121.4207,
-        "depth_km": 35,
-        "time_ms": 1783863997155,
-        "place": "194 km WNW of Gorontalo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000szvq",
-        "magnitude": 5.1,
-        "latitude": -9.611,
-        "longitude": 119.4034,
-        "depth_km": 46.568,
-        "time_ms": 1783862426624,
-        "place": "27 km SE of Tambolaka, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tary",
-        "magnitude": 5.3,
-        "latitude": -6.628,
-        "longitude": 105.0792,
-        "depth_km": 32.655,
-        "time_ms": 1783453492097,
-        "place": "87 km WSW of Labuan, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000talg",
-        "magnitude": 5.4,
-        "latitude": 3.1239,
-        "longitude": 127.5573,
-        "depth_km": 36.821,
-        "time_ms": 1783408586844,
-        "place": "162 km NNW of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000ta32",
-        "magnitude": 5.1,
-        "latitude": -2.5131,
-        "longitude": 138.2529,
-        "depth_km": 39.448,
-        "time_ms": 1783155354191,
-        "place": "264 km W of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t9r5",
-        "magnitude": 6.2,
-        "latitude": 1.8205,
-        "longitude": 127.4916,
-        "depth_km": 120.932,
-        "time_ms": 1783045888846,
-        "place": "58 km W of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8qv",
-        "magnitude": 5,
-        "latitude": -6.0545,
-        "longitude": 104.7911,
-        "depth_km": 61.721,
-        "time_ms": 1782594633314,
-        "place": "86 km SW of Bandar Lampung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000taet",
-        "magnitude": 5.1,
-        "latitude": -6.5143,
-        "longitude": 130.3316,
-        "depth_km": 160.359,
-        "time_ms": 1782571802284,
-        "place": "285 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t8nf",
-        "magnitude": 5.9,
-        "latitude": -6.7876,
-        "longitude": 125.6325,
-        "depth_km": 514,
-        "time_ms": 1782556621427,
-        "place": "193 km N of Metinaro, Timor Leste",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8me",
-        "magnitude": 5.2,
-        "latitude": -8.7198,
-        "longitude": 111.2648,
-        "depth_km": 71.683,
-        "time_ms": 1782546444293,
-        "place": "86 km SW of Trenggalek, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.76
-  },
-  {
-    "country": "",
     "iso_alpha2": "CN",
     "iso_alpha3": "",
     "capital": "",
@@ -2204,8 +2050,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.2,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-16",
@@ -2244,6 +2090,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t34g",
+        "magnitude": 5.7,
+        "latitude": -38.9621,
+        "longitude": 175.2332,
+        "depth_km": 10,
+        "time_ms": 1784911897514,
+        "place": "49 km W of Turangi, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
       {
         "id": "us7000t21e",
         "magnitude": 5,
@@ -2487,7 +2344,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
+    "earthquake_count": 6,
     "avg_magnitude": 5.13,
     "strongest_earthquake": {
       "magnitude": 5.5,
@@ -2537,44 +2394,9 @@
           }
         ],
         "exposure_score": 1.31
-      },
-      {
-        "name": "Andrés Sabella Gálvez International Airport",
-        "iata_code": "ANF",
-        "latitude": -23.445274,
-        "longitude": -70.445232,
-        "municipality": "Antofagasta",
-        "closest_quake_distance_km": 195.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t2h9",
-            "magnitude": 5.1,
-            "latitude": -23.3767,
-            "longitude": -68.5273,
-            "depth_km": 108.731,
-            "time_ms": 1784741676746,
-            "place": "61 km SSW of San Pedro de Atacama, Chile",
-            "distance_km": 195.9,
-            "exposure_contribution": 0.27,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.27
       }
     ],
     "earthquakes": [
-      {
-        "id": "us7000t2h9",
-        "magnitude": 5.1,
-        "latitude": -23.3767,
-        "longitude": -68.5273,
-        "depth_km": 108.731,
-        "time_ms": 1784741676746,
-        "place": "61 km SSW of San Pedro de Atacama, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
       {
         "id": "us7000t2fd",
         "magnitude": 5.1,
@@ -2642,7 +2464,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.58
+    "seismic_hub_risk_score": 1.31
   },
   {
     "country": "",
@@ -2657,8 +2479,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-07-13",
@@ -2775,20 +2597,122 @@
         "place": "75 km E of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t7t2",
-        "magnitude": 5.1,
-        "latitude": -6.7744,
-        "longitude": 155.2799,
-        "depth_km": 42.688,
-        "time_ms": 1782281839130,
-        "place": "55 km SSW of Panguna, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.93
+  },
+  {
+    "country": "",
+    "iso_alpha2": "AR",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.6,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-07",
+      "depth_km": 10,
+      "latitude": -57.3319,
+      "longitude": -66.7593
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Martín Miguel de Güemes International Airport",
+        "iata_code": "SLA",
+        "latitude": -24.856001,
+        "longitude": -65.486198,
+        "municipality": "Salta",
+        "closest_quake_distance_km": 149.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t36n",
+            "magnitude": 5.3,
+            "latitude": -23.9755,
+            "longitude": -66.6072,
+            "depth_km": 193.727,
+            "time_ms": 1784921922356,
+            "place": "39 km NW of San Antonio de los Cobres, Argentina",
+            "distance_km": 149.9,
+            "exposure_contribution": 0.29,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.29
+      },
+      {
+        "name": "Gobernador Horacio Guzman International Airport",
+        "iata_code": "JUJ",
+        "latitude": -24.392799,
+        "longitude": -65.097801,
+        "municipality": "San Salvador de Jujuy",
+        "closest_quake_distance_km": 160.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t36n",
+            "magnitude": 5.3,
+            "latitude": -23.9755,
+            "longitude": -66.6072,
+            "depth_km": 193.727,
+            "time_ms": 1784921922356,
+            "place": "39 km NW of San Antonio de los Cobres, Argentina",
+            "distance_km": 160.0,
+            "exposure_contribution": 0.28,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.28
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000t387",
+        "magnitude": 5.7,
+        "latitude": -57.3066,
+        "longitude": -66.8383,
+        "depth_km": 10,
+        "time_ms": 1784934629856,
+        "place": "292 km SSE of Ushuaia, Argentina",
+        "country_code": "AR",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t36n",
+        "magnitude": 5.3,
+        "latitude": -23.9755,
+        "longitude": -66.6072,
+        "depth_km": 193.727,
+        "time_ms": 1784921922356,
+        "place": "39 km NW of San Antonio de los Cobres, Argentina",
+        "country_code": "AR",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000takd",
+        "magnitude": 5.8,
+        "latitude": -57.3319,
+        "longitude": -66.7593,
+        "depth_km": 10,
+        "time_ms": 1783387605626,
+        "place": "296 km SSE of Ushuaia, Argentina",
+        "country_code": "AR",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.57
   },
   {
     "country": "",
@@ -2969,7 +2893,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "US",
+    "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -2980,135 +2904,102 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
-      "magnitude": 5.59,
-      "date": "2026-06-24",
-      "depth_km": 8.8,
-      "latitude": 39.3623,
-      "longitude": -123.2288
+      "magnitude": 5.9,
+      "date": "2026-07-03",
+      "depth_km": 75.8,
+      "latitude": 48.3001,
+      "longitude": 154.2634
     },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 5306,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Sacramento International Airport",
-        "iata_code": "SMF",
-        "latitude": 38.6954,
-        "longitude": -121.591003,
-        "municipality": "Sacramento",
-        "closest_quake_distance_km": 159.7,
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 162.4,
         "nearby_quakes": [
           {
-            "earthquake_id": "nc75382936",
-            "magnitude": 5.59,
-            "latitude": 39.3623333333333,
-            "longitude": -123.228833333333,
-            "depth_km": 8.85,
-            "time_ms": 1782313840760,
-            "place": "11 km N of Redwood Valley, CA",
-            "distance_km": 159.7,
-            "exposure_contribution": 0.22,
-            "pga_g": 0.002179,
-            "mmi": 2.5
+            "earthquake_id": "us7000t34c",
+            "magnitude": 5.1,
+            "latitude": 51.7216,
+            "longitude": 158.127,
+            "depth_km": 69.804,
+            "time_ms": 1784910799808,
+            "place": "115 km ENE of Ozernovskiy, Russia",
+            "distance_km": 162.4,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 0.22
+        "exposure_score": 0.42
       }
     ],
     "earthquakes": [
       {
-        "id": "tx2026ojlaky",
-        "magnitude": 5,
-        "latitude": 35.902,
-        "longitude": -100.976,
-        "depth_km": 5.6885,
-        "time_ms": 1784802103909,
-        "place": "38 km SSE of Spearman, Texas",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t2n5",
+        "id": "us7000t34c",
         "magnitude": 5.1,
-        "latitude": 51.604,
-        "longitude": -173.2484,
-        "depth_km": 35,
-        "time_ms": 1784799018969,
-        "place": "92 km SE of Atka, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
+        "latitude": 51.7216,
+        "longitude": 158.127,
+        "depth_km": 69.804,
+        "time_ms": 1784910799808,
+        "place": "115 km ENE of Ozernovskiy, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
       },
       {
-        "id": "aka2026nyxoap",
-        "magnitude": 5.2,
-        "latitude": 60.569,
-        "longitude": -141.508,
-        "depth_km": 8.5,
-        "time_ms": 1784201841034,
-        "place": "122 km SE of McCarthy, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0fu",
-        "magnitude": 5.4,
-        "latitude": 54.1759,
-        "longitude": -162.6381,
-        "depth_km": 47.044,
-        "time_ms": 1784055067308,
-        "place": "90 km SSE of False Pass, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0b5",
+        "id": "us7000t1py",
         "magnitude": 5.3,
-        "latitude": 54.1456,
-        "longitude": -162.543,
-        "depth_km": 40.773,
-        "time_ms": 1784031139529,
-        "place": "96 km SE of False Pass, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8yt",
-        "magnitude": 5.5,
-        "latitude": 43.3073,
-        "longitude": -127.1835,
+        "latitude": 51.3859,
+        "longitude": 159.6116,
         "depth_km": 10,
-        "time_ms": 1782732932831,
-        "place": "226 km W of Langlois, Oregon",
-        "country_code": "US",
-        "shakemap_available": true
+        "time_ms": 1784421579917,
+        "place": "190 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
       },
       {
-        "id": "aka2026msxacu",
+        "id": "us7000t0k1",
+        "magnitude": 5.1,
+        "latitude": 51.3809,
+        "longitude": 159.5815,
+        "depth_km": 10,
+        "time_ms": 1784083338066,
+        "place": "190 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ta86",
         "magnitude": 5.3,
-        "latitude": 60.237,
-        "longitude": -145.91,
-        "depth_km": 13.3,
-        "time_ms": 1782703959606,
-        "place": "35 km SSW of Cordova, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
+        "latitude": 49.9673,
+        "longitude": 156.0825,
+        "depth_km": 76.899,
+        "time_ms": 1783237026204,
+        "place": "78 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
       },
       {
-        "id": "nc75382936",
-        "magnitude": 5.59,
-        "latitude": 39.3623333333333,
-        "longitude": -123.228833333333,
-        "depth_km": 8.85,
-        "time_ms": 1782313840760,
-        "place": "11 km N of Redwood Valley, CA",
-        "country_code": "US",
+        "id": "us6000t9tf",
+        "magnitude": 5.9,
+        "latitude": 48.3001,
+        "longitude": 154.2634,
+        "depth_km": 75.804,
+        "time_ms": 1783066973615,
+        "place": "296 km SSW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.22
+    "seismic_hub_risk_score": 0.42
   }
 ]
