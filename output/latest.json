@@ -239,6 +239,19 @@
             "mmi": 5.7
           },
           {
+            "earthquake_id": "us7000szq0",
+            "magnitude": 5.4,
+            "latitude": 5.0829,
+            "longitude": 125.5168,
+            "depth_km": 60.754,
+            "time_ms": 1783767073045,
+            "place": "35 km S of Sarangani, Philippines",
+            "distance_km": 117.9,
+            "exposure_contribution": 0.95,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tadc",
             "magnitude": 5.8,
             "latitude": 4.9886,
@@ -248,19 +261,6 @@
             "place": "48 km SSW of Sarangani, Philippines",
             "distance_km": 121.5,
             "exposure_contribution": 1.62,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000szq0",
-            "magnitude": 5.4,
-            "latitude": 5.0334,
-            "longitude": 125.4897,
-            "depth_km": 57.099,
-            "time_ms": 1783767072845,
-            "place": "41 km S of Sarangani, Philippines",
-            "distance_km": 121.9,
-            "exposure_contribution": 0.92,
             "pga_g": null,
             "mmi": null
           },
@@ -291,6 +291,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000t3a4",
+            "magnitude": 5,
+            "latitude": 4.8793,
+            "longitude": 125.4791,
+            "depth_km": 52.163,
+            "time_ms": 1784961966097,
+            "place": "57 km S of Sarangani, Philippines",
+            "distance_km": 137.7,
+            "exposure_contribution": 0.5,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000t8x8",
             "magnitude": 5.2,
             "latitude": 4.5848,
@@ -317,7 +330,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 28.06
+        "exposure_score": 28.59
       },
       {
         "name": "Kalibo International Airport",
@@ -358,6 +371,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t3a4",
+        "magnitude": 5,
+        "latitude": 4.8793,
+        "longitude": 125.4791,
+        "depth_km": 52.163,
+        "time_ms": 1784961966097,
+        "place": "57 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t2a7",
         "magnitude": 5.1,
@@ -460,11 +484,11 @@
       {
         "id": "us7000szq0",
         "magnitude": 5.4,
-        "latitude": 5.0334,
-        "longitude": 125.4897,
-        "depth_km": 57.099,
-        "time_ms": 1783767072845,
-        "place": "41 km S of Sarangani, Philippines",
+        "latitude": 5.0829,
+        "longitude": 125.5168,
+        "depth_km": 60.754,
+        "time_ms": 1783767073045,
+        "place": "35 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -533,20 +557,9 @@
         "place": "44 km SW of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t8al",
-        "magnitude": 5,
-        "latitude": 9.8508,
-        "longitude": 126.9339,
-        "depth_km": 10,
-        "time_ms": 1782422269242,
-        "place": "90 km E of Union, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 35.75
+    "seismic_hub_risk_score": 36.28
   },
   {
     "country": "",
@@ -581,18 +594,18 @@
         "latitude": 35.76858,
         "longitude": 140.388714,
         "municipality": "Narita",
-        "closest_quake_distance_km": 18.8,
+        "closest_quake_distance_km": 19.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t8cy",
             "magnitude": 5.8,
-            "latitude": 35.6314,
-            "longitude": 140.5099,
+            "latitude": 35.6907,
+            "longitude": 140.5771,
             "depth_km": 43,
-            "time_ms": 1782445595803,
-            "place": "3 km SE of Yokoshiba, Japan",
-            "distance_km": 18.8,
-            "exposure_contribution": 6.64,
+            "time_ms": 1782445595798,
+            "place": "2 km ESE of Yōkaichiba, Japan",
+            "distance_km": 19.1,
+            "exposure_contribution": 6.62,
             "pga_g": null,
             "mmi": null
           },
@@ -610,7 +623,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 7.36
+        "exposure_score": 7.34
       },
       {
         "name": "Ibaraki Airport",
@@ -618,18 +631,18 @@
         "latitude": 36.181456,
         "longitude": 140.414434,
         "municipality": "Omitama",
-        "closest_quake_distance_km": 61.8,
+        "closest_quake_distance_km": 56.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t8cy",
             "magnitude": 5.8,
-            "latitude": 35.6314,
-            "longitude": 140.5099,
+            "latitude": 35.6907,
+            "longitude": 140.5771,
             "depth_km": 43,
-            "time_ms": 1782445595803,
-            "place": "3 km SE of Yokoshiba, Japan",
-            "distance_km": 61.8,
-            "exposure_contribution": 3.49,
+            "time_ms": 1782445595798,
+            "place": "2 km ESE of Yōkaichiba, Japan",
+            "distance_km": 56.5,
+            "exposure_contribution": 3.79,
             "pga_g": null,
             "mmi": null
           },
@@ -647,7 +660,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.1
+        "exposure_score": 4.4
       },
       {
         "name": "Kansai International Airport",
@@ -956,18 +969,18 @@
         "latitude": 35.549678,
         "longitude": 139.786958,
         "municipality": "Tokyo",
-        "closest_quake_distance_km": 66.0,
+        "closest_quake_distance_km": 73.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000t8cy",
             "magnitude": 5.8,
-            "latitude": 35.6314,
-            "longitude": 140.5099,
+            "latitude": 35.6907,
+            "longitude": 140.5771,
             "depth_km": 43,
-            "time_ms": 1782445595803,
-            "place": "3 km SE of Yokoshiba, Japan",
-            "distance_km": 66.0,
-            "exposure_contribution": 3.27,
+            "time_ms": 1782445595798,
+            "place": "2 km ESE of Yōkaichiba, Japan",
+            "distance_km": 73.1,
+            "exposure_contribution": 2.95,
             "pga_g": null,
             "mmi": null
           },
@@ -985,7 +998,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.74
+        "exposure_score": 4.41
       },
       {
         "name": "Naha International Airport",
@@ -1115,16 +1128,16 @@
       {
         "id": "us6000t8cy",
         "magnitude": 5.8,
-        "latitude": 35.6314,
-        "longitude": 140.5099,
+        "latitude": 35.6907,
+        "longitude": 140.5771,
         "depth_km": 43,
-        "time_ms": 1782445595803,
-        "place": "3 km SE of Yokoshiba, Japan",
+        "time_ms": 1782445595798,
+        "place": "2 km ESE of Yōkaichiba, Japan",
         "country_code": "JP",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 27.48
+    "seismic_hub_risk_score": 27.43
   },
   {
     "country": "",
@@ -1517,8 +1530,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 22,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 23,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-07-17",
@@ -1594,6 +1607,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t3a0",
+        "magnitude": 5.1,
+        "latitude": 14.4952,
+        "longitude": -92.7508,
+        "depth_km": 35,
+        "time_ms": 1784957193842,
+        "place": "43 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t1tp",
         "magnitude": 5.5,
@@ -1853,7 +1877,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 6,
-    "avg_magnitude": 5.1,
+    "avg_magnitude": 5.08,
     "strongest_earthquake": {
       "magnitude": 5.3,
       "date": "2026-06-30",
@@ -1915,14 +1939,14 @@
           },
           {
             "earthquake_id": "us6000tatd",
-            "magnitude": 5.1,
-            "latitude": 28.5702,
-            "longitude": 104.788,
+            "magnitude": 5,
+            "latitude": 28.574,
+            "longitude": 104.7111,
             "depth_km": 10,
-            "time_ms": 1783462349518,
-            "place": "13 km W of Changning, China",
-            "distance_km": 196.6,
-            "exposure_contribution": 0.34,
+            "time_ms": 1783462349702,
+            "place": "13 km N of Xunchang, China",
+            "distance_km": 195.1,
+            "exposure_contribution": 0.31,
             "pga_g": null,
             "mmi": null
           },
@@ -1940,7 +1964,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.89
+        "exposure_score": 1.85
       },
       {
         "name": "Chengdu Shuangliu International Airport",
@@ -1992,12 +2016,12 @@
       },
       {
         "id": "us6000tatd",
-        "magnitude": 5.1,
-        "latitude": 28.5702,
-        "longitude": 104.788,
+        "magnitude": 5,
+        "latitude": 28.574,
+        "longitude": 104.7111,
         "depth_km": 10,
-        "time_ms": 1783462349518,
-        "place": "13 km W of Changning, China",
+        "time_ms": 1783462349702,
+        "place": "13 km N of Xunchang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -2035,7 +2059,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.64
+    "seismic_hub_risk_score": 2.6
   },
   {
     "country": "",
@@ -2126,10 +2150,10 @@
       {
         "id": "us7000t1b0",
         "magnitude": 5,
-        "latitude": -32.9894,
-        "longitude": -177.9086,
+        "latitude": -32.9019,
+        "longitude": -178.1627,
         "depth_km": 10,
-        "time_ms": 1784294219268,
+        "time_ms": 1784294220140,
         "place": "south of the Kermadec Islands",
         "country_code": "NZ",
         "shakemap_available": false
@@ -2345,13 +2369,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 6,
-    "avg_magnitude": 5.13,
+    "avg_magnitude": 5.15,
     "strongest_earthquake": {
-      "magnitude": 5.5,
+      "magnitude": 5.6,
       "date": "2026-07-12",
       "depth_km": 10,
-      "latitude": -54.6008,
-      "longitude": -118.9732
+      "latitude": -54.6193,
+      "longitude": -118.8883
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2421,11 +2445,11 @@
       },
       {
         "id": "us7000szu6",
-        "magnitude": 5.5,
-        "latitude": -54.6008,
-        "longitude": -118.9732,
+        "magnitude": 5.6,
+        "latitude": -54.6193,
+        "longitude": -118.8883,
         "depth_km": 10,
-        "time_ms": 1783841363556,
+        "time_ms": 1783841363739,
         "place": "southern East Pacific Rise",
         "country_code": "CL",
         "shakemap_available": true
@@ -2479,8 +2503,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.42,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-07-13",
@@ -2586,17 +2610,6 @@
         "place": "21 km NW of Finschhafen, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000t81q",
-        "magnitude": 5.5,
-        "latitude": -4.3042,
-        "longitude": 152.9505,
-        "depth_km": 33,
-        "time_ms": 1782368375977,
-        "place": "75 km E of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.93
