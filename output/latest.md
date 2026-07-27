@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-07-26 08:10 UTC
+Generated: 2026-07-27 09:34 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-04-27 to 2026-07-26).
+Based on 89 snapshots (2026-04-28 to 2026-07-27).
 
 
 **Top score changes**:
@@ -12,25 +12,25 @@ Based on 89 snapshots (2026-04-27 to 2026-07-26).
 
 **Top airport exposure changes**:
 
-- General Santos International Airport (GES, ): +0.5
-- Tokyo Haneda International Airport (HND, ): -0.3
-- Ibaraki Airport (IBR, ): +0.3
-- Chengdu Tianfu International Airport (TFU, ): -0.0
-- Narita International Airport (NRT, ): -0.0
+- General Santos International Airport (GES, ): -8.8
+- Nadzab Tomodachi International Airport (LAE, ): -0.3
+- Bicol International Airport (DRP, ): 0.0
+- Francisco Bangoy International Airport (DVO, ): 0.0
+- Kalibo International Airport (KLO, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 36.3 | ~ | 5.4 | M6.5 (2026-06-26) | 17 | 4 | green | No | 2 |
-|  |  |  | 27.4 | ~ | 5.4 | M6.1 (2026-07-03) | 10 | 16 | - | No | 0 |
-|  |  |  | 4.2 | ~ | 5.3 | M6.2 (2026-07-03) | 16 | 6 | - | No | 0 |
+|  |  |  | 27.5 | ~ | 5.3 | M6.2 (2026-07-14) | 16 | 4 | green | No | 1 |
+|  |  |  | 10.4 | ~ | 5.4 | M6.1 (2026-07-03) | 8 | 12 | - | No | 0 |
+|  |  |  | 4.2 | ~ | 5.3 | M6.2 (2026-07-03) | 17 | 6 | - | No | 0 |
 |  |  |  | 2.8 | ~ | 5.4 | M7.3 (2026-07-17) | 23 | 2 | yellow | No | 2 |
 |  |  |  | 2.6 | ~ | 5.1 | M5.3 (2026-06-30) | 6 | 2 | yellow | No | 1 |
-|  |  |  | 2.0 | ~ | 5.3 | M5.9 (2026-07-16) | 7 | 1 | - | No | 0 |
+|  |  |  | 2.0 | ~ | 5.3 | M5.9 (2026-07-16) | 6 | 1 | - | No | 0 |
 |  |  |  | 1.9 | ~ | 5.4 | M5.6 (2026-07-14) | 3 | 4 | yellow | No | 1 |
 |  |  |  | 1.3 | ~ | 5.2 | M5.6 (2026-07-12) | 6 | 1 | - | No | 0 |
-|  |  |  | 0.9 | ~ | 5.4 | M6.4 (2026-07-13) | 5 | 1 | green | No | 1 |
+|  |  |  | 0.7 | ~ | 5.5 | M6.4 (2026-07-13) | 4 | 1 | green | No | 1 |
 |  |  |  | 0.6 | ~ | 5.6 | M5.8 (2026-07-07) | 3 | 2 | - | No | 0 |
 |  |  |  | 0.5 | ~ | 5.3 | M5.8 (2026-07-15) | 11 | 1 | - | No | 0 |
 |  |  |  | 0.4 | ~ | 5.3 | M5.9 (2026-07-03) | 5 | 1 | - | No | 0 |
@@ -39,17 +39,13 @@ Based on 89 snapshots (2026-04-27 to 2026-07-26).
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Max PGA (g) | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|------------:|-------------------:|--------------:|
-| General Santos International Airport | GES | General Santos |  | 28.6 | +0.5 | 0.0876 | 45.4 | 14 |
+| General Santos International Airport | GES | General Santos |  | 19.8 | -8.8 | 0.0570 | 45.4 | 13 |
 | Bicol International Airport | DRP | Legazpi |  | 4.1 | ~ | - | 68.3 | 2 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 2.2 | ~ | - | 154.7 | 5 |
 | Kalibo International Airport | KLO | Kalibo |  | 1.4 | ~ | - | 143.4 | 2 |
-| Narita International Airport | NRT | Narita |  | 7.3 | ~ | - | 19.1 | 2 |
-| Tokyo Haneda International Airport | HND | Tokyo |  | 4.4 | ~ | - | 73.1 | 2 |
-| Ibaraki Airport | IBR | Omitama |  | 4.4 | ~ | - | 56.5 | 2 |
 | Aomori Airport | AOJ | Aomori |  | 2.5 | ~ | - | 156.2 | 2 |
 | Naha International Airport | OKA | Naha |  | 1.2 | ~ | - | 186.3 | 1 |
 | Tokushima Awaodori Airport / JMSDF Tokushima Air Base | TKS | Tokushima |  | 1.1 | ~ | - | 94.5 | 1 |
-| Mount Fuji Shizuoka Airport | FSZ | Makinohara / Shimada |  | 0.8 | ~ | - | 114.8 | 1 |
 | Miyazaki Airport | KMI | Miyazaki |  | 0.8 | ~ | - | 124.1 | 1 |
 | Kansai International Airport | KIX | Osaka |  | 0.8 | ~ | - | 123.0 | 1 |
 | Kochi Ryoma Airport | KCZ | Nankoku |  | 0.7 | ~ | - | 124.1 | 1 |
@@ -75,7 +71,7 @@ Based on 89 snapshots (2026-04-27 to 2026-07-26).
 | Rodríguez Ballón International Airport | AQP | Arequipa |  | 0.4 | ~ | - | 196.5 | 1 |
 | Jorge Chávez International Airport | LIM | Lima |  | 0.3 | ~ | 0.0035 | 197.1 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.3 | ~ | - | 131.7 | 2 |
-| Nadzab Tomodachi International Airport | LAE | Lae |  | 0.9 | ~ | - | 110.3 | 2 |
+| Nadzab Tomodachi International Airport | LAE | Lae |  | 0.7 | ~ | - | 110.3 | 1 |
 | Martín Miguel de Güemes International Airport | SLA | Salta |  | 0.3 | ~ | - | 149.9 | 1 |
 | Gobernador Horacio Guzman International Airport | JUJ | San Salvador de Jujuy |  | 0.3 | ~ | - | 160.0 | 1 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.5 | ~ | - | 153.3 | 1 |

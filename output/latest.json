@@ -12,19 +12,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
-      "magnitude": 6.5,
-      "date": "2026-06-26",
-      "depth_km": 42,
-      "latitude": 5.2867,
-      "longitude": 125.0719
+      "magnitude": 6.2,
+      "date": "2026-07-14",
+      "depth_km": 46.4,
+      "latitude": 5.3226,
+      "longitude": 125.1801
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 82,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Bicol International Airport",
@@ -226,19 +226,6 @@
             "mmi": 4.9
           },
           {
-            "earthquake_id": "us6000t8ec",
-            "magnitude": 6.5,
-            "latitude": 5.2867,
-            "longitude": 125.0719,
-            "depth_km": 42,
-            "time_ms": 1782473681463,
-            "place": "44 km SW of Balangonan, Philippines",
-            "distance_km": 85.7,
-            "exposure_contribution": 8.76,
-            "pga_g": 0.087569,
-            "mmi": 5.7
-          },
-          {
             "earthquake_id": "us7000szq0",
             "magnitude": 5.4,
             "latitude": 5.0829,
@@ -330,7 +317,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 28.59
+        "exposure_score": 19.83
       },
       {
         "name": "Kalibo International Airport",
@@ -546,20 +533,9 @@
         "place": "66 km WNW of Catuday, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000t8ec",
-        "magnitude": 6.5,
-        "latitude": 5.2867,
-        "longitude": 125.0719,
-        "depth_km": 42,
-        "time_ms": 1782473681463,
-        "place": "44 km SW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 36.28
+    "seismic_hub_risk_score": 27.52
   },
   {
     "country": "",
@@ -574,8 +550,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.44,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-07-03",
@@ -588,80 +564,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
-      {
-        "name": "Narita International Airport",
-        "iata_code": "NRT",
-        "latitude": 35.76858,
-        "longitude": 140.388714,
-        "municipality": "Narita",
-        "closest_quake_distance_km": 19.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8cy",
-            "magnitude": 5.8,
-            "latitude": 35.6907,
-            "longitude": 140.5771,
-            "depth_km": 43,
-            "time_ms": 1782445595798,
-            "place": "2 km ESE of Yōkaichiba, Japan",
-            "distance_km": 19.1,
-            "exposure_contribution": 6.62,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 129.0,
-            "exposure_contribution": 0.72,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 7.34
-      },
-      {
-        "name": "Ibaraki Airport",
-        "iata_code": "IBR",
-        "latitude": 36.181456,
-        "longitude": 140.414434,
-        "municipality": "Omitama",
-        "closest_quake_distance_km": 56.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8cy",
-            "magnitude": 5.8,
-            "latitude": 35.6907,
-            "longitude": 140.5771,
-            "depth_km": 43,
-            "time_ms": 1782445595798,
-            "place": "2 km ESE of Yōkaichiba, Japan",
-            "distance_km": 56.5,
-            "exposure_contribution": 3.79,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 144.7,
-            "exposure_contribution": 0.61,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 4.4
-      },
       {
         "name": "Kansai International Airport",
         "iata_code": "KIX",
@@ -757,30 +659,6 @@
           }
         ],
         "exposure_score": 0.79
-      },
-      {
-        "name": "Mount Fuji Shizuoka Airport",
-        "iata_code": "FSZ",
-        "latitude": 34.795022,
-        "longitude": 138.190976,
-        "municipality": "Makinohara / Shimada",
-        "closest_quake_distance_km": 114.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 114.8,
-            "exposure_contribution": 0.85,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.85
       },
       {
         "name": "Okayama Momotaro Airport",
@@ -964,43 +842,6 @@
         "exposure_score": 0.63
       },
       {
-        "name": "Tokyo Haneda International Airport",
-        "iata_code": "HND",
-        "latitude": 35.549678,
-        "longitude": 139.786958,
-        "municipality": "Tokyo",
-        "closest_quake_distance_km": 73.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8cy",
-            "magnitude": 5.8,
-            "latitude": 35.6907,
-            "longitude": 140.5771,
-            "depth_km": 43,
-            "time_ms": 1782445595798,
-            "place": "2 km ESE of Yōkaichiba, Japan",
-            "distance_km": 73.1,
-            "exposure_contribution": 2.95,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000t8fe",
-            "magnitude": 5.2,
-            "latitude": 35.6048,
-            "longitude": 138.9744,
-            "depth_km": 43.164,
-            "time_ms": 1782480541036,
-            "place": "1 km S of Ōtsuki, Japan",
-            "distance_km": 73.7,
-            "exposure_contribution": 1.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 4.41
-      },
-      {
         "name": "Naha International Airport",
         "iata_code": "OKA",
         "latitude": 26.192437,
@@ -1113,31 +954,9 @@
         "place": "54 km ENE of Noda, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t8fe",
-        "magnitude": 5.2,
-        "latitude": 35.6048,
-        "longitude": 138.9744,
-        "depth_km": 43.164,
-        "time_ms": 1782480541036,
-        "place": "1 km S of Ōtsuki, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8cy",
-        "magnitude": 5.8,
-        "latitude": 35.6907,
-        "longitude": 140.5771,
-        "depth_km": 43,
-        "time_ms": 1782445595798,
-        "place": "2 km ESE of Yōkaichiba, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 27.43
+    "seismic_hub_risk_score": 10.43
   },
   {
     "country": "",
@@ -1152,7 +971,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
+    "earthquake_count": 17,
     "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.2,
@@ -1339,6 +1158,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000t3g4",
+        "magnitude": 5.3,
+        "latitude": -10.007,
+        "longitude": 123.4402,
+        "depth_km": 10,
+        "time_ms": 1785063457061,
+        "place": "25 km NW of Kupang, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000t30v",
         "magnitude": 5.1,
         "latitude": -2.6055,
@@ -1451,11 +1281,11 @@
       {
         "id": "us6000ta32",
         "magnitude": 5.1,
-        "latitude": -2.5131,
-        "longitude": 138.2529,
-        "depth_km": 39.448,
-        "time_ms": 1783155354191,
-        "place": "264 km W of Abepura, Indonesia",
+        "latitude": -2.441,
+        "longitude": 138.2901,
+        "depth_km": 10,
+        "time_ms": 1783155349991,
+        "place": "261 km W of Abepura, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2074,8 +1904,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-16",
@@ -2177,17 +2007,6 @@
         "depth_km": 10,
         "time_ms": 1784192278825,
         "place": "141 km ENE of Hicks Bay, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t8di",
-        "magnitude": 5.1,
-        "latitude": -32.574,
-        "longitude": -177.9384,
-        "depth_km": 10,
-        "time_ms": 1782454739263,
-        "place": "south of the Kermadec Islands",
         "country_code": "NZ",
         "shakemap_available": false
       }
@@ -2503,8 +2322,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.47,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-07-13",
@@ -2537,22 +2356,9 @@
             "exposure_contribution": 0.66,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000ta2x",
-            "magnitude": 5.1,
-            "latitude": -5.5049,
-            "longitude": 147.103,
-            "depth_km": 182.779,
-            "time_ms": 1783151423853,
-            "place": "135 km N of Lae, Papua New Guinea",
-            "distance_km": 125.3,
-            "exposure_contribution": 0.28,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 0.93
+        "exposure_score": 0.66
       }
     ],
     "earthquakes": [
@@ -2579,17 +2385,6 @@
         "shakemap_available": false
       },
       {
-        "id": "us6000ta2x",
-        "magnitude": 5.1,
-        "latitude": -5.5049,
-        "longitude": 147.103,
-        "depth_km": 182.779,
-        "time_ms": 1783151423853,
-        "place": "135 km N of Lae, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000t978",
         "magnitude": 5.4,
         "latitude": -5.7682,
@@ -2612,7 +2407,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 0.93
+    "seismic_hub_risk_score": 0.66
   },
   {
     "country": "",
