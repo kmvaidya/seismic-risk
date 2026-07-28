@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
+    "earthquake_count": 17,
     "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.2,
@@ -69,8 +69,21 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 154.7,
+        "closest_quake_distance_km": 137.7,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tg94",
+            "magnitude": 5.3,
+            "latitude": 7.6738,
+            "longitude": 126.7653,
+            "depth_km": 71.061,
+            "time_ms": 1785193594085,
+            "place": "23 km E of Kinablangan, Philippines",
+            "distance_km": 137.7,
+            "exposure_contribution": 0.66,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000t1e8",
             "magnitude": 5.2,
@@ -137,7 +150,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.17
+        "exposure_score": 2.83
       },
       {
         "name": "General Santos International Airport",
@@ -359,6 +372,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tg94",
+        "magnitude": 5.3,
+        "latitude": 7.6738,
+        "longitude": 126.7653,
+        "depth_km": 71.061,
+        "time_ms": 1785193594085,
+        "place": "23 km E of Kinablangan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000t3a4",
         "magnitude": 5,
         "latitude": 4.8793,
@@ -535,7 +559,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 27.52
+    "seismic_hub_risk_score": 28.18
   },
   {
     "country": "",
@@ -550,7 +574,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
+    "earthquake_count": 6,
     "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 6.1,
@@ -786,21 +810,8 @@
         "latitude": 40.733777,
         "longitude": 140.689477,
         "municipality": "Aomori",
-        "closest_quake_distance_km": 156.2,
+        "closest_quake_distance_km": 159.3,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8qd",
-            "magnitude": 5.8,
-            "latitude": 40.2536,
-            "longitude": 142.4257,
-            "depth_km": 34,
-            "time_ms": 1782591710787,
-            "place": "54 km ENE of Noda, Japan",
-            "distance_km": 156.2,
-            "exposure_contribution": 1.11,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000t9ej",
             "magnitude": 6,
@@ -815,31 +826,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.45
-      },
-      {
-        "name": "Sendai Airport",
-        "iata_code": "SDJ",
-        "latitude": 38.139702,
-        "longitude": 140.917007,
-        "municipality": "Natori",
-        "closest_quake_distance_km": 133.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9qx",
-            "magnitude": 5.1,
-            "latitude": 38.728,
-            "longitude": 142.2568,
-            "depth_km": 33.97,
-            "time_ms": 1783043090399,
-            "place": "60 km SE of Ōfunato, Japan",
-            "distance_km": 133.8,
-            "exposure_contribution": 0.63,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.63
+        "exposure_score": 1.35
       },
       {
         "name": "Naha International Airport",
@@ -923,17 +910,6 @@
         "shakemap_available": true
       },
       {
-        "id": "us6000t9qx",
-        "magnitude": 5.1,
-        "latitude": 38.728,
-        "longitude": 142.2568,
-        "depth_km": 33.97,
-        "time_ms": 1783043090399,
-        "place": "60 km SE of Ōfunato, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000t9ej",
         "magnitude": 6,
         "latitude": 40.2085,
@@ -943,20 +919,9 @@
         "place": "54 km ENE of Noda, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t8qd",
-        "magnitude": 5.8,
-        "latitude": 40.2536,
-        "longitude": 142.4257,
-        "depth_km": 34,
-        "time_ms": 1782591710787,
-        "place": "54 km ENE of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 10.43
+    "seismic_hub_risk_score": 8.7
   },
   {
     "country": "",
@@ -971,8 +936,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-07-03",
@@ -985,30 +950,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
-      {
-        "name": "Yogyakarta International Airport",
-        "iata_code": "YIA",
-        "latitude": -7.905338,
-        "longitude": 110.057264,
-        "municipality": "Yogyakarta",
-        "closest_quake_distance_km": 160.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8me",
-            "magnitude": 5.2,
-            "latitude": -8.7198,
-            "longitude": 111.2648,
-            "depth_km": 71.683,
-            "time_ms": 1782546444293,
-            "place": "86 km SW of Trenggalek, Indonesia",
-            "distance_km": 160.8,
-            "exposure_contribution": 0.47,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.47
-      },
       {
         "name": "Dortheys Hiyo Eluay International Airport",
         "iata_code": "DJJ",
@@ -1082,30 +1023,6 @@
           }
         ],
         "exposure_score": 0.85
-      },
-      {
-        "name": "Adisoemarmo International Airport",
-        "iata_code": "SOC",
-        "latitude": -7.516044,
-        "longitude": 110.757492,
-        "municipality": "Surakarta",
-        "closest_quake_distance_km": 145.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t8me",
-            "magnitude": 5.2,
-            "latitude": -8.7198,
-            "longitude": 111.2648,
-            "depth_km": 71.683,
-            "time_ms": 1782546444293,
-            "place": "86 km SW of Trenggalek, Indonesia",
-            "distance_km": 145.0,
-            "exposure_contribution": 0.54,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.54
       },
       {
         "name": "Soekarno-Hatta International Airport",
@@ -1299,53 +1216,9 @@
         "place": "58 km W of Tobelo, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t8qv",
-        "magnitude": 5,
-        "latitude": -6.0545,
-        "longitude": 104.7911,
-        "depth_km": 61.721,
-        "time_ms": 1782594633314,
-        "place": "86 km SW of Bandar Lampung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000taet",
-        "magnitude": 5.1,
-        "latitude": -6.5143,
-        "longitude": 130.3316,
-        "depth_km": 160.359,
-        "time_ms": 1782571802284,
-        "place": "285 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000t8nf",
-        "magnitude": 5.9,
-        "latitude": -6.7876,
-        "longitude": 125.6325,
-        "depth_km": 514,
-        "time_ms": 1782556621427,
-        "place": "193 km N of Metinaro, Timor Leste",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t8me",
-        "magnitude": 5.2,
-        "latitude": -8.7198,
-        "longitude": 111.2648,
-        "depth_km": 71.683,
-        "time_ms": 1782546444293,
-        "place": "86 km SW of Trenggalek, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.16
+    "seismic_hub_risk_score": 3.15
   },
   {
     "country": "",
@@ -1360,14 +1233,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 23,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 25,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-07-17",
-      "depth_km": 18.6,
-      "latitude": 14.6043,
-      "longitude": -92.9517
+      "depth_km": 22,
+      "latitude": 14.6361,
+      "longitude": -92.8969
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 287,
@@ -1647,13 +1520,35 @@
         "shakemap_available": false
       },
       {
+        "id": "us7000t2q5",
+        "magnitude": 5,
+        "latitude": 13.8567,
+        "longitude": -92.7648,
+        "depth_km": 10,
+        "time_ms": 1784300198005,
+        "place": "95 km SW of Ocós, Guatemala",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t2si",
+        "magnitude": 5.2,
+        "latitude": 14.3689,
+        "longitude": -93.2004,
+        "depth_km": 10,
+        "time_ms": 1784300100456,
+        "place": "92 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000t1bu",
         "magnitude": 7.3,
-        "latitude": 14.6043,
-        "longitude": -92.9517,
-        "depth_km": 18.584,
-        "time_ms": 1784299719769,
-        "place": "58 km WSW of Puerto Madero, Mexico",
+        "latitude": 14.6361,
+        "longitude": -92.8969,
+        "depth_km": 22,
+        "time_ms": 1784299720227,
+        "place": "52 km W of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": true
       },
@@ -2187,8 +2082,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.15,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-07-12",
@@ -2237,9 +2132,44 @@
           }
         ],
         "exposure_score": 1.31
+      },
+      {
+        "name": "Andrés Sabella Gálvez International Airport",
+        "iata_code": "ANF",
+        "latitude": -23.445274,
+        "longitude": -70.445232,
+        "municipality": "Antofagasta",
+        "closest_quake_distance_km": 185.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t3m7",
+            "magnitude": 5.4,
+            "latitude": -23.5454,
+            "longitude": -68.633,
+            "depth_km": 106.991,
+            "time_ms": 1785142663758,
+            "place": "82 km SSW of San Pedro de Atacama, Chile",
+            "distance_km": 185.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t3m7",
+        "magnitude": 5.4,
+        "latitude": -23.5454,
+        "longitude": -68.633,
+        "depth_km": 106.991,
+        "time_ms": 1785142663758,
+        "place": "82 km SSW of San Pedro de Atacama, Chile",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
       {
         "id": "us7000t2fd",
         "magnitude": 5.1,
@@ -2307,7 +2237,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.31
+    "seismic_hub_risk_score": 1.73
   },
   {
     "country": "",
@@ -2322,8 +2252,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.47,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-07-13",
@@ -2362,6 +2292,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000t3p2",
+        "magnitude": 5.1,
+        "latitude": -5.4518,
+        "longitude": 151.462,
+        "depth_km": 91.011,
+        "time_ms": 1785162816219,
+        "place": "147 km E of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us7000szzy",
         "magnitude": 6.4,
@@ -2535,8 +2476,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 17,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-15",
@@ -2575,6 +2516,72 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tg95",
+        "magnitude": 5.1,
+        "latitude": -24.7784,
+        "longitude": -175.2557,
+        "depth_km": 10,
+        "time_ms": 1785193932908,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3m6",
+        "magnitude": 5.2,
+        "latitude": -24.7345,
+        "longitude": -175.3545,
+        "depth_km": 10,
+        "time_ms": 1785142038681,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3m5",
+        "magnitude": 5.2,
+        "latitude": -24.6958,
+        "longitude": -175.244,
+        "depth_km": 10,
+        "time_ms": 1785141848090,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3l3",
+        "magnitude": 5.2,
+        "latitude": -24.5001,
+        "longitude": -175.1714,
+        "depth_km": 10,
+        "time_ms": 1785123403273,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3kz",
+        "magnitude": 5,
+        "latitude": -24.4378,
+        "longitude": -175.0899,
+        "depth_km": 10,
+        "time_ms": 1785121924308,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3km",
+        "magnitude": 5.1,
+        "latitude": -24.5442,
+        "longitude": -175.1465,
+        "depth_km": 10,
+        "time_ms": 1785117254139,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t2j3",
         "magnitude": 5,
