@@ -1,0 +1,436 @@
+{
+  "date": "2026-07-31",
+  "scoring_method": "shakemap",
+  "countries": [
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 106.11,
+      "earthquake_count": 10,
+      "exposed_airport_count": 16,
+      "avg_magnitude": 5.53,
+      "airports": [
+        {
+          "iata_code": "KIX",
+          "name": "Kansai International Airport",
+          "exposure_score": 0.75,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 123.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "UKB",
+          "name": "Kobe Airport",
+          "exposure_score": 0.58,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 145.2,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "FUK",
+          "name": "Fukuoka Airport",
+          "exposure_score": 5.22,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 101.4,
+          "max_pga_g": 0.0233
+        },
+        {
+          "iata_code": "KOJ",
+          "name": "Kagoshima Airport",
+          "exposure_score": 13.17,
+          "nearby_quake_count": 5,
+          "closest_quake_km": 62.4,
+          "max_pga_g": 0.0528
+        },
+        {
+          "iata_code": "KMI",
+          "name": "Miyazaki Airport",
+          "exposure_score": 8.96,
+          "nearby_quake_count": 5,
+          "closest_quake_km": 96.9,
+          "max_pga_g": 0.0418
+        },
+        {
+          "iata_code": "KKJ",
+          "name": "Kitakyushu Airport",
+          "exposure_score": 4.6,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 132.7,
+          "max_pga_g": 0.0264
+        },
+        {
+          "iata_code": "HSG",
+          "name": "Kyushu Saga International Airport",
+          "exposure_score": 12.03,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 60.4,
+          "max_pga_g": 0.0649
+        },
+        {
+          "iata_code": "KMJ",
+          "name": "Kumamoto Airport",
+          "exposure_score": 44.94,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 21.3,
+          "max_pga_g": 0.3335
+        },
+        {
+          "iata_code": "NGS",
+          "name": "Nagasaki Airport",
+          "exposure_score": 9.99,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 72.7,
+          "max_pga_g": 0.0451
+        },
+        {
+          "iata_code": "OKJ",
+          "name": "Okayama Momotaro Airport",
+          "exposure_score": 0.37,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 188.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "KCZ",
+          "name": "Kochi Ryoma Airport",
+          "exposure_score": 0.74,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 124.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "ITM",
+          "name": "Osaka Itami International Airport",
+          "exposure_score": 0.47,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 165.4,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "TKS",
+          "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
+          "exposure_score": 1.11,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 94.5,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "TAK",
+          "name": "Takamatsu Airport",
+          "exposure_score": 0.67,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 132.1,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "AOJ",
+          "name": "Aomori Airport",
+          "exposure_score": 1.35,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 159.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "OKA",
+          "name": "Naha International Airport",
+          "exposure_score": 1.16,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 190.0,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 31.48,
+      "earthquake_count": 19,
+      "exposed_airport_count": 4,
+      "avg_magnitude": 5.27,
+      "airports": [
+        {
+          "iata_code": "DRP",
+          "name": "Bicol International Airport",
+          "exposure_score": 5.31,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 68.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "DVO",
+          "name": "Francisco Bangoy International Airport",
+          "exposure_score": 3.19,
+          "nearby_quake_count": 7,
+          "closest_quake_km": 137.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "GES",
+          "name": "General Santos International Airport",
+          "exposure_score": 21.53,
+          "nearby_quake_count": 14,
+          "closest_quake_km": 45.4,
+          "max_pga_g": 0.057
+        },
+        {
+          "iata_code": "KLO",
+          "name": "Kalibo International Airport",
+          "exposure_score": 1.45,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 143.4,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 3.66,
+      "earthquake_count": 14,
+      "exposed_airport_count": 4,
+      "avg_magnitude": 5.35,
+      "airports": [
+        {
+          "iata_code": "DJJ",
+          "name": "Dortheys Hiyo Eluay International Airport",
+          "exposure_score": 1.91,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 182.2,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "MDC",
+          "name": "Sam Ratulangi International Airport",
+          "exposure_score": 0.85,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 179.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CGK",
+          "name": "Soekarno-Hatta International Airport",
+          "exposure_score": 0.48,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 183.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "KNO",
+          "name": "Kualanamu International Airport",
+          "exposure_score": 0.42,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 163.9,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 2.36,
+      "earthquake_count": 4,
+      "exposed_airport_count": 5,
+      "avg_magnitude": 5.38,
+      "airports": [
+        {
+          "iata_code": "LIM",
+          "name": "Jorge Ch\u00e1vez International Airport",
+          "exposure_score": 0.35,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 197.1,
+          "max_pga_g": 0.0035
+        },
+        {
+          "iata_code": "JUL",
+          "name": "Inca Manco Capac International Airport",
+          "exposure_score": 0.5,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 169.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "AQP",
+          "name": "Rodr\u00edguez Ball\u00f3n International Airport",
+          "exposure_score": 0.42,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 196.5,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "TRU",
+          "name": "Capit\u00e1n FAP Carlos Mart\u00ednez de Pinillos International Airport",
+          "exposure_score": 0.43,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 196.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CUZ",
+          "name": "Alejandro Velasco Astete International Airport",
+          "exposure_score": 0.66,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 128.0,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 2.03,
+      "earthquake_count": 7,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.34,
+      "airports": [
+        {
+          "iata_code": "ZQN",
+          "name": "Queenstown Airport",
+          "exposure_score": 2.03,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 89.3,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.89,
+      "earthquake_count": 7,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.23,
+      "airports": [
+        {
+          "iata_code": "TFU",
+          "name": "Chengdu Tianfu International Airport",
+          "exposure_score": 1.14,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 145.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CTU",
+          "name": "Chengdu Shuangliu International Airport",
+          "exposure_score": 0.75,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 113.9,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.72,
+      "earthquake_count": 8,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.31,
+      "airports": [
+        {
+          "iata_code": "PKC",
+          "name": "Yelizovo Airport",
+          "exposure_score": 1.72,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 80.1,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.67,
+      "earthquake_count": 7,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.17,
+      "airports": [
+        {
+          "iata_code": "SCL",
+          "name": "Comodoro Arturo Merino Ben\u00edtez International Airport",
+          "exposure_score": 1.25,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 131.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "ANF",
+          "name": "Andr\u00e9s Sabella G\u00e1lvez International Airport",
+          "exposure_score": 0.42,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 185.1,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.67,
+      "earthquake_count": 27,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.27,
+      "airports": [
+        {
+          "iata_code": "TBU",
+          "name": "Fua'amotu International Airport",
+          "exposure_score": 0.87,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 168.0,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "VAV",
+          "name": "Vava'u International Airport",
+          "exposure_score": 0.8,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 147.4,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.32,
+      "earthquake_count": 6,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.12,
+      "airports": [
+        {
+          "iata_code": "AEY",
+          "name": "Akureyri International Airport",
+          "exposure_score": 1.32,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 106.5,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 0.56,
+      "earthquake_count": 3,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.57,
+      "airports": [
+        {
+          "iata_code": "SLA",
+          "name": "Mart\u00edn Miguel de G\u00fcemes International Airport",
+          "exposure_score": 0.29,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 154.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "JUJ",
+          "name": "Gobernador Horacio Guzman International Airport",
+          "exposure_score": 0.27,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 163.7,
+          "max_pga_g": null
+        }
+      ]
+    }
+  ]
+}
