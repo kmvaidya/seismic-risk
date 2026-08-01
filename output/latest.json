@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.53,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.48,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -22,7 +22,7 @@
       "longitude": 130.7217
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 82,
+    "max_felt_reports": 85,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -662,30 +662,6 @@
         "exposure_score": 0.67
       },
       {
-        "name": "Aomori Airport",
-        "iata_code": "AOJ",
-        "latitude": 40.733777,
-        "longitude": 140.689477,
-        "municipality": "Aomori",
-        "closest_quake_distance_km": 159.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9ej",
-            "magnitude": 6,
-            "latitude": 40.2085,
-            "longitude": 142.4411,
-            "depth_km": 35,
-            "time_ms": 1782907709154,
-            "place": "54 km ENE of Noda, Japan",
-            "distance_km": 159.3,
-            "exposure_contribution": 1.35,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.35
-      },
-      {
         "name": "Naha International Airport",
         "iata_code": "OKA",
         "latitude": 26.192437,
@@ -809,20 +785,9 @@
         "place": "147 km NNE of Hirara, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000t9ej",
-        "magnitude": 6,
-        "latitude": 40.2085,
-        "longitude": 142.4411,
-        "depth_km": 35,
-        "time_ms": 1782907709154,
-        "place": "54 km ENE of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 106.11
+    "seismic_hub_risk_score": 104.76
   },
   {
     "country": "",
@@ -1460,8 +1425,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-07-03",
@@ -1611,6 +1576,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000thcs",
+        "magnitude": 5.1,
+        "latitude": -3.0027,
+        "longitude": 130.1237,
+        "depth_km": 10,
+        "time_ms": 1785539857106,
+        "place": "132 km ENE of Masohi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thbq",
+        "magnitude": 5.2,
+        "latitude": -2.8451,
+        "longitude": 130.1548,
+        "depth_km": 10,
+        "time_ms": 1785529166311,
+        "place": "141 km ENE of Masohi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tgvu",
         "magnitude": 5.4,
@@ -1781,20 +1768,44 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 5.6,
-      "date": "2026-07-14",
-      "depth_km": 140.1,
-      "latitude": -14.5779,
-      "longitude": -71.4358
+      "date": "2026-07-31",
+      "depth_km": 154.4,
+      "latitude": -8.3349,
+      "longitude": -74.4353
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 12,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 16.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000th4k",
+            "magnitude": 5.6,
+            "latitude": -8.3349,
+            "longitude": -74.4353,
+            "depth_km": 154.355,
+            "time_ms": 1785459524364,
+            "place": "13 km ENE of San Fernando, Peru",
+            "distance_km": 16.0,
+            "exposure_contribution": 0.92,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.92
+      },
       {
         "name": "Jorge Chávez International Airport",
         "iata_code": "LIM",
@@ -1918,6 +1929,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000th4k",
+        "magnitude": 5.6,
+        "latitude": -8.3349,
+        "longitude": -74.4353,
+        "depth_km": 154.355,
+        "time_ms": 1785459524364,
+        "place": "13 km ENE of San Fernando, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000tgcx",
         "magnitude": 5.3,
         "latitude": -9.7052,
@@ -1962,7 +1984,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.36
+    "seismic_hub_risk_score": 3.28
   },
   {
     "country": "",
@@ -2463,8 +2485,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-07-12",
@@ -2540,6 +2562,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000th96",
+        "magnitude": 5.1,
+        "latitude": -29.8946,
+        "longitude": -72.0611,
+        "depth_km": 21.344,
+        "time_ms": 1785520027000,
+        "place": "69 km W of Coquimbo, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
       {
         "id": "us7000t3m7",
         "magnitude": 5.4,
@@ -2633,8 +2666,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2711,6 +2744,28 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000th5s",
+        "magnitude": 5,
+        "latitude": -29.4109,
+        "longitude": -176.5524,
+        "depth_km": 37.846,
+        "time_ms": 1785479426157,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th5f",
+        "magnitude": 5,
+        "latitude": -28.3933,
+        "longitude": -176.7278,
+        "depth_km": 35,
+        "time_ms": 1785470573372,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000th30",
         "magnitude": 5,
         "latitude": -28.5478,
@@ -2768,10 +2823,10 @@
       {
         "id": "us6000tgtc",
         "magnitude": 5.1,
-        "latitude": -24.6282,
-        "longitude": -175.2721,
+        "latitude": -24.6741,
+        "longitude": -175.2781,
         "depth_km": 10,
-        "time_ms": 1785358330337,
+        "time_ms": 1785358330187,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2779,10 +2834,10 @@
       {
         "id": "us6000tgrk",
         "magnitude": 5,
-        "latitude": -24.6958,
-        "longitude": -175.2899,
+        "latitude": -24.7806,
+        "longitude": -175.2137,
         "depth_km": 10,
-        "time_ms": 1785344855465,
+        "time_ms": 1785344855235,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2993,17 +3048,6 @@
         "depth_km": 676.469,
         "time_ms": 1783261345736,
         "place": "268 km SE of Levuka, Fiji",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000t9hu",
-        "magnitude": 5.6,
-        "latitude": -16.9598,
-        "longitude": -174.8208,
-        "depth_km": 259,
-        "time_ms": 1782940420196,
-        "place": "156 km SW of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": true
       }
