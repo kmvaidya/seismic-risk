@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.45,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -771,30 +771,6 @@
           }
         ],
         "exposure_score": 0.9
-      },
-      {
-        "name": "Naha International Airport",
-        "iata_code": "OKA",
-        "latitude": 26.192437,
-        "longitude": 127.639804,
-        "municipality": "Naha",
-        "closest_quake_distance_km": 190.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000t9sj",
-            "magnitude": 6.1,
-            "latitude": 26.0711,
-            "longitude": 125.7417,
-            "depth_km": 10,
-            "time_ms": 1783051488166,
-            "place": "147 km NNE of Hirara, Japan",
-            "distance_km": 190.0,
-            "exposure_contribution": 1.16,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.16
       }
     ],
     "earthquakes": [
@@ -888,12 +864,12 @@
       },
       {
         "id": "us7000t09u",
-        "magnitude": 5,
-        "latitude": 40.1338,
-        "longitude": 143.1932,
-        "depth_km": 11.338,
-        "time_ms": 1784015049565,
-        "place": "117 km E of Noda, Japan",
+        "magnitude": 5.1,
+        "latitude": 40.0652,
+        "longitude": 143.4072,
+        "depth_km": 11.484,
+        "time_ms": 1784015048723,
+        "place": "133 km ENE of Miyako, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -907,20 +883,9 @@
         "place": "50 km SW of Shirahama, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000t9sj",
-        "magnitude": 6.1,
-        "latitude": 26.0711,
-        "longitude": 125.7417,
-        "depth_km": 10,
-        "time_ms": 1783051488166,
-        "place": "147 km NNE of Hirara, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 111.28
+    "seismic_hub_risk_score": 110.12
   },
   {
     "country": "",
@@ -973,13 +938,13 @@
           {
             "earthquake_id": "us7000szyr",
             "magnitude": 5.4,
-            "latitude": 12.7921,
-            "longitude": 123.0436,
+            "latitude": 12.815,
+            "longitude": 123.0918,
             "depth_km": 10,
-            "time_ms": 1783904042072,
-            "place": "24 km W of Mabiton, Philippines",
-            "distance_km": 77.3,
-            "exposure_contribution": 2.1,
+            "time_ms": 1783904042155,
+            "place": "18 km W of Mabiton, Philippines",
+            "distance_km": 71.5,
+            "exposure_contribution": 2.34,
             "pga_g": null,
             "mmi": null
           },
@@ -997,7 +962,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.31
+        "exposure_score": 5.55
       },
       {
         "name": "Francisco Bangoy International Airport",
@@ -1300,18 +1265,18 @@
         "latitude": 11.6794,
         "longitude": 122.375999,
         "municipality": "Kalibo",
-        "closest_quake_distance_km": 143.4,
+        "closest_quake_distance_km": 148.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000szyr",
             "magnitude": 5.4,
-            "latitude": 12.7921,
-            "longitude": 123.0436,
+            "latitude": 12.815,
+            "longitude": 123.0918,
             "depth_km": 10,
-            "time_ms": 1783904042072,
-            "place": "24 km W of Mabiton, Philippines",
-            "distance_km": 143.4,
-            "exposure_contribution": 0.83,
+            "time_ms": 1783904042155,
+            "place": "18 km W of Mabiton, Philippines",
+            "distance_km": 148.3,
+            "exposure_contribution": 0.79,
             "pga_g": null,
             "mmi": null
           },
@@ -1329,7 +1294,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.45
+        "exposure_score": 1.41
       }
     ],
     "earthquakes": [
@@ -1479,11 +1444,11 @@
       {
         "id": "us7000szyr",
         "magnitude": 5.4,
-        "latitude": 12.7921,
-        "longitude": 123.0436,
+        "latitude": 12.815,
+        "longitude": 123.0918,
         "depth_km": 10,
-        "time_ms": 1783904042072,
-        "place": "24 km W of Mabiton, Philippines",
+        "time_ms": 1783904042155,
+        "place": "18 km W of Mabiton, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -1543,7 +1508,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 31.88
+    "seismic_hub_risk_score": 32.08
   },
   {
     "country": "",
@@ -1558,14 +1523,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-07-03",
-      "depth_km": 107,
-      "latitude": 1.7826,
-      "longitude": 127.4596
+      "magnitude": 5.8,
+      "date": "2026-07-23",
+      "depth_km": 49.2,
+      "latitude": 0.592,
+      "longitude": 126.2244
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1873,17 +1838,6 @@
         "place": "261 km W of Abepura, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000t9r5",
-        "magnitude": 6.2,
-        "latitude": 1.7826,
-        "longitude": 127.4596,
-        "depth_km": 107,
-        "time_ms": 1783045887674,
-        "place": "61 km W of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 3.66
@@ -2132,8 +2086,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-16",
@@ -2172,6 +2126,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000thl3",
+        "magnitude": 5.6,
+        "latitude": -37.73,
+        "longitude": 178.3287,
+        "depth_km": 52.806,
+        "time_ms": 1785659727066,
+        "place": "14 km S of Hicks Bay, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tgud",
         "magnitude": 5.6,
@@ -2449,13 +2414,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.3,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-03",
-      "depth_km": 34,
-      "latitude": 48.2732,
-      "longitude": 154.2595
+      "magnitude": 5.8,
+      "date": "2026-07-28",
+      "depth_km": 10,
+      "latitude": 56.064,
+      "longitude": 165.0432
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2514,6 +2479,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000thj5",
+        "magnitude": 5.2,
+        "latitude": 49.8672,
+        "longitude": 155.1713,
+        "depth_km": 80.691,
+        "time_ms": 1785629618325,
+        "place": "112 km SW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
       {
         "id": "us6000thhr",
         "magnitude": 5.2,
@@ -2601,17 +2577,6 @@
         "place": "78 km S of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000t9tf",
-        "magnitude": 5.9,
-        "latitude": 48.2732,
-        "longitude": 154.2595,
-        "depth_km": 34,
-        "time_ms": 1783066969108,
-        "place": "299 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.72
@@ -2810,8 +2775,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 30,
-    "avg_magnitude": 5.23,
+    "earthquake_count": 32,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2887,6 +2852,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000thmd",
+        "magnitude": 5,
+        "latitude": -25.0444,
+        "longitude": -175.1322,
+        "depth_km": 10,
+        "time_ms": 1785684930843,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thlj",
+        "magnitude": 5.3,
+        "latitude": -23.7388,
+        "longitude": -174.9439,
+        "depth_km": 10,
+        "time_ms": 1785666854181,
+        "place": "265 km S of ‘Ohonua, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000thgx",
         "magnitude": 5.1,
@@ -3341,6 +3328,383 @@
       }
     ],
     "seismic_hub_risk_score": 1.32
+  },
+  {
+    "country": "",
+    "iso_alpha2": "MX",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 27,
+    "avg_magnitude": 5.31,
+    "strongest_earthquake": {
+      "magnitude": 7.3,
+      "date": "2026-07-17",
+      "depth_km": 22,
+      "latitude": 14.6361,
+      "longitude": -92.8969
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 287,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "General Ignacio L. Pesqueira International Airport",
+        "iata_code": "HMO",
+        "latitude": 29.092811,
+        "longitude": -111.053015,
+        "municipality": "Hermosillo",
+        "closest_quake_distance_km": 191.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000thm1",
+            "magnitude": 5.1,
+            "latitude": 27.3736,
+            "longitude": -111.0607,
+            "depth_km": 10,
+            "time_ms": 1785676247947,
+            "place": "60 km W of Bahía de Lobos, Mexico",
+            "distance_km": 191.2,
+            "exposure_contribution": 0.36,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.36
+      },
+      {
+        "name": "Loreto International Airport",
+        "iata_code": "LTO",
+        "latitude": 25.989549,
+        "longitude": -111.348408,
+        "municipality": "Loreto",
+        "closest_quake_distance_km": 156.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000thm1",
+            "magnitude": 5.1,
+            "latitude": 27.3736,
+            "longitude": -111.0607,
+            "depth_km": 10,
+            "time_ms": 1785676247947,
+            "place": "60 km W of Bahía de Lobos, Mexico",
+            "distance_km": 156.5,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.51
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000thm1",
+        "magnitude": 5.1,
+        "latitude": 27.3736,
+        "longitude": -111.0607,
+        "depth_km": 10,
+        "time_ms": 1785676247947,
+        "place": "60 km W of Bahía de Lobos, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th8n",
+        "magnitude": 5.2,
+        "latitude": 14.6031,
+        "longitude": -93.2309,
+        "depth_km": 10,
+        "time_ms": 1785514558641,
+        "place": "85 km SW of El Arenal, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tgau",
+        "magnitude": 5.9,
+        "latitude": 14.296,
+        "longitude": -92.6223,
+        "depth_km": 35,
+        "time_ms": 1785216918079,
+        "place": "50 km WSW of Brisas Barra de Suchiate, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t3a0",
+        "magnitude": 5.1,
+        "latitude": 14.4952,
+        "longitude": -92.7508,
+        "depth_km": 35,
+        "time_ms": 1784957193842,
+        "place": "43 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1tp",
+        "magnitude": 5.5,
+        "latitude": 14.1592,
+        "longitude": -92.9052,
+        "depth_km": 35,
+        "time_ms": 1784483116923,
+        "place": "81 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t1q6",
+        "magnitude": 5.3,
+        "latitude": 14.292,
+        "longitude": -92.7591,
+        "depth_km": 19.593,
+        "time_ms": 1784427534767,
+        "place": "59 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1q3",
+        "magnitude": 5.3,
+        "latitude": 14.1155,
+        "longitude": -92.9167,
+        "depth_km": 10,
+        "time_ms": 1784425644332,
+        "place": "85 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1n5",
+        "magnitude": 5.7,
+        "latitude": 14.2392,
+        "longitude": -92.8805,
+        "depth_km": 10,
+        "time_ms": 1784395585879,
+        "place": "72 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t1l4",
+        "magnitude": 5.2,
+        "latitude": 14.3797,
+        "longitude": -92.834,
+        "depth_km": 44.622,
+        "time_ms": 1784368762274,
+        "place": "58 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1jy",
+        "magnitude": 5.3,
+        "latitude": 14.3804,
+        "longitude": -93.1511,
+        "depth_km": 35,
+        "time_ms": 1784357510543,
+        "place": "87 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1im",
+        "magnitude": 5.1,
+        "latitude": 14.3665,
+        "longitude": -93.2679,
+        "depth_km": 10,
+        "time_ms": 1784339341780,
+        "place": "99 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1hd",
+        "magnitude": 5,
+        "latitude": 14.2237,
+        "longitude": -92.9584,
+        "depth_km": 35,
+        "time_ms": 1784326386825,
+        "place": "79 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1fk",
+        "magnitude": 5.2,
+        "latitude": 14.3713,
+        "longitude": -92.9332,
+        "depth_km": 10,
+        "time_ms": 1784312803919,
+        "place": "67 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1f6",
+        "magnitude": 5,
+        "latitude": 14.2633,
+        "longitude": -92.713,
+        "depth_km": 35.128,
+        "time_ms": 1784309010902,
+        "place": "59 km SSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1f0",
+        "magnitude": 5.1,
+        "latitude": 14.3448,
+        "longitude": -92.9705,
+        "depth_km": 10,
+        "time_ms": 1784308519287,
+        "place": "72 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1ey",
+        "magnitude": 5.1,
+        "latitude": 14.3368,
+        "longitude": -93.0323,
+        "depth_km": 10,
+        "time_ms": 1784307818011,
+        "place": "78 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1ep",
+        "magnitude": 5.1,
+        "latitude": 14.5,
+        "longitude": -92.5525,
+        "depth_km": 64.069,
+        "time_ms": 1784304086633,
+        "place": "28 km SSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1dv",
+        "magnitude": 5,
+        "latitude": 14.2759,
+        "longitude": -93.1318,
+        "depth_km": 35,
+        "time_ms": 1784303837355,
+        "place": "91 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1du",
+        "magnitude": 5,
+        "latitude": 14.3603,
+        "longitude": -92.8719,
+        "depth_km": 54.811,
+        "time_ms": 1784302238332,
+        "place": "62 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t2qc",
+        "magnitude": 5,
+        "latitude": 14.7242,
+        "longitude": -92.8872,
+        "depth_km": 52,
+        "time_ms": 1784302004100,
+        "place": "46 km WSW of Aquiles Serdán, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1cc",
+        "magnitude": 6.4,
+        "latitude": 14.216,
+        "longitude": -93.2025,
+        "depth_km": 10,
+        "time_ms": 1784301606414,
+        "place": "101 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t1c2",
+        "magnitude": 5.1,
+        "latitude": 14.3818,
+        "longitude": -93.348,
+        "depth_km": 10,
+        "time_ms": 1784301586024,
+        "place": "106 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1c1",
+        "magnitude": 5.3,
+        "latitude": 14.2358,
+        "longitude": -93.0655,
+        "depth_km": 10,
+        "time_ms": 1784301295951,
+        "place": "87 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t2q5",
+        "magnitude": 5,
+        "latitude": 13.8567,
+        "longitude": -92.7648,
+        "depth_km": 10,
+        "time_ms": 1784300198005,
+        "place": "95 km SW of Ocós, Guatemala",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t2si",
+        "magnitude": 5.2,
+        "latitude": 14.3689,
+        "longitude": -93.2004,
+        "depth_km": 10,
+        "time_ms": 1784300100456,
+        "place": "92 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1bu",
+        "magnitude": 7.3,
+        "latitude": 14.6361,
+        "longitude": -92.8969,
+        "depth_km": 22,
+        "time_ms": 1784299720227,
+        "place": "52 km W of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t07s",
+        "magnitude": 5,
+        "latitude": 14.7266,
+        "longitude": -92.368,
+        "depth_km": 81.546,
+        "time_ms": 1783991999260,
+        "place": "4 km WNW of Tinajas 1ra. Sección, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.87
   },
   {
     "country": "",
