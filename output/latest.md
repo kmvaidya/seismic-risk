@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-03 09:25 UTC
+Generated: 2026-08-04 08:23 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-05-05 to 2026-08-03).
+Based on 89 snapshots (2026-05-07 to 2026-08-04).
 
 
 **Top score changes**:
@@ -12,26 +12,26 @@ Based on 89 snapshots (2026-05-05 to 2026-08-03).
 
 **Top airport exposure changes**:
 
-- Bicol International Airport (DRP, ): +0.2
-- Kalibo International Airport (KLO, ): -0.0
-- Kansai International Airport (KIX, ): 0.0
-- Kobe Airport (UKB, ): 0.0
-- New Chitose Airport (CTS, ): 0.0
+- General Santos International Airport (GES, ): -1.5
+- Cap FAP David Abenzur Rengifo International Airport (PCL, ): +0.5
+- Yelizovo Airport (PKC, ): +0.4
+- Aomori Airport (AOJ, ): +0.4
+- Francisco Bangoy International Airport (DVO, ): -0.3
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 110.1 | ~ | 5.4 | M6.8 (2026-07-28) | 10 | 17 | red | No | 1 |
-|  |  |  | 32.1 | ~ | 5.3 | M6.2 (2026-07-14) | 19 | 4 | green | No | 1 |
-|  |  |  | 3.7 | ~ | 5.3 | M5.8 (2026-07-23) | 15 | 4 | - | No | 0 |
-|  |  |  | 3.3 | ~ | 5.4 | M5.6 (2026-07-31) | 5 | 6 | yellow | No | 1 |
+|  |  |  | 110.5 | ~ | 5.4 | M6.8 (2026-07-28) | 11 | 17 | red | No | 1 |
+|  |  |  | 30.2 | ~ | 5.3 | M6.2 (2026-07-14) | 18 | 4 | green | No | 1 |
+|  |  |  | 3.7 | ~ | 5.3 | M5.8 (2026-07-23) | 14 | 4 | - | No | 0 |
+|  |  |  | 3.5 | ~ | 5.4 | M5.6 (2026-07-31) | 6 | 5 | yellow | No | 1 |
+|  |  |  | 2.1 | ~ | 5.2 | M5.8 (2026-07-28) | 9 | 1 | - | No | 0 |
 |  |  |  | 2.0 | ~ | 5.4 | M5.9 (2026-07-16) | 8 | 1 | - | No | 0 |
 |  |  |  | 1.9 | ~ | 5.2 | M5.8 (2026-07-28) | 7 | 2 | yellow | No | 2 |
-|  |  |  | 1.7 | ~ | 5.2 | M5.8 (2026-07-28) | 9 | 1 | - | No | 0 |
-|  |  |  | 1.7 | ~ | 5.2 | M5.6 (2026-07-12) | 8 | 2 | - | No | 0 |
+|  |  |  | 1.7 | ~ | 5.2 | M5.6 (2026-07-12) | 7 | 2 | - | No | 0 |
 |  |  |  | 1.7 | ~ | 5.2 | M5.9 (2026-07-29) | 32 | 2 | - | No | 0 |
-|  |  |  | 1.3 | ~ | 5.1 | M5.4 (2026-07-28) | 6 | 1 | - | No | 0 |
+|  |  |  | 1.3 | ~ | 5.2 | M5.4 (2026-07-28) | 4 | 1 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.3 | M7.3 (2026-07-17) | 27 | 2 | yellow | No | 2 |
 |  |  |  | 0.6 | ~ | 5.6 | M5.7 (2026-07-24) | 3 | 2 | - | No | 0 |
 
@@ -46,9 +46,9 @@ Based on 89 snapshots (2026-05-05 to 2026-08-03).
 | Nagasaki Airport | NGS | Nagasaki |  | 10.0 | ~ | 0.0451 | 72.7 | 4 |
 | Fukuoka Airport | FUK | Fukuoka |  | 5.2 | ~ | 0.0233 | 101.4 | 4 |
 | Kitakyushu Airport | KKJ | Kitakyushu |  | 4.6 | ~ | 0.0264 | 132.7 | 4 |
+| Aomori Airport | AOJ | Aomori |  | 1.3 | ~ | - | 122.3 | 2 |
 | Tokushima Awaodori Airport / JMSDF Tokushima Air Base | TKS | Tokushima |  | 1.1 | ~ | - | 94.5 | 1 |
 | Hakodate Airport | HKD | Hakodate |  | 1.1 | ~ | - | 100.7 | 1 |
-| Aomori Airport | AOJ | Aomori |  | 0.9 | ~ | - | 122.3 | 1 |
 | Kansai International Airport | KIX | Osaka |  | 0.8 | ~ | - | 123.0 | 1 |
 | Kochi Ryoma Airport | KCZ | Nankoku |  | 0.7 | ~ | - | 124.1 | 1 |
 | Takamatsu Airport | TAK | Takamatsu |  | 0.7 | ~ | - | 132.1 | 1 |
@@ -56,30 +56,29 @@ Based on 89 snapshots (2026-05-05 to 2026-08-03).
 | Kobe Airport | UKB | Kobe |  | 0.6 | ~ | - | 145.2 | 1 |
 | Osaka Itami International Airport | ITM | Osaka |  | 0.5 | ~ | - | 165.4 | 1 |
 | Okayama Momotaro Airport | OKJ | Okayama |  | 0.4 | ~ | - | 188.6 | 1 |
-| General Santos International Airport | GES | General Santos |  | 21.9 | ~ | 0.0570 | 46.9 | 14 |
+| General Santos International Airport | GES | General Santos |  | 20.3 | -1.5 | 0.0570 | 46.9 | 13 |
 | Bicol International Airport | DRP | Legazpi |  | 5.5 | ~ | - | 68.3 | 3 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 3.2 | ~ | - | 137.7 | 7 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 2.9 | ~ | - | 137.7 | 6 |
 | Kalibo International Airport | KLO | Kalibo |  | 1.4 | ~ | - | 148.3 | 2 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 1.9 | ~ | - | 182.2 | 4 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 0.8 | ~ | - | 179.3 | 1 |
 | Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.5 | ~ | - | 183.0 | 1 |
 | Kualanamu International Airport | KNO | Beringin |  | 0.4 | ~ | - | 163.9 | 1 |
-| Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 0.9 | ~ | - | 16.0 | 1 |
-| Alejandro Velasco Astete International Airport | CUZ | Cusco |  | 0.7 | ~ | - | 128.0 | 1 |
-| Inca Manco Capac International Airport | JUL | Juliaca |  | 0.5 | ~ | - | 169.3 | 1 |
+| Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 1.4 | ~ | - | 16.0 | 2 |
+| Alejandro Velasco Astete International Airport | CUZ | Cusco |  | 0.8 | ~ | - | 122.6 | 1 |
+| Inca Manco Capac International Airport | JUL | Juliaca |  | 0.6 | ~ | - | 172.0 | 1 |
 | Capitán FAP Carlos Martínez de Pinillos International Airport | TRU | Trujillo |  | 0.4 | ~ | - | 196.7 | 1 |
-| Rodríguez Ballón International Airport | AQP | Arequipa |  | 0.4 | ~ | - | 196.5 | 1 |
 | Jorge Chávez International Airport | LIM | Lima |  | 0.3 | ~ | 0.0035 | 197.1 | 1 |
+| Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 2.1 | ~ | - | 80.1 | 4 |
 | Queenstown Airport | ZQN | Queenstown |  | 2.0 | ~ | - | 89.3 | 1 |
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 1.1 | ~ | - | 145.3 | 3 |
 | Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 0.8 | ~ | - | 113.9 | 1 |
-| Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 1.7 | ~ | - | 80.1 | 3 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.2 | ~ | - | 131.7 | 2 |
 | Andrés Sabella Gálvez International Airport | ANF | Antofagasta |  | 0.4 | ~ | - | 185.1 | 1 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.9 | ~ | - | 168.0 | 2 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.8 | ~ | - | 147.4 | 1 |
 | Akureyri International Airport | AEY | Akureyri |  | 1.3 | ~ | - | 106.5 | 1 |
-| Loreto International Airport | LTO | Loreto |  | 0.5 | NEW | - | 156.5 | 1 |
-| General Ignacio L. Pesqueira International Airport | HMO | Hermosillo |  | 0.4 | NEW | - | 191.2 | 1 |
+| Loreto International Airport | LTO | Loreto |  | 0.5 | ~ | - | 156.5 | 1 |
+| General Ignacio L. Pesqueira International Airport | HMO | Hermosillo |  | 0.4 | ~ | - | 191.2 | 1 |
 | Martín Miguel de Güemes International Airport | SLA | Salta |  | 0.3 | ~ | - | 154.6 | 1 |
 | Gobernador Horacio Guzman International Airport | JUJ | San Salvador de Jujuy |  | 0.3 | ~ | - | 163.7 | 1 |
