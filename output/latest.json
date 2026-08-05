@@ -1156,11 +1156,11 @@
             "latitude": 5.3226,
             "longitude": 125.1801,
             "depth_km": 46.427,
-            "time_ms": 1784044179282,
+            "time_ms": 1784044179287,
             "place": "32 km WSW of Sarangani, Philippines",
             "distance_km": 82.2,
-            "exposure_contribution": 5.7,
-            "pga_g": 0.057028,
+            "exposure_contribution": 5.77,
+            "pga_g": 0.057705,
             "mmi": 4.9
           },
           {
@@ -1255,7 +1255,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 20.34
+        "exposure_score": 20.41
       },
       {
         "name": "Kalibo International Airport",
@@ -1401,7 +1401,7 @@
         "latitude": 5.3226,
         "longitude": 125.1801,
         "depth_km": 46.427,
-        "time_ms": 1784044179282,
+        "time_ms": 1784044179287,
         "place": "32 km WSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
@@ -1495,7 +1495,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 30.21
+    "seismic_hub_risk_score": 30.28
   },
   {
     "country": "",
@@ -1510,8 +1510,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-23",
@@ -1593,8 +1593,21 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 179.3,
+        "closest_quake_distance_km": 173.4,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000ti49",
+            "magnitude": 5.7,
+            "latitude": 1.5066,
+            "longitude": 126.4856,
+            "depth_km": 35,
+            "time_ms": 1785874597181,
+            "place": "127 km NW of Ternate, Indonesia",
+            "distance_km": 173.4,
+            "exposure_contribution": 0.83,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000t2w3",
             "magnitude": 5.8,
@@ -1609,7 +1622,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.85
+        "exposure_score": 1.69
       },
       {
         "name": "Soekarno-Hatta International Airport",
@@ -1661,6 +1674,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ti49",
+        "magnitude": 5.7,
+        "latitude": 1.5066,
+        "longitude": 126.4856,
+        "depth_km": 35,
+        "time_ms": 1785874597181,
+        "place": "127 km NW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000thcs",
         "magnitude": 5.1,
@@ -1816,7 +1840,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.66
+    "seismic_hub_risk_score": 4.5
   },
   {
     "country": "",
@@ -2062,8 +2086,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-28",
@@ -2228,17 +2252,6 @@
         "place": "185 km SSE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000ta86",
-        "magnitude": 5.3,
-        "latitude": 49.9673,
-        "longitude": 156.0825,
-        "depth_km": 76.899,
-        "time_ms": 1783237026204,
-        "place": "78 km S of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.15
@@ -2389,189 +2402,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.23,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-07-28",
-      "depth_km": 10,
-      "latitude": 35.429,
-      "longitude": 99.5557
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 1,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 2,
-    "exposed_airports": [
-      {
-        "name": "Chengdu Tianfu International Airport",
-        "iata_code": "TFU",
-        "latitude": 30.31252,
-        "longitude": 104.441284,
-        "municipality": "Chengdu (Jianyang)",
-        "closest_quake_distance_km": 145.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000taaa",
-            "magnitude": 5,
-            "latitude": 31.5778,
-            "longitude": 104.0599,
-            "depth_km": 10,
-            "time_ms": 1783265413662,
-            "place": "30 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "distance_km": 145.3,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000sz3z",
-            "magnitude": 5,
-            "latitude": 28.5835,
-            "longitude": 104.7181,
-            "depth_km": 10,
-            "time_ms": 1783554254152,
-            "place": "14 km N of Xunchang, China",
-            "distance_km": 194.1,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tatd",
-            "magnitude": 5,
-            "latitude": 28.574,
-            "longitude": 104.7111,
-            "depth_km": 10,
-            "time_ms": 1783462349702,
-            "place": "13 km N of Xunchang, China",
-            "distance_km": 195.1,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.14
-      },
-      {
-        "name": "Chengdu Shuangliu International Airport",
-        "iata_code": "CTU",
-        "latitude": 30.558257,
-        "longitude": 103.945966,
-        "municipality": "Chengdu (Shuangliu)",
-        "closest_quake_distance_km": 113.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000taaa",
-            "magnitude": 5,
-            "latitude": 31.5778,
-            "longitude": 104.0599,
-            "depth_km": 10,
-            "time_ms": 1783265413662,
-            "place": "30 km NNW of Mianzhu, Deyang, Sichuan, China",
-            "distance_km": 113.9,
-            "exposure_contribution": 0.75,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.75
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tgbk",
-        "magnitude": 5.1,
-        "latitude": 35.4249,
-        "longitude": 99.493,
-        "depth_km": 10,
-        "time_ms": 1785225850636,
-        "place": "198 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tga9",
-        "magnitude": 5.8,
-        "latitude": 35.429,
-        "longitude": 99.5557,
-        "depth_km": 10,
-        "time_ms": 1785209645627,
-        "place": "194 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tga6",
-        "magnitude": 5.7,
-        "latitude": 35.3685,
-        "longitude": 99.5198,
-        "depth_km": 10,
-        "time_ms": 1785208568857,
-        "place": "192 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sz3z",
-        "magnitude": 5,
-        "latitude": 28.5835,
-        "longitude": 104.7181,
-        "depth_km": 10,
-        "time_ms": 1783554254152,
-        "place": "14 km N of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000taui",
-        "magnitude": 5,
-        "latitude": 28.4021,
-        "longitude": 104.6234,
-        "depth_km": 10,
-        "time_ms": 1783476528407,
-        "place": "6 km ENE of Wenjiang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tatd",
-        "magnitude": 5,
-        "latitude": 28.574,
-        "longitude": 104.7111,
-        "depth_km": 10,
-        "time_ms": 1783462349702,
-        "place": "13 km N of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000taaa",
-        "magnitude": 5,
-        "latitude": 31.5778,
-        "longitude": 104.0599,
-        "depth_km": 10,
-        "time_ms": 1783265413662,
-        "place": "30 km NNW of Mianzhu, Deyang, Sichuan, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.89
-  },
-  {
-    "country": "",
     "iso_alpha2": "CL",
     "iso_alpha3": "",
     "capital": "",
@@ -2583,8 +2413,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-07-12",
@@ -2725,17 +2555,6 @@
         "place": "54 km NNW of Valparaíso, Chile",
         "country_code": "CL",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000taab",
-        "magnitude": 5,
-        "latitude": -29.314,
-        "longitude": -72.0193,
-        "depth_km": 10,
-        "time_ms": 1783266814305,
-        "place": "96 km NW of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.67
@@ -2754,7 +2573,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 32,
-    "avg_magnitude": 5.22,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2830,6 +2649,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ti0r",
+        "magnitude": 5.1,
+        "latitude": -24.6061,
+        "longitude": -175.2303,
+        "depth_km": 10,
+        "time_ms": 1785855374381,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000thmd",
         "magnitude": 5,
@@ -3042,10 +2872,10 @@
       {
         "id": "us7000t3l3",
         "magnitude": 5.2,
-        "latitude": -24.5001,
-        "longitude": -175.1714,
+        "latitude": -24.4357,
+        "longitude": -175.2951,
         "depth_km": 10,
-        "time_ms": 1785123403273,
+        "time_ms": 1785123403373,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -3053,10 +2883,10 @@
       {
         "id": "us7000t3kz",
         "magnitude": 5,
-        "latitude": -24.4378,
-        "longitude": -175.0899,
+        "latitude": -24.4705,
+        "longitude": -175.1064,
         "depth_km": 10,
-        "time_ms": 1785121924308,
+        "time_ms": 1785121924194,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -3170,17 +3000,6 @@
         "place": "210 km ESE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000ta9m",
-        "magnitude": 5.8,
-        "latitude": -19.9418,
-        "longitude": -179.072,
-        "depth_km": 676.469,
-        "time_ms": 1783261345736,
-        "place": "268 km SE of Levuka, Fiji",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.67
@@ -3284,6 +3103,154 @@
       }
     ],
     "seismic_hub_risk_score": 1.32
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.27,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-28",
+      "depth_km": 10,
+      "latitude": 35.429,
+      "longitude": 99.5557
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 1,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "Chengdu Tianfu International Airport",
+        "iata_code": "TFU",
+        "latitude": 30.31252,
+        "longitude": 104.441284,
+        "municipality": "Chengdu (Jianyang)",
+        "closest_quake_distance_km": 194.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz3z",
+            "magnitude": 5,
+            "latitude": 28.5835,
+            "longitude": 104.7181,
+            "depth_km": 10,
+            "time_ms": 1783554254152,
+            "place": "14 km N of Xunchang, China",
+            "distance_km": 194.1,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tatd",
+            "magnitude": 5,
+            "latitude": 28.574,
+            "longitude": 104.7111,
+            "depth_km": 10,
+            "time_ms": 1783462349702,
+            "place": "13 km N of Xunchang, China",
+            "distance_km": 195.1,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000taui",
+            "magnitude": 5,
+            "latitude": 28.5672,
+            "longitude": 104.7657,
+            "depth_km": 10,
+            "time_ms": 1783476528620,
+            "place": "13 km NNE of Xunchang, China",
+            "distance_km": 196.6,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.93
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tgbk",
+        "magnitude": 5.1,
+        "latitude": 35.4249,
+        "longitude": 99.493,
+        "depth_km": 10,
+        "time_ms": 1785225850636,
+        "place": "198 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tga9",
+        "magnitude": 5.8,
+        "latitude": 35.429,
+        "longitude": 99.5557,
+        "depth_km": 10,
+        "time_ms": 1785209645627,
+        "place": "194 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tga6",
+        "magnitude": 5.7,
+        "latitude": 35.4217,
+        "longitude": 99.4752,
+        "depth_km": 10,
+        "time_ms": 1785208568865,
+        "place": "199 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sz3z",
+        "magnitude": 5,
+        "latitude": 28.5835,
+        "longitude": 104.7181,
+        "depth_km": 10,
+        "time_ms": 1783554254152,
+        "place": "14 km N of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000taui",
+        "magnitude": 5,
+        "latitude": 28.5672,
+        "longitude": 104.7657,
+        "depth_km": 10,
+        "time_ms": 1783476528620,
+        "place": "13 km NNE of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tatd",
+        "magnitude": 5,
+        "latitude": 28.574,
+        "longitude": 104.7111,
+        "depth_km": 10,
+        "time_ms": 1783462349702,
+        "place": "13 km N of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.93
   },
   {
     "country": "",
