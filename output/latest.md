@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-05 08:21 UTC
+Generated: 2026-08-06 08:18 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-05-08 to 2026-08-05).
+Based on 89 snapshots (2026-05-09 to 2026-08-06).
 
 
 **Top score changes**:
@@ -12,26 +12,26 @@ Based on 89 snapshots (2026-05-08 to 2026-08-05).
 
 **Top airport exposure changes**:
 
-- Sam Ratulangi International Airport (MDC, ): +0.8
-- Chengdu Tianfu International Airport (TFU, ): -0.2
-- General Santos International Airport (GES, ): +0.1
-- Kansai International Airport (KIX, ): 0.0
-- Kobe Airport (UKB, ): 0.0
+- General Santos International Airport (GES, ): +5.6
+- Comodoro Arturo Merino Benítez International Airport (SCL, ): -0.6
+- Tokushima Awaodori Airport / JMSDF Tokushima Air Base (TKS, ): -0.3
+- Kansai International Airport (KIX, ): -0.1
+- Takamatsu Airport (TAK, ): -0.1
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 110.5 | ~ | 5.4 | M6.8 (2026-07-28) | 11 | 17 | red | No | 1 |
-|  |  |  | 30.3 | ~ | 5.3 | M6.2 (2026-07-14) | 18 | 4 | green | No | 1 |
-|  |  |  | 4.5 | ~ | 5.3 | M5.8 (2026-07-23) | 15 | 4 | - | No | 0 |
+|  |  |  | 109.6 | ~ | 5.3 | M6.8 (2026-07-28) | 11 | 17 | red | No | 1 |
+|  |  |  | 35.9 | ~ | 5.3 | M6.3 (2026-08-05) | 19 | 4 | green | No | 2 |
+|  |  |  | 4.5 | ~ | 5.3 | M5.8 (2026-07-23) | 16 | 4 | - | No | 0 |
 |  |  |  | 3.5 | ~ | 5.4 | M5.6 (2026-07-31) | 6 | 5 | yellow | No | 1 |
 |  |  |  | 2.1 | ~ | 5.2 | M5.8 (2026-07-28) | 8 | 1 | - | No | 0 |
-|  |  |  | 2.0 | ~ | 5.4 | M5.9 (2026-07-16) | 8 | 1 | - | No | 0 |
-|  |  |  | 1.7 | ~ | 5.2 | M5.6 (2026-07-12) | 6 | 2 | - | No | 0 |
-|  |  |  | 1.7 | ~ | 5.2 | M5.9 (2026-07-29) | 32 | 2 | - | No | 0 |
+|  |  |  | 2.0 | ~ | 5.5 | M6.3 (2026-08-05) | 10 | 1 | green | No | 1 |
+|  |  |  | 1.7 | ~ | 5.2 | M5.9 (2026-07-29) | 31 | 2 | - | No | 0 |
 |  |  |  | 1.3 | ~ | 5.2 | M5.4 (2026-07-28) | 4 | 1 | - | No | 0 |
-|  |  |  | 0.9 | ~ | 5.3 | M5.8 (2026-07-28) | 6 | 1 | yellow | No | 2 |
+|  |  |  | 1.1 | ~ | 5.2 | M5.6 (2026-07-12) | 5 | 2 | - | No | 0 |
+|  |  |  | 0.9 | ~ | 5.2 | M5.8 (2026-07-28) | 7 | 1 | yellow | No | 2 |
 |  |  |  | 0.9 | ~ | 5.3 | M7.3 (2026-07-17) | 27 | 2 | yellow | No | 2 |
 |  |  |  | 0.6 | ~ | 5.6 | M5.7 (2026-07-24) | 3 | 2 | - | No | 0 |
 
@@ -47,21 +47,21 @@ Based on 89 snapshots (2026-05-08 to 2026-08-05).
 | Fukuoka Airport | FUK | Fukuoka |  | 5.2 | ~ | 0.0233 | 101.4 | 4 |
 | Kitakyushu Airport | KKJ | Kitakyushu |  | 4.6 | ~ | 0.0264 | 132.7 | 4 |
 | Aomori Airport | AOJ | Aomori |  | 1.3 | ~ | - | 122.3 | 2 |
-| Tokushima Awaodori Airport / JMSDF Tokushima Air Base | TKS | Tokushima |  | 1.1 | ~ | - | 94.5 | 1 |
 | Hakodate Airport | HKD | Hakodate |  | 1.1 | ~ | - | 100.7 | 1 |
-| Kansai International Airport | KIX | Osaka |  | 0.8 | ~ | - | 123.0 | 1 |
-| Kochi Ryoma Airport | KCZ | Nankoku |  | 0.7 | ~ | - | 124.1 | 1 |
-| Takamatsu Airport | TAK | Takamatsu |  | 0.7 | ~ | - | 132.1 | 1 |
+| Tokushima Awaodori Airport / JMSDF Tokushima Air Base | TKS | Tokushima |  | 0.8 | ~ | - | 104.9 | 1 |
 | New Chitose Airport | CTS | Sapporo |  | 0.7 | ~ | - | 159.1 | 1 |
-| Kobe Airport | UKB | Kobe |  | 0.6 | ~ | - | 145.2 | 1 |
-| Osaka Itami International Airport | ITM | Osaka |  | 0.5 | ~ | - | 165.4 | 1 |
-| Okayama Momotaro Airport | OKJ | Okayama |  | 0.4 | ~ | - | 188.6 | 1 |
-| General Santos International Airport | GES | General Santos |  | 20.4 | ~ | 0.0577 | 46.9 | 13 |
+| Kochi Ryoma Airport | KCZ | Nankoku |  | 0.6 | ~ | - | 128.8 | 1 |
+| Kansai International Airport | KIX | Osaka |  | 0.6 | ~ | - | 132.5 | 1 |
+| Takamatsu Airport | TAK | Takamatsu |  | 0.5 | ~ | - | 141.4 | 1 |
+| Kobe Airport | UKB | Kobe |  | 0.5 | ~ | - | 154.9 | 1 |
+| Osaka Itami International Airport | ITM | Osaka |  | 0.4 | ~ | - | 174.6 | 1 |
+| Okayama Momotaro Airport | OKJ | Okayama |  | 0.3 | ~ | - | 198.5 | 1 |
+| General Santos International Airport | GES | General Santos |  | 26.0 | +5.6 | 0.0577 | 46.9 | 14 |
 | Bicol International Airport | DRP | Legazpi |  | 5.5 | ~ | - | 68.3 | 3 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 2.9 | ~ | - | 137.7 | 6 |
 | Kalibo International Airport | KLO | Kalibo |  | 1.4 | ~ | - | 148.3 | 2 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 1.9 | ~ | - | 182.2 | 4 |
-| Sam Ratulangi International Airport | MDC | Manado |  | 1.7 | +0.8 | - | 173.4 | 2 |
+| Sam Ratulangi International Airport | MDC | Manado |  | 1.7 | ~ | - | 173.4 | 2 |
 | Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.5 | ~ | - | 183.0 | 1 |
 | Kualanamu International Airport | KNO | Beringin |  | 0.4 | ~ | - | 163.9 | 1 |
 | Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 1.4 | ~ | - | 16.0 | 2 |
@@ -71,11 +71,11 @@ Based on 89 snapshots (2026-05-08 to 2026-08-05).
 | Jorge Chávez International Airport | LIM | Lima |  | 0.3 | ~ | 0.0035 | 197.1 | 1 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 2.1 | ~ | - | 80.1 | 4 |
 | Queenstown Airport | ZQN | Queenstown |  | 2.0 | ~ | - | 89.3 | 1 |
-| Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.2 | ~ | - | 131.7 | 2 |
-| Andrés Sabella Gálvez International Airport | ANF | Antofagasta |  | 0.4 | ~ | - | 185.1 | 1 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.9 | ~ | - | 168.0 | 2 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.8 | ~ | - | 147.4 | 1 |
 | Akureyri International Airport | AEY | Akureyri |  | 1.3 | ~ | - | 106.5 | 1 |
+| Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 0.7 | -0.6 | - | 132.5 | 1 |
+| Andrés Sabella Gálvez International Airport | ANF | Antofagasta |  | 0.4 | ~ | - | 185.1 | 1 |
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 0.9 | ~ | - | 194.1 | 3 |
 | Loreto International Airport | LTO | Loreto |  | 0.5 | ~ | - | 156.5 | 1 |
 | General Ignacio L. Pesqueira International Airport | HMO | Hermosillo |  | 0.4 | ~ | - | 191.2 | 1 |

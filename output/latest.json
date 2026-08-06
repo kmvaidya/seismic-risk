@@ -13,7 +13,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 11,
-    "avg_magnitude": 5.36,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -32,23 +32,23 @@
         "latitude": 34.427299,
         "longitude": 135.244003,
         "municipality": "Osaka",
-        "closest_quake_distance_km": 123.0,
+        "closest_quake_distance_km": 132.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 123.0,
-            "exposure_contribution": 0.75,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 132.5,
+            "exposure_contribution": 0.6,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.75
+        "exposure_score": 0.6
       },
       {
         "name": "Kobe Airport",
@@ -56,23 +56,23 @@
         "latitude": 34.632801,
         "longitude": 135.223999,
         "municipality": "Kobe",
-        "closest_quake_distance_km": 145.2,
+        "closest_quake_distance_km": 154.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 145.2,
-            "exposure_contribution": 0.58,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 154.9,
+            "exposure_contribution": 0.46,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.58
+        "exposure_score": 0.46
       },
       {
         "name": "New Chitose Airport",
@@ -634,23 +634,23 @@
         "latitude": 34.756901,
         "longitude": 133.854996,
         "municipality": "Okayama",
-        "closest_quake_distance_km": 188.6,
+        "closest_quake_distance_km": 198.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 188.6,
-            "exposure_contribution": 0.37,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 198.5,
+            "exposure_contribution": 0.3,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.37
+        "exposure_score": 0.3
       },
       {
         "name": "Kochi Ryoma Airport",
@@ -658,23 +658,23 @@
         "latitude": 33.545217,
         "longitude": 133.670166,
         "municipality": "Nankoku",
-        "closest_quake_distance_km": 124.1,
+        "closest_quake_distance_km": 128.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 124.1,
-            "exposure_contribution": 0.74,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 128.8,
+            "exposure_contribution": 0.62,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.74
+        "exposure_score": 0.62
       },
       {
         "name": "Osaka Itami International Airport",
@@ -682,23 +682,23 @@
         "latitude": 34.780853,
         "longitude": 135.440829,
         "municipality": "Osaka",
-        "closest_quake_distance_km": 165.4,
+        "closest_quake_distance_km": 174.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 165.4,
-            "exposure_contribution": 0.47,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 174.6,
+            "exposure_contribution": 0.38,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.47
+        "exposure_score": 0.38
       },
       {
         "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
@@ -706,23 +706,23 @@
         "latitude": 34.132559,
         "longitude": 134.607816,
         "municipality": "Tokushima",
-        "closest_quake_distance_km": 94.5,
+        "closest_quake_distance_km": 104.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 94.5,
-            "exposure_contribution": 1.11,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 104.9,
+            "exposure_contribution": 0.85,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.11
+        "exposure_score": 0.85
       },
       {
         "name": "Takamatsu Airport",
@@ -730,23 +730,23 @@
         "latitude": 34.214963,
         "longitude": 134.015454,
         "municipality": "Takamatsu",
-        "closest_quake_distance_km": 132.1,
+        "closest_quake_distance_km": 141.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000sz7n",
-            "magnitude": 5.1,
-            "latitude": 33.3425,
-            "longitude": 134.9851,
+            "magnitude": 5,
+            "latitude": 33.251,
+            "longitude": 135.0124,
             "depth_km": 10,
-            "time_ms": 1783601937039,
-            "place": "50 km SW of Shirahama, Japan",
-            "distance_km": 132.1,
-            "exposure_contribution": 0.67,
+            "time_ms": 1783601936654,
+            "place": "57 km SSW of Shirahama, Japan",
+            "distance_km": 141.4,
+            "exposure_contribution": 0.54,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.67
+        "exposure_score": 0.54
       },
       {
         "name": "Aomori Airport",
@@ -899,17 +899,17 @@
       },
       {
         "id": "us7000sz7n",
-        "magnitude": 5.1,
-        "latitude": 33.3425,
-        "longitude": 134.9851,
+        "magnitude": 5,
+        "latitude": 33.251,
+        "longitude": 135.0124,
         "depth_km": 10,
-        "time_ms": 1783601937039,
-        "place": "50 km SW of Shirahama, Japan",
+        "time_ms": 1783601936654,
+        "place": "57 km SSW of Shirahama, Japan",
         "country_code": "JP",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 110.53
+    "seismic_hub_risk_score": 109.59
   },
   {
     "country": "",
@@ -924,19 +924,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 19,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
-      "magnitude": 6.2,
-      "date": "2026-07-14",
-      "depth_km": 46.4,
-      "latitude": 5.3226,
-      "longitude": 125.1801
+      "magnitude": 6.3,
+      "date": "2026-08-05",
+      "depth_km": 10,
+      "latitude": 5.1812,
+      "longitude": 125.276
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 84,
+    "max_felt_reports": 85,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Bicol International Airport",
@@ -1012,12 +1012,12 @@
           {
             "earthquake_id": "us7000t2a7",
             "magnitude": 5.1,
-            "latitude": 5.739,
-            "longitude": 125.4295,
-            "depth_km": 68.769,
-            "time_ms": 1784658807762,
-            "place": "7 km WNW of Kalbay, Philippines",
-            "distance_km": 156.0,
+            "latitude": 5.7108,
+            "longitude": 125.422,
+            "depth_km": 63.677,
+            "time_ms": 1784658807188,
+            "place": "6 km NW of Sugal, Philippines",
+            "distance_km": 159.2,
             "exposure_contribution": 0.44,
             "pga_g": null,
             "mmi": null
@@ -1101,13 +1101,13 @@
           {
             "earthquake_id": "us7000t2a7",
             "magnitude": 5.1,
-            "latitude": 5.739,
-            "longitude": 125.4295,
-            "depth_km": 68.769,
-            "time_ms": 1784658807762,
-            "place": "7 km WNW of Kalbay, Philippines",
-            "distance_km": 51.1,
-            "exposure_contribution": 1.3,
+            "latitude": 5.7108,
+            "longitude": 125.422,
+            "depth_km": 63.677,
+            "time_ms": 1784658807188,
+            "place": "6 km NW of Sugal, Philippines",
+            "distance_km": 52.7,
+            "exposure_contribution": 1.36,
             "pga_g": null,
             "mmi": null
           },
@@ -1177,6 +1177,45 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000ti6x",
+            "magnitude": 6.3,
+            "latitude": 5.1812,
+            "longitude": 125.276,
+            "depth_km": 10,
+            "time_ms": 1785903246625,
+            "place": "32 km SW of Sarangani, Philippines",
+            "distance_km": 99.4,
+            "exposure_contribution": 5.49,
+            "pga_g": 0.054917,
+            "mmi": 5.1
+          },
+          {
+            "earthquake_id": "us6000tif5",
+            "magnitude": 5.6,
+            "latitude": 5.1283,
+            "longitude": 125.227,
+            "depth_km": 10,
+            "time_ms": 1785966087717,
+            "place": "40 km SW of Sarangani, Philippines",
+            "distance_km": 104.3,
+            "exposure_contribution": 1.71,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ti71",
+            "magnitude": 5.2,
+            "latitude": 5.1275,
+            "longitude": 125.412,
+            "depth_km": 35,
+            "time_ms": 1785903904586,
+            "place": "31 km S of Sarangani, Philippines",
+            "distance_km": 109.1,
+            "exposure_contribution": 0.94,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000szq0",
             "magnitude": 5.4,
             "latitude": 5.0829,
@@ -1190,19 +1229,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tadc",
-            "magnitude": 5.9,
-            "latitude": 4.9956,
-            "longitude": 125.258,
-            "depth_km": 35,
-            "time_ms": 1783325470896,
-            "place": "50 km SSW of Sarangani, Philippines",
-            "distance_km": 119.4,
-            "exposure_contribution": 1.86,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000szri",
             "magnitude": 5.2,
             "latitude": 4.953,
@@ -1212,19 +1238,6 @@
             "place": "57 km SSW of Sarangani, Philippines",
             "distance_km": 123.4,
             "exposure_contribution": 0.74,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tadj",
-            "magnitude": 5.2,
-            "latitude": 4.9333,
-            "longitude": 125.2275,
-            "depth_km": 35,
-            "time_ms": 1783327298332,
-            "place": "58 km SSW of Sarangani, Philippines",
-            "distance_km": 125.8,
-            "exposure_contribution": 0.77,
             "pga_g": null,
             "mmi": null
           },
@@ -1255,7 +1268,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 20.41
+        "exposure_score": 25.99
       },
       {
         "name": "Kalibo International Airport",
@@ -1296,6 +1309,39 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tif5",
+        "magnitude": 5.6,
+        "latitude": 5.1283,
+        "longitude": 125.227,
+        "depth_km": 10,
+        "time_ms": 1785966087717,
+        "place": "40 km SW of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ti71",
+        "magnitude": 5.2,
+        "latitude": 5.1275,
+        "longitude": 125.412,
+        "depth_km": 35,
+        "time_ms": 1785903904586,
+        "place": "31 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ti6x",
+        "magnitude": 6.3,
+        "latitude": 5.1812,
+        "longitude": 125.276,
+        "depth_km": 10,
+        "time_ms": 1785903246625,
+        "place": "32 km SW of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tgpr",
         "magnitude": 5.4,
@@ -1365,11 +1411,11 @@
       {
         "id": "us7000t2a7",
         "magnitude": 5.1,
-        "latitude": 5.739,
-        "longitude": 125.4295,
-        "depth_km": 68.769,
-        "time_ms": 1784658807762,
-        "place": "7 km WNW of Kalbay, Philippines",
+        "latitude": 5.7108,
+        "longitude": 125.422,
+        "depth_km": 63.677,
+        "time_ms": 1784658807188,
+        "place": "6 km NW of Sugal, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1471,31 +1517,9 @@
         "place": "35 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tadj",
-        "magnitude": 5.2,
-        "latitude": 4.9333,
-        "longitude": 125.2275,
-        "depth_km": 35,
-        "time_ms": 1783327298332,
-        "place": "58 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tadc",
-        "magnitude": 5.9,
-        "latitude": 4.9956,
-        "longitude": 125.258,
-        "depth_km": 35,
-        "time_ms": 1783325470896,
-        "place": "50 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 30.28
+    "seismic_hub_risk_score": 35.86
   },
   {
     "country": "",
@@ -1510,7 +1534,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
+    "earthquake_count": 16,
     "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.8,
@@ -1674,6 +1698,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tics",
+        "magnitude": 5.3,
+        "latitude": 1.7901,
+        "longitude": 127.454,
+        "depth_km": 115.65,
+        "time_ms": 1785948618349,
+        "place": "62 km W of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ti49",
         "magnitude": 5.7,
@@ -2269,19 +2304,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.45,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-16",
-      "depth_km": 76.4,
-      "latitude": -45.0434,
-      "longitude": 167.6107
+      "magnitude": 6.3,
+      "date": "2026-08-05",
+      "depth_km": 226.1,
+      "latitude": -33.8063,
+      "longitude": 179.4727
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "green",
+    "max_felt_reports": 14,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Queenstown Airport",
@@ -2309,6 +2344,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ti8i",
+        "magnitude": 6.3,
+        "latitude": -33.8063,
+        "longitude": 179.4727,
+        "depth_km": 226.084,
+        "time_ms": 1785915807317,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ti85",
+        "magnitude": 5.2,
+        "latitude": -49.5336,
+        "longitude": 164.0845,
+        "depth_km": 21.906,
+        "time_ms": 1785912264701,
+        "place": "Auckland Islands, New Zealand region",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
       {
         "id": "us6000thl3",
         "magnitude": 5.6,
@@ -2402,165 +2459,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CL",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.2,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-07-12",
-      "depth_km": 10,
-      "latitude": -54.6193,
-      "longitude": -118.8883
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Comodoro Arturo Merino Benítez International Airport",
-        "iata_code": "SCL",
-        "latitude": -33.393002,
-        "longitude": -70.785797,
-        "municipality": "Santiago",
-        "closest_quake_distance_km": 131.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tahc",
-            "magnitude": 5,
-            "latitude": -32.5656,
-            "longitude": -71.7963,
-            "depth_km": 22.044,
-            "time_ms": 1783354552144,
-            "place": "54 km NNW of Valparaíso, Chile",
-            "distance_km": 131.7,
-            "exposure_contribution": 0.59,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t0it",
-            "magnitude": 5.1,
-            "latitude": -32.6045,
-            "longitude": -71.8512,
-            "depth_km": 23.716,
-            "time_ms": 1784077760496,
-            "place": "52 km NNW of Valparaíso, Chile",
-            "distance_km": 132.5,
-            "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.25
-      },
-      {
-        "name": "Andrés Sabella Gálvez International Airport",
-        "iata_code": "ANF",
-        "latitude": -23.445274,
-        "longitude": -70.445232,
-        "municipality": "Antofagasta",
-        "closest_quake_distance_km": 185.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t3m7",
-            "magnitude": 5.4,
-            "latitude": -23.5454,
-            "longitude": -68.633,
-            "depth_km": 106.991,
-            "time_ms": 1785142663758,
-            "place": "82 km SSW of San Pedro de Atacama, Chile",
-            "distance_km": 185.1,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.42
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000th96",
-        "magnitude": 5,
-        "latitude": -29.867,
-        "longitude": -72.1202,
-        "depth_km": 11.851,
-        "time_ms": 1785520025666,
-        "place": "76 km W of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3m7",
-        "magnitude": 5.4,
-        "latitude": -23.5454,
-        "longitude": -68.633,
-        "depth_km": 106.991,
-        "time_ms": 1785142663758,
-        "place": "82 km SSW of San Pedro de Atacama, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t2fd",
-        "magnitude": 5.1,
-        "latitude": -27.8666,
-        "longitude": -71.7009,
-        "depth_km": 10,
-        "time_ms": 1784712862317,
-        "place": "121 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0it",
-        "magnitude": 5.1,
-        "latitude": -32.6045,
-        "longitude": -71.8512,
-        "depth_km": 23.716,
-        "time_ms": 1784077760496,
-        "place": "52 km NNW of Valparaíso, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000szu6",
-        "magnitude": 5.6,
-        "latitude": -54.6193,
-        "longitude": -118.8883,
-        "depth_km": 10,
-        "time_ms": 1783841363739,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tahc",
-        "magnitude": 5,
-        "latitude": -32.5656,
-        "longitude": -71.7963,
-        "depth_km": 22.044,
-        "time_ms": 1783354552144,
-        "place": "54 km NNW of Valparaíso, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.67
-  },
-  {
-    "country": "",
     "iso_alpha2": "TO",
     "iso_alpha3": "",
     "capital": "",
@@ -2572,8 +2470,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 32,
-    "avg_magnitude": 5.2,
+    "earthquake_count": 31,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2989,17 +2887,6 @@
         "place": "179 km S of ‘Ohonua, Tonga",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000taft",
-        "magnitude": 5.1,
-        "latitude": -16.8948,
-        "longitude": -172.0829,
-        "depth_km": 10,
-        "time_ms": 1783349018335,
-        "place": "210 km ESE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.67
@@ -3106,6 +2993,141 @@
   },
   {
     "country": "",
+    "iso_alpha2": "CL",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.24,
+    "strongest_earthquake": {
+      "magnitude": 5.6,
+      "date": "2026-07-12",
+      "depth_km": 10,
+      "latitude": -54.6193,
+      "longitude": -118.8883
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Comodoro Arturo Merino Benítez International Airport",
+        "iata_code": "SCL",
+        "latitude": -33.393002,
+        "longitude": -70.785797,
+        "municipality": "Santiago",
+        "closest_quake_distance_km": 132.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t0it",
+            "magnitude": 5.1,
+            "latitude": -32.6045,
+            "longitude": -71.8512,
+            "depth_km": 23.716,
+            "time_ms": 1784077760496,
+            "place": "52 km NNW of Valparaíso, Chile",
+            "distance_km": 132.5,
+            "exposure_contribution": 0.65,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.65
+      },
+      {
+        "name": "Andrés Sabella Gálvez International Airport",
+        "iata_code": "ANF",
+        "latitude": -23.445274,
+        "longitude": -70.445232,
+        "municipality": "Antofagasta",
+        "closest_quake_distance_km": 185.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t3m7",
+            "magnitude": 5.4,
+            "latitude": -23.5454,
+            "longitude": -68.633,
+            "depth_km": 106.991,
+            "time_ms": 1785142663758,
+            "place": "82 km SSW of San Pedro de Atacama, Chile",
+            "distance_km": 185.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000th96",
+        "magnitude": 5,
+        "latitude": -29.867,
+        "longitude": -72.1202,
+        "depth_km": 11.851,
+        "time_ms": 1785520025666,
+        "place": "76 km W of Coquimbo, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3m7",
+        "magnitude": 5.4,
+        "latitude": -23.5454,
+        "longitude": -68.633,
+        "depth_km": 106.991,
+        "time_ms": 1785142663758,
+        "place": "82 km SSW of San Pedro de Atacama, Chile",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t2fd",
+        "magnitude": 5.1,
+        "latitude": -27.8666,
+        "longitude": -71.7009,
+        "depth_km": 10,
+        "time_ms": 1784712862317,
+        "place": "121 km NW of Vallenar, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t0it",
+        "magnitude": 5.1,
+        "latitude": -32.6045,
+        "longitude": -71.8512,
+        "depth_km": 23.716,
+        "time_ms": 1784077760496,
+        "place": "52 km NNW of Valparaíso, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000szu6",
+        "magnitude": 5.6,
+        "latitude": -54.6193,
+        "longitude": -118.8883,
+        "depth_km": 10,
+        "time_ms": 1783841363739,
+        "place": "southern East Pacific Rise",
+        "country_code": "CL",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.07
+  },
+  {
+    "country": "",
     "iso_alpha2": "CN",
     "iso_alpha3": "",
     "capital": "",
@@ -3117,8 +3139,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-28",
@@ -3183,6 +3205,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ti9w",
+        "magnitude": 5,
+        "latitude": 29.0027,
+        "longitude": 94.681,
+        "depth_km": 10,
+        "time_ms": 1785924369955,
+        "place": "60 km NNE of Shi Yomi, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tgbk",
         "magnitude": 5.1,
