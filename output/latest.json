@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
+    "earthquake_count": 12,
     "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 6.8,
@@ -260,19 +260,19 @@
           },
           {
             "earthquake_id": "us7000t15t",
-            "magnitude": 5.2,
-            "latitude": 30.7625,
-            "longitude": 131.5099,
+            "magnitude": 5.1,
+            "latitude": 30.793,
+            "longitude": 131.5012,
             "depth_km": 35,
-            "time_ms": 1784238582977,
+            "time_ms": 1784238583422,
             "place": "48 km E of Nishinoomote, Japan",
-            "distance_km": 138.0,
-            "exposure_contribution": 0.67,
+            "distance_km": 134.7,
+            "exposure_contribution": 0.62,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 13.99
+        "exposure_score": 13.94
       },
       {
         "name": "Miyazaki Airport",
@@ -349,19 +349,19 @@
           },
           {
             "earthquake_id": "us7000t15t",
-            "magnitude": 5.2,
-            "latitude": 30.7625,
-            "longitude": 131.5099,
+            "magnitude": 5.1,
+            "latitude": 30.793,
+            "longitude": 131.5012,
             "depth_km": 35,
-            "time_ms": 1784238582977,
+            "time_ms": 1784238583422,
             "place": "48 km E of Nishinoomote, Japan",
-            "distance_km": 124.1,
-            "exposure_contribution": 0.79,
+            "distance_km": 120.7,
+            "exposure_contribution": 0.73,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 11.36
+        "exposure_score": 11.3
       },
       {
         "name": "Kitakyushu Airport",
@@ -788,6 +788,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000timf",
+        "magnitude": 5.4,
+        "latitude": 39.5829,
+        "longitude": 143.6408,
+        "depth_km": 10,
+        "time_ms": 1786038216862,
+        "place": "145 km E of Yamada, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000thhk",
         "magnitude": 5.2,
         "latitude": 32.0078,
@@ -866,11 +877,11 @@
       },
       {
         "id": "us7000t15t",
-        "magnitude": 5.2,
-        "latitude": 30.7625,
-        "longitude": 131.5099,
+        "magnitude": 5.1,
+        "latitude": 30.793,
+        "longitude": 131.5012,
         "depth_km": 35,
-        "time_ms": 1784238582977,
+        "time_ms": 1784238583422,
         "place": "48 km E of Nishinoomote, Japan",
         "country_code": "JP",
         "shakemap_available": false
@@ -909,7 +920,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 109.59
+    "seismic_hub_risk_score": 109.48
   },
   {
     "country": "",
@@ -1159,8 +1170,8 @@
             "time_ms": 1784044179287,
             "place": "32 km WSW of Sarangani, Philippines",
             "distance_km": 82.2,
-            "exposure_contribution": 5.77,
-            "pga_g": 0.057705,
+            "exposure_contribution": 5.75,
+            "pga_g": 0.057471,
             "mmi": 4.9
           },
           {
@@ -1268,7 +1279,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.99
+        "exposure_score": 25.97
       },
       {
         "name": "Kalibo International Airport",
@@ -1519,7 +1530,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 35.86
+    "seismic_hub_risk_score": 35.84
   },
   {
     "country": "",
@@ -1534,7 +1545,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
+    "earthquake_count": 14,
     "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.8,
@@ -1649,46 +1660,22 @@
         "exposure_score": 1.69
       },
       {
-        "name": "Soekarno-Hatta International Airport",
-        "iata_code": "CGK",
-        "latitude": -6.12557,
-        "longitude": 106.655998,
-        "municipality": "Jakarta",
-        "closest_quake_distance_km": 183.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tary",
-            "magnitude": 5.3,
-            "latitude": -6.628,
-            "longitude": 105.0792,
-            "depth_km": 32.655,
-            "time_ms": 1783453492097,
-            "place": "87 km WSW of Labuan, Indonesia",
-            "distance_km": 183.0,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.48
-      },
-      {
         "name": "Kualanamu International Airport",
         "iata_code": "KNO",
         "latitude": 3.637847,
         "longitude": 98.870566,
         "municipality": "Beringin",
-        "closest_quake_distance_km": 163.9,
+        "closest_quake_distance_km": 164.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000t2dz",
             "magnitude": 5,
-            "latitude": 4.2441,
-            "longitude": 97.5238,
+            "latitude": 4.1948,
+            "longitude": 97.4958,
             "depth_km": 10,
-            "time_ms": 1784693902071,
-            "place": "55 km WSW of Langsa, Indonesia",
-            "distance_km": 163.9,
+            "time_ms": 1784693901643,
+            "place": "60 km WSW of Langsa, Indonesia",
+            "distance_km": 164.6,
             "exposure_contribution": 0.42,
             "pga_g": null,
             "mmi": null
@@ -1811,11 +1798,11 @@
       {
         "id": "us7000t2dz",
         "magnitude": 5,
-        "latitude": 4.2441,
-        "longitude": 97.5238,
+        "latitude": 4.1948,
+        "longitude": 97.4958,
         "depth_km": 10,
-        "time_ms": 1784693902071,
-        "place": "55 km WSW of Langsa, Indonesia",
+        "time_ms": 1784693901643,
+        "place": "60 km WSW of Langsa, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1833,11 +1820,11 @@
       {
         "id": "us7000szvv",
         "magnitude": 5.4,
-        "latitude": 1.1373,
-        "longitude": 121.4207,
+        "latitude": 1.1505,
+        "longitude": 121.4009,
         "depth_km": 35,
-        "time_ms": 1783863997155,
-        "place": "194 km WNW of Gorontalo, Indonesia",
+        "time_ms": 1783863997224,
+        "place": "196 km WNW of Gorontalo, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1851,31 +1838,9 @@
         "place": "27 km SE of Tambolaka, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tary",
-        "magnitude": 5.3,
-        "latitude": -6.628,
-        "longitude": 105.0792,
-        "depth_km": 32.655,
-        "time_ms": 1783453492097,
-        "place": "87 km WSW of Labuan, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000talg",
-        "magnitude": 5.4,
-        "latitude": 3.1189,
-        "longitude": 127.533,
-        "depth_km": 54.67,
-        "time_ms": 1783408588481,
-        "place": "162 km NNW of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 4.5
+    "seismic_hub_risk_score": 4.02
   },
   {
     "country": "",
@@ -1890,8 +1855,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-07-31",
@@ -2039,6 +2004,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tip9",
+        "magnitude": 5.3,
+        "latitude": -12.1948,
+        "longitude": -75.2574,
+        "depth_km": 10,
+        "time_ms": 1786042641831,
+        "place": "7 km SSW of Huayucachi, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
       {
         "id": "us6000thpt",
         "magnitude": 5.2,
@@ -2402,10 +2378,10 @@
       {
         "id": "us7000t21e",
         "magnitude": 5,
-        "latitude": -32.759,
-        "longitude": -178.0878,
+        "latitude": -32.7782,
+        "longitude": -178.1834,
         "depth_km": 10,
-        "time_ms": 1784580259902,
+        "time_ms": 1784580259111,
         "place": "south of the Kermadec Islands",
         "country_code": "NZ",
         "shakemap_available": false
@@ -2802,11 +2778,11 @@
       },
       {
         "id": "us7000t2j3",
-        "magnitude": 5,
-        "latitude": -29.6177,
-        "longitude": -177.9234,
-        "depth_km": 46.903,
-        "time_ms": 1784754182092,
+        "magnitude": 5.1,
+        "latitude": -29.5278,
+        "longitude": -177.1126,
+        "depth_km": 22.112,
+        "time_ms": 1784754175170,
         "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": false
@@ -2858,11 +2834,11 @@
       {
         "id": "us7000szr0",
         "magnitude": 5.1,
-        "latitude": -15.3141,
-        "longitude": -173.293,
+        "latitude": -15.2652,
+        "longitude": -173.0763,
         "depth_km": 10,
-        "time_ms": 1783783997598,
-        "place": "89 km NE of Hihifo, Tonga",
+        "time_ms": 1783783998171,
+        "place": "108 km NE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -2890,106 +2866,6 @@
       }
     ],
     "seismic_hub_risk_score": 1.67
-  },
-  {
-    "country": "",
-    "iso_alpha2": "IS",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.17,
-    "strongest_earthquake": {
-      "magnitude": 5.4,
-      "date": "2026-07-28",
-      "depth_km": 10,
-      "latitude": 64.7107,
-      "longitude": -17.7103
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Akureyri International Airport",
-        "iata_code": "AEY",
-        "latitude": 65.656573,
-        "longitude": -18.072018,
-        "municipality": "Akureyri",
-        "closest_quake_distance_km": 106.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgaw",
-            "magnitude": 5.4,
-            "latitude": 64.7107,
-            "longitude": -17.7103,
-            "depth_km": 10,
-            "time_ms": 1785216999419,
-            "place": "109 km S of Akureyri, Iceland",
-            "distance_km": 106.5,
-            "exposure_contribution": 1.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tgaw",
-        "magnitude": 5.4,
-        "latitude": 64.7107,
-        "longitude": -17.7103,
-        "depth_km": 10,
-        "time_ms": 1785216999419,
-        "place": "109 km S of Akureyri, Iceland",
-        "country_code": "IS",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000talm",
-        "magnitude": 5,
-        "latitude": 59.4179,
-        "longitude": -30.3966,
-        "depth_km": 10,
-        "time_ms": 1783413055922,
-        "place": "Reykjanes Ridge",
-        "country_code": "IS",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tal2",
-        "magnitude": 5.3,
-        "latitude": 59.489,
-        "longitude": -30.2483,
-        "depth_km": 10,
-        "time_ms": 1783403740260,
-        "place": "Reykjanes Ridge",
-        "country_code": "IS",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000takw",
-        "magnitude": 5,
-        "latitude": 59.5008,
-        "longitude": -30.2634,
-        "depth_km": 10,
-        "time_ms": 1783400443918,
-        "place": "Reykjanes Ridge",
-        "country_code": "IS",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.32
   },
   {
     "country": "",
@@ -3128,165 +3004,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.23,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-07-28",
-      "depth_km": 10,
-      "latitude": 35.429,
-      "longitude": 99.5557
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 1,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 2,
-    "exposed_airports": [
-      {
-        "name": "Chengdu Tianfu International Airport",
-        "iata_code": "TFU",
-        "latitude": 30.31252,
-        "longitude": 104.441284,
-        "municipality": "Chengdu (Jianyang)",
-        "closest_quake_distance_km": 194.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz3z",
-            "magnitude": 5,
-            "latitude": 28.5835,
-            "longitude": 104.7181,
-            "depth_km": 10,
-            "time_ms": 1783554254152,
-            "place": "14 km N of Xunchang, China",
-            "distance_km": 194.1,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tatd",
-            "magnitude": 5,
-            "latitude": 28.574,
-            "longitude": 104.7111,
-            "depth_km": 10,
-            "time_ms": 1783462349702,
-            "place": "13 km N of Xunchang, China",
-            "distance_km": 195.1,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000taui",
-            "magnitude": 5,
-            "latitude": 28.5672,
-            "longitude": 104.7657,
-            "depth_km": 10,
-            "time_ms": 1783476528620,
-            "place": "13 km NNE of Xunchang, China",
-            "distance_km": 196.6,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.93
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000ti9w",
-        "magnitude": 5,
-        "latitude": 29.0027,
-        "longitude": 94.681,
-        "depth_km": 10,
-        "time_ms": 1785924369955,
-        "place": "60 km NNE of Shi Yomi, India",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgbk",
-        "magnitude": 5.1,
-        "latitude": 35.4249,
-        "longitude": 99.493,
-        "depth_km": 10,
-        "time_ms": 1785225850636,
-        "place": "198 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tga9",
-        "magnitude": 5.8,
-        "latitude": 35.429,
-        "longitude": 99.5557,
-        "depth_km": 10,
-        "time_ms": 1785209645627,
-        "place": "194 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tga6",
-        "magnitude": 5.7,
-        "latitude": 35.4217,
-        "longitude": 99.4752,
-        "depth_km": 10,
-        "time_ms": 1785208568865,
-        "place": "199 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000sz3z",
-        "magnitude": 5,
-        "latitude": 28.5835,
-        "longitude": 104.7181,
-        "depth_km": 10,
-        "time_ms": 1783554254152,
-        "place": "14 km N of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000taui",
-        "magnitude": 5,
-        "latitude": 28.5672,
-        "longitude": 104.7657,
-        "depth_km": 10,
-        "time_ms": 1783476528620,
-        "place": "13 km NNE of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tatd",
-        "magnitude": 5,
-        "latitude": 28.574,
-        "longitude": 104.7111,
-        "depth_km": 10,
-        "time_ms": 1783462349702,
-        "place": "13 km N of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.93
-  },
-  {
-    "country": "",
     "iso_alpha2": "MX",
     "iso_alpha3": "",
     "capital": "",
@@ -3409,22 +3126,22 @@
       {
         "id": "us7000t1tp",
         "magnitude": 5.5,
-        "latitude": 14.1592,
-        "longitude": -92.9052,
-        "depth_km": 35,
-        "time_ms": 1784483116923,
-        "place": "81 km SW of Puerto Madero, Mexico",
+        "latitude": 14.1782,
+        "longitude": -92.889,
+        "depth_km": 9,
+        "time_ms": 1784483113392,
+        "place": "78 km SW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": true
       },
       {
         "id": "us7000t1q6",
         "magnitude": 5.3,
-        "latitude": 14.292,
-        "longitude": -92.7591,
-        "depth_km": 19.593,
-        "time_ms": 1784427534767,
-        "place": "59 km SW of Puerto Madero, Mexico",
+        "latitude": 14.0895,
+        "longitude": -92.9665,
+        "depth_km": 7.739,
+        "time_ms": 1784427531727,
+        "place": "91 km SW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
@@ -3475,11 +3192,11 @@
       {
         "id": "us7000t1im",
         "magnitude": 5.1,
-        "latitude": 14.3665,
-        "longitude": -93.2679,
+        "latitude": 14.3509,
+        "longitude": -93.2219,
         "depth_km": 10,
-        "time_ms": 1784339341780,
-        "place": "99 km WSW of Puerto Madero, Mexico",
+        "time_ms": 1784339341691,
+        "place": "95 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
@@ -3664,7 +3381,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "AR",
+    "iso_alpha2": "GT",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -3676,13 +3393,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 3,
-    "avg_magnitude": 5.57,
+    "avg_magnitude": 5.0,
     "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-07-24",
-      "depth_km": 10,
-      "latitude": -57.3066,
-      "longitude": -66.8383
+      "magnitude": 5,
+      "date": "2026-07-30",
+      "depth_km": 91.1,
+      "latitude": 14.2218,
+      "longitude": -91.0582
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -3690,89 +3407,200 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Martín Miguel de Güemes International Airport",
-        "iata_code": "SLA",
-        "latitude": -24.856001,
-        "longitude": -65.486198,
-        "municipality": "Salta",
-        "closest_quake_distance_km": 154.6,
+        "name": "La Aurora International Airport",
+        "iata_code": "GUA",
+        "latitude": 14.582896,
+        "longitude": -90.527515,
+        "municipality": "Guatemala City",
+        "closest_quake_distance_km": 69.8,
         "nearby_quakes": [
           {
-            "earthquake_id": "us7000t36n",
-            "magnitude": 5.3,
-            "latitude": -23.937,
-            "longitude": -66.6321,
-            "depth_km": 191.277,
-            "time_ms": 1784921922175,
-            "place": "44 km NW of San Antonio de los Cobres, Argentina",
-            "distance_km": 154.6,
-            "exposure_contribution": 0.29,
+            "earthquake_id": "us6000tgwd",
+            "magnitude": 5,
+            "latitude": 14.2218,
+            "longitude": -91.0582,
+            "depth_km": 91.052,
+            "time_ms": 1785394735505,
+            "place": "11 km W of La Democracia, Guatemala",
+            "distance_km": 69.8,
+            "exposure_contribution": 0.75,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.29
-      },
-      {
-        "name": "Gobernador Horacio Guzman International Airport",
-        "iata_code": "JUJ",
-        "latitude": -24.392799,
-        "longitude": -65.097801,
-        "municipality": "San Salvador de Jujuy",
-        "closest_quake_distance_km": 163.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t36n",
-            "magnitude": 5.3,
-            "latitude": -23.937,
-            "longitude": -66.6321,
-            "depth_km": 191.277,
-            "time_ms": 1784921922175,
-            "place": "44 km NW of San Antonio de los Cobres, Argentina",
-            "distance_km": 163.7,
-            "exposure_contribution": 0.27,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.27
+        "exposure_score": 0.75
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000t387",
-        "magnitude": 5.7,
-        "latitude": -57.3066,
-        "longitude": -66.8383,
-        "depth_km": 10,
-        "time_ms": 1784934629856,
-        "place": "292 km SSE of Ushuaia, Argentina",
-        "country_code": "AR",
-        "shakemap_available": true
+        "id": "us6000tgwd",
+        "magnitude": 5,
+        "latitude": 14.2218,
+        "longitude": -91.0582,
+        "depth_km": 91.052,
+        "time_ms": 1785394735505,
+        "place": "11 km W of La Democracia, Guatemala",
+        "country_code": "GT",
+        "shakemap_available": false
       },
       {
-        "id": "us7000t36n",
-        "magnitude": 5.3,
-        "latitude": -23.937,
-        "longitude": -66.6321,
-        "depth_km": 191.277,
-        "time_ms": 1784921922175,
-        "place": "44 km NW of San Antonio de los Cobres, Argentina",
-        "country_code": "AR",
-        "shakemap_available": true
+        "id": "us7000t2p7",
+        "magnitude": 5,
+        "latitude": 13.9219,
+        "longitude": -92.2854,
+        "depth_km": 35,
+        "time_ms": 1784812443548,
+        "place": "57 km SW of Champerico, Guatemala",
+        "country_code": "GT",
+        "shakemap_available": false
       },
       {
-        "id": "us6000takd",
-        "magnitude": 5.7,
-        "latitude": -57.3252,
-        "longitude": -66.6796,
+        "id": "us7000t2se",
+        "magnitude": 5,
+        "latitude": 13.829,
+        "longitude": -92.5968,
         "depth_km": 10,
-        "time_ms": 1783387605506,
-        "place": "297 km SSE of Ushuaia, Argentina",
-        "country_code": "AR",
-        "shakemap_available": true
+        "time_ms": 1784300149506,
+        "place": "87 km SSW of Ocós, Guatemala",
+        "country_code": "GT",
+        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 0.56
+    "seismic_hub_risk_score": 0.75
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.27,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-28",
+      "depth_km": 10,
+      "latitude": 35.429,
+      "longitude": 99.5557
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 1,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "Chengdu Tianfu International Airport",
+        "iata_code": "TFU",
+        "latitude": 30.31252,
+        "longitude": 104.441284,
+        "municipality": "Chengdu (Jianyang)",
+        "closest_quake_distance_km": 194.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000sz3z",
+            "magnitude": 5,
+            "latitude": 28.5835,
+            "longitude": 104.7181,
+            "depth_km": 10,
+            "time_ms": 1783554254152,
+            "place": "14 km N of Xunchang, China",
+            "distance_km": 194.1,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000taui",
+            "magnitude": 5,
+            "latitude": 28.5672,
+            "longitude": 104.7657,
+            "depth_km": 10,
+            "time_ms": 1783476528620,
+            "place": "13 km NNE of Xunchang, China",
+            "distance_km": 196.6,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.62
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000ti9w",
+        "magnitude": 5,
+        "latitude": 29.0027,
+        "longitude": 94.681,
+        "depth_km": 10,
+        "time_ms": 1785924369955,
+        "place": "60 km NNE of Shi Yomi, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tgbk",
+        "magnitude": 5.1,
+        "latitude": 35.4249,
+        "longitude": 99.493,
+        "depth_km": 10,
+        "time_ms": 1785225850636,
+        "place": "198 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tga9",
+        "magnitude": 5.8,
+        "latitude": 35.429,
+        "longitude": 99.5557,
+        "depth_km": 10,
+        "time_ms": 1785209645627,
+        "place": "194 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tga6",
+        "magnitude": 5.7,
+        "latitude": 35.4217,
+        "longitude": 99.4752,
+        "depth_km": 10,
+        "time_ms": 1785208568865,
+        "place": "199 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000sz3z",
+        "magnitude": 5,
+        "latitude": 28.5835,
+        "longitude": 104.7181,
+        "depth_km": 10,
+        "time_ms": 1783554254152,
+        "place": "14 km N of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000taui",
+        "magnitude": 5,
+        "latitude": 28.5672,
+        "longitude": 104.7657,
+        "depth_km": 10,
+        "time_ms": 1783476528620,
+        "place": "13 km NNE of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.62
   }
 ]
