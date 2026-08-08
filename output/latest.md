@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-07 07:01 UTC
+Generated: 2026-08-08 06:36 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-05-10 to 2026-08-07).
+Based on 89 snapshots (2026-05-11 to 2026-08-08).
 
 
 **Top score changes**:
@@ -12,27 +12,26 @@ Based on 89 snapshots (2026-05-10 to 2026-08-07).
 
 **Top airport exposure changes**:
 
-- Chengdu Tianfu International Airport (TFU, ): -0.3
-- Miyazaki Airport (KMI, ): -0.1
-- Kagoshima Airport (KOJ, ): -0.1
-- General Santos International Airport (GES, ): -0.0
+- Fua'amotu International Airport (TBU, ): -0.5
 - Kansai International Airport (KIX, ): 0.0
+- Kobe Airport (UKB, ): 0.0
+- New Chitose Airport (CTS, ): 0.0
+- Hakodate Airport (HKD, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 109.5 | ~ | 5.3 | M6.8 (2026-07-28) | 12 | 17 | red | No | 1 |
-|  |  |  | 35.8 | ~ | 5.3 | M6.3 (2026-08-05) | 19 | 4 | green | No | 2 |
+|  |  |  | 36.6 | ~ | 5.3 | M6.3 (2026-08-05) | 20 | 6 | green | No | 2 |
 |  |  |  | 4.0 | ~ | 5.3 | M5.8 (2026-07-23) | 14 | 3 | - | No | 0 |
 |  |  |  | 3.5 | ~ | 5.4 | M5.6 (2026-07-31) | 7 | 5 | yellow | No | 1 |
-|  |  |  | 2.1 | ~ | 5.2 | M5.8 (2026-07-28) | 8 | 1 | - | No | 0 |
+|  |  |  | 2.1 | ~ | 5.2 | M5.8 (2026-07-28) | 9 | 1 | - | No | 0 |
 |  |  |  | 2.0 | ~ | 5.5 | M6.3 (2026-08-05) | 10 | 1 | green | No | 1 |
-|  |  |  | 1.7 | ~ | 5.2 | M5.9 (2026-07-29) | 31 | 2 | - | No | 0 |
+|  |  |  | 1.2 | ~ | 5.2 | M5.9 (2026-07-29) | 30 | 2 | - | No | 0 |
 |  |  |  | 1.1 | ~ | 5.2 | M5.6 (2026-07-12) | 5 | 2 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.3 | M7.3 (2026-07-17) | 27 | 2 | yellow | No | 2 |
 |  |  |  | 0.8 | ~ | 5.0 | M5 (2026-07-30) | 3 | 1 | - | No | 0 |
-|  |  |  | 0.6 | ~ | 5.3 | M5.8 (2026-07-28) | 6 | 1 | yellow | No | 2 |
 
 ## Airport Details
 
@@ -59,6 +58,8 @@ Based on 89 snapshots (2026-05-10 to 2026-08-07).
 | Bicol International Airport | DRP | Legazpi |  | 5.5 | ~ | - | 68.3 | 3 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 2.9 | ~ | - | 137.7 | 6 |
 | Kalibo International Airport | KLO | Kalibo |  | 1.4 | ~ | - | 148.3 | 2 |
+| Ninoy Aquino International Airport | MNL | Manila (Pasay) |  | 0.4 | NEW | - | 132.5 | 1 |
+| Subic Bay International Airport / Naval Air Station Cubi Point | SFS | Olongapo |  | 0.3 | NEW | - | 160.9 | 1 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 1.9 | ~ | - | 182.2 | 4 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 1.7 | ~ | - | 173.4 | 2 |
 | Kualanamu International Airport | KNO | Beringin |  | 0.4 | ~ | - | 164.6 | 1 |
@@ -69,11 +70,10 @@ Based on 89 snapshots (2026-05-10 to 2026-08-07).
 | Jorge Chávez International Airport | LIM | Lima |  | 0.3 | ~ | 0.0035 | 197.1 | 1 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 2.1 | ~ | - | 80.1 | 4 |
 | Queenstown Airport | ZQN | Queenstown |  | 2.0 | ~ | - | 89.3 | 1 |
-| Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.9 | ~ | - | 168.0 | 2 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.8 | ~ | - | 147.4 | 1 |
+| Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.4 | ~ | - | 168.0 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 0.7 | ~ | - | 132.5 | 1 |
 | Andrés Sabella Gálvez International Airport | ANF | Antofagasta |  | 0.4 | ~ | - | 185.1 | 1 |
 | Loreto International Airport | LTO | Loreto |  | 0.5 | ~ | - | 156.5 | 1 |
 | General Ignacio L. Pesqueira International Airport | HMO | Hermosillo |  | 0.4 | ~ | - | 191.2 | 1 |
-| La Aurora International Airport | GUA | Guatemala City |  | 0.8 | NEW | - | 69.8 | 1 |
-| Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 0.6 | ~ | - | 194.1 | 2 |
+| La Aurora International Airport | GUA | Guatemala City |  | 0.8 | ~ | - | 69.8 | 1 |
