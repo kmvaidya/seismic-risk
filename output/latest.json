@@ -13,7 +13,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 12,
-    "avg_magnitude": 5.35,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -26,54 +26,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
-      {
-        "name": "Kansai International Airport",
-        "iata_code": "KIX",
-        "latitude": 34.427299,
-        "longitude": 135.244003,
-        "municipality": "Osaka",
-        "closest_quake_distance_km": 132.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 132.5,
-            "exposure_contribution": 0.6,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.6
-      },
-      {
-        "name": "Kobe Airport",
-        "iata_code": "UKB",
-        "latitude": 34.632801,
-        "longitude": 135.223999,
-        "municipality": "Kobe",
-        "closest_quake_distance_km": 154.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 154.9,
-            "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.46
-      },
       {
         "name": "New Chitose Airport",
         "iata_code": "CTS",
@@ -629,126 +581,6 @@
         "exposure_score": 9.99
       },
       {
-        "name": "Okayama Momotaro Airport",
-        "iata_code": "OKJ",
-        "latitude": 34.756901,
-        "longitude": 133.854996,
-        "municipality": "Okayama",
-        "closest_quake_distance_km": 198.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 198.5,
-            "exposure_contribution": 0.3,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.3
-      },
-      {
-        "name": "Kochi Ryoma Airport",
-        "iata_code": "KCZ",
-        "latitude": 33.545217,
-        "longitude": 133.670166,
-        "municipality": "Nankoku",
-        "closest_quake_distance_km": 128.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 128.8,
-            "exposure_contribution": 0.62,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.62
-      },
-      {
-        "name": "Osaka Itami International Airport",
-        "iata_code": "ITM",
-        "latitude": 34.780853,
-        "longitude": 135.440829,
-        "municipality": "Osaka",
-        "closest_quake_distance_km": 174.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 174.6,
-            "exposure_contribution": 0.38,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.38
-      },
-      {
-        "name": "Tokushima Awaodori Airport / JMSDF Tokushima Air Base",
-        "iata_code": "TKS",
-        "latitude": 34.132559,
-        "longitude": 134.607816,
-        "municipality": "Tokushima",
-        "closest_quake_distance_km": 104.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 104.9,
-            "exposure_contribution": 0.85,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.85
-      },
-      {
-        "name": "Takamatsu Airport",
-        "iata_code": "TAK",
-        "latitude": 34.214963,
-        "longitude": 134.015454,
-        "municipality": "Takamatsu",
-        "closest_quake_distance_km": 141.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000sz7n",
-            "magnitude": 5,
-            "latitude": 33.251,
-            "longitude": 135.0124,
-            "depth_km": 10,
-            "time_ms": 1783601936654,
-            "place": "57 km SSW of Shirahama, Japan",
-            "distance_km": 141.4,
-            "exposure_contribution": 0.54,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.54
-      },
-      {
         "name": "Aomori Airport",
         "iata_code": "AOJ",
         "latitude": 40.733777,
@@ -770,6 +602,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000tjaj",
+            "magnitude": 5.6,
+            "latitude": 40.1723,
+            "longitude": 142.3107,
+            "depth_km": 34,
+            "time_ms": 1786211878745,
+            "place": "42 km E of Noda, Japan",
+            "distance_km": 150.7,
+            "exposure_contribution": 0.93,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000t09z",
             "magnitude": 5,
             "latitude": 40.1915,
@@ -783,10 +628,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.31
+        "exposure_score": 2.24
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tjaj",
+        "magnitude": 5.6,
+        "latitude": 40.1723,
+        "longitude": 142.3107,
+        "depth_km": 34,
+        "time_ms": 1786211878745,
+        "place": "42 km E of Noda, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
       {
         "id": "us6000timf",
         "magnitude": 5.4,
@@ -907,20 +763,9 @@
         "place": "133 km ENE of Miyako, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000sz7n",
-        "magnitude": 5,
-        "latitude": 33.251,
-        "longitude": 135.0124,
-        "depth_km": 10,
-        "time_ms": 1783601936654,
-        "place": "57 km SSW of Shirahama, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 109.48
+    "seismic_hub_risk_score": 106.66
   },
   {
     "country": "",
@@ -2194,13 +2039,13 @@
           {
             "earthquake_id": "us7000t34c",
             "magnitude": 5.1,
-            "latitude": 51.7216,
-            "longitude": 158.127,
-            "depth_km": 69.804,
-            "time_ms": 1784910799808,
-            "place": "115 km ENE of Ozernovskiy, Russia",
-            "distance_km": 162.4,
-            "exposure_contribution": 0.42,
+            "latitude": 51.7241,
+            "longitude": 158.0173,
+            "depth_km": 81.515,
+            "time_ms": 1784910801082,
+            "place": "108 km ENE of Ozernovskiy, Russia",
+            "distance_km": 163.3,
+            "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
           },
@@ -2231,7 +2076,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.15
+        "exposure_score": 2.13
       }
     ],
     "earthquakes": [
@@ -2293,11 +2138,11 @@
       {
         "id": "us7000t34c",
         "magnitude": 5.1,
-        "latitude": 51.7216,
-        "longitude": 158.127,
-        "depth_km": 69.804,
-        "time_ms": 1784910799808,
-        "place": "115 km ENE of Ozernovskiy, Russia",
+        "latitude": 51.7241,
+        "longitude": 158.0173,
+        "depth_km": 81.515,
+        "time_ms": 1784910801082,
+        "place": "108 km ENE of Ozernovskiy, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -2335,7 +2180,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.15
+    "seismic_hub_risk_score": 2.13
   },
   {
     "country": "",
@@ -2437,11 +2282,11 @@
       {
         "id": "us7000t34g",
         "magnitude": 5.7,
-        "latitude": -38.9621,
-        "longitude": 175.2332,
+        "latitude": -38.969,
+        "longitude": 175.2483,
         "depth_km": 10,
-        "time_ms": 1784911897514,
-        "place": "49 km W of Turangi, New Zealand",
+        "time_ms": 1784911897251,
+        "place": "48 km W of Turangi, New Zealand",
         "country_code": "NZ",
         "shakemap_available": true
       },
@@ -2516,8 +2361,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 30,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 31,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2580,6 +2425,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tj69",
+        "magnitude": 5,
+        "latitude": -28.4766,
+        "longitude": -176.5487,
+        "depth_km": 10,
+        "time_ms": 1786161571810,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ti0r",
         "magnitude": 5.1,
@@ -2927,13 +2783,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 5,
-    "avg_magnitude": 5.24,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 5.6,
-      "date": "2026-07-12",
+      "date": "2026-08-08",
       "depth_km": 10,
-      "latitude": -54.6193,
-      "longitude": -118.8883
+      "latitude": -41.4826,
+      "longitude": -90.0796
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2991,6 +2847,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tj8t",
+        "magnitude": 5.6,
+        "latitude": -41.4826,
+        "longitude": -90.0796,
+        "depth_km": 10,
+        "time_ms": 1786189287702,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000th96",
         "magnitude": 5,
         "latitude": -29.867,
@@ -3011,17 +2878,6 @@
         "place": "82 km SSW of San Pedro de Atacama, Chile",
         "country_code": "CL",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t2fd",
-        "magnitude": 5.1,
-        "latitude": -27.8666,
-        "longitude": -71.7009,
-        "depth_km": 10,
-        "time_ms": 1784712862317,
-        "place": "121 km NW of Vallenar, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
       },
       {
         "id": "us7000t0it",
@@ -3249,11 +3105,11 @@
       {
         "id": "us7000t1hd",
         "magnitude": 5,
-        "latitude": 14.2237,
-        "longitude": -92.9584,
+        "latitude": 14.2528,
+        "longitude": -93.0445,
         "depth_km": 35,
-        "time_ms": 1784326386825,
-        "place": "79 km SW of Puerto Madero, Mexico",
+        "time_ms": 1784326387238,
+        "place": "84 km SW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
@@ -3492,11 +3348,11 @@
       {
         "id": "us7000t2p7",
         "magnitude": 5,
-        "latitude": 13.9219,
-        "longitude": -92.2854,
+        "latitude": 13.8418,
+        "longitude": -92.2304,
         "depth_km": 35,
-        "time_ms": 1784812443548,
-        "place": "57 km SW of Champerico, Guatemala",
+        "time_ms": 1784812442845,
+        "place": "60 km SW of Champerico, Guatemala",
         "country_code": "GT",
         "shakemap_available": false
       },
@@ -3513,5 +3369,171 @@
       }
     ],
     "seismic_hub_risk_score": 0.75
+  },
+  {
+    "country": "",
+    "iso_alpha2": "US",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 10,
+    "avg_magnitude": 5.23,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-26",
+      "depth_km": 10,
+      "latitude": 51.4588,
+      "longitude": -173.1399
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 1133,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "Ted Stevens Anchorage International Airport",
+        "iata_code": "ANC",
+        "latitude": 61.179004,
+        "longitude": -149.992561,
+        "municipality": "Anchorage",
+        "closest_quake_distance_km": 172.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "aka2026powmkf",
+            "magnitude": 5.6,
+            "latitude": 62.269,
+            "longitude": -152.314,
+            "depth_km": 10,
+            "time_ms": 1786164634985,
+            "place": "57 km WNW of Skwentna, Alaska",
+            "distance_km": 172.2,
+            "exposure_contribution": 0.27,
+            "pga_g": 0.00267,
+            "mmi": 2.9
+          }
+        ],
+        "exposure_score": 0.27
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "aka2026powmkf",
+        "magnitude": 5.6,
+        "latitude": 62.269,
+        "longitude": -152.314,
+        "depth_km": 10,
+        "time_ms": 1786164634985,
+        "place": "57 km WNW of Skwentna, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "aka2026ovufno",
+        "magnitude": 5,
+        "latitude": 63.611,
+        "longitude": -150.673,
+        "depth_km": 5,
+        "time_ms": 1785271764979,
+        "place": "52 km E of Denali National Park, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t3fm",
+        "magnitude": 5.8,
+        "latitude": 51.4588,
+        "longitude": -173.1399,
+        "depth_km": 10,
+        "time_ms": 1785054918418,
+        "place": "109 km SE of Atka, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t3cv",
+        "magnitude": 5,
+        "latitude": 51.6063,
+        "longitude": -173.2803,
+        "depth_km": 40.779,
+        "time_ms": 1785013397610,
+        "place": "91 km SE of Atka, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t2wx",
+        "magnitude": 5,
+        "latitude": 51.1015,
+        "longitude": -176.0652,
+        "depth_km": 10,
+        "time_ms": 1784854996097,
+        "place": "94 km SSE of Adak, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "tx2026ojlaky",
+        "magnitude": 5,
+        "latitude": 35.902,
+        "longitude": -100.976,
+        "depth_km": 5.6885,
+        "time_ms": 1784802103909,
+        "place": "38 km SSE of Spearman, Texas",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t2n5",
+        "magnitude": 5.1,
+        "latitude": 51.604,
+        "longitude": -173.2484,
+        "depth_km": 35,
+        "time_ms": 1784799018969,
+        "place": "92 km SE of Atka, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "aka2026nyxoap",
+        "magnitude": 5.2,
+        "latitude": 60.569,
+        "longitude": -141.508,
+        "depth_km": 8.5,
+        "time_ms": 1784201841034,
+        "place": "122 km SE of McCarthy, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t0fu",
+        "magnitude": 5.4,
+        "latitude": 54.1633,
+        "longitude": -162.5848,
+        "depth_km": 49.495,
+        "time_ms": 1784055067459,
+        "place": "93 km SE of False Pass, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t0b5",
+        "magnitude": 5.2,
+        "latitude": 54.0505,
+        "longitude": -162.5269,
+        "depth_km": 33.702,
+        "time_ms": 1784031138682,
+        "place": "106 km SSE of False Pass, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.27
   }
 ]
