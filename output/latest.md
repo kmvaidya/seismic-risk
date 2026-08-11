@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-10 07:14 UTC
+Generated: 2026-08-11 06:52 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-05-13 to 2026-08-10).
+Based on 89 snapshots (2026-05-14 to 2026-08-11).
 
 
 **Top score changes**:
@@ -12,9 +12,9 @@ Based on 89 snapshots (2026-05-13 to 2026-08-10).
 
 **Top airport exposure changes**:
 
-- Fua'amotu International Airport (TBU, ): +0.6
-- Vava'u International Airport (VAV, ): +0.3
-- Sam Ratulangi International Airport (MDC, ): -0.1
+- General Santos International Airport (GES, ): -1.7
+- Francisco Bangoy International Airport (DVO, ): +0.1
+- Queenstown Airport (ZQN, ): -0.1
 - New Chitose Airport (CTS, ): 0.0
 - Hakodate Airport (HKD, ): 0.0
 
@@ -23,16 +23,16 @@ Based on 89 snapshots (2026-05-13 to 2026-08-10).
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 106.7 | ~ | 5.4 | M6.8 (2026-07-28) | 12 | 10 | red | No | 1 |
-|  |  |  | 36.6 | ~ | 5.3 | M6.3 (2026-08-05) | 20 | 6 | green | No | 2 |
-|  |  |  | 3.9 | ~ | 5.3 | M5.7 (2026-08-04) | 17 | 3 | - | No | 0 |
-|  |  |  | 3.5 | ~ | 5.4 | M5.6 (2026-07-31) | 7 | 5 | yellow | No | 1 |
+|  |  |  | 35.0 | ~ | 5.3 | M6.3 (2026-08-05) | 18 | 6 | green | No | 2 |
+|  |  |  | 3.9 | ~ | 5.3 | M5.7 (2026-08-04) | 18 | 3 | - | No | 0 |
+|  |  |  | 3.5 | ~ | 5.4 | M5.6 (2026-07-31) | 6 | 5 | yellow | No | 1 |
 |  |  |  | 2.1 | ~ | 5.2 | M5.8 (2026-07-28) | 9 | 1 | - | No | 0 |
-|  |  |  | 2.1 | ~ | 5.2 | M5.9 (2026-07-29) | 32 | 2 | - | No | 0 |
+|  |  |  | 2.1 | ~ | 5.2 | M5.9 (2026-07-29) | 30 | 2 | - | No | 0 |
 |  |  |  | 2.0 | ~ | 5.5 | M6.3 (2026-08-05) | 10 | 1 | green | No | 1 |
 |  |  |  | 1.1 | ~ | 5.3 | M5.6 (2026-08-08) | 6 | 2 | - | No | 0 |
-|  |  |  | 0.9 | ~ | 5.3 | M7.3 (2026-07-17) | 27 | 2 | yellow | No | 2 |
+|  |  |  | 0.9 | ~ | 5.3 | M7.3 (2026-07-17) | 28 | 2 | yellow | No | 2 |
 |  |  |  | 0.8 | ~ | 5.0 | M5 (2026-07-30) | 3 | 1 | - | No | 0 |
-|  |  |  | 0.3 | ~ | 5.2 | M5.8 (2026-07-26) | 10 | 1 | green | No | 2 |
+|  |  |  | 0.3 | ~ | 5.3 | M5.8 (2026-07-26) | 9 | 1 | green | No | 2 |
 
 ## Airport Details
 
@@ -48,9 +48,9 @@ Based on 89 snapshots (2026-05-13 to 2026-08-10).
 | Aomori Airport | AOJ | Aomori |  | 2.2 | ~ | - | 122.3 | 3 |
 | Hakodate Airport | HKD | Hakodate |  | 1.1 | ~ | - | 100.7 | 1 |
 | New Chitose Airport | CTS | Sapporo |  | 0.7 | ~ | - | 159.1 | 1 |
-| General Santos International Airport | GES | General Santos |  | 26.0 | ~ | 0.0575 | 46.9 | 14 |
+| General Santos International Airport | GES | General Santos |  | 24.3 | -1.7 | 0.0575 | 46.9 | 12 |
 | Bicol International Airport | DRP | Legazpi |  | 5.5 | ~ | - | 68.3 | 3 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 2.9 | ~ | - | 137.7 | 6 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 3.0 | ~ | - | 129.3 | 6 |
 | Kalibo International Airport | KLO | Kalibo |  | 1.4 | ~ | - | 148.3 | 2 |
 | Ninoy Aquino International Airport | MNL | Manila (Pasay) |  | 0.4 | ~ | - | 132.5 | 1 |
 | Subic Bay International Airport / Naval Air Station Cubi Point | SFS | Olongapo |  | 0.3 | ~ | - | 160.9 | 1 |
@@ -64,8 +64,8 @@ Based on 89 snapshots (2026-05-13 to 2026-08-10).
 | Jorge Chávez International Airport | LIM | Lima |  | 0.3 | ~ | 0.0035 | 197.1 | 1 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 2.1 | ~ | - | 80.1 | 4 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 1.1 | ~ | - | 147.4 | 2 |
-| Fua'amotu International Airport | TBU | Nuku'alofa |  | 1.0 | +0.6 | - | 127.0 | 2 |
-| Queenstown Airport | ZQN | Queenstown |  | 2.0 | ~ | - | 89.3 | 1 |
+| Fua'amotu International Airport | TBU | Nuku'alofa |  | 1.0 | ~ | - | 127.0 | 2 |
+| Queenstown Airport | ZQN | Queenstown |  | 2.0 | ~ | - | 94.5 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 0.7 | ~ | - | 132.5 | 1 |
 | Andrés Sabella Gálvez International Airport | ANF | Antofagasta |  | 0.4 | ~ | - | 185.1 | 1 |
 | Loreto International Airport | LTO | Loreto |  | 0.5 | ~ | - | 156.5 | 1 |

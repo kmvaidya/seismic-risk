@@ -780,7 +780,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 20,
+    "earthquake_count": 18,
     "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 6.3,
@@ -898,18 +898,18 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 137.7,
+        "closest_quake_distance_km": 129.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tg94",
             "magnitude": 5.3,
-            "latitude": 7.6738,
-            "longitude": 126.7653,
-            "depth_km": 71.061,
-            "time_ms": 1785193594085,
-            "place": "23 km E of Kinablangan, Philippines",
-            "distance_km": 137.7,
-            "exposure_contribution": 0.66,
+            "latitude": 7.6302,
+            "longitude": 126.702,
+            "depth_km": 71.033,
+            "time_ms": 1785193593907,
+            "place": "16 km ENE of Baganga, Philippines",
+            "distance_km": 129.3,
+            "exposure_contribution": 0.71,
             "pga_g": null,
             "mmi": null
           },
@@ -979,7 +979,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.91
+        "exposure_score": 2.96
       },
       {
         "name": "General Santos International Airport",
@@ -1120,32 +1120,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000szq0",
-            "magnitude": 5.4,
-            "latitude": 5.0829,
-            "longitude": 125.5168,
-            "depth_km": 60.754,
-            "time_ms": 1783767073045,
-            "place": "35 km S of Sarangani, Philippines",
-            "distance_km": 117.9,
-            "exposure_contribution": 0.95,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000szri",
-            "magnitude": 5.2,
-            "latitude": 4.953,
-            "longitude": 125.2097,
-            "depth_km": 51.176,
-            "time_ms": 1783792170922,
-            "place": "57 km SSW of Sarangani, Philippines",
-            "distance_km": 123.4,
-            "exposure_contribution": 0.74,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us7000t3a4",
             "magnitude": 5,
             "latitude": 4.8793,
@@ -1172,7 +1146,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 25.97
+        "exposure_score": 24.28
       },
       {
         "name": "Kalibo International Airport",
@@ -1304,11 +1278,11 @@
       {
         "id": "us6000tg94",
         "magnitude": 5.3,
-        "latitude": 7.6738,
-        "longitude": 126.7653,
-        "depth_km": 71.061,
-        "time_ms": 1785193594085,
-        "place": "23 km E of Kinablangan, Philippines",
+        "latitude": 7.6302,
+        "longitude": 126.702,
+        "depth_km": 71.033,
+        "time_ms": 1785193593907,
+        "place": "16 km ENE of Baganga, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1410,31 +1384,9 @@
         "place": "18 km W of Mabiton, Philippines",
         "country_code": "PH",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000szri",
-        "magnitude": 5.2,
-        "latitude": 4.953,
-        "longitude": 125.2097,
-        "depth_km": 51.176,
-        "time_ms": 1783792170922,
-        "place": "57 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000szq0",
-        "magnitude": 5.4,
-        "latitude": 5.0829,
-        "longitude": 125.5168,
-        "depth_km": 60.754,
-        "time_ms": 1783767073045,
-        "place": "35 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 36.62
+    "seismic_hub_risk_score": 34.98
   },
   {
     "country": "",
@@ -1449,7 +1401,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
+    "earthquake_count": 18,
     "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.7,
@@ -1589,6 +1541,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tjqj",
+        "magnitude": 5.1,
+        "latitude": -5.9347,
+        "longitude": 102.3607,
+        "depth_km": 21.72,
+        "time_ms": 1786381686809,
+        "place": "232 km SSW of Pagar Alam, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tji3",
         "magnitude": 5,
@@ -1792,8 +1755,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-07-31",
@@ -2006,17 +1969,6 @@
         "place": "5 km SSW of Checca, Peru",
         "country_code": "PE",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000sznq",
-        "magnitude": 5.1,
-        "latitude": -10.7979,
-        "longitude": -78.8861,
-        "depth_km": 10,
-        "time_ms": 1783756707390,
-        "place": "113 km SW of Huarmey, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 3.55
@@ -2228,8 +2180,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 32,
-    "avg_magnitude": 5.19,
+    "earthquake_count": 30,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2519,10 +2471,10 @@
       {
         "id": "us6000tg95",
         "magnitude": 5.1,
-        "latitude": -24.7784,
-        "longitude": -175.2557,
+        "latitude": -24.8313,
+        "longitude": -175.2173,
         "depth_km": 10,
-        "time_ms": 1785193932908,
+        "time_ms": 1785193932123,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2647,28 +2599,6 @@
         "place": "152 km S of ‘Ohonua, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000szr0",
-        "magnitude": 5.1,
-        "latitude": -15.2652,
-        "longitude": -173.0763,
-        "depth_km": 10,
-        "time_ms": 1783783998171,
-        "place": "108 km NE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000szmb",
-        "magnitude": 5,
-        "latitude": -18.0756,
-        "longitude": -177.0646,
-        "depth_km": 394.969,
-        "time_ms": 1783739699202,
-        "place": "Fiji region",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.07
@@ -2706,23 +2636,23 @@
         "latitude": -45.019205,
         "longitude": 168.746379,
         "municipality": "Queenstown",
-        "closest_quake_distance_km": 89.3,
+        "closest_quake_distance_km": 94.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000t0xb",
             "magnitude": 5.9,
-            "latitude": -45.0434,
-            "longitude": 167.6107,
-            "depth_km": 76.397,
-            "time_ms": 1784193294293,
-            "place": "42 km NNW of Te Anau, New Zealand",
-            "distance_km": 89.3,
-            "exposure_contribution": 2.03,
+            "latitude": -45.0319,
+            "longitude": 167.5447,
+            "depth_km": 73.615,
+            "time_ms": 1784193293985,
+            "place": "44 km NNW of Te Anau, New Zealand",
+            "distance_km": 94.5,
+            "exposure_contribution": 1.98,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.03
+        "exposure_score": 1.98
       }
     ],
     "earthquakes": [
@@ -2817,11 +2747,11 @@
       {
         "id": "us7000t0xb",
         "magnitude": 5.9,
-        "latitude": -45.0434,
-        "longitude": 167.6107,
-        "depth_km": 76.397,
-        "time_ms": 1784193294293,
-        "place": "42 km NNW of Te Anau, New Zealand",
+        "latitude": -45.0319,
+        "longitude": 167.5447,
+        "depth_km": 73.615,
+        "time_ms": 1784193293985,
+        "place": "44 km NNW of Te Anau, New Zealand",
         "country_code": "NZ",
         "shakemap_available": true
       },
@@ -2837,7 +2767,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.03
+    "seismic_hub_risk_score": 1.98
   },
   {
     "country": "",
@@ -2998,8 +2928,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-07-17",
@@ -3062,6 +2992,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tjjj",
+        "magnitude": 5.5,
+        "latitude": 0.3112,
+        "longitude": -114.648,
+        "depth_km": 10,
+        "time_ms": 1786340504224,
+        "place": "east central Pacific Ocean",
+        "country_code": "MX",
+        "shakemap_available": true
+      },
       {
         "id": "us6000thm1",
         "magnitude": 5.1,
@@ -3464,8 +3405,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.23,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-26",
@@ -3474,7 +3415,7 @@
       "longitude": -173.1399
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 1136,
+    "max_felt_reports": 1137,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -3534,17 +3475,6 @@
         "depth_km": 10,
         "time_ms": 1785054918418,
         "place": "109 km SE of Atka, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t3cv",
-        "magnitude": 5,
-        "latitude": 51.6063,
-        "longitude": -173.2803,
-        "depth_km": 40.779,
-        "time_ms": 1785013397610,
-        "place": "91 km SE of Atka, Alaska",
         "country_code": "US",
         "shakemap_available": true
       },
