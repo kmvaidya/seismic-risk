@@ -723,11 +723,11 @@
       {
         "id": "us7000t2n3",
         "magnitude": 5.1,
-        "latitude": 27.8812,
-        "longitude": 130.1887,
+        "latitude": 27.8995,
+        "longitude": 130.1205,
         "depth_km": 10,
-        "time_ms": 1784798542460,
-        "place": "85 km SE of Tatsugō, Japan",
+        "time_ms": 1784798542368,
+        "place": "79 km SE of Tatsugō, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -1401,8 +1401,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 17,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-08-04",
@@ -1541,6 +1541,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tk1y",
+        "magnitude": 5.1,
+        "latitude": 1.7064,
+        "longitude": 128.4742,
+        "depth_km": 10,
+        "time_ms": 1786479258452,
+        "place": "51 km E of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tjqj",
         "magnitude": 5.1,
@@ -1708,34 +1719,12 @@
       },
       {
         "id": "us7000t1wm",
-        "magnitude": 5.1,
-        "latitude": 1.6021,
-        "longitude": 127.2659,
-        "depth_km": 69.965,
-        "time_ms": 1784540443255,
-        "place": "83 km W of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000szvv",
-        "magnitude": 5.4,
-        "latitude": 1.1505,
-        "longitude": 121.4009,
-        "depth_km": 35,
-        "time_ms": 1783863997224,
-        "place": "196 km WNW of Gorontalo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000szvq",
-        "magnitude": 5.1,
-        "latitude": -9.611,
-        "longitude": 119.4034,
-        "depth_km": 46.568,
-        "time_ms": 1783862426624,
-        "place": "27 km SE of Tambolaka, Indonesia",
+        "magnitude": 5,
+        "latitude": 1.6026,
+        "longitude": 127.3619,
+        "depth_km": 104.437,
+        "time_ms": 1784540446556,
+        "place": "73 km W of Tobelo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       }
@@ -1812,23 +1801,23 @@
         "latitude": -12.0219,
         "longitude": -77.114305,
         "municipality": "Lima",
-        "closest_quake_distance_km": 197.1,
+        "closest_quake_distance_km": 188.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000t1q7",
             "magnitude": 5.5,
-            "latitude": -12.1036,
-            "longitude": -75.3034,
+            "latitude": -12.08,
+            "longitude": -75.3819,
             "depth_km": 10,
-            "time_ms": 1784427875623,
-            "place": "4 km SSW of Chupaca, Peru",
-            "distance_km": 197.1,
-            "exposure_contribution": 0.35,
-            "pga_g": 0.003508,
-            "mmi": 3.0
+            "time_ms": 1784427875593,
+            "place": "5 km S of Chambara, Peru",
+            "distance_km": 188.5,
+            "exposure_contribution": 0.42,
+            "pga_g": 0.004168,
+            "mmi": 3.1
           }
         ],
-        "exposure_score": 0.35
+        "exposure_score": 0.42
       },
       {
         "name": "Inca Manco Capac International Airport",
@@ -1951,11 +1940,11 @@
       {
         "id": "us7000t1q7",
         "magnitude": 5.5,
-        "latitude": -12.1036,
-        "longitude": -75.3034,
+        "latitude": -12.08,
+        "longitude": -75.3819,
         "depth_km": 10,
-        "time_ms": 1784427875623,
-        "place": "4 km SSW of Chupaca, Peru",
+        "time_ms": 1784427875593,
+        "place": "5 km S of Chambara, Peru",
         "country_code": "PE",
         "shakemap_available": true
       },
@@ -1971,7 +1960,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.55
+    "seismic_hub_risk_score": 3.62
   },
   {
     "country": "",
@@ -2169,6 +2158,161 @@
   },
   {
     "country": "",
+    "iso_alpha2": "NZ",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 9,
+    "avg_magnitude": 5.49,
+    "strongest_earthquake": {
+      "magnitude": 6.3,
+      "date": "2026-08-05",
+      "depth_km": 226.1,
+      "latitude": -33.8063,
+      "longitude": 179.4727
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 14,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Queenstown Airport",
+        "iata_code": "ZQN",
+        "latitude": -45.019205,
+        "longitude": 168.746379,
+        "municipality": "Queenstown",
+        "closest_quake_distance_km": 94.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t0xb",
+            "magnitude": 5.9,
+            "latitude": -45.0319,
+            "longitude": 167.5447,
+            "depth_km": 73.615,
+            "time_ms": 1784193293985,
+            "place": "44 km NNW of Te Anau, New Zealand",
+            "distance_km": 94.5,
+            "exposure_contribution": 1.98,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.98
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000ti8i",
+        "magnitude": 6.3,
+        "latitude": -33.8063,
+        "longitude": 179.4727,
+        "depth_km": 226.084,
+        "time_ms": 1785915807317,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ti85",
+        "magnitude": 5.2,
+        "latitude": -49.5336,
+        "longitude": 164.0845,
+        "depth_km": 21.906,
+        "time_ms": 1785912264701,
+        "place": "Auckland Islands, New Zealand region",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thl3",
+        "magnitude": 5.6,
+        "latitude": -37.73,
+        "longitude": 178.3287,
+        "depth_km": 52.806,
+        "time_ms": 1785659727066,
+        "place": "14 km S of Hicks Bay, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tgud",
+        "magnitude": 5.6,
+        "latitude": -65.0783,
+        "longitude": -179.2592,
+        "depth_km": 10,
+        "time_ms": 1785362887559,
+        "place": "Pacific-Antarctic Ridge",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t34g",
+        "magnitude": 5.7,
+        "latitude": -38.969,
+        "longitude": 175.2483,
+        "depth_km": 10,
+        "time_ms": 1784911897251,
+        "place": "48 km W of Turangi, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t21e",
+        "magnitude": 5,
+        "latitude": -32.7727,
+        "longitude": -178.1207,
+        "depth_km": 10,
+        "time_ms": 1784580258945,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1jp",
+        "magnitude": 5.1,
+        "latitude": -32.7746,
+        "longitude": -178.1609,
+        "depth_km": 10,
+        "time_ms": 1784353607435,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1b0",
+        "magnitude": 5,
+        "latitude": -32.9019,
+        "longitude": -178.1627,
+        "depth_km": 10,
+        "time_ms": 1784294220140,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t0xb",
+        "magnitude": 5.9,
+        "latitude": -45.0319,
+        "longitude": 167.5447,
+        "depth_km": 73.615,
+        "time_ms": 1784193293985,
+        "place": "44 km NNW of Te Anau, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.98
+  },
+  {
+    "country": "",
     "iso_alpha2": "TO",
     "iso_alpha3": "",
     "capital": "",
@@ -2180,14 +2324,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 30,
-    "avg_magnitude": 5.2,
+    "earthquake_count": 29,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
       "depth_km": 10,
-      "latitude": -28.4982,
-      "longitude": -176.5171
+      "latitude": -28.4336,
+      "longitude": -176.6235
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2214,22 +2358,9 @@
             "exposure_contribution": 0.57,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000szuz",
-            "magnitude": 5,
-            "latitude": -22.6975,
-            "longitude": -174.7148,
-            "depth_km": 10,
-            "time_ms": 1783854583757,
-            "place": "152 km S of ‘Ohonua, Tonga",
-            "distance_km": 168.0,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 0.98
+        "exposure_score": 0.57
       },
       {
         "name": "Vava'u International Airport",
@@ -2237,18 +2368,18 @@
         "latitude": -18.5853,
         "longitude": -173.962006,
         "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 147.4,
+        "closest_quake_distance_km": 139.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tgje",
             "magnitude": 5.4,
-            "latitude": -17.8256,
-            "longitude": -172.8179,
+            "latitude": -17.8772,
+            "longitude": -172.8747,
             "depth_km": 10,
-            "time_ms": 1785286079660,
-            "place": "153 km NE of Neiafu, Tonga",
-            "distance_km": 147.4,
-            "exposure_contribution": 0.8,
+            "time_ms": 1785286079168,
+            "place": "145 km NE of Neiafu, Tonga",
+            "distance_km": 139.2,
+            "exposure_contribution": 0.87,
             "pga_g": null,
             "mmi": null
           },
@@ -2266,7 +2397,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.09
+        "exposure_score": 1.16
       }
     ],
     "earthquakes": [
@@ -2393,11 +2524,11 @@
       },
       {
         "id": "us6000tguj",
-        "magnitude": 5.2,
-        "latitude": -28.5591,
-        "longitude": -176.6372,
+        "magnitude": 5.1,
+        "latitude": -28.5381,
+        "longitude": -176.6553,
         "depth_km": 10,
-        "time_ms": 1785364945141,
+        "time_ms": 1785364945196,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
@@ -2405,10 +2536,10 @@
       {
         "id": "us6000tguf",
         "magnitude": 5.9,
-        "latitude": -28.4982,
-        "longitude": -176.5171,
+        "latitude": -28.4336,
+        "longitude": -176.6235,
         "depth_km": 10,
-        "time_ms": 1785364077690,
+        "time_ms": 1785364077292,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
@@ -2460,11 +2591,11 @@
       {
         "id": "us6000tgje",
         "magnitude": 5.4,
-        "latitude": -17.8256,
-        "longitude": -172.8179,
+        "latitude": -17.8772,
+        "longitude": -172.8747,
         "depth_km": 10,
-        "time_ms": 1785286079660,
-        "place": "153 km NE of Neiafu, Tonga",
+        "time_ms": 1785286079168,
+        "place": "145 km NE of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": true
       },
@@ -2588,186 +2719,9 @@
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000szuz",
-        "magnitude": 5,
-        "latitude": -22.6975,
-        "longitude": -174.7148,
-        "depth_km": 10,
-        "time_ms": 1783854583757,
-        "place": "152 km S of ‘Ohonua, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.07
-  },
-  {
-    "country": "",
-    "iso_alpha2": "NZ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.45,
-    "strongest_earthquake": {
-      "magnitude": 6.3,
-      "date": "2026-08-05",
-      "depth_km": 226.1,
-      "latitude": -33.8063,
-      "longitude": 179.4727
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 14,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Queenstown Airport",
-        "iata_code": "ZQN",
-        "latitude": -45.019205,
-        "longitude": 168.746379,
-        "municipality": "Queenstown",
-        "closest_quake_distance_km": 94.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t0xb",
-            "magnitude": 5.9,
-            "latitude": -45.0319,
-            "longitude": 167.5447,
-            "depth_km": 73.615,
-            "time_ms": 1784193293985,
-            "place": "44 km NNW of Te Anau, New Zealand",
-            "distance_km": 94.5,
-            "exposure_contribution": 1.98,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.98
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000ti8i",
-        "magnitude": 6.3,
-        "latitude": -33.8063,
-        "longitude": 179.4727,
-        "depth_km": 226.084,
-        "time_ms": 1785915807317,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000ti85",
-        "magnitude": 5.2,
-        "latitude": -49.5336,
-        "longitude": 164.0845,
-        "depth_km": 21.906,
-        "time_ms": 1785912264701,
-        "place": "Auckland Islands, New Zealand region",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thl3",
-        "magnitude": 5.6,
-        "latitude": -37.73,
-        "longitude": 178.3287,
-        "depth_km": 52.806,
-        "time_ms": 1785659727066,
-        "place": "14 km S of Hicks Bay, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgud",
-        "magnitude": 5.6,
-        "latitude": -65.0558,
-        "longitude": -179.1239,
-        "depth_km": 10,
-        "time_ms": 1785362887628,
-        "place": "Pacific-Antarctic Ridge",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t34g",
-        "magnitude": 5.7,
-        "latitude": -38.969,
-        "longitude": 175.2483,
-        "depth_km": 10,
-        "time_ms": 1784911897251,
-        "place": "48 km W of Turangi, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t21e",
-        "magnitude": 5,
-        "latitude": -32.7727,
-        "longitude": -178.1207,
-        "depth_km": 10,
-        "time_ms": 1784580258945,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1jp",
-        "magnitude": 5.2,
-        "latitude": -32.8189,
-        "longitude": -178.1149,
-        "depth_km": 10,
-        "time_ms": 1784353607673,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1b0",
-        "magnitude": 5,
-        "latitude": -32.9019,
-        "longitude": -178.1627,
-        "depth_km": 10,
-        "time_ms": 1784294220140,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0xb",
-        "magnitude": 5.9,
-        "latitude": -45.0319,
-        "longitude": 167.5447,
-        "depth_km": 73.615,
-        "time_ms": 1784193293985,
-        "place": "44 km NNW of Te Anau, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0x8",
-        "magnitude": 5,
-        "latitude": -37.3276,
-        "longitude": 179.8608,
-        "depth_km": 10,
-        "time_ms": 1784192278825,
-        "place": "141 km ENE of Hicks Bay, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.98
+    "seismic_hub_risk_score": 1.73
   },
   {
     "country": "",
@@ -2783,7 +2737,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 6,
-    "avg_magnitude": 5.3,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-08-08",
@@ -2847,6 +2801,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tjer",
+        "magnitude": 5.2,
+        "latitude": -41.3258,
+        "longitude": -90.5965,
+        "depth_km": 10,
+        "time_ms": 1786196970300,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tj8t",
         "magnitude": 5.6,
         "latitude": -41.4826,
@@ -2900,17 +2865,6 @@
         "place": "52 km NNW of Valparaíso, Chile",
         "country_code": "CL",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000szu6",
-        "magnitude": 5.6,
-        "latitude": -54.6193,
-        "longitude": -118.8883,
-        "depth_km": 10,
-        "time_ms": 1783841363739,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.07
@@ -2938,7 +2892,7 @@
       "longitude": -92.8969
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 287,
+    "max_felt_reports": 288,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -3105,11 +3059,11 @@
       {
         "id": "us7000t1jy",
         "magnitude": 5.3,
-        "latitude": 14.3804,
-        "longitude": -93.1511,
+        "latitude": 14.3758,
+        "longitude": -93.2114,
         "depth_km": 35,
-        "time_ms": 1784357510543,
-        "place": "87 km WSW of Puerto Madero, Mexico",
+        "time_ms": 1784357510393,
+        "place": "93 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
@@ -3503,11 +3457,11 @@
       {
         "id": "us7000t2n5",
         "magnitude": 5.1,
-        "latitude": 51.604,
-        "longitude": -173.2484,
+        "latitude": 51.5596,
+        "longitude": -173.2162,
         "depth_km": 35,
-        "time_ms": 1784799018969,
-        "place": "92 km SE of Atka, Alaska",
+        "time_ms": 1784799018531,
+        "place": "98 km SE of Atka, Alaska",
         "country_code": "US",
         "shakemap_available": true
       },
