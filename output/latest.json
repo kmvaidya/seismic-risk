@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.46,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -22,7 +22,7 @@
       "longitude": 130.7217
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 91,
+    "max_felt_reports": 92,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -80,18 +80,18 @@
         "latitude": 33.585899,
         "longitude": 130.451004,
         "municipality": "Fukuoka",
-        "closest_quake_distance_km": 101.4,
+        "closest_quake_distance_km": 99.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
             "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 101.4,
-            "exposure_contribution": 0.9,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 99.3,
+            "exposure_contribution": 0.92,
             "pga_g": null,
             "mmi": null
           },
@@ -135,7 +135,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.13
+        "exposure_score": 5.16
       },
       {
         "name": "Kagoshima Airport",
@@ -187,13 +187,13 @@
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
             "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 98.6,
-            "exposure_contribution": 0.93,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 100.8,
+            "exposure_contribution": 0.9,
             "pga_g": null,
             "mmi": null
           },
@@ -224,7 +224,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 13.56
+        "exposure_score": 13.53
       },
       {
         "name": "Miyazaki Airport",
@@ -289,13 +289,13 @@
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
             "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 117.8,
-            "exposure_contribution": 0.72,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 119.8,
+            "exposure_contribution": 0.7,
             "pga_g": null,
             "mmi": null
           },
@@ -313,7 +313,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 11.11
+        "exposure_score": 11.09
       },
       {
         "name": "Kitakyushu Airport",
@@ -321,8 +321,21 @@
         "latitude": 33.845901,
         "longitude": 131.035004,
         "municipality": "Kitakyushu",
-        "closest_quake_distance_km": 132.7,
+        "closest_quake_distance_km": 132.0,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tgy8",
+            "magnitude": 5,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
+            "depth_km": 10,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 132.0,
+            "exposure_contribution": 0.6,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
@@ -335,19 +348,6 @@
             "exposure_contribution": 2.64,
             "pga_g": 0.026385,
             "mmi": 3.8
-          },
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
-            "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 133.9,
-            "exposure_contribution": 0.59,
-            "pga_g": null,
-            "mmi": null
           },
           {
             "earthquake_id": "us6000tgbm",
@@ -376,7 +376,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.54
+        "exposure_score": 4.55
       },
       {
         "name": "Kyushu Saga International Airport",
@@ -384,18 +384,18 @@
         "latitude": 33.1497,
         "longitude": 130.302002,
         "municipality": "Saga",
-        "closest_quake_distance_km": 60.4,
+        "closest_quake_distance_km": 58.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
             "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 60.4,
-            "exposure_contribution": 1.85,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 58.3,
+            "exposure_contribution": 1.94,
             "pga_g": null,
             "mmi": null
           },
@@ -439,7 +439,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 11.88
+        "exposure_score": 11.97
       },
       {
         "name": "Kumamoto Airport",
@@ -465,13 +465,13 @@
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
             "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 25.9,
-            "exposure_contribution": 5.16,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 25.1,
+            "exposure_contribution": 5.34,
             "pga_g": null,
             "mmi": null
           },
@@ -515,7 +515,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 45.26
+        "exposure_score": 45.44
       },
       {
         "name": "Nagasaki Airport",
@@ -523,18 +523,18 @@
         "latitude": 32.916901,
         "longitude": 129.914001,
         "municipality": "Nagasaki",
-        "closest_quake_distance_km": 72.7,
+        "closest_quake_distance_km": 71.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
-            "latitude": 32.6877,
-            "longitude": 130.642,
+            "latitude": 32.7068,
+            "longitude": 130.6356,
             "depth_km": 10,
-            "time_ms": 1785419258996,
-            "place": "2 km WNW of Uto, Japan",
-            "distance_km": 72.7,
-            "exposure_contribution": 1.44,
+            "time_ms": 1785419259044,
+            "place": "3 km NW of Uto, Japan",
+            "distance_km": 71.4,
+            "exposure_contribution": 1.48,
             "pga_g": null,
             "mmi": null
           },
@@ -578,7 +578,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 9.85
+        "exposure_score": 9.89
       },
       {
         "name": "Aomori Airport",
@@ -613,22 +613,9 @@
             "exposure_contribution": 0.93,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t09z",
-            "magnitude": 5,
-            "latitude": 40.1915,
-            "longitude": 142.4027,
-            "depth_km": 56.541,
-            "time_ms": 1784016451196,
-            "place": "50 km E of Noda, Japan",
-            "distance_km": 157.0,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 2.24
+        "exposure_score": 1.83
       }
     ],
     "earthquakes": [
@@ -679,11 +666,11 @@
       {
         "id": "us6000tgy8",
         "magnitude": 5,
-        "latitude": 32.6877,
-        "longitude": 130.642,
+        "latitude": 32.7068,
+        "longitude": 130.6356,
         "depth_km": 10,
-        "time_ms": 1785419258996,
-        "place": "2 km WNW of Uto, Japan",
+        "time_ms": 1785419259044,
+        "place": "3 km NW of Uto, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -741,31 +728,9 @@
         "place": "48 km E of Nishinoomote, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t09z",
-        "magnitude": 5,
-        "latitude": 40.1915,
-        "longitude": 142.4027,
-        "depth_km": 56.541,
-        "time_ms": 1784016451196,
-        "place": "50 km E of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t09u",
-        "magnitude": 5.1,
-        "latitude": 40.0652,
-        "longitude": 143.4072,
-        "depth_km": 11.484,
-        "time_ms": 1784015048723,
-        "place": "133 km ENE of Miyako, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 105.32
+    "seismic_hub_risk_score": 105.21
   },
   {
     "country": "",
@@ -781,7 +746,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 16,
-    "avg_magnitude": 5.33,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
@@ -790,9 +755,9 @@
       "longitude": 125.276
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 85,
+    "max_felt_reports": 66,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
@@ -824,21 +789,8 @@
         "latitude": 13.111915,
         "longitude": 123.676829,
         "municipality": "Legazpi",
-        "closest_quake_distance_km": 68.3,
+        "closest_quake_distance_km": 107.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t09m",
-            "magnitude": 5.2,
-            "latitude": 12.7967,
-            "longitude": 123.136,
-            "depth_km": 10,
-            "time_ms": 1784012694275,
-            "place": "14 km WSW of Mabiton, Philippines",
-            "distance_km": 68.3,
-            "exposure_contribution": 1.98,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tgpr",
             "magnitude": 5.4,
@@ -853,7 +805,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.29
+        "exposure_score": 1.31
       },
       {
         "name": "Ninoy Aquino International Airport",
@@ -885,8 +837,21 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 129.3,
+        "closest_quake_distance_km": 100.9,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tkfh",
+            "magnitude": 5.1,
+            "latitude": 6.2479,
+            "longitude": 125.8789,
+            "depth_km": 91.206,
+            "time_ms": 1786612978999,
+            "place": "22 km ENE of Lapuan, Philippines",
+            "distance_km": 100.9,
+            "exposure_contribution": 0.64,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us6000tg94",
             "magnitude": 5.3,
@@ -927,19 +892,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000t0bm",
-            "magnitude": 5.2,
-            "latitude": 5.6727,
-            "longitude": 125.3976,
-            "depth_km": 11.297,
-            "time_ms": 1784034906042,
-            "place": "6 km NW of Nuing, Philippines",
-            "distance_km": 163.9,
-            "exposure_contribution": 0.53,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmy",
             "magnitude": 5,
             "latitude": 5.6147,
@@ -951,9 +903,22 @@
             "exposure_contribution": 0.36,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t2fj",
+            "magnitude": 5,
+            "latitude": 5.6126,
+            "longitude": 125.3679,
+            "depth_km": 64.111,
+            "time_ms": 1784713639801,
+            "place": "4 km NNE of Balangonan, Philippines",
+            "distance_km": 171.0,
+            "exposure_contribution": 0.35,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 2.57
+        "exposure_score": 3.03
       },
       {
         "name": "General Santos International Airport",
@@ -990,15 +955,15 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000t0bm",
-            "magnitude": 5.2,
-            "latitude": 5.6727,
-            "longitude": 125.3976,
-            "depth_km": 11.297,
-            "time_ms": 1784034906042,
-            "place": "6 km NW of Nuing, Philippines",
-            "distance_km": 54.2,
-            "exposure_contribution": 2.67,
+            "earthquake_id": "us7000t2fj",
+            "magnitude": 5,
+            "latitude": 5.6126,
+            "longitude": 125.3679,
+            "depth_km": 64.111,
+            "time_ms": 1784713639801,
+            "place": "4 km NNE of Balangonan, Philippines",
+            "distance_km": 57.9,
+            "exposure_contribution": 1.14,
             "pga_g": null,
             "mmi": null
           },
@@ -1029,17 +994,30 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000t0d0",
-            "magnitude": 6.2,
-            "latitude": 5.3206,
-            "longitude": 125.181,
-            "depth_km": 47.171,
-            "time_ms": 1784044179287,
-            "place": "32 km WSW of Sarangani, Philippines",
-            "distance_km": 82.4,
-            "exposure_contribution": 5.75,
-            "pga_g": 0.057471,
-            "mmi": 4.9
+            "earthquake_id": "us6000tkfh",
+            "magnitude": 5.1,
+            "latitude": 6.2479,
+            "longitude": 125.8789,
+            "depth_km": 91.206,
+            "time_ms": 1786612978999,
+            "place": "22 km ENE of Lapuan, Philippines",
+            "distance_km": 89.1,
+            "exposure_contribution": 0.71,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tkig",
+            "magnitude": 5.3,
+            "latitude": 5.3002,
+            "longitude": 125.4836,
+            "depth_km": 66.312,
+            "time_ms": 1786646371327,
+            "place": "11 km S of Sarangani, Philippines",
+            "distance_km": 94.5,
+            "exposure_contribution": 1.05,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000ti6x",
@@ -1107,34 +1085,32 @@
             "mmi": null
           }
         ],
-        "exposure_score": 22.65
-      },
-      {
-        "name": "Kalibo International Airport",
-        "iata_code": "KLO",
-        "latitude": 11.6794,
-        "longitude": 122.375999,
-        "municipality": "Kalibo",
-        "closest_quake_distance_km": 149.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t09m",
-            "magnitude": 5.2,
-            "latitude": 12.7967,
-            "longitude": 123.136,
-            "depth_km": 10,
-            "time_ms": 1784012694275,
-            "place": "14 km WSW of Mabiton, Philippines",
-            "distance_km": 149.2,
-            "exposure_contribution": 0.62,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.62
+        "exposure_score": 17.13
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tkig",
+        "magnitude": 5.3,
+        "latitude": 5.3002,
+        "longitude": 125.4836,
+        "depth_km": 66.312,
+        "time_ms": 1786646371327,
+        "place": "11 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkfh",
+        "magnitude": 5.1,
+        "latitude": 6.2479,
+        "longitude": 125.8789,
+        "depth_km": 91.206,
+        "time_ms": 1786612978999,
+        "place": "22 km ENE of Lapuan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tivb",
         "magnitude": 5,
@@ -1246,6 +1222,17 @@
         "shakemap_available": false
       },
       {
+        "id": "us7000t2fj",
+        "magnitude": 5,
+        "latitude": 5.6126,
+        "longitude": 125.3679,
+        "depth_km": 64.111,
+        "time_ms": 1784713639801,
+        "place": "4 km NNE of Balangonan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000t2a7",
         "magnitude": 5.1,
         "latitude": 5.7108,
@@ -1277,42 +1264,9 @@
         "place": "6 km E of Pangyan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t0d0",
-        "magnitude": 6.2,
-        "latitude": 5.3206,
-        "longitude": 125.181,
-        "depth_km": 47.171,
-        "time_ms": 1784044179287,
-        "place": "32 km WSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0bm",
-        "magnitude": 5.2,
-        "latitude": 5.6727,
-        "longitude": 125.3976,
-        "depth_km": 11.297,
-        "time_ms": 1784034906042,
-        "place": "6 km NW of Nuing, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t09m",
-        "magnitude": 5.2,
-        "latitude": 12.7967,
-        "longitude": 123.136,
-        "depth_km": 10,
-        "time_ms": 1784012694275,
-        "place": "14 km WSW of Mabiton, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 29.91
+    "seismic_hub_risk_score": 22.25
   },
   {
     "country": "",
@@ -1670,8 +1624,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.42,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-07-31",
@@ -1746,30 +1700,6 @@
         "exposure_score": 0.42
       },
       {
-        "name": "Inca Manco Capac International Airport",
-        "iata_code": "JUL",
-        "latitude": -15.467689,
-        "longitude": -70.15653,
-        "municipality": "Juliaca",
-        "closest_quake_distance_km": 172.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t0a3",
-            "magnitude": 5.6,
-            "latitude": -14.516,
-            "longitude": -71.4191,
-            "depth_km": 110.662,
-            "time_ms": 1784017263668,
-            "place": "5 km SSW of Checca, Peru",
-            "distance_km": 172.0,
-            "exposure_contribution": 0.57,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.57
-      },
-      {
         "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
         "iata_code": "TRU",
         "latitude": -8.082382,
@@ -1792,30 +1722,6 @@
           }
         ],
         "exposure_score": 0.43
-      },
-      {
-        "name": "Alejandro Velasco Astete International Airport",
-        "iata_code": "CUZ",
-        "latitude": -13.5357,
-        "longitude": -71.938797,
-        "municipality": "Cusco",
-        "closest_quake_distance_km": 122.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t0a3",
-            "magnitude": 5.6,
-            "latitude": -14.516,
-            "longitude": -71.4191,
-            "depth_km": 110.662,
-            "time_ms": 1784017263668,
-            "place": "5 km SSW of Checca, Peru",
-            "distance_km": 122.6,
-            "exposure_contribution": 0.83,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.83
       }
     ],
     "earthquakes": [
@@ -1873,20 +1779,9 @@
         "place": "5 km S of Chambara, Peru",
         "country_code": "PE",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t0a3",
-        "magnitude": 5.6,
-        "latitude": -14.516,
-        "longitude": -71.4191,
-        "depth_km": 110.662,
-        "time_ms": 1784017263668,
-        "place": "5 km SSW of Checca, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.62
+    "seismic_hub_risk_score": 2.22
   },
   {
     "country": "",
@@ -2328,6 +2223,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tkhm",
+        "magnitude": 5.6,
+        "latitude": -28.6742,
+        "longitude": -176.3124,
+        "depth_km": 10,
+        "time_ms": 1786637505826,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000tj69",
         "magnitude": 5,
         "latitude": -28.4766,
@@ -2506,10 +2412,10 @@
       {
         "id": "us6000tgk8",
         "magnitude": 5.1,
-        "latitude": -28.6804,
-        "longitude": -176.7131,
+        "latitude": -28.489,
+        "longitude": -176.8402,
         "depth_km": 35,
-        "time_ms": 1785295850783,
+        "time_ms": 1785295850508,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
@@ -2583,10 +2489,10 @@
       {
         "id": "us7000t3km",
         "magnitude": 5.1,
-        "latitude": -24.5442,
-        "longitude": -175.1465,
+        "latitude": -24.5032,
+        "longitude": -175.1262,
         "depth_km": 10,
-        "time_ms": 1785117254139,
+        "time_ms": 1785117254251,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2616,10 +2522,10 @@
       {
         "id": "us7000t25y",
         "magnitude": 5.6,
-        "latitude": -29.5116,
-        "longitude": -176.9951,
-        "depth_km": 10,
-        "time_ms": 1784636073338,
+        "latitude": -29.2885,
+        "longitude": -176.9584,
+        "depth_km": 19.704,
+        "time_ms": 1784636075347,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
@@ -2632,17 +2538,6 @@
         "depth_km": 340,
         "time_ms": 1784156230824,
         "place": "south of the Fiji Islands",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0hk",
-        "magnitude": 5.5,
-        "latitude": -20.751,
-        "longitude": -178.5845,
-        "depth_km": 575.883,
-        "time_ms": 1784069412253,
-        "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
       }
@@ -2663,13 +2558,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 6,
-    "avg_magnitude": 5.23,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
-      "magnitude": 5.6,
+      "magnitude": 5.5,
       "date": "2026-08-08",
       "depth_km": 10,
-      "latitude": -41.4826,
-      "longitude": -90.0796
+      "latitude": -41.4078,
+      "longitude": -90.0948
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2739,11 +2634,11 @@
       },
       {
         "id": "us6000tj8t",
-        "magnitude": 5.6,
-        "latitude": -41.4826,
-        "longitude": -90.0796,
+        "magnitude": 5.5,
+        "latitude": -41.4078,
+        "longitude": -90.0948,
         "depth_km": 10,
-        "time_ms": 1786189287702,
+        "time_ms": 1786189287790,
         "place": "southeast of Easter Island",
         "country_code": "CL",
         "shakemap_available": true
@@ -2808,8 +2703,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-26",
@@ -2959,28 +2854,6 @@
         "place": "122 km SE of McCarthy, Alaska",
         "country_code": "US",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t0fu",
-        "magnitude": 5.4,
-        "latitude": 54.1633,
-        "longitude": -162.5848,
-        "depth_km": 49.495,
-        "time_ms": 1784055067459,
-        "place": "93 km SE of False Pass, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0b5",
-        "magnitude": 5.2,
-        "latitude": 54.0505,
-        "longitude": -162.5269,
-        "depth_km": 33.702,
-        "time_ms": 1784031138682,
-        "place": "106 km SSE of False Pass, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.06
@@ -2998,8 +2871,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 29,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.3,
       "date": "2026-07-17",
@@ -3369,17 +3242,6 @@
         "place": "52 km W of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t07s",
-        "magnitude": 5,
-        "latitude": 14.5654,
-        "longitude": -92.5734,
-        "depth_km": 79.529,
-        "time_ms": 1783991998642,
-        "place": "23 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.87
@@ -3472,5 +3334,127 @@
       }
     ],
     "seismic_hub_risk_score": 0.75
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.28,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-28",
+      "depth_km": 10,
+      "latitude": 35.429,
+      "longitude": 99.5557
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 1,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 2,
+    "exposed_airports": [
+      {
+        "name": "Xishuangbanna Gasa International Airport",
+        "iata_code": "JHG",
+        "latitude": 21.974648,
+        "longitude": 100.762224,
+        "municipality": "Jinghong (Gasa)",
+        "closest_quake_distance_km": 147.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t25s",
+            "magnitude": 5,
+            "latitude": 23.1468,
+            "longitude": 101.4361,
+            "depth_km": 10,
+            "time_ms": 1784634187526,
+            "place": "61 km NE of Simao, China",
+            "distance_km": 147.6,
+            "exposure_contribution": 0.5,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.5
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tivz",
+        "magnitude": 5.1,
+        "latitude": 28.505,
+        "longitude": 104.7523,
+        "depth_km": 10,
+        "time_ms": 1786079310903,
+        "place": "6 km NNE of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ti9w",
+        "magnitude": 5,
+        "latitude": 29.0027,
+        "longitude": 94.681,
+        "depth_km": 10,
+        "time_ms": 1785924369955,
+        "place": "60 km NNE of Shi Yomi, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tgbk",
+        "magnitude": 5.1,
+        "latitude": 35.4249,
+        "longitude": 99.493,
+        "depth_km": 10,
+        "time_ms": 1785225850636,
+        "place": "198 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tga9",
+        "magnitude": 5.8,
+        "latitude": 35.429,
+        "longitude": 99.5557,
+        "depth_km": 10,
+        "time_ms": 1785209645627,
+        "place": "194 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tga6",
+        "magnitude": 5.7,
+        "latitude": 35.4217,
+        "longitude": 99.4752,
+        "depth_km": 10,
+        "time_ms": 1785208568865,
+        "place": "199 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t25s",
+        "magnitude": 5,
+        "latitude": 23.1468,
+        "longitude": 101.4361,
+        "depth_km": 10,
+        "time_ms": 1784634187526,
+        "place": "61 km NE of Simao, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.5
   }
 ]
