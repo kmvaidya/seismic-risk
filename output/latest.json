@@ -13,7 +13,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 10,
-    "avg_magnitude": 5.46,
+    "avg_magnitude": 5.47,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -199,14 +199,14 @@
           },
           {
             "earthquake_id": "us6000thhk",
-            "magnitude": 5.2,
-            "latitude": 32.0078,
-            "longitude": 131.9999,
-            "depth_km": 26.229,
-            "time_ms": 1785611452622,
-            "place": "48 km ESE of Tsunō, Japan",
-            "distance_km": 123.0,
-            "exposure_contribution": 0.82,
+            "magnitude": 5.3,
+            "latitude": 32.0214,
+            "longitude": 131.9561,
+            "depth_km": 35,
+            "time_ms": 1785611453802,
+            "place": "44 km SE of Tsunō, Japan",
+            "distance_km": 119.3,
+            "exposure_contribution": 0.93,
             "pga_g": null,
             "mmi": null
           },
@@ -224,7 +224,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 13.53
+        "exposure_score": 13.65
       },
       {
         "name": "Miyazaki Airport",
@@ -232,18 +232,18 @@
         "latitude": 31.877199,
         "longitude": 131.449005,
         "municipality": "Miyazaki",
-        "closest_quake_distance_km": 54.0,
+        "closest_quake_distance_km": 50.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000thhk",
-            "magnitude": 5.2,
-            "latitude": 32.0078,
-            "longitude": 131.9999,
-            "depth_km": 26.229,
-            "time_ms": 1785611452622,
-            "place": "48 km ESE of Tsunō, Japan",
-            "distance_km": 54.0,
-            "exposure_contribution": 2.4,
+            "magnitude": 5.3,
+            "latitude": 32.0214,
+            "longitude": 131.9561,
+            "depth_km": 35,
+            "time_ms": 1785611453802,
+            "place": "44 km SE of Tsunō, Japan",
+            "distance_km": 50.5,
+            "exposure_contribution": 2.6,
             "pga_g": null,
             "mmi": null
           },
@@ -313,7 +313,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 11.09
+        "exposure_score": 11.3
       },
       {
         "name": "Kitakyushu Airport",
@@ -437,9 +437,22 @@
             "exposure_contribution": 2.05,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000thhk",
+            "magnitude": 5.3,
+            "latitude": 32.0214,
+            "longitude": 131.9561,
+            "depth_km": 35,
+            "time_ms": 1785611453802,
+            "place": "44 km SE of Tsunō, Japan",
+            "distance_km": 199.4,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 11.97
+        "exposure_score": 12.39
       },
       {
         "name": "Kumamoto Airport",
@@ -503,19 +516,19 @@
           },
           {
             "earthquake_id": "us6000thhk",
-            "magnitude": 5.2,
-            "latitude": 32.0078,
-            "longitude": 131.9999,
-            "depth_km": 26.229,
-            "time_ms": 1785611452622,
-            "place": "48 km ESE of Tsunō, Japan",
-            "distance_km": 141.6,
-            "exposure_contribution": 0.66,
+            "magnitude": 5.3,
+            "latitude": 32.0214,
+            "longitude": 131.9561,
+            "depth_km": 35,
+            "time_ms": 1785611453802,
+            "place": "44 km SE of Tsunō, Japan",
+            "distance_km": 137.5,
+            "exposure_contribution": 0.76,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 45.44
+        "exposure_score": 45.54
       },
       {
         "name": "Nagasaki Airport",
@@ -643,12 +656,12 @@
       },
       {
         "id": "us6000thhk",
-        "magnitude": 5.2,
-        "latitude": 32.0078,
-        "longitude": 131.9999,
-        "depth_km": 26.229,
-        "time_ms": 1785611452622,
-        "place": "48 km ESE of Tsunō, Japan",
+        "magnitude": 5.3,
+        "latitude": 32.0214,
+        "longitude": 131.9561,
+        "depth_km": 35,
+        "time_ms": 1785611453802,
+        "place": "44 km SE of Tsunō, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -730,7 +743,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 105.21
+    "seismic_hub_risk_score": 106.06
   },
   {
     "country": "",
@@ -1281,19 +1294,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 25,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-08-04",
-      "depth_km": 35,
-      "latitude": 1.5066,
-      "longitude": 126.4856
+      "magnitude": 7.7,
+      "date": "2026-08-14",
+      "depth_km": 10,
+      "latitude": -8.3101,
+      "longitude": 121.3517
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "orange",
+    "max_felt_reports": 34,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Dortheys Hiyo Eluay International Airport",
@@ -1421,6 +1434,94 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tkv9",
+        "magnitude": 5,
+        "latitude": -8.3348,
+        "longitude": 121.359,
+        "depth_km": 10,
+        "time_ms": 1786749425284,
+        "place": "65 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkv7",
+        "magnitude": 5.1,
+        "latitude": -8.1694,
+        "longitude": 120.4166,
+        "depth_km": 10,
+        "time_ms": 1786749151091,
+        "place": "49 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkuw",
+        "magnitude": 5.3,
+        "latitude": -8.2053,
+        "longitude": 120.2253,
+        "depth_km": 10,
+        "time_ms": 1786747991834,
+        "place": "49 km NE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkuf",
+        "magnitude": 5.5,
+        "latitude": -8.1604,
+        "longitude": 120.1908,
+        "depth_km": 10,
+        "time_ms": 1786747037172,
+        "place": "49 km NE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkuc",
+        "magnitude": 6.1,
+        "latitude": -8.3186,
+        "longitude": 121.5717,
+        "depth_km": 10,
+        "time_ms": 1786746517550,
+        "place": "58 km N of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tku7",
+        "magnitude": 5.6,
+        "latitude": -8.3406,
+        "longitude": 121.4284,
+        "depth_km": 10,
+        "time_ms": 1786745886706,
+        "place": "61 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkta",
+        "magnitude": 5.9,
+        "latitude": -8.2849,
+        "longitude": 120.1465,
+        "depth_km": 10,
+        "time_ms": 1786745630869,
+        "place": "36 km NE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkt2",
+        "magnitude": 7.7,
+        "latitude": -8.3101,
+        "longitude": 121.3517,
+        "depth_km": 10,
+        "time_ms": 1786744701564,
+        "place": "68 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tk1y",
         "magnitude": 5.1,
@@ -1785,200 +1886,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.19,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-07-28",
-      "depth_km": 10,
-      "latitude": 55.9941,
-      "longitude": 164.8901
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 80.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000th3m",
-            "magnitude": 5.1,
-            "latitude": 53.0742,
-            "longitude": 159.6405,
-            "depth_km": 63.921,
-            "time_ms": 1785448406269,
-            "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 80.1,
-            "exposure_contribution": 1.0,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t34c",
-            "magnitude": 5.1,
-            "latitude": 51.7241,
-            "longitude": 158.0173,
-            "depth_km": 81.515,
-            "time_ms": 1784910801082,
-            "place": "108 km ENE of Ozernovskiy, Russia",
-            "distance_km": 163.3,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t0k4",
-            "magnitude": 5,
-            "latitude": 51.5607,
-            "longitude": 159.652,
-            "depth_km": 10,
-            "time_ms": 1784083725159,
-            "place": "174 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 196.5,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t1py",
-            "magnitude": 5.3,
-            "latitude": 51.5286,
-            "longitude": 159.5717,
-            "depth_km": 10,
-            "time_ms": 1784421580720,
-            "place": "175 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 197.6,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.13
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tixr",
-        "magnitude": 5,
-        "latitude": 50.4235,
-        "longitude": 156.7027,
-        "depth_km": 83.854,
-        "time_ms": 1786112490314,
-        "place": "49 km SE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thj5",
-        "magnitude": 5.2,
-        "latitude": 49.8672,
-        "longitude": 155.1713,
-        "depth_km": 80.691,
-        "time_ms": 1785629618325,
-        "place": "112 km SW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thhr",
-        "magnitude": 5.2,
-        "latitude": 49.3239,
-        "longitude": 155.327,
-        "depth_km": 49.724,
-        "time_ms": 1785614566638,
-        "place": "160 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th3m",
-        "magnitude": 5.1,
-        "latitude": 53.0742,
-        "longitude": 159.6405,
-        "depth_km": 63.921,
-        "time_ms": 1785448406269,
-        "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgae",
-        "magnitude": 5.8,
-        "latitude": 55.9941,
-        "longitude": 164.8901,
-        "depth_km": 10,
-        "time_ms": 1785213738454,
-        "place": "152 km E of Ust’-Kamchatsk Staryy, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t34c",
-        "magnitude": 5.1,
-        "latitude": 51.7241,
-        "longitude": 158.0173,
-        "depth_km": 81.515,
-        "time_ms": 1784910801082,
-        "place": "108 km ENE of Ozernovskiy, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1py",
-        "magnitude": 5.3,
-        "latitude": 51.5286,
-        "longitude": 159.5717,
-        "depth_km": 10,
-        "time_ms": 1784421580720,
-        "place": "175 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0k4",
-        "magnitude": 5,
-        "latitude": 51.5607,
-        "longitude": 159.652,
-        "depth_km": 10,
-        "time_ms": 1784083725159,
-        "place": "174 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0k1",
-        "magnitude": 5,
-        "latitude": 51.4148,
-        "longitude": 159.5418,
-        "depth_km": 10,
-        "time_ms": 1784083338016,
-        "place": "185 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.13
-  },
-  {
-    "country": "",
     "iso_alpha2": "NZ",
     "iso_alpha3": "",
     "capital": "",
@@ -2134,6 +2041,165 @@
   },
   {
     "country": "",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 7,
+    "avg_magnitude": 5.24,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-28",
+      "depth_km": 10,
+      "latitude": 55.9941,
+      "longitude": 164.8901
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 80.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000th3m",
+            "magnitude": 5.1,
+            "latitude": 53.0742,
+            "longitude": 159.6405,
+            "depth_km": 63.921,
+            "time_ms": 1785448406269,
+            "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 80.1,
+            "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t34c",
+            "magnitude": 5.1,
+            "latitude": 51.7241,
+            "longitude": 158.0173,
+            "depth_km": 81.515,
+            "time_ms": 1784910801082,
+            "place": "108 km ENE of Ozernovskiy, Russia",
+            "distance_km": 163.3,
+            "exposure_contribution": 0.39,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000t1py",
+            "magnitude": 5.3,
+            "latitude": 51.5286,
+            "longitude": 159.5717,
+            "depth_km": 10,
+            "time_ms": 1784421580720,
+            "place": "175 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 197.6,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.82
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tixr",
+        "magnitude": 5,
+        "latitude": 50.4235,
+        "longitude": 156.7027,
+        "depth_km": 83.854,
+        "time_ms": 1786112490314,
+        "place": "49 km SE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thj5",
+        "magnitude": 5.2,
+        "latitude": 49.8672,
+        "longitude": 155.1713,
+        "depth_km": 80.691,
+        "time_ms": 1785629618325,
+        "place": "112 km SW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thhr",
+        "magnitude": 5.2,
+        "latitude": 49.3239,
+        "longitude": 155.327,
+        "depth_km": 49.724,
+        "time_ms": 1785614566638,
+        "place": "160 km SSW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th3m",
+        "magnitude": 5.1,
+        "latitude": 53.0742,
+        "longitude": 159.6405,
+        "depth_km": 63.921,
+        "time_ms": 1785448406269,
+        "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tgae",
+        "magnitude": 5.8,
+        "latitude": 55.9941,
+        "longitude": 164.8901,
+        "depth_km": 10,
+        "time_ms": 1785213738454,
+        "place": "152 km E of Ust’-Kamchatsk Staryy, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t34c",
+        "magnitude": 5.1,
+        "latitude": 51.7241,
+        "longitude": 158.0173,
+        "depth_km": 81.515,
+        "time_ms": 1784910801082,
+        "place": "108 km ENE of Ozernovskiy, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1py",
+        "magnitude": 5.3,
+        "latitude": 51.5286,
+        "longitude": 159.5717,
+        "depth_km": 10,
+        "time_ms": 1784421580720,
+        "place": "175 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.82
+  },
+  {
+    "country": "",
     "iso_alpha2": "TO",
     "iso_alpha3": "",
     "capital": "",
@@ -2145,8 +2211,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 29,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2400,11 +2466,11 @@
       },
       {
         "id": "us6000tgkd",
-        "magnitude": 5,
-        "latitude": -24.6364,
-        "longitude": -174.924,
+        "magnitude": 5.1,
+        "latitude": -24.7151,
+        "longitude": -175.1021,
         "depth_km": 10,
-        "time_ms": 1785297142131,
+        "time_ms": 1785297141901,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2529,166 +2595,9 @@
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t0u6",
-        "magnitude": 5.8,
-        "latitude": -26.2983,
-        "longitude": -178.7165,
-        "depth_km": 340,
-        "time_ms": 1784156230824,
-        "place": "south of the Fiji Islands",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.73
-  },
-  {
-    "country": "",
-    "iso_alpha2": "CL",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.22,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-08-08",
-      "depth_km": 10,
-      "latitude": -41.4078,
-      "longitude": -90.0948
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Comodoro Arturo Merino Benítez International Airport",
-        "iata_code": "SCL",
-        "latitude": -33.393002,
-        "longitude": -70.785797,
-        "municipality": "Santiago",
-        "closest_quake_distance_km": 132.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t0it",
-            "magnitude": 5.1,
-            "latitude": -32.6045,
-            "longitude": -71.8512,
-            "depth_km": 23.716,
-            "time_ms": 1784077760496,
-            "place": "52 km NNW of Valparaíso, Chile",
-            "distance_km": 132.5,
-            "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.65
-      },
-      {
-        "name": "Andrés Sabella Gálvez International Airport",
-        "iata_code": "ANF",
-        "latitude": -23.445274,
-        "longitude": -70.445232,
-        "municipality": "Antofagasta",
-        "closest_quake_distance_km": 185.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t3m7",
-            "magnitude": 5.4,
-            "latitude": -23.5454,
-            "longitude": -68.633,
-            "depth_km": 106.991,
-            "time_ms": 1785142663758,
-            "place": "82 km SSW of San Pedro de Atacama, Chile",
-            "distance_km": 185.1,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.42
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tjer",
-        "magnitude": 5.2,
-        "latitude": -41.3258,
-        "longitude": -90.5965,
-        "depth_km": 10,
-        "time_ms": 1786196970300,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tj8t",
-        "magnitude": 5.5,
-        "latitude": -41.4078,
-        "longitude": -90.0948,
-        "depth_km": 10,
-        "time_ms": 1786189287790,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tjel",
-        "magnitude": 5.1,
-        "latitude": -13.7382,
-        "longitude": -112.2713,
-        "depth_km": 10,
-        "time_ms": 1786144747914,
-        "place": "central East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th96",
-        "magnitude": 5,
-        "latitude": -29.867,
-        "longitude": -72.1202,
-        "depth_km": 11.851,
-        "time_ms": 1785520025666,
-        "place": "76 km W of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3m7",
-        "magnitude": 5.4,
-        "latitude": -23.5454,
-        "longitude": -68.633,
-        "depth_km": 106.991,
-        "time_ms": 1785142663758,
-        "place": "82 km SSW of San Pedro de Atacama, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t0it",
-        "magnitude": 5.1,
-        "latitude": -32.6045,
-        "longitude": -71.8512,
-        "depth_km": 23.716,
-        "time_ms": 1784077760496,
-        "place": "52 km NNW of Valparaíso, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.07
   },
   {
     "country": "",
@@ -3456,5 +3365,116 @@
       }
     ],
     "seismic_hub_risk_score": 0.5
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CL",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.24,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-08-08",
+      "depth_km": 10,
+      "latitude": -41.4078,
+      "longitude": -90.0948
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Andrés Sabella Gálvez International Airport",
+        "iata_code": "ANF",
+        "latitude": -23.445274,
+        "longitude": -70.445232,
+        "municipality": "Antofagasta",
+        "closest_quake_distance_km": 185.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t3m7",
+            "magnitude": 5.4,
+            "latitude": -23.5454,
+            "longitude": -68.633,
+            "depth_km": 106.991,
+            "time_ms": 1785142663758,
+            "place": "82 km SSW of San Pedro de Atacama, Chile",
+            "distance_km": 185.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tjer",
+        "magnitude": 5.2,
+        "latitude": -41.3258,
+        "longitude": -90.5965,
+        "depth_km": 10,
+        "time_ms": 1786196970300,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tj8t",
+        "magnitude": 5.5,
+        "latitude": -41.4078,
+        "longitude": -90.0948,
+        "depth_km": 10,
+        "time_ms": 1786189287790,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tjel",
+        "magnitude": 5.1,
+        "latitude": -13.7382,
+        "longitude": -112.2713,
+        "depth_km": 10,
+        "time_ms": 1786144747914,
+        "place": "central East Pacific Rise",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th96",
+        "magnitude": 5,
+        "latitude": -29.867,
+        "longitude": -72.1202,
+        "depth_km": 11.851,
+        "time_ms": 1785520025666,
+        "place": "76 km W of Coquimbo, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t3m7",
+        "magnitude": 5.4,
+        "latitude": -23.5454,
+        "longitude": -68.633,
+        "depth_km": 106.991,
+        "time_ms": 1785142663758,
+        "place": "82 km SSW of San Pedro de Atacama, Chile",
+        "country_code": "CL",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.42
   }
 ]
