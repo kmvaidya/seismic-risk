@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.47,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.51,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -209,22 +209,9 @@
             "exposure_contribution": 0.93,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t15t",
-            "magnitude": 5.1,
-            "latitude": 30.793,
-            "longitude": 131.5012,
-            "depth_km": 35,
-            "time_ms": 1784238583422,
-            "place": "48 km E of Nishinoomote, Japan",
-            "distance_km": 134.7,
-            "exposure_contribution": 0.62,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 13.65
+        "exposure_score": 13.03
       },
       {
         "name": "Miyazaki Airport",
@@ -298,22 +285,9 @@
             "exposure_contribution": 0.7,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t15t",
-            "magnitude": 5.1,
-            "latitude": 30.793,
-            "longitude": 131.5012,
-            "depth_km": 35,
-            "time_ms": 1784238583422,
-            "place": "48 km E of Nishinoomote, Japan",
-            "distance_km": 120.7,
-            "exposure_contribution": 0.73,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 11.3
+        "exposure_score": 10.57
       },
       {
         "name": "Kitakyushu Airport",
@@ -730,20 +704,9 @@
         "place": "79 km SE of Tatsugō, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t15t",
-        "magnitude": 5.1,
-        "latitude": 30.793,
-        "longitude": 131.5012,
-        "depth_km": 35,
-        "time_ms": 1784238583422,
-        "place": "48 km E of Nishinoomote, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 106.06
+    "seismic_hub_risk_score": 104.71
   },
   {
     "country": "",
@@ -1294,8 +1257,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 25,
-    "avg_magnitude": 5.41,
+    "earthquake_count": 37,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1303,10 +1266,10 @@
       "latitude": -8.3101,
       "longitude": 121.3517
     },
-    "highest_pager_alert": "orange",
-    "max_felt_reports": 34,
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 43,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Dortheys Hiyo Eluay International Airport",
@@ -1414,8 +1377,21 @@
         "latitude": 3.637847,
         "longitude": 98.870566,
         "municipality": "Beringin",
-        "closest_quake_distance_km": 164.6,
+        "closest_quake_distance_km": 63.5,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tkyk",
+            "magnitude": 6.9,
+            "latitude": 3.0856,
+            "longitude": 99.015,
+            "depth_km": 172.526,
+            "time_ms": 1786791291796,
+            "place": "15 km NNW of Pematangsiantar, Indonesia",
+            "distance_km": 63.5,
+            "exposure_contribution": 9.36,
+            "pga_g": 0.093556,
+            "mmi": 5.1
+          },
           {
             "earthquake_id": "us7000t2dz",
             "magnitude": 5,
@@ -1430,10 +1406,131 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.42
+        "exposure_score": 9.77
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tl44",
+        "magnitude": 5,
+        "latitude": -7.8894,
+        "longitude": 120.5156,
+        "depth_km": 10,
+        "time_ms": 1786835574664,
+        "place": "80 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tl1s",
+        "magnitude": 5.7,
+        "latitude": 0.1542,
+        "longitude": 120.2573,
+        "depth_km": 72.495,
+        "time_ms": 1786811118342,
+        "place": "125 km NNE of Palu, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tl0v",
+        "magnitude": 5.2,
+        "latitude": -8.2575,
+        "longitude": 121.2565,
+        "depth_km": 10,
+        "time_ms": 1786796079321,
+        "place": "78 km NW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkyk",
+        "magnitude": 6.9,
+        "latitude": 3.0856,
+        "longitude": 99.015,
+        "depth_km": 172.526,
+        "time_ms": 1786791291796,
+        "place": "15 km NNW of Pematangsiantar, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkyg",
+        "magnitude": 5.1,
+        "latitude": -8.264,
+        "longitude": 120.3675,
+        "depth_km": 10,
+        "time_ms": 1786789890185,
+        "place": "39 km NNW of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkx5",
+        "magnitude": 5.1,
+        "latitude": -8.0446,
+        "longitude": 120.7765,
+        "depth_km": 10,
+        "time_ms": 1786779578975,
+        "place": "71 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkwq",
+        "magnitude": 5.1,
+        "latitude": -8.2671,
+        "longitude": 121.3664,
+        "depth_km": 10,
+        "time_ms": 1786775331109,
+        "place": "71 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkwj",
+        "magnitude": 5,
+        "latitude": -8.3681,
+        "longitude": 121.3609,
+        "depth_km": 10,
+        "time_ms": 1786772708046,
+        "place": "62 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkw9",
+        "magnitude": 5,
+        "latitude": -8.32,
+        "longitude": 121.3458,
+        "depth_km": 10,
+        "time_ms": 1786766053099,
+        "place": "67 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkvp",
+        "magnitude": 5.1,
+        "latitude": -8.0088,
+        "longitude": 120.6888,
+        "depth_km": 10,
+        "time_ms": 1786756640014,
+        "place": "71 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkvh",
+        "magnitude": 5.1,
+        "latitude": -8.248,
+        "longitude": 121.4162,
+        "depth_km": 10,
+        "time_ms": 1786754418406,
+        "place": "71 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tkv9",
         "magnitude": 5,
@@ -1497,6 +1594,17 @@
         "depth_km": 10,
         "time_ms": 1786745886706,
         "place": "61 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkub",
+        "magnitude": 5.5,
+        "latitude": -8.4696,
+        "longitude": 121.0058,
+        "depth_km": 10,
+        "time_ms": 1786745820060,
+        "place": "61 km ENE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1710,7 +1818,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.94
+    "seismic_hub_risk_score": 13.29
   },
   {
     "country": "",
@@ -1886,161 +1994,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "NZ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.49,
-    "strongest_earthquake": {
-      "magnitude": 6.3,
-      "date": "2026-08-05",
-      "depth_km": 226.1,
-      "latitude": -33.8063,
-      "longitude": 179.4727
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 14,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Queenstown Airport",
-        "iata_code": "ZQN",
-        "latitude": -45.019205,
-        "longitude": 168.746379,
-        "municipality": "Queenstown",
-        "closest_quake_distance_km": 94.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t0xb",
-            "magnitude": 5.9,
-            "latitude": -45.0319,
-            "longitude": 167.5447,
-            "depth_km": 73.615,
-            "time_ms": 1784193293985,
-            "place": "44 km NNW of Te Anau, New Zealand",
-            "distance_km": 94.5,
-            "exposure_contribution": 1.98,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.98
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000ti8i",
-        "magnitude": 6.3,
-        "latitude": -33.8063,
-        "longitude": 179.4727,
-        "depth_km": 226.084,
-        "time_ms": 1785915807317,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000ti85",
-        "magnitude": 5.2,
-        "latitude": -49.5336,
-        "longitude": 164.0845,
-        "depth_km": 21.906,
-        "time_ms": 1785912264701,
-        "place": "Auckland Islands, New Zealand region",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thl3",
-        "magnitude": 5.6,
-        "latitude": -37.5922,
-        "longitude": 178.1622,
-        "depth_km": 53.374,
-        "time_ms": 1785659727743,
-        "place": "12 km W of Hicks Bay, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgud",
-        "magnitude": 5.6,
-        "latitude": -65.0783,
-        "longitude": -179.2592,
-        "depth_km": 10,
-        "time_ms": 1785362887559,
-        "place": "Pacific-Antarctic Ridge",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t34g",
-        "magnitude": 5.7,
-        "latitude": -38.969,
-        "longitude": 175.2483,
-        "depth_km": 10,
-        "time_ms": 1784911897251,
-        "place": "48 km W of Turangi, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t21e",
-        "magnitude": 5,
-        "latitude": -32.7727,
-        "longitude": -178.1207,
-        "depth_km": 10,
-        "time_ms": 1784580258945,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1jp",
-        "magnitude": 5.1,
-        "latitude": -32.7746,
-        "longitude": -178.1609,
-        "depth_km": 10,
-        "time_ms": 1784353607435,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1b0",
-        "magnitude": 5,
-        "latitude": -32.9019,
-        "longitude": -178.1627,
-        "depth_km": 10,
-        "time_ms": 1784294220140,
-        "place": "south of the Kermadec Islands",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t0xb",
-        "magnitude": 5.9,
-        "latitude": -45.0319,
-        "longitude": 167.5447,
-        "depth_km": 73.615,
-        "time_ms": 1784193293985,
-        "place": "44 km NNW of Te Anau, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.98
-  },
-  {
-    "country": "",
     "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
@@ -2052,8 +2005,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-28",
@@ -2119,6 +2072,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tkvj",
+        "magnitude": 5.4,
+        "latitude": 50.3745,
+        "longitude": 156.3863,
+        "depth_km": 78.982,
+        "time_ms": 1786754609640,
+        "place": "38 km SSE of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000tixr",
         "magnitude": 5,
         "latitude": 50.4235,
@@ -2143,11 +2107,11 @@
       {
         "id": "us6000thhr",
         "magnitude": 5.2,
-        "latitude": 49.3239,
-        "longitude": 155.327,
-        "depth_km": 49.724,
-        "time_ms": 1785614566638,
-        "place": "160 km SSW of Severo-Kuril’sk, Russia",
+        "latitude": 49.3423,
+        "longitude": 155.2981,
+        "depth_km": 56.61,
+        "time_ms": 1785614567387,
+        "place": "159 km SSW of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -2612,8 +2576,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-26",
@@ -2722,12 +2686,12 @@
       },
       {
         "id": "us7000t2wx",
-        "magnitude": 5,
-        "latitude": 51.1015,
-        "longitude": -176.0652,
+        "magnitude": 5.1,
+        "latitude": 51.1094,
+        "longitude": -176.0884,
         "depth_km": 10,
-        "time_ms": 1784854996097,
-        "place": "94 km SSE of Adak, Alaska",
+        "time_ms": 1784854996173,
+        "place": "93 km SSE of Adak, Alaska",
         "country_code": "US",
         "shakemap_available": true
       },
@@ -2750,17 +2714,6 @@
         "depth_km": 35,
         "time_ms": 1784799018531,
         "place": "98 km SE of Atka, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "aka2026nyxoap",
-        "magnitude": 5.2,
-        "latitude": 60.569,
-        "longitude": -141.508,
-        "depth_km": 8.5,
-        "time_ms": 1784201841034,
-        "place": "122 km SE of McCarthy, Alaska",
         "country_code": "US",
         "shakemap_available": true
       }
@@ -3257,8 +3210,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-07-28",
@@ -3316,6 +3269,17 @@
         "depth_km": 10,
         "time_ms": 1785924369955,
         "place": "60 km NNE of Shi Yomi, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thn0",
+        "magnitude": 5,
+        "latitude": 28.5301,
+        "longitude": 104.7446,
+        "depth_km": 10,
+        "time_ms": 1785694905760,
+        "place": "8 km NNE of Xunchang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
