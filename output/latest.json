@@ -721,7 +721,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
+    "earthquake_count": 15,
     "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 6.3,
@@ -855,19 +855,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000t1e8",
-            "magnitude": 5.3,
-            "latitude": 5.7105,
-            "longitude": 125.3384,
-            "depth_km": 70.473,
-            "time_ms": 1784304776673,
-            "place": "6 km E of Pangyan, Philippines",
-            "distance_km": 161.0,
-            "exposure_contribution": 0.53,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmy",
             "magnitude": 5,
             "latitude": 5.6147,
@@ -894,7 +881,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.03
+        "exposure_score": 2.5
       },
       {
         "name": "General Santos International Airport",
@@ -902,21 +889,8 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 46.9,
+        "closest_quake_distance_km": 52.7,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t1e8",
-            "magnitude": 5.3,
-            "latitude": 5.7105,
-            "longitude": 125.3384,
-            "depth_km": 70.473,
-            "time_ms": 1784304776673,
-            "place": "6 km E of Pangyan, Philippines",
-            "distance_km": 46.9,
-            "exposure_contribution": 1.66,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000t2a7",
             "magnitude": 5.1,
@@ -1061,7 +1035,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 17.13
+        "exposure_score": 15.47
       }
     ],
     "earthquakes": [
@@ -1229,20 +1203,9 @@
         "place": "119 km SW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t1e8",
-        "magnitude": 5.3,
-        "latitude": 5.7105,
-        "longitude": 125.3384,
-        "depth_km": 70.473,
-        "time_ms": 1784304776673,
-        "place": "6 km E of Pangyan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 22.25
+    "seismic_hub_risk_score": 20.06
   },
   {
     "country": "",
@@ -1257,8 +1220,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 37,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 42,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1390,7 +1353,7 @@
             "distance_km": 63.5,
             "exposure_contribution": 9.36,
             "pga_g": 0.093556,
-            "mmi": 5.1
+            "mmi": 5.0
           },
           {
             "earthquake_id": "us7000t2dz",
@@ -1410,6 +1373,61 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "usd0015e86",
+        "magnitude": 5,
+        "latitude": -7.9176,
+        "longitude": 120.7165,
+        "depth_km": 10,
+        "time_ms": 1786887519493,
+        "place": "81 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015e7k",
+        "magnitude": 5.1,
+        "latitude": -7.8791,
+        "longitude": 120.5504,
+        "depth_km": 10,
+        "time_ms": 1786876294822,
+        "place": "81 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015e7j",
+        "magnitude": 5.3,
+        "latitude": -7.9399,
+        "longitude": 120.5995,
+        "depth_km": 10,
+        "time_ms": 1786875276343,
+        "place": "75 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tl6a",
+        "magnitude": 5.5,
+        "latitude": -7.9322,
+        "longitude": 120.5855,
+        "depth_km": 10,
+        "time_ms": 1786863107338,
+        "place": "76 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tl55",
+        "magnitude": 5,
+        "latitude": -8.4615,
+        "longitude": 121.5082,
+        "depth_km": 10,
+        "time_ms": 1786851779885,
+        "place": "45 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tl44",
         "magnitude": 5,
@@ -2733,19 +2751,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 28,
+    "earthquake_count": 14,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
-      "magnitude": 7.3,
-      "date": "2026-07-17",
-      "depth_km": 22,
-      "latitude": 14.6361,
-      "longitude": -92.8969
+      "magnitude": 5.9,
+      "date": "2026-07-28",
+      "depth_km": 35,
+      "latitude": 14.296,
+      "longitude": -92.6223
     },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 288,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "General Ignacio L. Pesqueira International Airport",
@@ -2797,6 +2815,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "usd0015e8n",
+        "magnitude": 5.2,
+        "latitude": 14.4177,
+        "longitude": -92.969,
+        "depth_km": 35,
+        "time_ms": 1786895573557,
+        "place": "67 km WSW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tjjj",
         "magnitude": 5.5,
@@ -2939,263 +2968,9 @@
         "place": "95 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t1hd",
-        "magnitude": 5,
-        "latitude": 14.2528,
-        "longitude": -93.0445,
-        "depth_km": 35,
-        "time_ms": 1784326387238,
-        "place": "84 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1fk",
-        "magnitude": 5.1,
-        "latitude": 14.2901,
-        "longitude": -92.9134,
-        "depth_km": 35,
-        "time_ms": 1784312806631,
-        "place": "71 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1f6",
-        "magnitude": 5,
-        "latitude": 14.2234,
-        "longitude": -92.7364,
-        "depth_km": 36.836,
-        "time_ms": 1784309010756,
-        "place": "64 km SSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1f0",
-        "magnitude": 5.1,
-        "latitude": 14.3646,
-        "longitude": -92.9067,
-        "depth_km": 35,
-        "time_ms": 1784308522621,
-        "place": "65 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1ey",
-        "magnitude": 5.1,
-        "latitude": 14.2791,
-        "longitude": -93.0627,
-        "depth_km": 17.41,
-        "time_ms": 1784307818807,
-        "place": "84 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1ep",
-        "magnitude": 5.1,
-        "latitude": 14.5,
-        "longitude": -92.5525,
-        "depth_km": 64.069,
-        "time_ms": 1784304086633,
-        "place": "28 km SSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1dv",
-        "magnitude": 5,
-        "latitude": 14.192,
-        "longitude": -93.1531,
-        "depth_km": 35,
-        "time_ms": 1784303837455,
-        "place": "98 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1du",
-        "magnitude": 5,
-        "latitude": 14.3348,
-        "longitude": -92.8866,
-        "depth_km": 56.114,
-        "time_ms": 1784302238319,
-        "place": "65 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t2qc",
-        "magnitude": 5,
-        "latitude": 14.7242,
-        "longitude": -92.8872,
-        "depth_km": 52,
-        "time_ms": 1784302004100,
-        "place": "46 km WSW of Aquiles Serdán, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1cc",
-        "magnitude": 6.4,
-        "latitude": 14.2039,
-        "longitude": -93.1385,
-        "depth_km": 10,
-        "time_ms": 1784301606587,
-        "place": "96 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t1c2",
-        "magnitude": 5.1,
-        "latitude": 14.3818,
-        "longitude": -93.348,
-        "depth_km": 10,
-        "time_ms": 1784301586024,
-        "place": "106 km WSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1c1",
-        "magnitude": 5.3,
-        "latitude": 14.0904,
-        "longitude": -93.1961,
-        "depth_km": 10,
-        "time_ms": 1784301295212,
-        "place": "108 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t2q5",
-        "magnitude": 5,
-        "latitude": 13.9256,
-        "longitude": -93.037,
-        "depth_km": 10,
-        "time_ms": 1784300199185,
-        "place": "110 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t2si",
-        "magnitude": 5.2,
-        "latitude": 14.3591,
-        "longitude": -93.2176,
-        "depth_km": 10,
-        "time_ms": 1784300100437,
-        "place": "94 km WSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1bu",
-        "magnitude": 7.3,
-        "latitude": 14.6361,
-        "longitude": -92.8969,
-        "depth_km": 22,
-        "time_ms": 1784299720227,
-        "place": "52 km W of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.87
-  },
-  {
-    "country": "",
-    "iso_alpha2": "GT",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.0,
-    "strongest_earthquake": {
-      "magnitude": 5,
-      "date": "2026-07-30",
-      "depth_km": 91.1,
-      "latitude": 14.2218,
-      "longitude": -91.0582
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "La Aurora International Airport",
-        "iata_code": "GUA",
-        "latitude": 14.582896,
-        "longitude": -90.527515,
-        "municipality": "Guatemala City",
-        "closest_quake_distance_km": 69.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgwd",
-            "magnitude": 5,
-            "latitude": 14.2218,
-            "longitude": -91.0582,
-            "depth_km": 91.052,
-            "time_ms": 1785394735505,
-            "place": "11 km W of La Democracia, Guatemala",
-            "distance_km": 69.8,
-            "exposure_contribution": 0.75,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.75
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tgwd",
-        "magnitude": 5,
-        "latitude": 14.2218,
-        "longitude": -91.0582,
-        "depth_km": 91.052,
-        "time_ms": 1785394735505,
-        "place": "11 km W of La Democracia, Guatemala",
-        "country_code": "GT",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t2p7",
-        "magnitude": 5,
-        "latitude": 13.8418,
-        "longitude": -92.2304,
-        "depth_km": 35,
-        "time_ms": 1784812442845,
-        "place": "60 km SW of Champerico, Guatemala",
-        "country_code": "GT",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t2se",
-        "magnitude": 5,
-        "latitude": 13.829,
-        "longitude": -92.5968,
-        "depth_km": 10,
-        "time_ms": 1784300149506,
-        "place": "87 km SSW of Ocós, Guatemala",
-        "country_code": "GT",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.75
   },
   {
     "country": "",
@@ -3440,5 +3215,160 @@
       }
     ],
     "seismic_hub_risk_score": 0.42
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 9,
+    "avg_magnitude": 5.16,
+    "strongest_earthquake": {
+      "magnitude": 5.4,
+      "date": "2026-08-15",
+      "depth_km": 120.2,
+      "latitude": -4.411,
+      "longitude": 143.9212
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 113.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "usd0015e7p",
+            "magnitude": 5.1,
+            "latitude": -5.5481,
+            "longitude": 146.7476,
+            "depth_km": 138.737,
+            "time_ms": 1786877950367,
+            "place": "112 km ESE of Madang, Papua New Guinea",
+            "distance_km": 113.4,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.41
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "usd0015e7p",
+        "magnitude": 5.1,
+        "latitude": -5.5481,
+        "longitude": 146.7476,
+        "depth_km": 138.737,
+        "time_ms": 1786877950367,
+        "place": "112 km ESE of Madang, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tkyz",
+        "magnitude": 5.4,
+        "latitude": -4.411,
+        "longitude": 143.9212,
+        "depth_km": 120.214,
+        "time_ms": 1786792224937,
+        "place": "41 km SSW of Angoram, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkgn",
+        "magnitude": 5,
+        "latitude": -4.4318,
+        "longitude": 143.8885,
+        "depth_km": 134.025,
+        "time_ms": 1786625099102,
+        "place": "45 km SSW of Angoram, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tk29",
+        "magnitude": 5,
+        "latitude": -4.7193,
+        "longitude": 152.9875,
+        "depth_km": 68.887,
+        "time_ms": 1786480288580,
+        "place": "89 km ESE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tk0a",
+        "magnitude": 5,
+        "latitude": -7.6341,
+        "longitude": 144.8583,
+        "depth_km": 10,
+        "time_ms": 1786467978902,
+        "place": "107 km WNW of Kerema, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tie5",
+        "magnitude": 5.2,
+        "latitude": -6.5225,
+        "longitude": 143.8444,
+        "depth_km": 10.028,
+        "time_ms": 1785959186861,
+        "place": "31 km SSW of Ialibu, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tgva",
+        "magnitude": 5.3,
+        "latitude": -5.8112,
+        "longitude": 153.5797,
+        "depth_km": 10,
+        "time_ms": 1785379584341,
+        "place": "217 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tggm",
+        "magnitude": 5.4,
+        "latitude": -5.7635,
+        "longitude": 153.6953,
+        "depth_km": 10,
+        "time_ms": 1785270476153,
+        "place": "207 km WNW of Panguna, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t3p2",
+        "magnitude": 5,
+        "latitude": -5.3975,
+        "longitude": 151.4893,
+        "depth_km": 92.272,
+        "time_ms": 1785162816240,
+        "place": "145 km SW of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.41
   }
 ]
