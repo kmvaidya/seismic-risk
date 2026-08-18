@@ -12,17 +12,17 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.51,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.47,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
       "depth_km": 10,
-      "latitude": 32.6817,
-      "longitude": 130.7217
+      "latitude": 32.6297,
+      "longitude": 130.6843
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 92,
+    "max_felt_reports": 95,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -98,26 +98,26 @@
           {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
             "depth_km": 10,
-            "time_ms": 1785223635512,
+            "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 103.7,
-            "exposure_contribution": 2.33,
-            "pga_g": 0.023269,
-            "mmi": 3.9
+            "distance_km": 108.5,
+            "exposure_contribution": 2.39,
+            "pga_g": 0.023873,
+            "mmi": 4.2
           },
           {
             "earthquake_id": "us6000tgbm",
             "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
             "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 137.7,
-            "exposure_contribution": 1.12,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 134.7,
+            "exposure_contribution": 1.16,
             "pga_g": null,
             "mmi": null
           },
@@ -135,7 +135,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.16
+        "exposure_score": 5.26
       },
       {
         "name": "Kagoshima Airport",
@@ -143,21 +143,8 @@
         "latitude": 31.8034,
         "longitude": 130.718994,
         "municipality": "Kagoshima",
-        "closest_quake_distance_km": 62.4,
+        "closest_quake_distance_km": 65.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
-            "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 62.4,
-            "exposure_contribution": 3.54,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tgmx",
             "magnitude": 5.3,
@@ -172,17 +159,30 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000tgbm",
+            "magnitude": 5.6,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
+            "depth_km": 10,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 66.0,
+            "exposure_contribution": 3.28,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
             "depth_km": 10,
-            "time_ms": 1785223635512,
+            "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 97.7,
-            "exposure_contribution": 5.28,
-            "pga_g": 0.052828,
-            "mmi": 5.1
+            "distance_km": 91.9,
+            "exposure_contribution": 5.97,
+            "pga_g": 0.059652,
+            "mmi": 5.2
           },
           {
             "earthquake_id": "us6000tgy8",
@@ -211,7 +211,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 13.03
+        "exposure_score": 13.45
       },
       {
         "name": "Miyazaki Airport",
@@ -237,13 +237,13 @@
           {
             "earthquake_id": "us6000tgbm",
             "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
             "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 96.9,
-            "exposure_contribution": 1.91,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 102.2,
+            "exposure_contribution": 1.77,
             "pga_g": null,
             "mmi": null
           },
@@ -263,15 +263,15 @@
           {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
             "depth_km": 10,
-            "time_ms": 1785223635512,
+            "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 112.6,
-            "exposure_contribution": 4.18,
-            "pga_g": 0.041827,
-            "mmi": 4.3
+            "distance_km": 110.3,
+            "exposure_contribution": 5.68,
+            "pga_g": 0.056802,
+            "mmi": 5.2
           },
           {
             "earthquake_id": "us6000tgy8",
@@ -287,7 +287,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 10.57
+        "exposure_score": 11.92
       },
       {
         "name": "Kitakyushu Airport",
@@ -313,26 +313,26 @@
           {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
             "depth_km": 10,
-            "time_ms": 1785223635512,
+            "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 132.7,
-            "exposure_contribution": 2.64,
-            "pga_g": 0.026385,
-            "mmi": 3.8
+            "distance_km": 139.1,
+            "exposure_contribution": 3.12,
+            "pga_g": 0.031235,
+            "mmi": 4.1
           },
           {
             "earthquake_id": "us6000tgbm",
             "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
             "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 171.2,
-            "exposure_contribution": 0.78,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 169.8,
+            "exposure_contribution": 0.79,
             "pga_g": null,
             "mmi": null
           },
@@ -350,7 +350,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.55
+        "exposure_score": 5.05
       },
       {
         "name": "Kyushu Saga International Airport",
@@ -376,15 +376,28 @@
           {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
             "depth_km": 10,
-            "time_ms": 1785223635512,
+            "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 65.1,
-            "exposure_contribution": 6.49,
-            "pga_g": 0.064925,
+            "distance_km": 68.0,
+            "exposure_contribution": 6.13,
+            "pga_g": 0.061274,
             "mmi": 5.0
+          },
+          {
+            "earthquake_id": "us6000tgbm",
+            "magnitude": 5.6,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
+            "depth_km": 10,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 88.7,
+            "exposure_contribution": 2.17,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgmx",
@@ -396,19 +409,6 @@
             "place": "12 km N of Tsunagi, Japan",
             "distance_km": 90.5,
             "exposure_contribution": 1.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
-            "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 92.5,
-            "exposure_contribution": 2.05,
             "pga_g": null,
             "mmi": null
           },
@@ -426,7 +426,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 12.39
+        "exposure_score": 12.15
       },
       {
         "name": "Kumamoto Airport",
@@ -434,21 +434,8 @@
         "latitude": 32.837299,
         "longitude": 130.854996,
         "municipality": "Kumamoto",
-        "closest_quake_distance_km": 21.3,
+        "closest_quake_distance_km": 25.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
-            "depth_km": 10,
-            "time_ms": 1785223635512,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 21.3,
-            "exposure_contribution": 33.35,
-            "pga_g": 0.333521,
-            "mmi": 7.6
-          },
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
@@ -463,15 +450,28 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000tgb9",
+            "magnitude": 6.8,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
+            "depth_km": 10,
+            "time_ms": 1785223634942,
+            "place": "The 2026 Kumamoto Region, Japan Earthquake",
+            "distance_km": 28.1,
+            "exposure_contribution": 31.63,
+            "pga_g": 0.316267,
+            "mmi": 7.5
+          },
+          {
             "earthquake_id": "us6000tgbm",
             "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
             "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 59.4,
-            "exposure_contribution": 3.77,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 59.2,
+            "exposure_contribution": 3.8,
             "pga_g": null,
             "mmi": null
           },
@@ -502,7 +502,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 45.54
+        "exposure_score": 43.84
       },
       {
         "name": "Nagasaki Airport",
@@ -528,14 +528,14 @@
           {
             "earthquake_id": "us6000tgb9",
             "magnitude": 6.8,
-            "latitude": 32.6817,
-            "longitude": 130.7217,
+            "latitude": 32.6297,
+            "longitude": 130.6843,
             "depth_km": 10,
-            "time_ms": 1785223635512,
+            "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 79.9,
-            "exposure_contribution": 4.51,
-            "pga_g": 0.045075,
+            "distance_km": 78.8,
+            "exposure_contribution": 4.2,
+            "pga_g": 0.041972,
             "mmi": 4.1
           },
           {
@@ -554,18 +554,18 @@
           {
             "earthquake_id": "us6000tgbm",
             "magnitude": 5.6,
-            "latitude": 32.3529,
-            "longitude": 130.5868,
+            "latitude": 32.3769,
+            "longitude": 130.5385,
             "depth_km": 10,
-            "time_ms": 1785226115421,
-            "place": "16 km NE of Tsunagi, Japan",
-            "distance_km": 88.9,
-            "exposure_contribution": 2.17,
+            "time_ms": 1785226114854,
+            "place": "15 km SSW of Honmachi, Japan",
+            "distance_km": 83.8,
+            "exposure_contribution": 2.36,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 9.89
+        "exposure_score": 9.77
       },
       {
         "name": "Aomori Airport",
@@ -606,6 +606,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tlbz",
+        "magnitude": 5.1,
+        "latitude": 46.4392,
+        "longitude": 151.4468,
+        "depth_km": 93.538,
+        "time_ms": 1787002596105,
+        "place": "Kuril Islands",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tjaj",
         "magnitude": 5.6,
@@ -675,21 +686,21 @@
       {
         "id": "us6000tgbm",
         "magnitude": 5.6,
-        "latitude": 32.3529,
-        "longitude": 130.5868,
+        "latitude": 32.3769,
+        "longitude": 130.5385,
         "depth_km": 10,
-        "time_ms": 1785226115421,
-        "place": "16 km NE of Tsunagi, Japan",
+        "time_ms": 1785226114854,
+        "place": "15 km SSW of Honmachi, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
       {
         "id": "us6000tgb9",
         "magnitude": 6.8,
-        "latitude": 32.6817,
-        "longitude": 130.7217,
+        "latitude": 32.6297,
+        "longitude": 130.6843,
         "depth_km": 10,
-        "time_ms": 1785223635512,
+        "time_ms": 1785223634942,
         "place": "The 2026 Kumamoto Region, Japan Earthquake",
         "country_code": "JP",
         "shakemap_available": true
@@ -706,7 +717,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 104.71
+    "seismic_hub_risk_score": 105.02
   },
   {
     "country": "",
@@ -721,8 +732,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 14,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
@@ -1020,22 +1031,9 @@
             "exposure_contribution": 0.5,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t1it",
-            "magnitude": 5.3,
-            "latitude": 4.5057,
-            "longitude": 124.8574,
-            "depth_km": 10,
-            "time_ms": 1784341420127,
-            "place": "119 km SW of Sarangani, Philippines",
-            "distance_km": 174.5,
-            "exposure_contribution": 0.53,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 15.47
+        "exposure_score": 14.94
       }
     ],
     "earthquakes": [
@@ -1192,20 +1190,111 @@
         "place": "6 km NW of Sugal, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t1it",
-        "magnitude": 5.3,
-        "latitude": 4.5057,
-        "longitude": 124.8574,
-        "depth_km": 10,
-        "time_ms": 1784341420127,
-        "place": "119 km SW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 20.06
+    "seismic_hub_risk_score": 19.53
+  },
+  {
+    "country": "",
+    "iso_alpha2": "FM",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.53,
+    "strongest_earthquake": {
+      "magnitude": 5.9,
+      "date": "2026-07-30",
+      "depth_km": 34.5,
+      "latitude": 11.5807,
+      "longitude": 138.9989
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yap International Airport",
+        "iata_code": "YAP",
+        "latitude": 9.49891,
+        "longitude": 138.082993,
+        "municipality": "Yap Island",
+        "closest_quake_distance_km": 23.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tl43",
+            "magnitude": 5.4,
+            "latitude": 9.6571,
+            "longitude": 138.224,
+            "depth_km": 10,
+            "time_ms": 1786834375761,
+            "place": "19 km NE of Colonia, Micronesia",
+            "distance_km": 23.4,
+            "exposure_contribution": 9.11,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tlgm",
+            "magnitude": 5.3,
+            "latitude": 9.638,
+            "longitude": 138.3106,
+            "depth_km": 10,
+            "time_ms": 1787007191292,
+            "place": "24 km ENE of Colonia, Micronesia",
+            "distance_km": 29.4,
+            "exposure_contribution": 6.36,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 15.47
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tlgm",
+        "magnitude": 5.3,
+        "latitude": 9.638,
+        "longitude": 138.3106,
+        "depth_km": 10,
+        "time_ms": 1787007191292,
+        "place": "24 km ENE of Colonia, Micronesia",
+        "country_code": "FM",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tl43",
+        "magnitude": 5.4,
+        "latitude": 9.6571,
+        "longitude": 138.224,
+        "depth_km": 10,
+        "time_ms": 1786834375761,
+        "place": "19 km NE of Colonia, Micronesia",
+        "country_code": "FM",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000th1h",
+        "magnitude": 5.9,
+        "latitude": 11.5807,
+        "longitude": 138.9989,
+        "depth_km": 34.505,
+        "time_ms": 1785434159690,
+        "place": "247 km NNE of Colonia, Micronesia",
+        "country_code": "FM",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 15.47
   },
   {
     "country": "",
@@ -1220,8 +1309,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 42,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 48,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1230,7 +1319,7 @@
       "longitude": 121.3517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 43,
+    "max_felt_reports": 45,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1373,6 +1462,72 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "usd0015ee2",
+        "magnitude": 5,
+        "latitude": -8.3182,
+        "longitude": 120.4472,
+        "depth_km": 10,
+        "time_ms": 1786975114474,
+        "place": "32 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ed8",
+        "magnitude": 5.4,
+        "latitude": -7.9289,
+        "longitude": 120.4324,
+        "depth_km": 10,
+        "time_ms": 1786963489886,
+        "place": "75 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "usd0015ed7",
+        "magnitude": 5.2,
+        "latitude": -7.8762,
+        "longitude": 120.5019,
+        "depth_km": 10,
+        "time_ms": 1786963361971,
+        "place": "81 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ebj",
+        "magnitude": 5.2,
+        "latitude": -8.2999,
+        "longitude": 121.327,
+        "depth_km": 16.335,
+        "time_ms": 1786938484873,
+        "place": "70 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ebi",
+        "magnitude": 5.3,
+        "latitude": -8.278,
+        "longitude": 121.407,
+        "depth_km": 10,
+        "time_ms": 1786937799370,
+        "place": "68 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015eay",
+        "magnitude": 5.5,
+        "latitude": -8.3149,
+        "longitude": 121.4724,
+        "depth_km": 15.522,
+        "time_ms": 1786927601245,
+        "place": "62 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "usd0015e86",
         "magnitude": 5,
@@ -1840,178 +1995,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.38,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-07-31",
-      "depth_km": 154.4,
-      "latitude": -8.3349,
-      "longitude": -74.4353
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 14,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 16.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000th4k",
-            "magnitude": 5.6,
-            "latitude": -8.3349,
-            "longitude": -74.4353,
-            "depth_km": 154.355,
-            "time_ms": 1785459524364,
-            "place": "13 km ENE of San Fernando, Peru",
-            "distance_km": 16.0,
-            "exposure_contribution": 0.92,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000thpt",
-            "magnitude": 5.2,
-            "latitude": -8.5724,
-            "longitude": -75.7603,
-            "depth_km": 125.256,
-            "time_ms": 1785721344662,
-            "place": "66 km WNW of San Alejandro, Peru",
-            "distance_km": 132.2,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.37
-      },
-      {
-        "name": "Jorge Chávez International Airport",
-        "iata_code": "LIM",
-        "latitude": -12.0219,
-        "longitude": -77.114305,
-        "municipality": "Lima",
-        "closest_quake_distance_km": 188.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t1q7",
-            "magnitude": 5.5,
-            "latitude": -12.08,
-            "longitude": -75.3819,
-            "depth_km": 10,
-            "time_ms": 1784427875593,
-            "place": "5 km S of Chambara, Peru",
-            "distance_km": 188.5,
-            "exposure_contribution": 0.42,
-            "pga_g": 0.004168,
-            "mmi": 3.1
-          }
-        ],
-        "exposure_score": 0.42
-      },
-      {
-        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
-        "iata_code": "TRU",
-        "latitude": -8.082382,
-        "longitude": -79.108821,
-        "municipality": "Trujillo",
-        "closest_quake_distance_km": 196.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgcx",
-            "magnitude": 5.3,
-            "latitude": -9.7052,
-            "longitude": -79.8217,
-            "depth_km": 13.804,
-            "time_ms": 1785245073262,
-            "place": "151 km WSW of Puerto Santa, Peru",
-            "distance_km": 196.7,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tip9",
-        "magnitude": 5.3,
-        "latitude": -12.1948,
-        "longitude": -75.2574,
-        "depth_km": 10,
-        "time_ms": 1786042641831,
-        "place": "7 km SSW of Huayucachi, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thpt",
-        "magnitude": 5.2,
-        "latitude": -8.5724,
-        "longitude": -75.7603,
-        "depth_km": 125.256,
-        "time_ms": 1785721344662,
-        "place": "66 km WNW of San Alejandro, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th4k",
-        "magnitude": 5.6,
-        "latitude": -8.3349,
-        "longitude": -74.4353,
-        "depth_km": 154.355,
-        "time_ms": 1785459524364,
-        "place": "13 km ENE of San Fernando, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgcx",
-        "magnitude": 5.3,
-        "latitude": -9.7052,
-        "longitude": -79.8217,
-        "depth_km": 13.804,
-        "time_ms": 1785245073262,
-        "place": "151 km WSW of Puerto Santa, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1q7",
-        "magnitude": 5.5,
-        "latitude": -12.08,
-        "longitude": -75.3819,
-        "depth_km": 10,
-        "time_ms": 1784427875593,
-        "place": "5 km S of Chambara, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.22
-  },
-  {
-    "country": "",
     "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
@@ -2023,14 +2006,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 5.8,
-      "date": "2026-07-28",
-      "depth_km": 10,
-      "latitude": 55.9941,
-      "longitude": 164.8901
+      "date": "2026-08-17",
+      "depth_km": 54.7,
+      "latitude": 53.024,
+      "longitude": 159.7106
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2055,6 +2038,19 @@
             "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
             "distance_km": 80.1,
             "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "usd0015edq",
+            "magnitude": 5.8,
+            "latitude": 53.024,
+            "longitude": 159.7106,
+            "depth_km": 54.741,
+            "time_ms": 1786970283466,
+            "place": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 85.6,
+            "exposure_contribution": 2.26,
             "pga_g": null,
             "mmi": null
           },
@@ -2085,10 +2081,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.82
+        "exposure_score": 4.08
       }
     ],
     "earthquakes": [
+      {
+        "id": "usd0015edq",
+        "magnitude": 5.8,
+        "latitude": 53.024,
+        "longitude": 159.7106,
+        "depth_km": 54.741,
+        "time_ms": 1786970283466,
+        "place": "72 km E of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tkvj",
         "magnitude": 5.4,
@@ -2178,7 +2185,179 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.82
+    "seismic_hub_risk_score": 4.08
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.38,
+    "strongest_earthquake": {
+      "magnitude": 5.6,
+      "date": "2026-07-31",
+      "depth_km": 154.4,
+      "latitude": -8.3349,
+      "longitude": -74.4353
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 16.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000th4k",
+            "magnitude": 5.6,
+            "latitude": -8.3349,
+            "longitude": -74.4353,
+            "depth_km": 154.355,
+            "time_ms": 1785459524364,
+            "place": "13 km ENE of San Fernando, Peru",
+            "distance_km": 16.0,
+            "exposure_contribution": 0.92,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000thpt",
+            "magnitude": 5.2,
+            "latitude": -8.5724,
+            "longitude": -75.7603,
+            "depth_km": 125.256,
+            "time_ms": 1785721344662,
+            "place": "66 km WNW of San Alejandro, Peru",
+            "distance_km": 132.2,
+            "exposure_contribution": 0.44,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.37
+      },
+      {
+        "name": "Jorge Chávez International Airport",
+        "iata_code": "LIM",
+        "latitude": -12.0219,
+        "longitude": -77.114305,
+        "municipality": "Lima",
+        "closest_quake_distance_km": 188.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000t1q7",
+            "magnitude": 5.5,
+            "latitude": -12.08,
+            "longitude": -75.3819,
+            "depth_km": 10,
+            "time_ms": 1784427875593,
+            "place": "5 km S of Chambara, Peru",
+            "distance_km": 188.5,
+            "exposure_contribution": 0.59,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.59
+      },
+      {
+        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
+        "iata_code": "TRU",
+        "latitude": -8.082382,
+        "longitude": -79.108821,
+        "municipality": "Trujillo",
+        "closest_quake_distance_km": 196.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tgcx",
+            "magnitude": 5.3,
+            "latitude": -9.7052,
+            "longitude": -79.8217,
+            "depth_km": 13.804,
+            "time_ms": 1785245073262,
+            "place": "151 km WSW of Puerto Santa, Peru",
+            "distance_km": 196.7,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.43
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tip9",
+        "magnitude": 5.3,
+        "latitude": -12.1948,
+        "longitude": -75.2574,
+        "depth_km": 10,
+        "time_ms": 1786042641831,
+        "place": "7 km SSW of Huayucachi, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thpt",
+        "magnitude": 5.2,
+        "latitude": -8.5724,
+        "longitude": -75.7603,
+        "depth_km": 125.256,
+        "time_ms": 1785721344662,
+        "place": "66 km WNW of San Alejandro, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th4k",
+        "magnitude": 5.6,
+        "latitude": -8.3349,
+        "longitude": -74.4353,
+        "depth_km": 154.355,
+        "time_ms": 1785459524364,
+        "place": "13 km ENE of San Fernando, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tgcx",
+        "magnitude": 5.3,
+        "latitude": -9.7052,
+        "longitude": -79.8217,
+        "depth_km": 13.804,
+        "time_ms": 1785245073262,
+        "place": "151 km WSW of Puerto Santa, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000t1q7",
+        "magnitude": 5.5,
+        "latitude": -12.08,
+        "longitude": -75.3819,
+        "depth_km": 10,
+        "time_ms": 1784427875593,
+        "place": "5 km S of Chambara, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 2.39
   },
   {
     "country": "",
@@ -2751,8 +2930,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-28",
@@ -2924,53 +3103,175 @@
         "place": "106 km SW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t1n5",
-        "magnitude": 5.8,
-        "latitude": 14.2397,
-        "longitude": -92.8648,
-        "depth_km": 13,
-        "time_ms": 1784395586075,
-        "place": "71 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t1l4",
-        "magnitude": 5.2,
-        "latitude": 14.365,
-        "longitude": -92.8438,
-        "depth_km": 51.57,
-        "time_ms": 1784368762835,
-        "place": "60 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1jy",
-        "magnitude": 5.3,
-        "latitude": 14.3758,
-        "longitude": -93.2114,
-        "depth_km": 35,
-        "time_ms": 1784357510393,
-        "place": "93 km WSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1im",
-        "magnitude": 5.1,
-        "latitude": 14.3509,
-        "longitude": -93.2219,
-        "depth_km": 10,
-        "time_ms": 1784339341691,
-        "place": "95 km WSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.87
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 10,
+    "avg_magnitude": 5.19,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-08-16",
+      "depth_km": 147.7,
+      "latitude": -5.5432,
+      "longitude": 146.7882
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 114.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "usd0015e7p",
+            "magnitude": 5.5,
+            "latitude": -5.5432,
+            "longitude": 146.7882,
+            "depth_km": 147.71,
+            "time_ms": 1786877951283,
+            "place": "116 km ESE of Madang, Papua New Guinea",
+            "distance_km": 114.2,
+            "exposure_contribution": 0.6,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.6
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "usd0015edb",
+        "magnitude": 5.1,
+        "latitude": -6.3769,
+        "longitude": 149.3577,
+        "depth_km": 35,
+        "time_ms": 1786964423022,
+        "place": "28 km SW of Kandrian, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015e7p",
+        "magnitude": 5.5,
+        "latitude": -5.5432,
+        "longitude": 146.7882,
+        "depth_km": 147.71,
+        "time_ms": 1786877951283,
+        "place": "116 km ESE of Madang, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkyz",
+        "magnitude": 5.4,
+        "latitude": -4.411,
+        "longitude": 143.9212,
+        "depth_km": 120.214,
+        "time_ms": 1786792224937,
+        "place": "41 km SSW of Angoram, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkgn",
+        "magnitude": 5,
+        "latitude": -4.4318,
+        "longitude": 143.8885,
+        "depth_km": 134.025,
+        "time_ms": 1786625099102,
+        "place": "45 km SSW of Angoram, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tk29",
+        "magnitude": 5,
+        "latitude": -4.7193,
+        "longitude": 152.9875,
+        "depth_km": 68.887,
+        "time_ms": 1786480288580,
+        "place": "89 km ESE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tk0a",
+        "magnitude": 5,
+        "latitude": -7.6341,
+        "longitude": 144.8583,
+        "depth_km": 10,
+        "time_ms": 1786467978902,
+        "place": "107 km WNW of Kerema, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tie5",
+        "magnitude": 5.2,
+        "latitude": -6.5225,
+        "longitude": 143.8444,
+        "depth_km": 10.028,
+        "time_ms": 1785959186861,
+        "place": "31 km SSW of Ialibu, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tgva",
+        "magnitude": 5.3,
+        "latitude": -5.8112,
+        "longitude": 153.5797,
+        "depth_km": 10,
+        "time_ms": 1785379584341,
+        "place": "217 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tggm",
+        "magnitude": 5.4,
+        "latitude": -5.7635,
+        "longitude": 153.6953,
+        "depth_km": 10,
+        "time_ms": 1785270476153,
+        "place": "207 km WNW of Panguna, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t3p2",
+        "magnitude": 5,
+        "latitude": -5.3975,
+        "longitude": 151.4893,
+        "depth_km": 92.272,
+        "time_ms": 1785162816240,
+        "place": "145 km SW of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.6
   },
   {
     "country": "",
@@ -3215,160 +3516,5 @@
       }
     ],
     "seismic_hub_risk_score": 0.42
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PG",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.16,
-    "strongest_earthquake": {
-      "magnitude": 5.4,
-      "date": "2026-08-15",
-      "depth_km": 120.2,
-      "latitude": -4.411,
-      "longitude": 143.9212
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 113.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "usd0015e7p",
-            "magnitude": 5.1,
-            "latitude": -5.5481,
-            "longitude": 146.7476,
-            "depth_km": 138.737,
-            "time_ms": 1786877950367,
-            "place": "112 km ESE of Madang, Papua New Guinea",
-            "distance_km": 113.4,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.41
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "usd0015e7p",
-        "magnitude": 5.1,
-        "latitude": -5.5481,
-        "longitude": 146.7476,
-        "depth_km": 138.737,
-        "time_ms": 1786877950367,
-        "place": "112 km ESE of Madang, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkyz",
-        "magnitude": 5.4,
-        "latitude": -4.411,
-        "longitude": 143.9212,
-        "depth_km": 120.214,
-        "time_ms": 1786792224937,
-        "place": "41 km SSW of Angoram, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkgn",
-        "magnitude": 5,
-        "latitude": -4.4318,
-        "longitude": 143.8885,
-        "depth_km": 134.025,
-        "time_ms": 1786625099102,
-        "place": "45 km SSW of Angoram, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tk29",
-        "magnitude": 5,
-        "latitude": -4.7193,
-        "longitude": 152.9875,
-        "depth_km": 68.887,
-        "time_ms": 1786480288580,
-        "place": "89 km ESE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tk0a",
-        "magnitude": 5,
-        "latitude": -7.6341,
-        "longitude": 144.8583,
-        "depth_km": 10,
-        "time_ms": 1786467978902,
-        "place": "107 km WNW of Kerema, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tie5",
-        "magnitude": 5.2,
-        "latitude": -6.5225,
-        "longitude": 143.8444,
-        "depth_km": 10.028,
-        "time_ms": 1785959186861,
-        "place": "31 km SSW of Ialibu, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgva",
-        "magnitude": 5.3,
-        "latitude": -5.8112,
-        "longitude": 153.5797,
-        "depth_km": 10,
-        "time_ms": 1785379584341,
-        "place": "217 km SE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tggm",
-        "magnitude": 5.4,
-        "latitude": -5.7635,
-        "longitude": 153.6953,
-        "depth_km": 10,
-        "time_ms": 1785270476153,
-        "place": "207 km WNW of Panguna, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t3p2",
-        "magnitude": 5,
-        "latitude": -5.3975,
-        "longitude": 151.4893,
-        "depth_km": 92.272,
-        "time_ms": 1785162816240,
-        "place": "145 km SW of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.41
   }
 ]
