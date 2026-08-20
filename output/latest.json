@@ -1188,9 +1188,9 @@
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-30",
-      "depth_km": 34.5,
-      "latitude": 11.5807,
-      "longitude": 138.9989
+      "depth_km": 29.9,
+      "latitude": 11.5402,
+      "longitude": 139.0293
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1261,11 +1261,11 @@
       {
         "id": "us6000th1h",
         "magnitude": 5.9,
-        "latitude": 11.5807,
-        "longitude": 138.9989,
-        "depth_km": 34.505,
-        "time_ms": 1785434159690,
-        "place": "247 km NNE of Colonia, Micronesia",
+        "latitude": 11.5402,
+        "longitude": 139.0293,
+        "depth_km": 29.875,
+        "time_ms": 1785434158902,
+        "place": "244 km NNE of Colonia, Micronesia",
         "country_code": "FM",
         "shakemap_available": true
       }
@@ -1285,8 +1285,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 49,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 52,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1295,7 +1295,7 @@
       "longitude": 121.3517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 45,
+    "max_felt_reports": 47,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1438,6 +1438,50 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tm0u",
+        "magnitude": 5.8,
+        "latitude": -8.3922,
+        "longitude": 120.5278,
+        "depth_km": 10,
+        "time_ms": 1787179517395,
+        "place": "25 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tm0s",
+        "magnitude": 5.2,
+        "latitude": -8.3101,
+        "longitude": 120.4718,
+        "depth_km": 10,
+        "time_ms": 1787178488388,
+        "place": "33 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tlxq",
+        "magnitude": 5.5,
+        "latitude": -8.1769,
+        "longitude": 120.6643,
+        "depth_km": 10,
+        "time_ms": 1787156258400,
+        "place": "52 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tlt9",
+        "magnitude": 5.2,
+        "latitude": -8.2837,
+        "longitude": 121.4389,
+        "depth_km": 30.365,
+        "time_ms": 1787109209805,
+        "place": "66 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tlkt",
         "magnitude": 5.6,
@@ -1965,17 +2009,6 @@
         "place": "60 km WSW of Langsa, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t1wm",
-        "magnitude": 5,
-        "latitude": 1.6026,
-        "longitude": 127.3619,
-        "depth_km": 104.437,
-        "time_ms": 1784540446556,
-        "place": "73 km W of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 13.32
@@ -1993,7 +2026,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
+    "earthquake_count": 9,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 5.8,
@@ -2059,6 +2092,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tlyv",
+        "magnitude": 5.4,
+        "latitude": 49.4799,
+        "longitude": 155.8633,
+        "depth_km": 41.176,
+        "time_ms": 1787162837251,
+        "place": "134 km S of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
       {
         "id": "usd0015edq",
         "magnitude": 5.8,
@@ -2306,8 +2350,8 @@
       "magnitude": 5.9,
       "date": "2026-07-29",
       "depth_km": 10,
-      "latitude": -28.4336,
-      "longitude": -176.6235
+      "latitude": -28.4111,
+      "longitude": -176.6489
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2344,18 +2388,18 @@
         "latitude": -18.5853,
         "longitude": -173.962006,
         "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 139.2,
+        "closest_quake_distance_km": 133.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tgje",
             "magnitude": 5.4,
-            "latitude": -17.8772,
-            "longitude": -172.8747,
+            "latitude": -17.8048,
+            "longitude": -173.0033,
             "depth_km": 10,
-            "time_ms": 1785286079168,
-            "place": "145 km NE of Neiafu, Tonga",
-            "distance_km": 139.2,
-            "exposure_contribution": 0.87,
+            "time_ms": 1785286079274,
+            "place": "139 km NE of Neiafu, Tonga",
+            "distance_km": 133.4,
+            "exposure_contribution": 0.93,
             "pga_g": null,
             "mmi": null
           },
@@ -2373,7 +2417,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.16
+        "exposure_score": 1.22
       }
     ],
     "earthquakes": [
@@ -2479,21 +2523,21 @@
       {
         "id": "us6000th30",
         "magnitude": 5,
-        "latitude": -28.5478,
-        "longitude": -176.5707,
-        "depth_km": 35,
-        "time_ms": 1785443196299,
+        "latitude": -28.4937,
+        "longitude": -176.4902,
+        "depth_km": 10,
+        "time_ms": 1785443192064,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
       },
       {
         "id": "us6000th1b",
-        "magnitude": 5.2,
-        "latitude": -31.3231,
-        "longitude": -177.9701,
-        "depth_km": 46.02,
-        "time_ms": 1785433695234,
+        "magnitude": 5.1,
+        "latitude": -31.4941,
+        "longitude": -177.6574,
+        "depth_km": 10,
+        "time_ms": 1785433689051,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
@@ -2512,10 +2556,10 @@
       {
         "id": "us6000tguj",
         "magnitude": 5.1,
-        "latitude": -28.5381,
-        "longitude": -176.6553,
+        "latitude": -28.514,
+        "longitude": -176.636,
         "depth_km": 10,
-        "time_ms": 1785364945196,
+        "time_ms": 1785364945074,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
@@ -2523,10 +2567,10 @@
       {
         "id": "us6000tguf",
         "magnitude": 5.9,
-        "latitude": -28.4336,
-        "longitude": -176.6235,
+        "latitude": -28.4111,
+        "longitude": -176.6489,
         "depth_km": 10,
-        "time_ms": 1785364077292,
+        "time_ms": 1785364077385,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
@@ -2578,11 +2622,11 @@
       {
         "id": "us6000tgje",
         "magnitude": 5.4,
-        "latitude": -17.8772,
-        "longitude": -172.8747,
+        "latitude": -17.8048,
+        "longitude": -173.0033,
         "depth_km": 10,
-        "time_ms": 1785286079168,
-        "place": "145 km NE of Neiafu, Tonga",
+        "time_ms": 1785286079274,
+        "place": "139 km NE of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": true
       },
@@ -2686,7 +2730,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.73
+    "seismic_hub_risk_score": 1.79
   },
   {
     "country": "",
@@ -2859,7 +2903,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 8,
-    "avg_magnitude": 5.35,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-28",
@@ -2978,6 +3022,17 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000th1t",
+        "magnitude": 5,
+        "latitude": 14.2669,
+        "longitude": -93.0973,
+        "depth_km": 8.468,
+        "time_ms": 1785435632621,
+        "place": "88 km SW of Puerto Madero, Mexico",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tgau",
         "magnitude": 5.9,
         "latitude": 14.239,
@@ -2996,17 +3051,6 @@
         "depth_km": 35,
         "time_ms": 1784957193729,
         "place": "47 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t1x3",
-        "magnitude": 5.1,
-        "latitude": 14.1688,
-        "longitude": -92.823,
-        "depth_km": 10,
-        "time_ms": 1784544825345,
-        "place": "74 km SW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       }

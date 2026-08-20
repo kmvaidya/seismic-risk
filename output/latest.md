@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-19 06:28 UTC
+Generated: 2026-08-20 06:29 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-05-22 to 2026-08-19).
+Based on 89 snapshots (2026-05-23 to 2026-08-20).
 
 
 **Top score changes**:
@@ -12,11 +12,11 @@ Based on 89 snapshots (2026-05-22 to 2026-08-19).
 
 **Top airport exposure changes**:
 
-- General Santos International Airport (GES, ): -0.5
-- Yelizovo Airport (PKC, ): -0.4
-- Dortheys Hiyo Eluay International Airport (DJJ, ): +0.0
+- Vava'u International Airport (VAV, ): +0.1
 - New Chitose Airport (CTS, ): 0.0
 - Hakodate Airport (HKD, ): 0.0
+- Fukuoka Airport (FUK, ): 0.0
+- Kagoshima Airport (KOJ, ): 0.0
 
 ## Country Summary
 
@@ -25,10 +25,10 @@ Based on 89 snapshots (2026-05-22 to 2026-08-19).
 |  |  |  | 105.0 | ~ | 5.5 | M6.8 (2026-07-28) | 10 | 10 | red | No | 1 |
 |  |  |  | 19.0 | ~ | 5.3 | M6.3 (2026-08-05) | 13 | 5 | green | No | 1 |
 |  |  |  | 15.5 | ~ | 5.5 | M5.9 (2026-07-30) | 3 | 1 | - | No | 0 |
-|  |  |  | 13.3 | ~ | 5.3 | M7.7 (2026-08-14) | 49 | 3 | yellow | No | 2 |
-|  |  |  | 3.6 | ~ | 5.3 | M5.8 (2026-08-17) | 8 | 1 | - | No | 0 |
+|  |  |  | 13.3 | ~ | 5.4 | M7.7 (2026-08-14) | 52 | 3 | yellow | No | 2 |
+|  |  |  | 3.6 | ~ | 5.3 | M5.8 (2026-08-17) | 9 | 1 | - | No | 0 |
 |  |  |  | 1.8 | ~ | 5.3 | M5.6 (2026-07-31) | 4 | 2 | - | No | 0 |
-|  |  |  | 1.7 | ~ | 5.2 | M5.9 (2026-07-29) | 28 | 2 | - | No | 0 |
+|  |  |  | 1.8 | ~ | 5.2 | M5.9 (2026-07-29) | 28 | 2 | - | No | 0 |
 |  |  |  | 1.1 | ~ | 5.3 | M5.8 (2026-07-26) | 7 | 2 | green | No | 2 |
 |  |  |  | 0.9 | ~ | 5.3 | M5.9 (2026-07-28) | 8 | 2 | - | No | 0 |
 |  |  |  | 0.6 | ~ | 5.2 | M5.5 (2026-08-16) | 10 | 1 | - | No | 0 |
@@ -49,7 +49,7 @@ Based on 89 snapshots (2026-05-22 to 2026-08-19).
 | Aomori Airport | AOJ | Aomori |  | 1.8 | ~ | - | 122.3 | 2 |
 | Hakodate Airport | HKD | Hakodate |  | 1.1 | ~ | - | 100.7 | 1 |
 | New Chitose Airport | CTS | Sapporo |  | 0.7 | ~ | - | 159.1 | 1 |
-| General Santos International Airport | GES | General Santos |  | 14.4 | -0.5 | 0.0549 | 52.7 | 9 |
+| General Santos International Airport | GES | General Santos |  | 14.4 | ~ | 0.0549 | 52.7 | 9 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 2.5 | ~ | - | 100.9 | 5 |
 | Bicol International Airport | DRP | Legazpi |  | 1.3 | ~ | - | 107.1 | 1 |
 | Ninoy Aquino International Airport | MNL | Manila (Pasay) |  | 0.4 | ~ | - | 132.5 | 1 |
@@ -61,7 +61,7 @@ Based on 89 snapshots (2026-05-22 to 2026-08-19).
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 3.6 | ~ | - | 80.1 | 3 |
 | Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 1.4 | ~ | - | 16.0 | 2 |
 | Capitán FAP Carlos Martínez de Pinillos International Airport | TRU | Trujillo |  | 0.4 | ~ | - | 196.7 | 1 |
-| Vava'u International Airport | VAV | Vava'u Island |  | 1.2 | ~ | - | 139.2 | 2 |
+| Vava'u International Airport | VAV | Vava'u Island |  | 1.2 | ~ | - | 133.4 | 2 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.6 | ~ | - | 127.0 | 1 |
 | Ellison Onizuka Kona International Airport at Keāhole | KOA | Kailua-Kona |  | 0.8 | ~ | - | 128.1 | 1 |
 | Ted Stevens Anchorage International Airport | ANC | Anchorage |  | 0.3 | ~ | 0.0027 | 172.2 | 1 |
