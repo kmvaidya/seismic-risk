@@ -732,8 +732,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
@@ -853,19 +853,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000t2a7",
-            "magnitude": 5.1,
-            "latitude": 5.7108,
-            "longitude": 125.422,
-            "depth_km": 63.677,
-            "time_ms": 1784658807188,
-            "place": "6 km NW of Sugal, Philippines",
-            "distance_km": 159.2,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmy",
             "magnitude": 5,
             "latitude": 5.6147,
@@ -892,7 +879,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.5
+        "exposure_score": 2.06
       },
       {
         "name": "General Santos International Airport",
@@ -900,21 +887,8 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 52.7,
+        "closest_quake_distance_km": 57.9,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t2a7",
-            "magnitude": 5.1,
-            "latitude": 5.7108,
-            "longitude": 125.422,
-            "depth_km": 63.677,
-            "time_ms": 1784658807188,
-            "place": "6 km NW of Sugal, Philippines",
-            "distance_km": 52.7,
-            "exposure_contribution": 1.36,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000t2fj",
             "magnitude": 5,
@@ -1020,7 +994,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 14.4
+        "exposure_score": 13.04
       }
     ],
     "earthquakes": [
@@ -1155,20 +1129,9 @@
         "place": "4 km NNE of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t2a7",
-        "magnitude": 5.1,
-        "latitude": 5.7108,
-        "longitude": 125.422,
-        "depth_km": 63.677,
-        "time_ms": 1784658807188,
-        "place": "6 km NW of Sugal, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 18.99
+    "seismic_hub_risk_score": 17.19
   },
   {
     "country": "",
@@ -1285,8 +1248,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 52,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 59,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1295,7 +1258,7 @@
       "longitude": 121.3517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 47,
+    "max_felt_reports": 48,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1368,18 +1331,18 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 173.4,
+        "closest_quake_distance_km": 175.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000ti49",
             "magnitude": 5.7,
-            "latitude": 1.5066,
-            "longitude": 126.4856,
-            "depth_km": 35,
-            "time_ms": 1785874597181,
-            "place": "127 km NW of Ternate, Indonesia",
-            "distance_km": 173.4,
-            "exposure_contribution": 0.83,
+            "latitude": 1.5011,
+            "longitude": 126.5024,
+            "depth_km": 34.167,
+            "time_ms": 1785874597007,
+            "place": "125 km NW of Ternate, Indonesia",
+            "distance_km": 175.3,
+            "exposure_contribution": 0.82,
             "pga_g": null,
             "mmi": null
           },
@@ -1397,7 +1360,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.61
+        "exposure_score": 1.6
       },
       {
         "name": "Kualanamu International Airport",
@@ -1438,6 +1401,83 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tm9h",
+        "magnitude": 5,
+        "latitude": -8.214,
+        "longitude": 121.3299,
+        "depth_km": 10,
+        "time_ms": 1787255631824,
+        "place": "78 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm93",
+        "magnitude": 5,
+        "latitude": -8.423,
+        "longitude": 121.2709,
+        "depth_km": 10,
+        "time_ms": 1787253843495,
+        "place": "63 km NW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm8h",
+        "magnitude": 5.6,
+        "latitude": -8.2877,
+        "longitude": 121.3981,
+        "depth_km": 10,
+        "time_ms": 1787249571721,
+        "place": "67 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tm2v",
+        "magnitude": 5.3,
+        "latitude": -8.2215,
+        "longitude": 120.6701,
+        "depth_km": 10,
+        "time_ms": 1787218252720,
+        "place": "48 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm2k",
+        "magnitude": 5,
+        "latitude": -8.2196,
+        "longitude": 120.4879,
+        "depth_km": 35,
+        "time_ms": 1787212893945,
+        "place": "43 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm2j",
+        "magnitude": 5,
+        "latitude": -8.2868,
+        "longitude": 120.377,
+        "depth_km": 10,
+        "time_ms": 1787212503208,
+        "place": "37 km NNW of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm1j",
+        "magnitude": 5.7,
+        "latitude": -8.3582,
+        "longitude": 120.6104,
+        "depth_km": 10,
+        "time_ms": 1787194019072,
+        "place": "32 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tm0u",
         "magnitude": 5.8,
@@ -1562,11 +1602,11 @@
       {
         "id": "usd0015e86",
         "magnitude": 5,
-        "latitude": -7.9176,
-        "longitude": 120.7165,
+        "latitude": -7.8874,
+        "longitude": 120.7797,
         "depth_km": 10,
-        "time_ms": 1786887519493,
-        "place": "81 km NNE of Ruteng, Indonesia",
+        "time_ms": 1786887519283,
+        "place": "87 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1903,11 +1943,11 @@
       {
         "id": "us6000ti49",
         "magnitude": 5.7,
-        "latitude": 1.5066,
-        "longitude": 126.4856,
-        "depth_km": 35,
-        "time_ms": 1785874597181,
-        "place": "127 km NW of Ternate, Indonesia",
+        "latitude": 1.5011,
+        "longitude": 126.5024,
+        "depth_km": 34.167,
+        "time_ms": 1785874597007,
+        "place": "125 km NW of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -2011,7 +2051,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 13.32
+    "seismic_hub_risk_score": 13.31
   },
   {
     "country": "",
@@ -2207,19 +2247,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.62,
     "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-07-31",
-      "depth_km": 154.4,
-      "latitude": -8.3349,
-      "longitude": -74.4353
+      "magnitude": 6.7,
+      "date": "2026-08-20",
+      "depth_km": 99,
+      "latitude": -14.6414,
+      "longitude": -73.5236
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "green",
+    "max_felt_reports": 72,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Cap FAP David Abenzur Rengifo International Airport",
@@ -2264,17 +2304,17 @@
         "latitude": -8.082382,
         "longitude": -79.108821,
         "municipality": "Trujillo",
-        "closest_quake_distance_km": 196.7,
+        "closest_quake_distance_km": 197.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tgcx",
             "magnitude": 5.3,
-            "latitude": -9.7052,
-            "longitude": -79.8217,
-            "depth_km": 13.804,
-            "time_ms": 1785245073262,
-            "place": "151 km WSW of Puerto Santa, Peru",
-            "distance_km": 196.7,
+            "latitude": -9.7091,
+            "longitude": -79.8344,
+            "depth_km": 15.595,
+            "time_ms": 1785245073502,
+            "place": "152 km WSW of Puerto Santa, Peru",
+            "distance_km": 197.7,
             "exposure_contribution": 0.43,
             "pga_g": null,
             "mmi": null
@@ -2284,6 +2324,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tm81",
+        "magnitude": 6.7,
+        "latitude": -14.6414,
+        "longitude": -73.5236,
+        "depth_km": 99,
+        "time_ms": 1787248818626,
+        "place": "31 km NW of Aniso, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tip9",
         "magnitude": 5.3,
@@ -2320,11 +2371,11 @@
       {
         "id": "us6000tgcx",
         "magnitude": 5.3,
-        "latitude": -9.7052,
-        "longitude": -79.8217,
-        "depth_km": 13.804,
-        "time_ms": 1785245073262,
-        "place": "151 km WSW of Puerto Santa, Peru",
+        "latitude": -9.7091,
+        "longitude": -79.8344,
+        "depth_km": 15.595,
+        "time_ms": 1785245073502,
+        "place": "152 km WSW of Puerto Santa, Peru",
         "country_code": "PE",
         "shakemap_available": false
       }
@@ -2344,8 +2395,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 28,
-    "avg_magnitude": 5.19,
+    "earthquake_count": 27,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2643,11 +2694,11 @@
       },
       {
         "id": "us7000t3m6",
-        "magnitude": 5.2,
-        "latitude": -24.7345,
-        "longitude": -175.3545,
+        "magnitude": 5.3,
+        "latitude": -24.7618,
+        "longitude": -175.5552,
         "depth_km": 10,
-        "time_ms": 1785142038681,
+        "time_ms": 1785142040426,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2655,10 +2706,10 @@
       {
         "id": "us7000t3m5",
         "magnitude": 5.2,
-        "latitude": -24.6958,
-        "longitude": -175.244,
+        "latitude": -24.6421,
+        "longitude": -175.2565,
         "depth_km": 10,
-        "time_ms": 1785141848090,
+        "time_ms": 1785141848124,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2717,17 +2768,6 @@
         "place": "Kermadec Islands, New Zealand",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t25y",
-        "magnitude": 5.6,
-        "latitude": -29.2885,
-        "longitude": -176.9584,
-        "depth_km": 19.704,
-        "time_ms": 1784636075347,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.79
@@ -3070,8 +3110,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.19,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-16",
@@ -3110,6 +3150,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tm8j",
+        "magnitude": 5.1,
+        "latitude": -5.3709,
+        "longitude": 153.5631,
+        "depth_km": 35,
+        "time_ms": 1787250319502,
+        "place": "183 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "usd0015edb",
         "magnitude": 5.1,
@@ -3225,150 +3276,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.33,
-    "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-08-18",
-      "depth_km": 6,
-      "latitude": 37.8208,
-      "longitude": 95.6095
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 1,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 3,
-    "exposed_airports": [
-      {
-        "name": "Xishuangbanna Gasa International Airport",
-        "iata_code": "JHG",
-        "latitude": 21.974648,
-        "longitude": 100.762224,
-        "municipality": "Jinghong (Gasa)",
-        "closest_quake_distance_km": 147.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t25s",
-            "magnitude": 5,
-            "latitude": 23.1468,
-            "longitude": 101.4361,
-            "depth_km": 10,
-            "time_ms": 1784634187526,
-            "place": "61 km NE of Simao, China",
-            "distance_km": 147.6,
-            "exposure_contribution": 0.5,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.5
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tlrj",
-        "magnitude": 5.9,
-        "latitude": 37.8208,
-        "longitude": 95.6095,
-        "depth_km": 6,
-        "time_ms": 1787088988032,
-        "place": "270 km WSW of Yanglong, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tivz",
-        "magnitude": 5.1,
-        "latitude": 28.505,
-        "longitude": 104.7523,
-        "depth_km": 10,
-        "time_ms": 1786079310903,
-        "place": "6 km NNE of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ti9w",
-        "magnitude": 5,
-        "latitude": 29.0027,
-        "longitude": 94.681,
-        "depth_km": 10,
-        "time_ms": 1785924369955,
-        "place": "60 km NNE of Shi Yomi, India",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thn0",
-        "magnitude": 5,
-        "latitude": 28.5301,
-        "longitude": 104.7446,
-        "depth_km": 10,
-        "time_ms": 1785694905760,
-        "place": "8 km NNE of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgbk",
-        "magnitude": 5.1,
-        "latitude": 35.3948,
-        "longitude": 99.5669,
-        "depth_km": 10,
-        "time_ms": 1785225849517,
-        "place": "191 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tga9",
-        "magnitude": 5.8,
-        "latitude": 35.429,
-        "longitude": 99.5557,
-        "depth_km": 10,
-        "time_ms": 1785209645627,
-        "place": "194 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tga6",
-        "magnitude": 5.7,
-        "latitude": 35.4217,
-        "longitude": 99.4752,
-        "depth_km": 10,
-        "time_ms": 1785208568865,
-        "place": "199 km NW of Oula Xiuma, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t25s",
-        "magnitude": 5,
-        "latitude": 23.1468,
-        "longitude": 101.4361,
-        "depth_km": 10,
-        "time_ms": 1784634187526,
-        "place": "61 km NE of Simao, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.5
-  },
-  {
-    "country": "",
     "iso_alpha2": "CL",
     "iso_alpha3": "",
     "capital": "",
@@ -3381,7 +3288,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 5,
-    "avg_magnitude": 5.24,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-08",
@@ -3400,23 +3307,23 @@
         "latitude": -23.445274,
         "longitude": -70.445232,
         "municipality": "Antofagasta",
-        "closest_quake_distance_km": 185.1,
+        "closest_quake_distance_km": 182.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000t3m7",
-            "magnitude": 5.4,
-            "latitude": -23.5454,
-            "longitude": -68.633,
-            "depth_km": 106.991,
-            "time_ms": 1785142663758,
-            "place": "82 km SSW of San Pedro de Atacama, Chile",
-            "distance_km": 185.1,
-            "exposure_contribution": 0.42,
+            "magnitude": 5.1,
+            "latitude": -23.485,
+            "longitude": -68.6578,
+            "depth_km": 104.251,
+            "time_ms": 1785142664884,
+            "place": "78 km SW of San Pedro de Atacama, Chile",
+            "distance_km": 182.4,
+            "exposure_contribution": 0.31,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.42
+        "exposure_score": 0.31
       }
     ],
     "earthquakes": [
@@ -3466,16 +3373,16 @@
       },
       {
         "id": "us7000t3m7",
-        "magnitude": 5.4,
-        "latitude": -23.5454,
-        "longitude": -68.633,
-        "depth_km": 106.991,
-        "time_ms": 1785142663758,
-        "place": "82 km SSW of San Pedro de Atacama, Chile",
+        "magnitude": 5.1,
+        "latitude": -23.485,
+        "longitude": -68.6578,
+        "depth_km": 104.251,
+        "time_ms": 1785142664884,
+        "place": "78 km SW of San Pedro de Atacama, Chile",
         "country_code": "CL",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.42
+    "seismic_hub_risk_score": 0.31
   }
 ]
