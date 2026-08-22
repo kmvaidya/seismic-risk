@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.47,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.46,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -32,17 +32,17 @@
         "latitude": 42.774753,
         "longitude": 141.690414,
         "municipality": "Sapporo",
-        "closest_quake_distance_km": 159.1,
+        "closest_quake_distance_km": 162.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000thdk",
             "magnitude": 5.5,
-            "latitude": 41.352,
-            "longitude": 141.8958,
-            "depth_km": 82.29,
-            "time_ms": 1785552481570,
-            "place": "57 km E of Mutsu, Japan",
-            "distance_km": 159.1,
+            "latitude": 41.3318,
+            "longitude": 141.97,
+            "depth_km": 74.853,
+            "time_ms": 1785552480535,
+            "place": "63 km E of Mutsu, Japan",
+            "distance_km": 162.1,
             "exposure_contribution": 0.65,
             "pga_g": null,
             "mmi": null
@@ -56,23 +56,23 @@
         "latitude": 41.77,
         "longitude": 140.822006,
         "municipality": "Hakodate",
-        "closest_quake_distance_km": 100.7,
+        "closest_quake_distance_km": 107.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000thdk",
             "magnitude": 5.5,
-            "latitude": 41.352,
-            "longitude": 141.8958,
-            "depth_km": 82.29,
-            "time_ms": 1785552481570,
-            "place": "57 km E of Mutsu, Japan",
-            "distance_km": 100.7,
-            "exposure_contribution": 1.1,
+            "latitude": 41.3318,
+            "longitude": 141.97,
+            "depth_km": 74.853,
+            "time_ms": 1785552480535,
+            "place": "63 km E of Mutsu, Japan",
+            "distance_km": 107.2,
+            "exposure_contribution": 1.09,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.1
+        "exposure_score": 1.09
       },
       {
         "name": "Fukuoka Airport",
@@ -573,17 +573,17 @@
         "latitude": 40.733777,
         "longitude": 140.689477,
         "municipality": "Aomori",
-        "closest_quake_distance_km": 122.3,
+        "closest_quake_distance_km": 126.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000thdk",
             "magnitude": 5.5,
-            "latitude": 41.352,
-            "longitude": 141.8958,
-            "depth_km": 82.29,
-            "time_ms": 1785552481570,
-            "place": "57 km E of Mutsu, Japan",
-            "distance_km": 122.3,
+            "latitude": 41.3318,
+            "longitude": 141.97,
+            "depth_km": 74.853,
+            "time_ms": 1785552480535,
+            "place": "63 km E of Mutsu, Japan",
+            "distance_km": 126.3,
             "exposure_contribution": 0.9,
             "pga_g": null,
             "mmi": null
@@ -606,6 +606,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tmfe",
+        "magnitude": 5.4,
+        "latitude": 33.7171,
+        "longitude": 140.3802,
+        "depth_km": 61.666,
+        "time_ms": 1787313727072,
+        "place": "148 km SSE of Tateyama, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tlbz",
         "magnitude": 5.1,
@@ -653,11 +664,11 @@
       {
         "id": "us6000thdk",
         "magnitude": 5.5,
-        "latitude": 41.352,
-        "longitude": 141.8958,
-        "depth_km": 82.29,
-        "time_ms": 1785552481570,
-        "place": "57 km E of Mutsu, Japan",
+        "latitude": 41.3318,
+        "longitude": 141.97,
+        "depth_km": 74.853,
+        "time_ms": 1785552480535,
+        "place": "63 km E of Mutsu, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -717,7 +728,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 105.02
+    "seismic_hub_risk_score": 105.01
   },
   {
     "country": "",
@@ -732,14 +743,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
       "depth_km": 10,
-      "latitude": 5.1812,
-      "longitude": 125.276
+      "latitude": 5.1995,
+      "longitude": 125.3134
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 66,
@@ -864,22 +875,9 @@
             "exposure_contribution": 0.36,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t2fj",
-            "magnitude": 5,
-            "latitude": 5.6126,
-            "longitude": 125.3679,
-            "depth_km": 64.111,
-            "time_ms": 1784713639801,
-            "place": "4 km NNE of Balangonan, Philippines",
-            "distance_km": 171.0,
-            "exposure_contribution": 0.35,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 2.06
+        "exposure_score": 1.71
       },
       {
         "name": "General Santos International Airport",
@@ -887,21 +885,8 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 57.9,
+        "closest_quake_distance_km": 58.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t2fj",
-            "magnitude": 5,
-            "latitude": 5.6126,
-            "longitude": 125.3679,
-            "depth_km": 64.111,
-            "time_ms": 1784713639801,
-            "place": "4 km NNE of Balangonan, Philippines",
-            "distance_km": 57.9,
-            "exposure_contribution": 1.14,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tgmy",
             "magnitude": 5,
@@ -957,15 +942,15 @@
           {
             "earthquake_id": "us6000ti6x",
             "magnitude": 6.3,
-            "latitude": 5.1812,
-            "longitude": 125.276,
+            "latitude": 5.1995,
+            "longitude": 125.3134,
             "depth_km": 10,
-            "time_ms": 1785903246625,
-            "place": "32 km SW of Sarangani, Philippines",
-            "distance_km": 99.4,
-            "exposure_contribution": 5.49,
-            "pga_g": 0.054917,
-            "mmi": 5.1
+            "time_ms": 1785903246073,
+            "place": "28 km SW of Sarangani, Philippines",
+            "distance_km": 98.4,
+            "exposure_contribution": 5.73,
+            "pga_g": 0.057321,
+            "mmi": 5.2
           },
           {
             "earthquake_id": "us6000tif5",
@@ -983,21 +968,154 @@
           {
             "earthquake_id": "us6000ti71",
             "magnitude": 5.2,
-            "latitude": 5.1275,
-            "longitude": 125.412,
+            "latitude": 5.1323,
+            "longitude": 125.4389,
             "depth_km": 35,
-            "time_ms": 1785903904586,
-            "place": "31 km S of Sarangani, Philippines",
-            "distance_km": 109.1,
+            "time_ms": 1785903904577,
+            "place": "30 km S of Sarangani, Philippines",
+            "distance_km": 109.6,
             "exposure_contribution": 0.94,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 13.04
+        "exposure_score": 12.13
+      },
+      {
+        "name": "Laguindingan International Airport",
+        "iata_code": "CGY",
+        "latitude": 8.612203,
+        "longitude": 124.456496,
+        "municipality": "Laguindingan",
+        "closest_quake_distance_km": 126.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmer",
+            "magnitude": 5.2,
+            "latitude": 9.3382,
+            "longitude": 125.342,
+            "depth_km": 10,
+            "time_ms": 1787303540890,
+            "place": "19 km W of Jabonga, Philippines",
+            "distance_km": 126.4,
+            "exposure_contribution": 0.81,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tmes",
+            "magnitude": 5.1,
+            "latitude": 9.4833,
+            "longitude": 125.5784,
+            "depth_km": 10,
+            "time_ms": 1787304156390,
+            "place": "1 km N of Alegria, Philippines",
+            "distance_km": 156.7,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.32
+      },
+      {
+        "name": "Bohol-Panglao International Airport",
+        "iata_code": "TAG",
+        "latitude": 9.573045,
+        "longitude": 123.770143,
+        "municipality": "Panglao",
+        "closest_quake_distance_km": 174.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmer",
+            "magnitude": 5.2,
+            "latitude": 9.3382,
+            "longitude": 125.342,
+            "depth_km": 10,
+            "time_ms": 1787303540890,
+            "place": "19 km W of Jabonga, Philippines",
+            "distance_km": 174.4,
+            "exposure_contribution": 0.48,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tmes",
+            "magnitude": 5.1,
+            "latitude": 9.4833,
+            "longitude": 125.5784,
+            "depth_km": 10,
+            "time_ms": 1787304156390,
+            "place": "1 km N of Alegria, Philippines",
+            "distance_km": 198.5,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.82
+      },
+      {
+        "name": "Mactan Cebu International Airport",
+        "iata_code": "CEB",
+        "latitude": 10.309261,
+        "longitude": 123.97974,
+        "municipality": "Cebu City/Lapu-Lapu City",
+        "closest_quake_distance_km": 184.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmer",
+            "magnitude": 5.2,
+            "latitude": 9.3382,
+            "longitude": 125.342,
+            "depth_km": 10,
+            "time_ms": 1787303540890,
+            "place": "19 km W of Jabonga, Philippines",
+            "distance_km": 184.2,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tmes",
+            "magnitude": 5.1,
+            "latitude": 9.4833,
+            "longitude": 125.5784,
+            "depth_km": 10,
+            "time_ms": 1787304156390,
+            "place": "1 km N of Alegria, Philippines",
+            "distance_km": 197.7,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.78
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tmes",
+        "magnitude": 5.1,
+        "latitude": 9.4833,
+        "longitude": 125.5784,
+        "depth_km": 10,
+        "time_ms": 1787304156390,
+        "place": "1 km N of Alegria, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tmer",
+        "magnitude": 5.2,
+        "latitude": 9.3382,
+        "longitude": 125.342,
+        "depth_km": 10,
+        "time_ms": 1787303540890,
+        "place": "19 km W of Jabonga, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tkig",
         "magnitude": 5.3,
@@ -1045,22 +1163,22 @@
       {
         "id": "us6000ti71",
         "magnitude": 5.2,
-        "latitude": 5.1275,
-        "longitude": 125.412,
+        "latitude": 5.1323,
+        "longitude": 125.4389,
         "depth_km": 35,
-        "time_ms": 1785903904586,
-        "place": "31 km S of Sarangani, Philippines",
+        "time_ms": 1785903904577,
+        "place": "30 km S of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
       {
         "id": "us6000ti6x",
         "magnitude": 6.3,
-        "latitude": 5.1812,
-        "longitude": 125.276,
+        "latitude": 5.1995,
+        "longitude": 125.3134,
         "depth_km": 10,
-        "time_ms": 1785903246625,
-        "place": "32 km SW of Sarangani, Philippines",
+        "time_ms": 1785903246073,
+        "place": "28 km SW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -1118,20 +1236,9 @@
         "place": "16 km ENE of Baganga, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t2fj",
-        "magnitude": 5,
-        "latitude": 5.6126,
-        "longitude": 125.3679,
-        "depth_km": 64.111,
-        "time_ms": 1784713639801,
-        "place": "4 km NNE of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 17.19
+    "seismic_hub_risk_score": 18.85
   },
   {
     "country": "",
@@ -1248,8 +1355,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 59,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 60,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1258,7 +1365,7 @@
       "longitude": 121.3517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 48,
+    "max_felt_reports": 49,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1382,25 +1489,23 @@
             "exposure_contribution": 9.36,
             "pga_g": 0.093556,
             "mmi": 5.0
-          },
-          {
-            "earthquake_id": "us7000t2dz",
-            "magnitude": 5,
-            "latitude": 4.1948,
-            "longitude": 97.4958,
-            "depth_km": 10,
-            "time_ms": 1784693901643,
-            "place": "60 km WSW of Langsa, Indonesia",
-            "distance_km": 164.6,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 9.77
+        "exposure_score": 9.36
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tmlu",
+        "magnitude": 5.7,
+        "latitude": -7.5836,
+        "longitude": 104.5501,
+        "depth_km": 10,
+        "time_ms": 1787334104453,
+        "place": "194 km SW of Labuan, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tm9h",
         "magnitude": 5,
@@ -1954,11 +2059,22 @@
       {
         "id": "us6000thcs",
         "magnitude": 5.1,
-        "latitude": -3.0027,
-        "longitude": 130.1237,
+        "latitude": -2.9413,
+        "longitude": 130.1101,
         "depth_km": 10,
-        "time_ms": 1785539857106,
+        "time_ms": 1785539857228,
         "place": "132 km ENE of Masohi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thcq",
+        "magnitude": 5.1,
+        "latitude": -2.9239,
+        "longitude": 130.2558,
+        "depth_km": 10,
+        "time_ms": 1785539750134,
+        "place": "148 km ENE of Masohi, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2038,20 +2154,9 @@
         "place": "131 km W of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t2dz",
-        "magnitude": 5,
-        "latitude": 4.1948,
-        "longitude": 97.4958,
-        "depth_km": 10,
-        "time_ms": 1784693901643,
-        "place": "60 km WSW of Langsa, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 13.31
+    "seismic_hub_risk_score": 12.9
   },
   {
     "country": "",
@@ -2086,18 +2191,18 @@
         "latitude": 53.168716,
         "longitude": 158.451068,
         "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 80.1,
+        "closest_quake_distance_km": 75.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000th3m",
             "magnitude": 5.1,
-            "latitude": 53.0742,
-            "longitude": 159.6405,
-            "depth_km": 63.921,
-            "time_ms": 1785448406269,
-            "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 80.1,
-            "exposure_contribution": 1.0,
+            "latitude": 53.0248,
+            "longitude": 159.5532,
+            "depth_km": 72.408,
+            "time_ms": 1785448407234,
+            "place": "62 km E of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 75.3,
+            "exposure_contribution": 0.97,
             "pga_g": null,
             "mmi": null
           },
@@ -2128,7 +2233,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.65
+        "exposure_score": 3.62
       }
     ],
     "earthquakes": [
@@ -2201,11 +2306,11 @@
       {
         "id": "us6000th3m",
         "magnitude": 5.1,
-        "latitude": 53.0742,
-        "longitude": 159.6405,
-        "depth_km": 63.921,
-        "time_ms": 1785448406269,
-        "place": "67 km E of Petropavlovsk-Kamchatsky, Russia",
+        "latitude": 53.0248,
+        "longitude": 159.5532,
+        "depth_km": 72.408,
+        "time_ms": 1785448407234,
+        "place": "62 km E of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -2232,155 +2337,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.65
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.62,
-    "strongest_earthquake": {
-      "magnitude": 6.7,
-      "date": "2026-08-20",
-      "depth_km": 99,
-      "latitude": -14.6414,
-      "longitude": -73.5236
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 72,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 16.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000th4k",
-            "magnitude": 5.6,
-            "latitude": -8.3349,
-            "longitude": -74.4353,
-            "depth_km": 154.355,
-            "time_ms": 1785459524364,
-            "place": "13 km ENE of San Fernando, Peru",
-            "distance_km": 16.0,
-            "exposure_contribution": 0.92,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000thpt",
-            "magnitude": 5.2,
-            "latitude": -8.5724,
-            "longitude": -75.7603,
-            "depth_km": 125.256,
-            "time_ms": 1785721344662,
-            "place": "66 km WNW of San Alejandro, Peru",
-            "distance_km": 132.2,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.37
-      },
-      {
-        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
-        "iata_code": "TRU",
-        "latitude": -8.082382,
-        "longitude": -79.108821,
-        "municipality": "Trujillo",
-        "closest_quake_distance_km": 197.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgcx",
-            "magnitude": 5.3,
-            "latitude": -9.7091,
-            "longitude": -79.8344,
-            "depth_km": 15.595,
-            "time_ms": 1785245073502,
-            "place": "152 km WSW of Puerto Santa, Peru",
-            "distance_km": 197.7,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tm81",
-        "magnitude": 6.7,
-        "latitude": -14.6414,
-        "longitude": -73.5236,
-        "depth_km": 99,
-        "time_ms": 1787248818626,
-        "place": "31 km NW of Aniso, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tip9",
-        "magnitude": 5.3,
-        "latitude": -12.1948,
-        "longitude": -75.2574,
-        "depth_km": 10,
-        "time_ms": 1786042641831,
-        "place": "7 km SSW of Huayucachi, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thpt",
-        "magnitude": 5.2,
-        "latitude": -8.5724,
-        "longitude": -75.7603,
-        "depth_km": 125.256,
-        "time_ms": 1785721344662,
-        "place": "66 km WNW of San Alejandro, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th4k",
-        "magnitude": 5.6,
-        "latitude": -8.3349,
-        "longitude": -74.4353,
-        "depth_km": 154.355,
-        "time_ms": 1785459524364,
-        "place": "13 km ENE of San Fernando, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgcx",
-        "magnitude": 5.3,
-        "latitude": -9.7091,
-        "longitude": -79.8344,
-        "depth_km": 15.595,
-        "time_ms": 1785245073502,
-        "place": "152 km WSW of Puerto Santa, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.8
+    "seismic_hub_risk_score": 3.62
   },
   {
     "country": "",
@@ -2395,8 +2352,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.18,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.17,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2472,6 +2429,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tmei",
+        "magnitude": 5.1,
+        "latitude": -24.7124,
+        "longitude": -175.3072,
+        "depth_km": 10,
+        "time_ms": 1787299954179,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tkhm",
         "magnitude": 5.6,
@@ -2627,12 +2595,23 @@
         "shakemap_available": true
       },
       {
+        "id": "us6000thue",
+        "magnitude": 5,
+        "latitude": -24.7098,
+        "longitude": -175.0749,
+        "depth_km": 10,
+        "time_ms": 1785358422447,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tgtc",
         "magnitude": 5.1,
-        "latitude": -24.6741,
-        "longitude": -175.2781,
+        "latitude": -24.6874,
+        "longitude": -175.28,
         "depth_km": 10,
-        "time_ms": 1785358330187,
+        "time_ms": 1785358330137,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2640,10 +2619,10 @@
       {
         "id": "us6000tgrk",
         "magnitude": 5,
-        "latitude": -24.7806,
-        "longitude": -175.2137,
+        "latitude": -24.6839,
+        "longitude": -175.2672,
         "depth_km": 10,
-        "time_ms": 1785344855235,
+        "time_ms": 1785344855426,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2757,20 +2736,157 @@
         "place": "65 km WSW of Pangai, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t2j3",
-        "magnitude": 5.1,
-        "latitude": -29.5278,
-        "longitude": -177.1126,
-        "depth_km": 22.112,
-        "time_ms": 1784754175170,
-        "place": "Kermadec Islands, New Zealand",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.79
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.62,
+    "strongest_earthquake": {
+      "magnitude": 6.7,
+      "date": "2026-08-20",
+      "depth_km": 99,
+      "latitude": -14.6414,
+      "longitude": -73.5236
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 74,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 18.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000th4k",
+            "magnitude": 5.6,
+            "latitude": -8.325,
+            "longitude": -74.4179,
+            "depth_km": 156.481,
+            "time_ms": 1785459524783,
+            "place": "15 km ENE of San Fernando, Peru",
+            "distance_km": 18.2,
+            "exposure_contribution": 0.9,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000thpt",
+            "magnitude": 5.2,
+            "latitude": -8.6087,
+            "longitude": -75.836,
+            "depth_km": 123.99,
+            "time_ms": 1785721344824,
+            "place": "71 km ESE of Uchiza, Peru",
+            "distance_km": 141.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.32
+      },
+      {
+        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
+        "iata_code": "TRU",
+        "latitude": -8.082382,
+        "longitude": -79.108821,
+        "municipality": "Trujillo",
+        "closest_quake_distance_km": 197.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tgcx",
+            "magnitude": 5.3,
+            "latitude": -9.7091,
+            "longitude": -79.8344,
+            "depth_km": 15.595,
+            "time_ms": 1785245073502,
+            "place": "152 km WSW of Puerto Santa, Peru",
+            "distance_km": 197.7,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.43
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tm81",
+        "magnitude": 6.7,
+        "latitude": -14.6414,
+        "longitude": -73.5236,
+        "depth_km": 99,
+        "time_ms": 1787248818626,
+        "place": "31 km NW of Aniso, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tip9",
+        "magnitude": 5.3,
+        "latitude": -12.1948,
+        "longitude": -75.2574,
+        "depth_km": 10,
+        "time_ms": 1786042641831,
+        "place": "7 km SSW of Huayucachi, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thpt",
+        "magnitude": 5.2,
+        "latitude": -8.6087,
+        "longitude": -75.836,
+        "depth_km": 123.99,
+        "time_ms": 1785721344824,
+        "place": "71 km ESE of Uchiza, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th4k",
+        "magnitude": 5.6,
+        "latitude": -8.325,
+        "longitude": -74.4179,
+        "depth_km": 156.481,
+        "time_ms": 1785459524783,
+        "place": "15 km ENE of San Fernando, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tgcx",
+        "magnitude": 5.3,
+        "latitude": -9.7091,
+        "longitude": -79.8344,
+        "depth_km": 15.595,
+        "time_ms": 1785245073502,
+        "place": "152 km WSW of Puerto Santa, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.75
   },
   {
     "country": "",
@@ -2957,52 +3073,28 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "General Ignacio L. Pesqueira International Airport",
-        "iata_code": "HMO",
-        "latitude": 29.092811,
-        "longitude": -111.053015,
-        "municipality": "Hermosillo",
-        "closest_quake_distance_km": 191.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thm1",
-            "magnitude": 5.1,
-            "latitude": 27.3736,
-            "longitude": -111.0607,
-            "depth_km": 10,
-            "time_ms": 1785676247947,
-            "place": "60 km W of Bahía de Lobos, Mexico",
-            "distance_km": 191.2,
-            "exposure_contribution": 0.36,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.36
-      },
-      {
         "name": "Loreto International Airport",
         "iata_code": "LTO",
         "latitude": 25.989549,
         "longitude": -111.348408,
         "municipality": "Loreto",
-        "closest_quake_distance_km": 156.5,
+        "closest_quake_distance_km": 136.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000thm1",
             "magnitude": 5.1,
-            "latitude": 27.3736,
-            "longitude": -111.0607,
+            "latitude": 27.2104,
+            "longitude": -111.2632,
             "depth_km": 10,
-            "time_ms": 1785676247947,
-            "place": "60 km W of Bahía de Lobos, Mexico",
-            "distance_km": 156.5,
-            "exposure_contribution": 0.51,
+            "time_ms": 1785676246579,
+            "place": "79 km ENE of Mulegé, Mexico",
+            "distance_km": 136.0,
+            "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.51
+        "exposure_score": 0.64
       }
     ],
     "earthquakes": [
@@ -3042,22 +3134,22 @@
       {
         "id": "us6000thm1",
         "magnitude": 5.1,
-        "latitude": 27.3736,
-        "longitude": -111.0607,
+        "latitude": 27.2104,
+        "longitude": -111.2632,
         "depth_km": 10,
-        "time_ms": 1785676247947,
-        "place": "60 km W of Bahía de Lobos, Mexico",
+        "time_ms": 1785676246579,
+        "place": "79 km ENE of Mulegé, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
       {
         "id": "us6000th8n",
         "magnitude": 5.2,
-        "latitude": 14.6031,
-        "longitude": -93.2309,
+        "latitude": 14.5026,
+        "longitude": -93.242,
         "depth_km": 10,
-        "time_ms": 1785514558641,
-        "place": "85 km SW of El Arenal, Mexico",
+        "time_ms": 1785514557624,
+        "place": "91 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       },
@@ -3095,7 +3187,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 0.87
+    "seismic_hub_risk_score": 0.64
   },
   {
     "country": "",
