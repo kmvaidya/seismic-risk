@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-22 06:24 UTC
+Generated: 2026-08-23 06:25 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-05-25 to 2026-08-22).
+Based on 89 snapshots (2026-05-26 to 2026-08-23).
 
 
 **Top score changes**:
@@ -12,24 +12,24 @@ Based on 89 snapshots (2026-05-25 to 2026-08-22).
 
 **Top airport exposure changes**:
 
-- General Santos International Airport (GES, ): -0.9
-- Kualanamu International Airport (KNO, ): -0.4
-- Francisco Bangoy International Airport (DVO, ): -0.3
-- Loreto International Airport (LTO, ): +0.1
-- Cap FAP David Abenzur Rengifo International Airport (PCL, ): -0.1
+- Sam Ratulangi International Airport (MDC, ): -0.8
+- Kualanamu International Airport (KNO, ): -0.5
+- Laguindingan International Airport (CGY, ): +0.5
+- Francisco Bangoy International Airport (DVO, ): +0.4
+- Bohol-Panglao International Airport (TAG, ): +0.3
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 105.0 | ~ | 5.5 | M6.8 (2026-07-28) | 11 | 10 | red | No | 1 |
-|  |  |  | 18.9 | ~ | 5.3 | M6.3 (2026-08-05) | 13 | 8 | green | No | 1 |
+|  |  |  | 115.7 | ~ | 5.5 | M6.8 (2026-07-28) | 11 | 13 | red | No | 1 |
+|  |  |  | 20.3 | ~ | 5.2 | M6.3 (2026-08-05) | 15 | 8 | green | No | 1 |
 |  |  |  | 15.5 | ~ | 5.5 | M5.9 (2026-07-30) | 3 | 1 | - | No | 0 |
-|  |  |  | 12.9 | ~ | 5.4 | M7.7 (2026-08-14) | 60 | 3 | yellow | No | 2 |
+|  |  |  | 11.6 | ~ | 5.3 | M7.7 (2026-08-14) | 60 | 3 | yellow | No | 2 |
 |  |  |  | 3.6 | ~ | 5.3 | M5.8 (2026-08-17) | 9 | 1 | - | No | 0 |
 |  |  |  | 1.8 | ~ | 5.2 | M5.9 (2026-07-29) | 28 | 2 | - | No | 0 |
 |  |  |  | 1.8 | ~ | 5.6 | M6.7 (2026-08-20) | 5 | 2 | green | No | 1 |
-|  |  |  | 1.1 | ~ | 5.3 | M5.8 (2026-07-26) | 7 | 2 | green | No | 2 |
+|  |  |  | 1.1 | ~ | 5.3 | M5.8 (2026-07-26) | 5 | 2 | - | No | 1 |
 |  |  |  | 0.6 | ~ | 5.3 | M5.9 (2026-07-28) | 8 | 1 | - | No | 0 |
 |  |  |  | 0.6 | ~ | 5.2 | M5.5 (2026-08-16) | 11 | 1 | - | No | 0 |
 |  |  |  | 0.3 | ~ | 5.2 | M5.5 (2026-08-08) | 5 | 1 | - | No | 0 |
@@ -45,21 +45,24 @@ Based on 89 snapshots (2026-05-25 to 2026-08-22).
 | Nagasaki Airport | NGS | Nagasaki |  | 9.8 | ~ | 0.0420 | 71.4 | 4 |
 | Fukuoka Airport | FUK | Fukuoka |  | 5.3 | ~ | 0.0239 | 99.3 | 4 |
 | Kitakyushu Airport | KKJ | Kitakyushu |  | 5.0 | ~ | 0.0312 | 132.0 | 4 |
-| Aomori Airport | AOJ | Aomori |  | 1.8 | ~ | - | 126.3 | 2 |
+| Narita International Airport | NRT | Narita |  | 3.9 | NEW | - | 33.7 | 1 |
+| Ibaraki Airport | IBR | Omitama |  | 3.6 | NEW | - | 40.6 | 1 |
+| Tokyo Haneda International Airport | HND | Tokyo |  | 3.2 | NEW | - | 50.5 | 1 |
+| Aomori Airport | AOJ | Aomori |  | 1.7 | ~ | - | 126.3 | 2 |
 | Hakodate Airport | HKD | Hakodate |  | 1.1 | ~ | - | 107.2 | 1 |
 | New Chitose Airport | CTS | Sapporo |  | 0.7 | ~ | - | 162.1 | 1 |
-| General Santos International Airport | GES | General Santos |  | 12.1 | -0.9 | 0.0573 | 58.1 | 7 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 1.7 | ~ | - | 100.9 | 3 |
-| Laguindingan International Airport | CGY | Laguindingan |  | 1.3 | NEW | - | 126.4 | 2 |
+| General Santos International Airport | GES | General Santos |  | 12.4 | ~ | 0.0573 | 58.1 | 8 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 2.1 | ~ | - | 100.9 | 4 |
+| Laguindingan International Airport | CGY | Laguindingan |  | 1.8 | ~ | - | 126.4 | 3 |
 | Bicol International Airport | DRP | Legazpi |  | 1.3 | ~ | - | 107.1 | 1 |
-| Bohol-Panglao International Airport | TAG | Panglao |  | 0.8 | NEW | - | 174.4 | 2 |
-| Mactan Cebu International Airport | CEB | Cebu City/Lapu-Lapu City |  | 0.8 | NEW | - | 184.2 | 2 |
+| Bohol-Panglao International Airport | TAG | Panglao |  | 1.1 | ~ | - | 174.4 | 3 |
+| Mactan Cebu International Airport | CEB | Cebu City/Lapu-Lapu City |  | 0.8 | ~ | - | 184.2 | 2 |
 | Ninoy Aquino International Airport | MNL | Manila (Pasay) |  | 0.4 | ~ | - | 132.5 | 1 |
 | Subic Bay International Airport / Naval Air Station Cubi Point | SFS | Olongapo |  | 0.3 | ~ | - | 160.9 | 1 |
 | Yap International Airport | YAP | Yap Island |  | 15.5 | ~ | - | 23.4 | 2 |
-| Kualanamu International Airport | KNO | Beringin |  | 9.4 | ~ | 0.0936 | 63.5 | 1 |
+| Kualanamu International Airport | KNO | Beringin |  | 8.8 | -0.5 | 0.0882 | 73.6 | 1 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 1.9 | ~ | - | 179.1 | 4 |
-| Sam Ratulangi International Airport | MDC | Manado |  | 1.6 | ~ | - | 175.3 | 2 |
+| Sam Ratulangi International Airport | MDC | Manado |  | 0.8 | -0.8 | - | 175.3 | 1 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 3.6 | ~ | - | 75.3 | 3 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 1.2 | ~ | - | 133.4 | 2 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.6 | ~ | - | 127.0 | 1 |
