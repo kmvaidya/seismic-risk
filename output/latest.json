@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.52,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.55,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -80,8 +80,21 @@
         "latitude": 42.774753,
         "longitude": 141.690414,
         "municipality": "Sapporo",
-        "closest_quake_distance_km": 162.1,
+        "closest_quake_distance_km": 140.2,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmz6",
+            "magnitude": 6,
+            "latitude": 41.8344,
+            "longitude": 142.8255,
+            "depth_km": 42.867,
+            "time_ms": 1787492693514,
+            "place": "33 km SSW of Honchō, Japan",
+            "distance_km": 140.2,
+            "exposure_contribution": 1.61,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us6000thdk",
             "magnitude": 5.5,
@@ -96,7 +109,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.65
+        "exposure_score": 2.26
       },
       {
         "name": "Hakodate Airport",
@@ -118,9 +131,22 @@
             "exposure_contribution": 1.09,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tmz6",
+            "magnitude": 6,
+            "latitude": 41.8344,
+            "longitude": 142.8255,
+            "depth_km": 42.867,
+            "time_ms": 1787492693514,
+            "place": "33 km SSW of Honchō, Japan",
+            "distance_km": 166.2,
+            "exposure_contribution": 1.24,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.09
+        "exposure_score": 2.32
       },
       {
         "name": "Fukuoka Airport",
@@ -679,6 +705,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tmz6",
+        "magnitude": 6,
+        "latitude": 41.8344,
+        "longitude": 142.8255,
+        "depth_km": 42.867,
+        "time_ms": 1787492693514,
+        "place": "33 km SSW of Honchō, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000tmta",
         "magnitude": 5.8,
         "latitude": 35.9375,
@@ -724,12 +761,12 @@
       },
       {
         "id": "us6000timf",
-        "magnitude": 5.4,
-        "latitude": 39.5829,
-        "longitude": 143.6408,
+        "magnitude": 5.3,
+        "latitude": 39.6168,
+        "longitude": 143.7015,
         "depth_km": 10,
-        "time_ms": 1786038216862,
-        "place": "145 km E of Yamada, Japan",
+        "time_ms": 1786038216948,
+        "place": "151 km E of Miyako, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -800,7 +837,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 115.66
+    "seismic_hub_risk_score": 118.5
   },
   {
     "country": "",
@@ -1501,7 +1538,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 60,
+    "earthquake_count": 59,
     "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.7,
@@ -1521,62 +1558,23 @@
         "latitude": -2.579627,
         "longitude": 140.519857,
         "municipality": "Sentani",
-        "closest_quake_distance_km": 179.1,
+        "closest_quake_distance_km": 182.6,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t30r",
-            "magnitude": 5.4,
-            "latitude": -2.5691,
-            "longitude": 138.9073,
-            "depth_km": 10,
-            "time_ms": 1784895268115,
-            "place": "191 km W of Abepura, Indonesia",
-            "distance_km": 179.1,
-            "exposure_contribution": 0.57,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t309",
-            "magnitude": 5.3,
-            "latitude": -2.5658,
-            "longitude": 138.8439,
-            "depth_km": 10,
-            "time_ms": 1784891494436,
-            "place": "198 km W of Abepura, Indonesia",
-            "distance_km": 186.2,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t30v",
-            "magnitude": 5.1,
-            "latitude": -2.5996,
-            "longitude": 138.8379,
-            "depth_km": 10,
-            "time_ms": 1784896023072,
-            "place": "199 km W of Abepura, Indonesia",
-            "distance_km": 186.8,
-            "exposure_contribution": 0.38,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tgvu",
             "magnitude": 5.4,
-            "latitude": -2.6018,
-            "longitude": 138.8205,
-            "depth_km": 35,
-            "time_ms": 1785386532667,
-            "place": "201 km W of Abepura, Indonesia",
-            "distance_km": 188.8,
-            "exposure_contribution": 0.51,
+            "latitude": -2.5881,
+            "longitude": 138.8756,
+            "depth_km": 10,
+            "time_ms": 1785386528654,
+            "place": "195 km W of Abepura, Indonesia",
+            "distance_km": 182.6,
+            "exposure_contribution": 0.55,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.94
+        "exposure_score": 0.55
       },
       {
         "name": "Sam Ratulangi International Airport",
@@ -1628,6 +1626,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tn0s",
+        "magnitude": 5.2,
+        "latitude": -8.1992,
+        "longitude": 120.8354,
+        "depth_km": 10,
+        "time_ms": 1787520015767,
+        "place": "61 km NE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tmq5",
         "magnitude": 5.2,
@@ -1927,12 +1936,12 @@
       },
       {
         "id": "us6000tl0v",
-        "magnitude": 5.2,
-        "latitude": -8.2575,
-        "longitude": 121.2565,
-        "depth_km": 10,
-        "time_ms": 1786796079321,
-        "place": "78 km NW of Ende, Indonesia",
+        "magnitude": 5.1,
+        "latitude": -8.2578,
+        "longitude": 121.2937,
+        "depth_km": 16.658,
+        "time_ms": 1786796080304,
+        "place": "76 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2158,12 +2167,12 @@
       },
       {
         "id": "us6000tjfj",
-        "magnitude": 5.3,
-        "latitude": -5.7782,
-        "longitude": 102.8866,
+        "magnitude": 5.2,
+        "latitude": -5.8046,
+        "longitude": 102.8509,
         "depth_km": 35,
-        "time_ms": 1786288503956,
-        "place": "197 km SSW of Pagar Alam, Indonesia",
+        "time_ms": 1786288503969,
+        "place": "201 km SSW of Pagar Alam, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2181,11 +2190,22 @@
       {
         "id": "us6000tics",
         "magnitude": 5.3,
-        "latitude": 1.7901,
-        "longitude": 127.454,
-        "depth_km": 115.65,
-        "time_ms": 1785948618349,
-        "place": "62 km W of Tobelo, Indonesia",
+        "latitude": 1.7883,
+        "longitude": 127.4345,
+        "depth_km": 123.797,
+        "time_ms": 1785948618982,
+        "place": "64 km W of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tiat",
+        "magnitude": 5,
+        "latitude": -8.1305,
+        "longitude": 107.8541,
+        "depth_km": 60.835,
+        "time_ms": 1785941741965,
+        "place": "90 km SSW of Singaparna, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2236,11 +2256,11 @@
       {
         "id": "us6000tgvu",
         "magnitude": 5.4,
-        "latitude": -2.6018,
-        "longitude": 138.8205,
-        "depth_km": 35,
-        "time_ms": 1785386532667,
-        "place": "201 km W of Abepura, Indonesia",
+        "latitude": -2.5881,
+        "longitude": 138.8756,
+        "depth_km": 10,
+        "time_ms": 1785386528654,
+        "place": "195 km W of Abepura, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -2254,42 +2274,9 @@
         "place": "36 km NW of Kupang, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t30v",
-        "magnitude": 5.1,
-        "latitude": -2.5996,
-        "longitude": 138.8379,
-        "depth_km": 10,
-        "time_ms": 1784896023072,
-        "place": "199 km W of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t30r",
-        "magnitude": 5.4,
-        "latitude": -2.5691,
-        "longitude": 138.9073,
-        "depth_km": 10,
-        "time_ms": 1784895268115,
-        "place": "191 km W of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t309",
-        "magnitude": 5.3,
-        "latitude": -2.5658,
-        "longitude": 138.8439,
-        "depth_km": 10,
-        "time_ms": 1784891494436,
-        "place": "198 km W of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 11.58
+    "seismic_hub_risk_score": 10.19
   },
   {
     "country": "",
@@ -2305,7 +2292,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.32,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-17",
@@ -2351,25 +2338,23 @@
             "exposure_contribution": 2.26,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t34c",
-            "magnitude": 5.1,
-            "latitude": 51.7241,
-            "longitude": 158.0173,
-            "depth_km": 81.515,
-            "time_ms": 1784910801082,
-            "place": "108 km ENE of Ozernovskiy, Russia",
-            "distance_km": 163.3,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 3.62
+        "exposure_score": 3.23
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tn19",
+        "magnitude": 5,
+        "latitude": 52.1941,
+        "longitude": 176.3834,
+        "depth_km": 13.186,
+        "time_ms": 1787527235668,
+        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tlyv",
         "magnitude": 5.4,
@@ -2457,20 +2442,281 @@
         "place": "152 km E of Ust’-Kamchatsk Staryy, Russia",
         "country_code": "RU",
         "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 3.23
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.62,
+    "strongest_earthquake": {
+      "magnitude": 6.7,
+      "date": "2026-08-20",
+      "depth_km": 99,
+      "latitude": -14.6414,
+      "longitude": -73.5236
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 74,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 18.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000th4k",
+            "magnitude": 5.6,
+            "latitude": -8.325,
+            "longitude": -74.4179,
+            "depth_km": 156.481,
+            "time_ms": 1785459524783,
+            "place": "15 km ENE of San Fernando, Peru",
+            "distance_km": 18.2,
+            "exposure_contribution": 0.9,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000thpt",
+            "magnitude": 5.2,
+            "latitude": -8.6087,
+            "longitude": -75.836,
+            "depth_km": 123.99,
+            "time_ms": 1785721344824,
+            "place": "71 km ESE of Uchiza, Peru",
+            "distance_km": 141.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.32
       },
       {
-        "id": "us7000t34c",
-        "magnitude": 5.1,
-        "latitude": 51.7241,
-        "longitude": 158.0173,
-        "depth_km": 81.515,
-        "time_ms": 1784910801082,
-        "place": "108 km ENE of Ozernovskiy, Russia",
-        "country_code": "RU",
+        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
+        "iata_code": "TRU",
+        "latitude": -8.082382,
+        "longitude": -79.108821,
+        "municipality": "Trujillo",
+        "closest_quake_distance_km": 197.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tgcx",
+            "magnitude": 5.3,
+            "latitude": -9.7091,
+            "longitude": -79.8344,
+            "depth_km": 15.595,
+            "time_ms": 1785245073502,
+            "place": "152 km WSW of Puerto Santa, Peru",
+            "distance_km": 197.7,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.43
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tm81",
+        "magnitude": 6.7,
+        "latitude": -14.6414,
+        "longitude": -73.5236,
+        "depth_km": 99,
+        "time_ms": 1787248818626,
+        "place": "31 km NW of Aniso, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tip9",
+        "magnitude": 5.3,
+        "latitude": -12.1948,
+        "longitude": -75.2574,
+        "depth_km": 10,
+        "time_ms": 1786042641831,
+        "place": "7 km SSW of Huayucachi, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thpt",
+        "magnitude": 5.2,
+        "latitude": -8.6087,
+        "longitude": -75.836,
+        "depth_km": 123.99,
+        "time_ms": 1785721344824,
+        "place": "71 km ESE of Uchiza, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000th4k",
+        "magnitude": 5.6,
+        "latitude": -8.325,
+        "longitude": -74.4179,
+        "depth_km": 156.481,
+        "time_ms": 1785459524783,
+        "place": "15 km ENE of San Fernando, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tgcx",
+        "magnitude": 5.3,
+        "latitude": -9.7091,
+        "longitude": -79.8344,
+        "depth_km": 15.595,
+        "time_ms": 1785245073502,
+        "place": "152 km WSW of Puerto Santa, Peru",
+        "country_code": "PE",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.62
+    "seismic_hub_risk_score": 1.75
+  },
+  {
+    "country": "",
+    "iso_alpha2": "US",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.4,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-07-26",
+      "depth_km": 10,
+      "latitude": 51.4588,
+      "longitude": -173.1399
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 1137,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Ted Stevens Anchorage International Airport",
+        "iata_code": "ANC",
+        "latitude": 61.179004,
+        "longitude": -149.992561,
+        "municipality": "Anchorage",
+        "closest_quake_distance_km": 172.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "aka2026powmkf",
+            "magnitude": 5.6,
+            "latitude": 62.269,
+            "longitude": -152.314,
+            "depth_km": 10,
+            "time_ms": 1786164634985,
+            "place": "57 km WNW of Skwentna, Alaska",
+            "distance_km": 172.2,
+            "exposure_contribution": 0.27,
+            "pga_g": 0.00267,
+            "mmi": 2.9
+          }
+        ],
+        "exposure_score": 0.27
+      },
+      {
+        "name": "Ellison Onizuka Kona International Airport at Keāhole",
+        "iata_code": "KOA",
+        "latitude": 19.738783,
+        "longitude": -156.045603,
+        "municipality": "Kailua-Kona",
+        "closest_quake_distance_km": 128.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "hv75018296",
+            "magnitude": 5.2,
+            "latitude": 18.879,
+            "longitude": -155.233333333333,
+            "depth_km": 10.73,
+            "time_ms": 1786506513980,
+            "place": "42 km ESE of Naalehu, Hawaii",
+            "distance_km": 128.1,
+            "exposure_contribution": 0.79,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.79
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "hv75018296",
+        "magnitude": 5.2,
+        "latitude": 18.879,
+        "longitude": -155.233333333333,
+        "depth_km": 10.73,
+        "time_ms": 1786506513980,
+        "place": "42 km ESE of Naalehu, Hawaii",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "aka2026powmkf",
+        "magnitude": 5.6,
+        "latitude": 62.269,
+        "longitude": -152.314,
+        "depth_km": 10,
+        "time_ms": 1786164634985,
+        "place": "57 km WNW of Skwentna, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "aka2026ovufno",
+        "magnitude": 5,
+        "latitude": 63.611,
+        "longitude": -150.673,
+        "depth_km": 5,
+        "time_ms": 1785271764979,
+        "place": "52 km E of Denali National Park, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000t3fm",
+        "magnitude": 5.8,
+        "latitude": 51.4588,
+        "longitude": -173.1399,
+        "depth_km": 10,
+        "time_ms": 1785054918418,
+        "place": "109 km SE of Atka, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.06
   },
   {
     "country": "",
@@ -2485,8 +2731,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 28,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 27,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2499,30 +2745,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
-      {
-        "name": "Fua'amotu International Airport",
-        "iata_code": "TBU",
-        "latitude": -21.241438,
-        "longitude": -175.149164,
-        "municipality": "Nuku'alofa",
-        "closest_quake_distance_km": 127.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t35n",
-            "magnitude": 5,
-            "latitude": -20.1248,
-            "longitude": -174.891,
-            "depth_km": 49.149,
-            "time_ms": 1784913296043,
-            "place": "65 km WSW of Pangai, Tonga",
-            "distance_km": 127.0,
-            "exposure_contribution": 0.57,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.57
-      },
       {
         "name": "Vava'u International Airport",
         "iata_code": "VAV",
@@ -2543,22 +2765,9 @@
             "exposure_contribution": 0.93,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000t35n",
-            "magnitude": 5,
-            "latitude": -20.1248,
-            "longitude": -174.891,
-            "depth_km": 49.149,
-            "time_ms": 1784913296043,
-            "place": "65 km WSW of Pangai, Tonga",
-            "distance_km": 197.0,
-            "exposure_contribution": 0.29,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.22
+        "exposure_score": 0.93
       }
     ],
     "earthquakes": [
@@ -2858,303 +3067,9 @@
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000t35n",
-        "magnitude": 5,
-        "latitude": -20.1248,
-        "longitude": -174.891,
-        "depth_km": 49.149,
-        "time_ms": 1784913296043,
-        "place": "65 km WSW of Pangai, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.79
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.62,
-    "strongest_earthquake": {
-      "magnitude": 6.7,
-      "date": "2026-08-20",
-      "depth_km": 99,
-      "latitude": -14.6414,
-      "longitude": -73.5236
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 74,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 18.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000th4k",
-            "magnitude": 5.6,
-            "latitude": -8.325,
-            "longitude": -74.4179,
-            "depth_km": 156.481,
-            "time_ms": 1785459524783,
-            "place": "15 km ENE of San Fernando, Peru",
-            "distance_km": 18.2,
-            "exposure_contribution": 0.9,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000thpt",
-            "magnitude": 5.2,
-            "latitude": -8.6087,
-            "longitude": -75.836,
-            "depth_km": 123.99,
-            "time_ms": 1785721344824,
-            "place": "71 km ESE of Uchiza, Peru",
-            "distance_km": 141.1,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      },
-      {
-        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
-        "iata_code": "TRU",
-        "latitude": -8.082382,
-        "longitude": -79.108821,
-        "municipality": "Trujillo",
-        "closest_quake_distance_km": 197.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgcx",
-            "magnitude": 5.3,
-            "latitude": -9.7091,
-            "longitude": -79.8344,
-            "depth_km": 15.595,
-            "time_ms": 1785245073502,
-            "place": "152 km WSW of Puerto Santa, Peru",
-            "distance_km": 197.7,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tm81",
-        "magnitude": 6.7,
-        "latitude": -14.6414,
-        "longitude": -73.5236,
-        "depth_km": 99,
-        "time_ms": 1787248818626,
-        "place": "31 km NW of Aniso, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tip9",
-        "magnitude": 5.3,
-        "latitude": -12.1948,
-        "longitude": -75.2574,
-        "depth_km": 10,
-        "time_ms": 1786042641831,
-        "place": "7 km SSW of Huayucachi, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thpt",
-        "magnitude": 5.2,
-        "latitude": -8.6087,
-        "longitude": -75.836,
-        "depth_km": 123.99,
-        "time_ms": 1785721344824,
-        "place": "71 km ESE of Uchiza, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th4k",
-        "magnitude": 5.6,
-        "latitude": -8.325,
-        "longitude": -74.4179,
-        "depth_km": 156.481,
-        "time_ms": 1785459524783,
-        "place": "15 km ENE of San Fernando, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgcx",
-        "magnitude": 5.3,
-        "latitude": -9.7091,
-        "longitude": -79.8344,
-        "depth_km": 15.595,
-        "time_ms": 1785245073502,
-        "place": "152 km WSW of Puerto Santa, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.75
-  },
-  {
-    "country": "",
-    "iso_alpha2": "US",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.34,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-07-26",
-      "depth_km": 10,
-      "latitude": 51.4588,
-      "longitude": -173.1399
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 1137,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Ted Stevens Anchorage International Airport",
-        "iata_code": "ANC",
-        "latitude": 61.179004,
-        "longitude": -149.992561,
-        "municipality": "Anchorage",
-        "closest_quake_distance_km": 172.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "aka2026powmkf",
-            "magnitude": 5.6,
-            "latitude": 62.269,
-            "longitude": -152.314,
-            "depth_km": 10,
-            "time_ms": 1786164634985,
-            "place": "57 km WNW of Skwentna, Alaska",
-            "distance_km": 172.2,
-            "exposure_contribution": 0.27,
-            "pga_g": 0.00267,
-            "mmi": 2.9
-          }
-        ],
-        "exposure_score": 0.27
-      },
-      {
-        "name": "Ellison Onizuka Kona International Airport at Keāhole",
-        "iata_code": "KOA",
-        "latitude": 19.738783,
-        "longitude": -156.045603,
-        "municipality": "Kailua-Kona",
-        "closest_quake_distance_km": 128.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "hv75018296",
-            "magnitude": 5.2,
-            "latitude": 18.879,
-            "longitude": -155.233333333333,
-            "depth_km": 10.73,
-            "time_ms": 1786506513980,
-            "place": "42 km ESE of Naalehu, Hawaii",
-            "distance_km": 128.1,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.79
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "hv75018296",
-        "magnitude": 5.2,
-        "latitude": 18.879,
-        "longitude": -155.233333333333,
-        "depth_km": 10.73,
-        "time_ms": 1786506513980,
-        "place": "42 km ESE of Naalehu, Hawaii",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "aka2026powmkf",
-        "magnitude": 5.6,
-        "latitude": 62.269,
-        "longitude": -152.314,
-        "depth_km": 10,
-        "time_ms": 1786164634985,
-        "place": "57 km WNW of Skwentna, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "aka2026ovufno",
-        "magnitude": 5,
-        "latitude": 63.611,
-        "longitude": -150.673,
-        "depth_km": 5,
-        "time_ms": 1785271764979,
-        "place": "52 km E of Denali National Park, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t3fm",
-        "magnitude": 5.8,
-        "latitude": 51.4588,
-        "longitude": -173.1399,
-        "depth_km": 10,
-        "time_ms": 1785054918418,
-        "place": "109 km SE of Atka, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000t2wx",
-        "magnitude": 5.1,
-        "latitude": 51.1094,
-        "longitude": -176.0884,
-        "depth_km": 10,
-        "time_ms": 1784854996173,
-        "place": "93 km SSE of Adak, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.06
+    "seismic_hub_risk_score": 0.93
   },
   {
     "country": "",
@@ -3444,11 +3359,11 @@
       {
         "id": "us6000tgva",
         "magnitude": 5.3,
-        "latitude": -5.8112,
-        "longitude": 153.5797,
+        "latitude": -5.7495,
+        "longitude": 153.7224,
         "depth_km": 10,
-        "time_ms": 1785379584341,
-        "place": "217 km SE of Kokopo, Papua New Guinea",
+        "time_ms": 1785379583781,
+        "place": "204 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
