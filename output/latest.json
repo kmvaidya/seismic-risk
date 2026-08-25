@@ -22,9 +22,9 @@
       "longitude": 130.6843
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 95,
+    "max_felt_reports": 146,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Narita International Airport",
@@ -43,12 +43,12 @@
             "time_ms": 1787418039472,
             "place": "4 km N of Toride, Japan",
             "distance_km": 33.7,
-            "exposure_contribution": 3.89,
-            "pga_g": null,
-            "mmi": null
+            "exposure_contribution": 7.29,
+            "pga_g": 0.0729,
+            "mmi": 4.2
           }
         ],
-        "exposure_score": 3.89
+        "exposure_score": 7.29
       },
       {
         "name": "Ibaraki Airport",
@@ -67,12 +67,12 @@
             "time_ms": 1787418039472,
             "place": "4 km N of Toride, Japan",
             "distance_km": 40.6,
-            "exposure_contribution": 3.63,
-            "pga_g": null,
-            "mmi": null
+            "exposure_contribution": 6.93,
+            "pga_g": 0.069264,
+            "mmi": 4.3
           }
         ],
-        "exposure_score": 3.63
+        "exposure_score": 6.93
       },
       {
         "name": "New Chitose Airport",
@@ -695,12 +695,12 @@
             "time_ms": 1787418039472,
             "place": "4 km N of Toride, Japan",
             "distance_km": 50.5,
-            "exposure_contribution": 3.25,
-            "pga_g": null,
-            "mmi": null
+            "exposure_contribution": 5.4,
+            "pga_g": 0.054002,
+            "mmi": 4.0
           }
         ],
-        "exposure_score": 3.25
+        "exposure_score": 5.4
       }
     ],
     "earthquakes": [
@@ -837,7 +837,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 118.5
+    "seismic_hub_risk_score": 127.35
   },
   {
     "country": "",
@@ -1538,7 +1538,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 59,
+    "earthquake_count": 60,
     "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.7,
@@ -1626,6 +1626,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tn33",
+        "magnitude": 5.5,
+        "latitude": -5.0525,
+        "longitude": 129.6871,
+        "depth_km": 10,
+        "time_ms": 1787565778888,
+        "place": "207 km SSE of Amahai, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tn0s",
         "magnitude": 5.2,
@@ -1849,11 +1860,11 @@
       {
         "id": "usd0015eay",
         "magnitude": 5.5,
-        "latitude": -8.3149,
-        "longitude": 121.4724,
-        "depth_km": 15.522,
-        "time_ms": 1786927601245,
-        "place": "62 km NNW of Ende, Indonesia",
+        "latitude": -8.22,
+        "longitude": 121.441,
+        "depth_km": 5.134,
+        "time_ms": 1786927599473,
+        "place": "73 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -2134,12 +2145,12 @@
       },
       {
         "id": "us6000tk1y",
-        "magnitude": 5.1,
-        "latitude": 1.7064,
-        "longitude": 128.4742,
+        "magnitude": 5,
+        "latitude": 1.67,
+        "longitude": 128.3815,
         "depth_km": 10,
-        "time_ms": 1786479258452,
-        "place": "51 km E of Tobelo, Indonesia",
+        "time_ms": 1786479258524,
+        "place": "41 km E of Tobelo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2511,6 +2522,30 @@
         "exposure_score": 1.32
       },
       {
+        "name": "Jorge Chávez International Airport",
+        "iata_code": "LIM",
+        "latitude": -12.0219,
+        "longitude": -77.114305,
+        "municipality": "Lima",
+        "closest_quake_distance_km": 189.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tip9",
+            "magnitude": 5.3,
+            "latitude": -12.157,
+            "longitude": -75.3788,
+            "depth_km": 10,
+            "time_ms": 1786042641239,
+            "place": "4 km N of Yanacancha, Peru",
+            "distance_km": 189.3,
+            "exposure_contribution": 0.46,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.46
+      },
+      {
         "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
         "iata_code": "TRU",
         "latitude": -8.082382,
@@ -2527,6 +2562,30 @@
             "time_ms": 1785245073502,
             "place": "152 km WSW of Puerto Santa, Peru",
             "distance_km": 197.7,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.43
+      },
+      {
+        "name": "Captain Renán Elías Olivera International Airport",
+        "iata_code": "PIO",
+        "latitude": -13.7449,
+        "longitude": -76.220299,
+        "municipality": "Pisco",
+        "closest_quake_distance_km": 198.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tip9",
+            "magnitude": 5.3,
+            "latitude": -12.157,
+            "longitude": -75.3788,
+            "depth_km": 10,
+            "time_ms": 1786042641239,
+            "place": "4 km N of Yanacancha, Peru",
+            "distance_km": 198.7,
             "exposure_contribution": 0.43,
             "pga_g": null,
             "mmi": null
@@ -2550,11 +2609,11 @@
       {
         "id": "us6000tip9",
         "magnitude": 5.3,
-        "latitude": -12.1948,
-        "longitude": -75.2574,
+        "latitude": -12.157,
+        "longitude": -75.3788,
         "depth_km": 10,
-        "time_ms": 1786042641831,
-        "place": "7 km SSW of Huayucachi, Peru",
+        "time_ms": 1786042641239,
+        "place": "4 km N of Yanacancha, Peru",
         "country_code": "PE",
         "shakemap_available": false
       },
@@ -2592,7 +2651,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.75
+    "seismic_hub_risk_score": 2.64
   },
   {
     "country": "",
@@ -2862,10 +2921,10 @@
       {
         "id": "us6000th5s",
         "magnitude": 5,
-        "latitude": -29.4109,
-        "longitude": -176.5524,
-        "depth_km": 37.846,
-        "time_ms": 1785479426157,
+        "latitude": -29.0529,
+        "longitude": -176.3575,
+        "depth_km": 10,
+        "time_ms": 1785479420551,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
@@ -3084,8 +3143,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-28",
@@ -3200,17 +3259,6 @@
         "place": "54 km SW of Brisas Barra de Suchiate, Mexico",
         "country_code": "MX",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t3a0",
-        "magnitude": 5.1,
-        "latitude": 14.4725,
-        "longitude": -92.7787,
-        "depth_km": 35,
-        "time_ms": 1784957193729,
-        "place": "47 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.64
@@ -3326,22 +3374,22 @@
       {
         "id": "us6000tk29",
         "magnitude": 5,
-        "latitude": -4.7193,
-        "longitude": 152.9875,
-        "depth_km": 68.887,
-        "time_ms": 1786480288580,
-        "place": "89 km ESE of Kokopo, Papua New Guinea",
+        "latitude": -4.6393,
+        "longitude": 152.9244,
+        "depth_km": 71.07,
+        "time_ms": 1786480289038,
+        "place": "79 km ESE of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
       {
         "id": "us6000tk0a",
         "magnitude": 5,
-        "latitude": -7.6341,
-        "longitude": 144.8583,
+        "latitude": -7.5839,
+        "longitude": 144.9098,
         "depth_km": 10,
-        "time_ms": 1786467978902,
-        "place": "107 km WNW of Kerema, Papua New Guinea",
+        "time_ms": 1786467978407,
+        "place": "103 km WNW of Kerema, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
