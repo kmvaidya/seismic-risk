@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.55,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.51,
     "strongest_earthquake": {
       "magnitude": 6.8,
       "date": "2026-07-28",
@@ -22,7 +22,7 @@
       "longitude": 130.6843
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 146,
+    "max_felt_reports": 153,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -705,6 +705,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tnbv",
+        "magnitude": 5,
+        "latitude": 43.045,
+        "longitude": 145.6343,
+        "depth_km": 96.855,
+        "time_ms": 1787648840740,
+        "place": "31 km S of Nemuro, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tmz6",
         "magnitude": 6,
         "latitude": 41.8344,
@@ -740,10 +751,10 @@
       {
         "id": "us6000tlbz",
         "magnitude": 5.1,
-        "latitude": 46.4392,
-        "longitude": 151.4468,
-        "depth_km": 93.538,
-        "time_ms": 1787002596105,
+        "latitude": 46.4513,
+        "longitude": 151.4834,
+        "depth_km": 85.946,
+        "time_ms": 1787002595316,
         "place": "Kuril Islands",
         "country_code": "JP",
         "shakemap_available": false
@@ -852,8 +863,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
@@ -1075,6 +1086,19 @@
             "mmi": 5.2
           },
           {
+            "earthquake_id": "us6000ti80",
+            "magnitude": 5.1,
+            "latitude": 5.154,
+            "longitude": 125.2342,
+            "depth_km": 11.57,
+            "time_ms": 1785909558173,
+            "place": "37 km SW of Sarangani, Philippines",
+            "distance_km": 101.6,
+            "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tif5",
             "magnitude": 5.6,
             "latitude": 5.117,
@@ -1114,7 +1138,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 12.37
+        "exposure_score": 13.37
       },
       {
         "name": "Laguindingan International Airport",
@@ -1344,6 +1368,17 @@
         "shakemap_available": true
       },
       {
+        "id": "us6000ti80",
+        "magnitude": 5.1,
+        "latitude": 5.154,
+        "longitude": 125.2342,
+        "depth_km": 11.57,
+        "time_ms": 1785909558173,
+        "place": "37 km SW of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000ti71",
         "magnitude": 5.2,
         "latitude": 5.1323,
@@ -1421,7 +1456,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 20.28
+    "seismic_hub_risk_score": 21.28
   },
   {
     "country": "",
@@ -1474,29 +1509,29 @@
           {
             "earthquake_id": "us6000tlgm",
             "magnitude": 5.3,
-            "latitude": 9.638,
-            "longitude": 138.3106,
+            "latitude": 9.6219,
+            "longitude": 138.3124,
             "depth_km": 10,
-            "time_ms": 1787007191292,
-            "place": "24 km ENE of Colonia, Micronesia",
-            "distance_km": 29.4,
-            "exposure_contribution": 6.36,
+            "time_ms": 1787007191231,
+            "place": "23 km ENE of Colonia, Micronesia",
+            "distance_km": 28.6,
+            "exposure_contribution": 6.54,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 15.47
+        "exposure_score": 15.65
       }
     ],
     "earthquakes": [
       {
         "id": "us6000tlgm",
         "magnitude": 5.3,
-        "latitude": 9.638,
-        "longitude": 138.3106,
+        "latitude": 9.6219,
+        "longitude": 138.3124,
         "depth_km": 10,
-        "time_ms": 1787007191292,
-        "place": "24 km ENE of Colonia, Micronesia",
+        "time_ms": 1787007191231,
+        "place": "23 km ENE of Colonia, Micronesia",
         "country_code": "FM",
         "shakemap_available": false
       },
@@ -1523,7 +1558,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 15.47
+    "seismic_hub_risk_score": 15.65
   },
   {
     "country": "",
@@ -1539,7 +1574,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 60,
-    "avg_magnitude": 5.34,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1626,6 +1661,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tnd4",
+        "magnitude": 5,
+        "latitude": -8.1362,
+        "longitude": 120.5816,
+        "depth_km": 10,
+        "time_ms": 1787669934206,
+        "place": "54 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tn33",
         "magnitude": 5.5,
@@ -2274,17 +2320,6 @@
         "place": "195 km W of Abepura, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t3g4",
-        "magnitude": 5.3,
-        "latitude": -9.9714,
-        "longitude": 123.343,
-        "depth_km": 10,
-        "time_ms": 1785063457058,
-        "place": "36 km NW of Kupang, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 10.19
@@ -2666,14 +2701,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-07-26",
+      "magnitude": 5.6,
+      "date": "2026-08-08",
       "depth_km": 10,
-      "latitude": 51.4588,
-      "longitude": -173.1399
+      "latitude": 62.269,
+      "longitude": -152.314
     },
     "highest_pager_alert": null,
     "max_felt_reports": 1137,
@@ -2762,17 +2797,6 @@
         "place": "52 km E of Denali National Park, Alaska",
         "country_code": "US",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t3fm",
-        "magnitude": 5.8,
-        "latitude": 51.4588,
-        "longitude": -173.1399,
-        "depth_km": 10,
-        "time_ms": 1785054918418,
-        "place": "109 km SE of Atka, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.06
@@ -2790,8 +2814,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.18,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2830,6 +2854,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tnd7",
+        "magnitude": 5.2,
+        "latitude": -17.2913,
+        "longitude": -171.9817,
+        "depth_km": 10,
+        "time_ms": 1787670954612,
+        "place": "243 km SE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tmei",
         "magnitude": 5.1,
@@ -2888,11 +2923,11 @@
       {
         "id": "us6000thlj",
         "magnitude": 5.3,
-        "latitude": -23.7388,
-        "longitude": -174.9439,
+        "latitude": -23.6117,
+        "longitude": -175.0368,
         "depth_km": 10,
-        "time_ms": 1785666854181,
-        "place": "265 km S of ‘Ohonua, Tonga",
+        "time_ms": 1785666854336,
+        "place": "251 km S of ‘Ohonua, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -2909,14 +2944,14 @@
       },
       {
         "id": "us6000thf3",
-        "magnitude": 5.1,
-        "latitude": -22.3815,
-        "longitude": -179.1255,
-        "depth_km": 544.366,
-        "time_ms": 1785570363634,
+        "magnitude": 5.4,
+        "latitude": -22.3531,
+        "longitude": -179.0866,
+        "depth_km": 559.266,
+        "time_ms": 1785570364307,
         "place": "south of the Fiji Islands",
         "country_code": "TO",
-        "shakemap_available": false
+        "shakemap_available": true
       },
       {
         "id": "us6000th5s",
@@ -2932,10 +2967,10 @@
       {
         "id": "us6000th5f",
         "magnitude": 5,
-        "latitude": -28.3933,
-        "longitude": -176.7278,
+        "latitude": -28.3906,
+        "longitude": -176.6535,
         "depth_km": 35,
-        "time_ms": 1785470573372,
+        "time_ms": 1785470572737,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": false
