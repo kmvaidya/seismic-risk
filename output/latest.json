@@ -12,7 +12,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
+    "earthquake_count": 14,
     "avg_magnitude": 5.51,
     "strongest_earthquake": {
       "magnitude": 6.8,
@@ -21,10 +21,10 @@
       "latitude": 32.6297,
       "longitude": 130.6843
     },
-    "highest_pager_alert": "red",
+    "highest_pager_alert": "green",
     "max_felt_reports": 153,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Narita International Airport",
@@ -178,9 +178,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 108.5,
-            "exposure_contribution": 2.39,
-            "pga_g": 0.023873,
-            "mmi": 4.2
+            "exposure_contribution": 6.43,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgbm",
@@ -209,7 +209,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.26
+        "exposure_score": 9.31
       },
       {
         "name": "Kagoshima Airport",
@@ -254,9 +254,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 91.9,
-            "exposure_contribution": 5.97,
-            "pga_g": 0.059652,
-            "mmi": 5.2
+            "exposure_contribution": 8.22,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgy8",
@@ -285,7 +285,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 13.45
+        "exposure_score": 15.7
       },
       {
         "name": "Miyazaki Airport",
@@ -343,9 +343,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 110.3,
-            "exposure_contribution": 5.68,
-            "pga_g": 0.056802,
-            "mmi": 5.2
+            "exposure_contribution": 6.28,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgy8",
@@ -361,7 +361,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 11.92
+        "exposure_score": 12.52
       },
       {
         "name": "Kitakyushu Airport",
@@ -393,9 +393,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 139.1,
-            "exposure_contribution": 3.12,
-            "pga_g": 0.031235,
-            "mmi": 4.1
+            "exposure_contribution": 4.38,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgbm",
@@ -424,7 +424,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.05
+        "exposure_score": 6.3
       },
       {
         "name": "Kyushu Saga International Airport",
@@ -456,9 +456,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 68.0,
-            "exposure_contribution": 6.13,
-            "pga_g": 0.061274,
-            "mmi": 5.0
+            "exposure_contribution": 12.55,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgbm",
@@ -500,7 +500,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 12.15
+        "exposure_score": 18.57
       },
       {
         "name": "Kumamoto Airport",
@@ -532,9 +532,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 28.1,
-            "exposure_contribution": 31.63,
-            "pga_g": 0.316267,
-            "mmi": 7.5
+            "exposure_contribution": 37.58,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgbm",
@@ -576,7 +576,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 43.84
+        "exposure_score": 49.79
       },
       {
         "name": "Nagasaki Airport",
@@ -608,9 +608,9 @@
             "time_ms": 1785223634942,
             "place": "The 2026 Kumamoto Region, Japan Earthquake",
             "distance_km": 78.8,
-            "exposure_contribution": 4.2,
-            "pga_g": 0.041972,
-            "mmi": 4.1
+            "exposure_contribution": 10.24,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000tgmx",
@@ -639,7 +639,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 9.77
+        "exposure_score": 15.81
       },
       {
         "name": "Aomori Airport",
@@ -704,6 +704,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tc18",
+        "magnitude": 5.6,
+        "latitude": 38.1821,
+        "longitude": 143.8447,
+        "depth_km": 16.05,
+        "time_ms": 1787772102872,
+        "place": "209 km ESE of Ōfunato, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tnbv",
         "magnitude": 5,
@@ -848,7 +859,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 127.35
+    "seismic_hub_risk_score": 153.91
   },
   {
     "country": "",
@@ -863,7 +874,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
+    "earthquake_count": 15,
     "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 6.3,
@@ -984,19 +995,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tg94",
-            "magnitude": 5.3,
-            "latitude": 7.6302,
-            "longitude": 126.702,
-            "depth_km": 71.033,
-            "time_ms": 1785193593907,
-            "place": "16 km ENE of Baganga, Philippines",
-            "distance_km": 129.3,
-            "exposure_contribution": 0.71,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmy",
             "magnitude": 5,
             "latitude": 5.6147,
@@ -1010,7 +1008,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.12
+        "exposure_score": 1.41
       },
       {
         "name": "General Santos International Airport",
@@ -1062,13 +1060,13 @@
           {
             "earthquake_id": "us6000tkig",
             "magnitude": 5.3,
-            "latitude": 5.3002,
-            "longitude": 125.4836,
-            "depth_km": 66.312,
-            "time_ms": 1786646371327,
-            "place": "11 km S of Sarangani, Philippines",
-            "distance_km": 94.5,
-            "exposure_contribution": 1.05,
+            "latitude": 5.2976,
+            "longitude": 125.4298,
+            "depth_km": 55.266,
+            "time_ms": 1786646370077,
+            "place": "12 km SSW of Sarangani, Philippines",
+            "distance_km": 92.2,
+            "exposure_contribution": 1.17,
             "pga_g": null,
             "mmi": null
           },
@@ -1138,7 +1136,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 13.37
+        "exposure_score": 13.49
       },
       {
         "name": "Laguindingan International Airport",
@@ -1326,11 +1324,11 @@
       {
         "id": "us6000tkig",
         "magnitude": 5.3,
-        "latitude": 5.3002,
-        "longitude": 125.4836,
-        "depth_km": 66.312,
-        "time_ms": 1786646371327,
-        "place": "11 km S of Sarangani, Philippines",
+        "latitude": 5.2976,
+        "longitude": 125.4298,
+        "depth_km": 55.266,
+        "time_ms": 1786646370077,
+        "place": "12 km SSW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1443,20 +1441,9 @@
         "place": "5 km NNE of Balangonan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tg94",
-        "magnitude": 5.3,
-        "latitude": 7.6302,
-        "longitude": 126.702,
-        "depth_km": 71.033,
-        "time_ms": 1785193593907,
-        "place": "16 km ENE of Baganga, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 21.28
+    "seismic_hub_risk_score": 20.69
   },
   {
     "country": "",
@@ -1573,7 +1560,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 60,
+    "earthquake_count": 61,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.7,
@@ -1583,7 +1570,7 @@
       "longitude": 121.3517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 50,
+    "max_felt_reports": 51,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1662,13 +1649,24 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tbyu",
+        "magnitude": 5,
+        "latitude": -8.3715,
+        "longitude": 121.5083,
+        "depth_km": 10,
+        "time_ms": 1787753731234,
+        "place": "54 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tnd4",
         "magnitude": 5,
-        "latitude": -8.1362,
-        "longitude": 120.5816,
+        "latitude": -8.0758,
+        "longitude": 120.6333,
         "depth_km": 10,
-        "time_ms": 1787669934206,
-        "place": "54 km NNE of Ruteng, Indonesia",
+        "time_ms": 1787669934052,
+        "place": "62 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1851,11 +1849,11 @@
       {
         "id": "usd0015ee2",
         "magnitude": 5,
-        "latitude": -8.3182,
-        "longitude": 120.4472,
+        "latitude": -8.221,
+        "longitude": 120.345,
         "depth_km": 10,
-        "time_ms": 1786975114474,
-        "place": "32 km N of Ruteng, Indonesia",
+        "time_ms": 1786975114247,
+        "place": "45 km NNW of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1950,11 +1948,11 @@
       {
         "id": "us6000tl6a",
         "magnitude": 5.5,
-        "latitude": -7.9322,
-        "longitude": 120.5855,
-        "depth_km": 10,
-        "time_ms": 1786863107338,
-        "place": "76 km N of Ruteng, Indonesia",
+        "latitude": -7.8982,
+        "longitude": 120.5537,
+        "depth_km": 11.509,
+        "time_ms": 1786863107123,
+        "place": "79 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -2302,11 +2300,11 @@
       {
         "id": "us6000thbq",
         "magnitude": 5.3,
-        "latitude": -2.8782,
-        "longitude": 130.1637,
+        "latitude": -2.8643,
+        "longitude": 130.1655,
         "depth_km": 10,
-        "time_ms": 1785529166522,
-        "place": "140 km ENE of Masohi, Indonesia",
+        "time_ms": 1785529166519,
+        "place": "141 km ENE of Masohi, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2814,8 +2812,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 28,
-    "avg_magnitude": 5.19,
+    "earthquake_count": 23,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
@@ -2857,11 +2855,11 @@
       {
         "id": "us6000tnd7",
         "magnitude": 5.2,
-        "latitude": -17.2913,
-        "longitude": -171.9817,
+        "latitude": -17.4086,
+        "longitude": -171.8992,
         "depth_km": 10,
-        "time_ms": 1787670954612,
-        "place": "243 km SE of Hihifo, Tonga",
+        "time_ms": 1787670954340,
+        "place": "258 km SE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -2998,12 +2996,23 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000ti3s",
+        "magnitude": 5.6,
+        "latitude": -28.7824,
+        "longitude": -176.4501,
+        "depth_km": 10,
+        "time_ms": 1785388128237,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000tgvz",
         "magnitude": 5.8,
-        "latitude": -28.6242,
-        "longitude": -176.5759,
+        "latitude": -28.5835,
+        "longitude": -176.6369,
         "depth_km": 10,
-        "time_ms": 1785388111888,
+        "time_ms": 1785388111635,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
@@ -3095,72 +3104,6 @@
         "place": "139 km NE of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tg95",
-        "magnitude": 5.1,
-        "latitude": -24.8313,
-        "longitude": -175.2173,
-        "depth_km": 10,
-        "time_ms": 1785193932123,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3m6",
-        "magnitude": 5.3,
-        "latitude": -24.7618,
-        "longitude": -175.5552,
-        "depth_km": 10,
-        "time_ms": 1785142040426,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3m5",
-        "magnitude": 5.2,
-        "latitude": -24.6421,
-        "longitude": -175.2565,
-        "depth_km": 10,
-        "time_ms": 1785141848124,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3l3",
-        "magnitude": 5.2,
-        "latitude": -24.4357,
-        "longitude": -175.2951,
-        "depth_km": 10,
-        "time_ms": 1785123403373,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3kz",
-        "magnitude": 5,
-        "latitude": -24.4705,
-        "longitude": -175.1064,
-        "depth_km": 10,
-        "time_ms": 1785121924194,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3km",
-        "magnitude": 5.1,
-        "latitude": -24.5032,
-        "longitude": -175.1262,
-        "depth_km": 10,
-        "time_ms": 1785117254251,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.93
@@ -3311,8 +3254,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-16",
@@ -3460,130 +3403,8 @@
         "place": "207 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000t3p2",
-        "magnitude": 5,
-        "latitude": -5.3975,
-        "longitude": 151.4893,
-        "depth_km": 92.272,
-        "time_ms": 1785162816240,
-        "place": "145 km SW of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.6
-  },
-  {
-    "country": "",
-    "iso_alpha2": "CL",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.18,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-08-08",
-      "depth_km": 10,
-      "latitude": -41.4078,
-      "longitude": -90.0948
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Andrés Sabella Gálvez International Airport",
-        "iata_code": "ANF",
-        "latitude": -23.445274,
-        "longitude": -70.445232,
-        "municipality": "Antofagasta",
-        "closest_quake_distance_km": 182.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000t3m7",
-            "magnitude": 5.1,
-            "latitude": -23.485,
-            "longitude": -68.6578,
-            "depth_km": 104.251,
-            "time_ms": 1785142664884,
-            "place": "78 km SW of San Pedro de Atacama, Chile",
-            "distance_km": 182.4,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.31
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tjer",
-        "magnitude": 5.2,
-        "latitude": -41.3258,
-        "longitude": -90.5965,
-        "depth_km": 10,
-        "time_ms": 1786196970300,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tj8t",
-        "magnitude": 5.5,
-        "latitude": -41.4078,
-        "longitude": -90.0948,
-        "depth_km": 10,
-        "time_ms": 1786189287790,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tjel",
-        "magnitude": 5.1,
-        "latitude": -13.7382,
-        "longitude": -112.2713,
-        "depth_km": 10,
-        "time_ms": 1786144747914,
-        "place": "central East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th96",
-        "magnitude": 5,
-        "latitude": -29.867,
-        "longitude": -72.1202,
-        "depth_km": 11.851,
-        "time_ms": 1785520025666,
-        "place": "76 km W of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000t3m7",
-        "magnitude": 5.1,
-        "latitude": -23.485,
-        "longitude": -68.6578,
-        "depth_km": 104.251,
-        "time_ms": 1785142664884,
-        "place": "78 km SW of San Pedro de Atacama, Chile",
-        "country_code": "CL",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 0.31
   }
 ]
