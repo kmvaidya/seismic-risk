@@ -12,14 +12,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.51,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
-      "magnitude": 6.8,
-      "date": "2026-07-28",
-      "depth_km": 10,
-      "latitude": 32.6297,
-      "longitude": 130.6843
+      "magnitude": 6,
+      "date": "2026-08-23",
+      "depth_km": 42.9,
+      "latitude": 41.8344,
+      "longitude": 142.8255
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 153,
@@ -170,32 +170,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 108.5,
-            "exposure_contribution": 6.43,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 134.7,
-            "exposure_contribution": 1.16,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmx",
             "magnitude": 5.3,
             "latitude": 32.3461,
@@ -209,7 +183,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 9.31
+        "exposure_score": 1.71
       },
       {
         "name": "Kagoshima Airport",
@@ -229,32 +203,6 @@
             "place": "12 km N of Tsunagi, Japan",
             "distance_km": 65.1,
             "exposure_contribution": 2.36,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 66.0,
-            "exposure_contribution": 3.28,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 91.9,
-            "exposure_contribution": 8.22,
             "pga_g": null,
             "mmi": null
           },
@@ -285,7 +233,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 15.7
+        "exposure_score": 4.2
       },
       {
         "name": "Miyazaki Airport",
@@ -309,19 +257,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 102.2,
-            "exposure_contribution": 1.77,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmx",
             "magnitude": 5.3,
             "latitude": 32.3461,
@@ -331,19 +266,6 @@
             "place": "12 km N of Tsunagi, Japan",
             "distance_km": 106.9,
             "exposure_contribution": 1.17,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 110.3,
-            "exposure_contribution": 6.28,
             "pga_g": null,
             "mmi": null
           },
@@ -361,7 +283,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 12.52
+        "exposure_score": 4.47
       },
       {
         "name": "Kitakyushu Airport",
@@ -385,32 +307,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 139.1,
-            "exposure_contribution": 4.38,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 169.8,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmx",
             "magnitude": 5.3,
             "latitude": 32.3461,
@@ -424,7 +320,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 6.3
+        "exposure_score": 1.13
       },
       {
         "name": "Kyushu Saga International Airport",
@@ -444,32 +340,6 @@
             "place": "3 km NW of Uto, Japan",
             "distance_km": 58.3,
             "exposure_contribution": 1.94,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 68.0,
-            "exposure_contribution": 12.55,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 88.7,
-            "exposure_contribution": 2.17,
             "pga_g": null,
             "mmi": null
           },
@@ -500,7 +370,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 18.57
+        "exposure_score": 3.85
       },
       {
         "name": "Kumamoto Airport",
@@ -520,32 +390,6 @@
             "place": "3 km NW of Uto, Japan",
             "distance_km": 25.1,
             "exposure_contribution": 5.34,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 28.1,
-            "exposure_contribution": 37.58,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 59.2,
-            "exposure_contribution": 3.8,
             "pga_g": null,
             "mmi": null
           },
@@ -576,7 +420,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 49.79
+        "exposure_score": 8.41
       },
       {
         "name": "Nagasaki Airport",
@@ -600,19 +444,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgb9",
-            "magnitude": 6.8,
-            "latitude": 32.6297,
-            "longitude": 130.6843,
-            "depth_km": 10,
-            "time_ms": 1785223634942,
-            "place": "The 2026 Kumamoto Region, Japan Earthquake",
-            "distance_km": 78.8,
-            "exposure_contribution": 10.24,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgmx",
             "magnitude": 5.3,
             "latitude": 32.3461,
@@ -624,22 +455,9 @@
             "exposure_contribution": 1.74,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgbm",
-            "magnitude": 5.6,
-            "latitude": 32.3769,
-            "longitude": 130.5385,
-            "depth_km": 10,
-            "time_ms": 1785226114854,
-            "place": "15 km SSW of Honmachi, Japan",
-            "distance_km": 83.8,
-            "exposure_contribution": 2.36,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 15.81
+        "exposure_score": 3.22
       },
       {
         "name": "Aomori Airport",
@@ -835,31 +653,9 @@
         "place": "12 km N of Tsunagi, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tgbm",
-        "magnitude": 5.6,
-        "latitude": 32.3769,
-        "longitude": 130.5385,
-        "depth_km": 10,
-        "time_ms": 1785226114854,
-        "place": "15 km SSW of Honmachi, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgb9",
-        "magnitude": 6.8,
-        "latitude": 32.6297,
-        "longitude": 130.6843,
-        "depth_km": 10,
-        "time_ms": 1785223634942,
-        "place": "The 2026 Kumamoto Region, Japan Earthquake",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 153.91
+    "seismic_hub_risk_score": 52.9
   },
   {
     "country": "",
@@ -1560,7 +1356,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 61,
+    "earthquake_count": 62,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.7,
@@ -1648,6 +1444,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tc8j",
+        "magnitude": 5.3,
+        "latitude": -8.0324,
+        "longitude": 120.0539,
+        "depth_km": 10,
+        "time_ms": 1787826804325,
+        "place": "54 km NNE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tbyu",
         "magnitude": 5,
@@ -2335,8 +2142,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-17",
@@ -2475,17 +2282,6 @@
         "place": "62 km E of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tgae",
-        "magnitude": 5.8,
-        "latitude": 55.9941,
-        "longitude": 164.8901,
-        "depth_km": 10,
-        "time_ms": 1785213738454,
-        "place": "152 km E of Ust’-Kamchatsk Staryy, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 3.23
@@ -2503,8 +2299,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.62,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.7,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-08-20",
@@ -2579,30 +2375,6 @@
         "exposure_score": 0.46
       },
       {
-        "name": "Capitán FAP Carlos Martínez de Pinillos International Airport",
-        "iata_code": "TRU",
-        "latitude": -8.082382,
-        "longitude": -79.108821,
-        "municipality": "Trujillo",
-        "closest_quake_distance_km": 197.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgcx",
-            "magnitude": 5.3,
-            "latitude": -9.7091,
-            "longitude": -79.8344,
-            "depth_km": 15.595,
-            "time_ms": 1785245073502,
-            "place": "152 km WSW of Puerto Santa, Peru",
-            "distance_km": 197.7,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      },
-      {
         "name": "Captain Renán Elías Olivera International Airport",
         "iata_code": "PIO",
         "latitude": -13.7449,
@@ -2671,133 +2443,9 @@
         "place": "15 km ENE of San Fernando, Peru",
         "country_code": "PE",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tgcx",
-        "magnitude": 5.3,
-        "latitude": -9.7091,
-        "longitude": -79.8344,
-        "depth_km": 15.595,
-        "time_ms": 1785245073502,
-        "place": "152 km WSW of Puerto Santa, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.64
-  },
-  {
-    "country": "",
-    "iso_alpha2": "US",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.27,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-08-08",
-      "depth_km": 10,
-      "latitude": 62.269,
-      "longitude": -152.314
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 1137,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Ted Stevens Anchorage International Airport",
-        "iata_code": "ANC",
-        "latitude": 61.179004,
-        "longitude": -149.992561,
-        "municipality": "Anchorage",
-        "closest_quake_distance_km": 172.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "aka2026powmkf",
-            "magnitude": 5.6,
-            "latitude": 62.269,
-            "longitude": -152.314,
-            "depth_km": 10,
-            "time_ms": 1786164634985,
-            "place": "57 km WNW of Skwentna, Alaska",
-            "distance_km": 172.2,
-            "exposure_contribution": 0.27,
-            "pga_g": 0.00267,
-            "mmi": 2.9
-          }
-        ],
-        "exposure_score": 0.27
-      },
-      {
-        "name": "Ellison Onizuka Kona International Airport at Keāhole",
-        "iata_code": "KOA",
-        "latitude": 19.738783,
-        "longitude": -156.045603,
-        "municipality": "Kailua-Kona",
-        "closest_quake_distance_km": 128.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "hv75018296",
-            "magnitude": 5.2,
-            "latitude": 18.879,
-            "longitude": -155.233333333333,
-            "depth_km": 10.73,
-            "time_ms": 1786506513980,
-            "place": "42 km ESE of Naalehu, Hawaii",
-            "distance_km": 128.1,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.79
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "hv75018296",
-        "magnitude": 5.2,
-        "latitude": 18.879,
-        "longitude": -155.233333333333,
-        "depth_km": 10.73,
-        "time_ms": 1786506513980,
-        "place": "42 km ESE of Naalehu, Hawaii",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "aka2026powmkf",
-        "magnitude": 5.6,
-        "latitude": 62.269,
-        "longitude": -152.314,
-        "depth_km": 10,
-        "time_ms": 1786164634985,
-        "place": "57 km WNW of Skwentna, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "aka2026ovufno",
-        "magnitude": 5,
-        "latitude": 63.611,
-        "longitude": -150.673,
-        "depth_km": 5,
-        "time_ms": 1785271764979,
-        "place": "52 km E of Denali National Park, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.06
+    "seismic_hub_risk_score": 2.21
   },
   {
     "country": "",
@@ -2813,13 +2461,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 23,
-    "avg_magnitude": 5.22,
+    "avg_magnitude": 5.21,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-07-29",
-      "depth_km": 10,
-      "latitude": -28.4111,
-      "longitude": -176.6489
+      "depth_km": 14,
+      "latitude": -28.4094,
+      "longitude": -176.6597
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2898,11 +2546,11 @@
       },
       {
         "id": "us6000ti0r",
-        "magnitude": 5.1,
-        "latitude": -24.6061,
-        "longitude": -175.2303,
+        "magnitude": 5,
+        "latitude": -24.5549,
+        "longitude": -175.3958,
         "depth_km": 10,
-        "time_ms": 1785855374381,
+        "time_ms": 1785855374823,
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
@@ -2932,10 +2580,10 @@
       {
         "id": "us6000thgx",
         "magnitude": 5.1,
-        "latitude": -24.3942,
-        "longitude": -176.7959,
-        "depth_km": 69.752,
-        "time_ms": 1785599471360,
+        "latitude": -24.3891,
+        "longitude": -176.9632,
+        "depth_km": 78.182,
+        "time_ms": 1785599472182,
         "place": "south of the Fiji Islands",
         "country_code": "TO",
         "shakemap_available": false
@@ -3031,10 +2679,10 @@
       {
         "id": "us6000tguf",
         "magnitude": 5.9,
-        "latitude": -28.4111,
-        "longitude": -176.6489,
-        "depth_km": 10,
-        "time_ms": 1785364077385,
+        "latitude": -28.4094,
+        "longitude": -176.6597,
+        "depth_km": 14,
+        "time_ms": 1785364078074,
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
@@ -3121,14 +2769,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-28",
-      "depth_km": 13,
-      "latitude": 14.239,
-      "longitude": -92.6259
+      "magnitude": 5.7,
+      "date": "2026-08-18",
+      "depth_km": 10,
+      "latitude": 14.2298,
+      "longitude": -93.1475
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -3226,17 +2874,6 @@
         "place": "88 km SW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tgau",
-        "magnitude": 5.9,
-        "latitude": 14.239,
-        "longitude": -92.6259,
-        "depth_km": 13,
-        "time_ms": 1785216914794,
-        "place": "54 km SW of Brisas Barra de Suchiate, Mexico",
-        "country_code": "MX",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.64
@@ -3254,8 +2891,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.19,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.17,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-16",
@@ -3392,17 +3029,6 @@
         "place": "204 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tggm",
-        "magnitude": 5.4,
-        "latitude": -5.7635,
-        "longitude": 153.6953,
-        "depth_km": 10,
-        "time_ms": 1785270476153,
-        "place": "207 km WNW of Panguna, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.6
