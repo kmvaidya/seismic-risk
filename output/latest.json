@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-08-23",
@@ -168,22 +168,9 @@
             "exposure_contribution": 0.92,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 137.9,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.71
+        "exposure_score": 0.92
       },
       {
         "name": "Kagoshima Airport",
@@ -191,21 +178,8 @@
         "latitude": 31.8034,
         "longitude": 130.718994,
         "municipality": "Kagoshima",
-        "closest_quake_distance_km": 65.1,
+        "closest_quake_distance_km": 100.8,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 65.1,
-            "exposure_contribution": 2.36,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
@@ -233,7 +207,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.2
+        "exposure_score": 1.84
       },
       {
         "name": "Miyazaki Airport",
@@ -257,19 +231,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 106.9,
-            "exposure_contribution": 1.17,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tgy8",
             "magnitude": 5,
             "latitude": 32.7068,
@@ -283,7 +244,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.47
+        "exposure_score": 3.3
       },
       {
         "name": "Kitakyushu Airport",
@@ -305,22 +266,9 @@
             "exposure_contribution": 0.6,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 175.2,
-            "exposure_contribution": 0.53,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.13
+        "exposure_score": 0.6
       },
       {
         "name": "Kyushu Saga International Airport",
@@ -344,19 +292,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 90.5,
-            "exposure_contribution": 1.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000thhk",
             "magnitude": 5.3,
             "latitude": 32.0214,
@@ -370,7 +305,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.85
+        "exposure_score": 2.35
       },
       {
         "name": "Kumamoto Airport",
@@ -394,19 +329,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 66.0,
-            "exposure_contribution": 2.32,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000thhk",
             "magnitude": 5.3,
             "latitude": 32.0214,
@@ -420,7 +342,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 8.41
+        "exposure_score": 6.09
       },
       {
         "name": "Nagasaki Airport",
@@ -442,22 +364,9 @@
             "exposure_contribution": 1.48,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgmx",
-            "magnitude": 5.3,
-            "latitude": 32.3461,
-            "longitude": 130.4586,
-            "depth_km": 10,
-            "time_ms": 1785331176674,
-            "place": "12 km N of Tsunagi, Japan",
-            "distance_km": 81.4,
-            "exposure_contribution": 1.74,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 3.22
+        "exposure_score": 1.48
       },
       {
         "name": "Aomori Airport",
@@ -642,20 +551,9 @@
         "place": "3 km NW of Uto, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tgmx",
-        "magnitude": 5.3,
-        "latitude": 32.3461,
-        "longitude": 130.4586,
-        "depth_km": 10,
-        "time_ms": 1785331176674,
-        "place": "12 km N of Tsunagi, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 52.9
+    "seismic_hub_risk_score": 42.49
   },
   {
     "country": "",
@@ -670,8 +568,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.23,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
@@ -707,30 +605,6 @@
           }
         ],
         "exposure_score": 0.34
-      },
-      {
-        "name": "Bicol International Airport",
-        "iata_code": "DRP",
-        "latitude": 13.111915,
-        "longitude": 123.676829,
-        "municipality": "Legazpi",
-        "closest_quake_distance_km": 107.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgpr",
-            "magnitude": 5.4,
-            "latitude": 13.1473,
-            "longitude": 124.665,
-            "depth_km": 10,
-            "time_ms": 1785337798044,
-            "place": "58 km E of Rapu-Rapu, Philippines",
-            "distance_km": 107.1,
-            "exposure_contribution": 1.31,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.31
       },
       {
         "name": "Ninoy Aquino International Airport",
@@ -789,22 +663,9 @@
             "exposure_contribution": 0.41,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgmy",
-            "magnitude": 5,
-            "latitude": 5.6147,
-            "longitude": 125.3758,
-            "depth_km": 60.594,
-            "time_ms": 1785331019747,
-            "place": "5 km NNE of Balangonan, Philippines",
-            "distance_km": 170.6,
-            "exposure_contribution": 0.36,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.41
+        "exposure_score": 1.05
       },
       {
         "name": "General Santos International Airport",
@@ -812,34 +673,8 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 58.1,
+        "closest_quake_distance_km": 89.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgmy",
-            "magnitude": 5,
-            "latitude": 5.6147,
-            "longitude": 125.3758,
-            "depth_km": 60.594,
-            "time_ms": 1785331019747,
-            "place": "5 km NNE of Balangonan, Philippines",
-            "distance_km": 58.1,
-            "exposure_contribution": 1.19,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgn0",
-            "magnitude": 5,
-            "latitude": 5.3185,
-            "longitude": 125.0972,
-            "depth_km": 69.855,
-            "time_ms": 1785331436282,
-            "place": "40 km SW of Balangonan, Philippines",
-            "distance_km": 82.1,
-            "exposure_contribution": 0.82,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tkfh",
             "magnitude": 5.1,
@@ -932,7 +767,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 13.49
+        "exposure_score": 11.48
       },
       {
         "name": "Laguindingan International Airport",
@@ -1193,53 +1028,9 @@
         "place": "28 km SW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tgpr",
-        "magnitude": 5.4,
-        "latitude": 13.1473,
-        "longitude": 124.665,
-        "depth_km": 10,
-        "time_ms": 1785337798044,
-        "place": "58 km E of Rapu-Rapu, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgnu",
-        "magnitude": 5.1,
-        "latitude": 15.3225,
-        "longitude": 122.8423,
-        "depth_km": 10,
-        "time_ms": 1785334263619,
-        "place": "83 km NE of Casuguran, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgn0",
-        "magnitude": 5,
-        "latitude": 5.3185,
-        "longitude": 125.0972,
-        "depth_km": 69.855,
-        "time_ms": 1785331436282,
-        "place": "40 km SW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgmy",
-        "magnitude": 5,
-        "latitude": 5.6147,
-        "longitude": 125.3758,
-        "depth_km": 60.594,
-        "time_ms": 1785331019747,
-        "place": "5 km NNE of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 20.69
+    "seismic_hub_risk_score": 17.01
   },
   {
     "country": "",
@@ -1568,22 +1359,22 @@
       {
         "id": "us6000tm2k",
         "magnitude": 5,
-        "latitude": -8.2196,
-        "longitude": 120.4879,
+        "latitude": -8.2074,
+        "longitude": 120.4906,
         "depth_km": 35,
-        "time_ms": 1787212893945,
-        "place": "43 km N of Ruteng, Indonesia",
+        "time_ms": 1787212893960,
+        "place": "44 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us6000tm2j",
         "magnitude": 5,
-        "latitude": -8.2868,
-        "longitude": 120.377,
-        "depth_km": 10,
-        "time_ms": 1787212503208,
-        "place": "37 km NNW of Ruteng, Indonesia",
+        "latitude": -8.2667,
+        "longitude": 120.3323,
+        "depth_km": 15.891,
+        "time_ms": 1787212503944,
+        "place": "40 km NNW of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -2142,8 +1933,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-17",
@@ -2189,12 +1980,36 @@
             "exposure_contribution": 2.26,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tcii",
+            "magnitude": 5,
+            "latitude": 52.1245,
+            "longitude": 160.6615,
+            "depth_km": 10,
+            "time_ms": 1787908337255,
+            "place": "172 km SE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 189.0,
+            "exposure_contribution": 0.33,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 3.23
+        "exposure_score": 3.56
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tcii",
+        "magnitude": 5,
+        "latitude": 52.1245,
+        "longitude": 160.6615,
+        "depth_km": 10,
+        "time_ms": 1787908337255,
+        "place": "172 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tn19",
         "magnitude": 5,
@@ -2284,7 +2099,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.23
+    "seismic_hub_risk_score": 3.56
   },
   {
     "country": "",
@@ -2449,7 +2264,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "TO",
+    "iso_alpha2": "CN",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -2460,301 +2275,184 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 23,
-    "avg_magnitude": 5.21,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.12,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-29",
-      "depth_km": 14,
-      "latitude": -28.4094,
-      "longitude": -176.6597
+      "magnitude": 5.5,
+      "date": "2026-08-18",
+      "depth_km": 6,
+      "latitude": 37.8333,
+      "longitude": 95.5438
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 2,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
-        "name": "Vava'u International Airport",
-        "iata_code": "VAV",
-        "latitude": -18.5853,
-        "longitude": -173.962006,
-        "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 133.4,
+        "name": "Chongqing Jiangbei International Airport",
+        "iata_code": "CKG",
+        "latitude": 29.712254,
+        "longitude": 106.651895,
+        "municipality": "Chongqing",
+        "closest_quake_distance_km": 146.0,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000tgje",
-            "magnitude": 5.4,
-            "latitude": -17.8048,
-            "longitude": -173.0033,
+            "earthquake_id": "us7000tcht",
+            "magnitude": 5,
+            "latitude": 29.2752,
+            "longitude": 105.229,
             "depth_km": 10,
-            "time_ms": 1785286079274,
-            "place": "139 km NE of Neiafu, Tonga",
-            "distance_km": 133.4,
-            "exposure_contribution": 0.93,
+            "time_ms": 1787894015070,
+            "place": "19 km NW of Fuji, China",
+            "distance_km": 146.0,
+            "exposure_contribution": 0.51,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.93
+        "exposure_score": 0.51
+      },
+      {
+        "name": "Chengdu Tianfu International Airport",
+        "iata_code": "TFU",
+        "latitude": 30.31252,
+        "longitude": 104.441284,
+        "municipality": "Chengdu (Jianyang)",
+        "closest_quake_distance_km": 138.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tcht",
+            "magnitude": 5,
+            "latitude": 29.2752,
+            "longitude": 105.229,
+            "depth_km": 10,
+            "time_ms": 1787894015070,
+            "place": "19 km NW of Fuji, China",
+            "distance_km": 138.1,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.56
+      },
+      {
+        "name": "Chengdu Shuangliu International Airport",
+        "iata_code": "CTU",
+        "latitude": 30.558257,
+        "longitude": 103.945966,
+        "municipality": "Chengdu (Shuangliu)",
+        "closest_quake_distance_km": 188.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tcht",
+            "magnitude": 5,
+            "latitude": 29.2752,
+            "longitude": 105.229,
+            "depth_km": 10,
+            "time_ms": 1787894015070,
+            "place": "19 km NW of Fuji, China",
+            "distance_km": 188.8,
+            "exposure_contribution": 0.33,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.33
       }
     ],
     "earthquakes": [
       {
-        "id": "us6000tnd7",
+        "id": "us7000tcht",
+        "magnitude": 5,
+        "latitude": 29.2752,
+        "longitude": 105.229,
+        "depth_km": 10,
+        "time_ms": 1787894015070,
+        "place": "19 km NW of Fuji, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tc9m",
+        "magnitude": 5,
+        "latitude": 33.2423,
+        "longitude": 86.9395,
+        "depth_km": 10,
+        "time_ms": 1787841948054,
+        "place": "western Xizang",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tbwb",
         "magnitude": 5.2,
-        "latitude": -17.4086,
-        "longitude": -171.8992,
-        "depth_km": 10,
-        "time_ms": 1787670954340,
-        "place": "258 km SE of Hihifo, Tonga",
-        "country_code": "TO",
+        "latitude": 28.271,
+        "longitude": 85.515,
+        "depth_km": 0,
+        "time_ms": 1787712730000,
+        "place": "55 km NW of Kodāri̇̄, Nepal",
+        "country_code": "CN",
         "shakemap_available": false
       },
       {
-        "id": "us6000tmei",
-        "magnitude": 5.1,
-        "latitude": -24.7124,
-        "longitude": -175.3072,
+        "id": "us6000tm2y",
+        "magnitude": 5.2,
+        "latitude": 37.8058,
+        "longitude": 95.4454,
         "depth_km": 10,
-        "time_ms": 1787299954179,
-        "place": "south of Tonga",
-        "country_code": "TO",
+        "time_ms": 1787219387975,
+        "place": "270 km SSE of Dunhuang, China",
+        "country_code": "CN",
         "shakemap_available": false
       },
       {
-        "id": "us6000tkhm",
-        "magnitude": 5.6,
-        "latitude": -28.6742,
-        "longitude": -176.3124,
-        "depth_km": 10,
-        "time_ms": 1786637505826,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
+        "id": "us6000tlrj",
+        "magnitude": 5.5,
+        "latitude": 37.8333,
+        "longitude": 95.5438,
+        "depth_km": 6,
+        "time_ms": 1787088987999,
+        "place": "269 km SSE of Dunhuang, China",
+        "country_code": "CN",
         "shakemap_available": true
       },
       {
-        "id": "us6000tj69",
-        "magnitude": 5,
-        "latitude": -28.4766,
-        "longitude": -176.5487,
-        "depth_km": 10,
-        "time_ms": 1786161571810,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ti0r",
-        "magnitude": 5,
-        "latitude": -24.5549,
-        "longitude": -175.3958,
-        "depth_km": 10,
-        "time_ms": 1785855374823,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thmd",
-        "magnitude": 5,
-        "latitude": -24.9401,
-        "longitude": -175.1319,
-        "depth_km": 10,
-        "time_ms": 1785684931146,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thlj",
-        "magnitude": 5.3,
-        "latitude": -23.6117,
-        "longitude": -175.0368,
-        "depth_km": 10,
-        "time_ms": 1785666854336,
-        "place": "251 km S of ‘Ohonua, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thgx",
+        "id": "us6000tivz",
         "magnitude": 5.1,
-        "latitude": -24.3891,
-        "longitude": -176.9632,
-        "depth_km": 78.182,
-        "time_ms": 1785599472182,
-        "place": "south of the Fiji Islands",
-        "country_code": "TO",
+        "latitude": 28.505,
+        "longitude": 104.7523,
+        "depth_km": 10,
+        "time_ms": 1786079310903,
+        "place": "6 km NNE of Xunchang, China",
+        "country_code": "CN",
         "shakemap_available": false
       },
       {
-        "id": "us6000thf3",
-        "magnitude": 5.4,
-        "latitude": -22.3531,
-        "longitude": -179.0866,
-        "depth_km": 559.266,
-        "time_ms": 1785570364307,
-        "place": "south of the Fiji Islands",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000th5s",
+        "id": "us6000ti9w",
         "magnitude": 5,
-        "latitude": -29.0529,
-        "longitude": -176.3575,
+        "latitude": 28.9711,
+        "longitude": 94.7507,
         "depth_km": 10,
-        "time_ms": 1785479420551,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
+        "time_ms": 1785924369610,
+        "place": "61 km NE of Shi Yomi, India",
+        "country_code": "CN",
         "shakemap_available": false
       },
       {
-        "id": "us6000th5f",
+        "id": "us6000thn0",
         "magnitude": 5,
-        "latitude": -28.3906,
-        "longitude": -176.6535,
-        "depth_km": 35,
-        "time_ms": 1785470572737,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
+        "latitude": 28.5301,
+        "longitude": 104.7446,
+        "depth_km": 10,
+        "time_ms": 1785694905760,
+        "place": "8 km NNE of Xunchang, China",
+        "country_code": "CN",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000th30",
-        "magnitude": 5,
-        "latitude": -28.4937,
-        "longitude": -176.4902,
-        "depth_km": 10,
-        "time_ms": 1785443192064,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th1b",
-        "magnitude": 5.1,
-        "latitude": -31.4941,
-        "longitude": -177.6574,
-        "depth_km": 10,
-        "time_ms": 1785433689051,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ti3s",
-        "magnitude": 5.6,
-        "latitude": -28.7824,
-        "longitude": -176.4501,
-        "depth_km": 10,
-        "time_ms": 1785388128237,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tgvz",
-        "magnitude": 5.8,
-        "latitude": -28.5835,
-        "longitude": -176.6369,
-        "depth_km": 10,
-        "time_ms": 1785388111635,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tguj",
-        "magnitude": 5.1,
-        "latitude": -28.514,
-        "longitude": -176.636,
-        "depth_km": 10,
-        "time_ms": 1785364945074,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tguf",
-        "magnitude": 5.9,
-        "latitude": -28.4094,
-        "longitude": -176.6597,
-        "depth_km": 14,
-        "time_ms": 1785364078074,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000thue",
-        "magnitude": 5,
-        "latitude": -24.7098,
-        "longitude": -175.0749,
-        "depth_km": 10,
-        "time_ms": 1785358422447,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgtc",
-        "magnitude": 5.1,
-        "latitude": -24.6874,
-        "longitude": -175.28,
-        "depth_km": 10,
-        "time_ms": 1785358330137,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgrk",
-        "magnitude": 5,
-        "latitude": -24.6839,
-        "longitude": -175.2672,
-        "depth_km": 10,
-        "time_ms": 1785344855426,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgkd",
-        "magnitude": 5.1,
-        "latitude": -24.7151,
-        "longitude": -175.1021,
-        "depth_km": 10,
-        "time_ms": 1785297141901,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgk8",
-        "magnitude": 5.1,
-        "latitude": -28.489,
-        "longitude": -176.8402,
-        "depth_km": 35,
-        "time_ms": 1785295850508,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgje",
-        "magnitude": 5.4,
-        "latitude": -17.8048,
-        "longitude": -173.0033,
-        "depth_km": 10,
-        "time_ms": 1785286079274,
-        "place": "139 km NE of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.93
+    "seismic_hub_risk_score": 1.4
   },
   {
     "country": "",
@@ -2769,8 +2467,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-08-18",
@@ -2809,6 +2507,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tch3",
+        "magnitude": 5,
+        "latitude": 8.4191,
+        "longitude": -103.4604,
+        "depth_km": 10,
+        "time_ms": 1787884757518,
+        "place": "northern East Pacific Rise",
+        "country_code": "MX",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tlkl",
         "magnitude": 5.7,
@@ -2891,8 +2600,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.15,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-16",
@@ -2931,6 +2640,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tcp5",
+        "magnitude": 5,
+        "latitude": -6.211,
+        "longitude": 151.7381,
+        "depth_km": 10,
+        "time_ms": 1787948378305,
+        "place": "191 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tm8j",
         "magnitude": 5.1,
@@ -3011,11 +2731,11 @@
       {
         "id": "us6000tie5",
         "magnitude": 5.2,
-        "latitude": -6.5225,
-        "longitude": 143.8444,
-        "depth_km": 10.028,
-        "time_ms": 1785959186861,
-        "place": "31 km SSW of Ialibu, Papua New Guinea",
+        "latitude": -6.5471,
+        "longitude": 143.9624,
+        "depth_km": 16.281,
+        "time_ms": 1785959187554,
+        "place": "29 km S of Ialibu, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
@@ -3032,5 +2752,94 @@
       }
     ],
     "seismic_hub_risk_score": 0.6
+  },
+  {
+    "country": "",
+    "iso_alpha2": "VU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.37,
+    "strongest_earthquake": {
+      "magnitude": 6.1,
+      "date": "2026-08-16",
+      "depth_km": 188.1,
+      "latitude": -14.5474,
+      "longitude": 167.1934
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Bauerfield International Airport",
+        "iata_code": "VLI",
+        "latitude": -17.699301,
+        "longitude": 168.320007,
+        "municipality": "Port Vila",
+        "closest_quake_distance_km": 174.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tcig",
+            "magnitude": 5,
+            "latitude": -19.2675,
+            "longitude": 168.2841,
+            "depth_km": 10,
+            "time_ms": 1787905955971,
+            "place": "109 km WNW of Isangel, Vanuatu",
+            "distance_km": 174.4,
+            "exposure_contribution": 0.38,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.38
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tcig",
+        "magnitude": 5,
+        "latitude": -19.2675,
+        "longitude": 168.2841,
+        "depth_km": 10,
+        "time_ms": 1787905955971,
+        "place": "109 km WNW of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm16",
+        "magnitude": 5,
+        "latitude": -20.324,
+        "longitude": 169.1514,
+        "depth_km": 72.946,
+        "time_ms": 1787185224938,
+        "place": "87 km S of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tl4w",
+        "magnitude": 6.1,
+        "latitude": -14.5474,
+        "longitude": 167.1934,
+        "depth_km": 188.148,
+        "time_ms": 1786850424373,
+        "place": "56 km NNE of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.38
   }
 ]
