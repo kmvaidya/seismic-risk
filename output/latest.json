@@ -12,14 +12,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.41,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.45,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-08-23",
-      "depth_km": 42.9,
-      "latitude": 41.8344,
-      "longitude": 142.8255
+      "depth_km": 41,
+      "latitude": 41.8495,
+      "longitude": 142.802
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 153,
@@ -80,18 +80,18 @@
         "latitude": 42.774753,
         "longitude": 141.690414,
         "municipality": "Sapporo",
-        "closest_quake_distance_km": 140.2,
+        "closest_quake_distance_km": 137.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmz6",
             "magnitude": 6,
-            "latitude": 41.8344,
-            "longitude": 142.8255,
-            "depth_km": 42.867,
-            "time_ms": 1787492693514,
-            "place": "33 km SSW of Honchō, Japan",
-            "distance_km": 140.2,
-            "exposure_contribution": 1.61,
+            "latitude": 41.8495,
+            "longitude": 142.802,
+            "depth_km": 41,
+            "time_ms": 1787492693389,
+            "place": "32 km SSW of Honchō, Japan",
+            "distance_km": 137.6,
+            "exposure_contribution": 1.66,
             "pga_g": null,
             "mmi": null
           },
@@ -109,7 +109,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.26
+        "exposure_score": 2.31
       },
       {
         "name": "Hakodate Airport",
@@ -135,42 +135,18 @@
           {
             "earthquake_id": "us6000tmz6",
             "magnitude": 6,
-            "latitude": 41.8344,
-            "longitude": 142.8255,
-            "depth_km": 42.867,
-            "time_ms": 1787492693514,
-            "place": "33 km SSW of Honchō, Japan",
-            "distance_km": 166.2,
-            "exposure_contribution": 1.24,
+            "latitude": 41.8495,
+            "longitude": 142.802,
+            "depth_km": 41,
+            "time_ms": 1787492693389,
+            "place": "32 km SSW of Honchō, Japan",
+            "distance_km": 164.3,
+            "exposure_contribution": 1.26,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.32
-      },
-      {
-        "name": "Fukuoka Airport",
-        "iata_code": "FUK",
-        "latitude": 33.585899,
-        "longitude": 130.451004,
-        "municipality": "Fukuoka",
-        "closest_quake_distance_km": 99.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 99.3,
-            "exposure_contribution": 0.92,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.92
+        "exposure_score": 2.35
       },
       {
         "name": "Kagoshima Airport",
@@ -178,21 +154,8 @@
         "latitude": 31.8034,
         "longitude": 130.718994,
         "municipality": "Kagoshima",
-        "closest_quake_distance_km": 100.8,
+        "closest_quake_distance_km": 119.3,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 100.8,
-            "exposure_contribution": 0.9,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000thhk",
             "magnitude": 5.3,
@@ -207,7 +170,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.84
+        "exposure_score": 0.93
       },
       {
         "name": "Miyazaki Airport",
@@ -229,46 +192,9 @@
             "exposure_contribution": 2.6,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 119.8,
-            "exposure_contribution": 0.7,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 3.3
-      },
-      {
-        "name": "Kitakyushu Airport",
-        "iata_code": "KKJ",
-        "latitude": 33.845901,
-        "longitude": 131.035004,
-        "municipality": "Kitakyushu",
-        "closest_quake_distance_km": 132.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 132.0,
-            "exposure_contribution": 0.6,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.6
+        "exposure_score": 2.6
       },
       {
         "name": "Kyushu Saga International Airport",
@@ -276,21 +202,8 @@
         "latitude": 33.1497,
         "longitude": 130.302002,
         "municipality": "Saga",
-        "closest_quake_distance_km": 58.3,
+        "closest_quake_distance_km": 199.4,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 58.3,
-            "exposure_contribution": 1.94,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000thhk",
             "magnitude": 5.3,
@@ -305,7 +218,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.35
+        "exposure_score": 0.41
       },
       {
         "name": "Kumamoto Airport",
@@ -313,21 +226,8 @@
         "latitude": 32.837299,
         "longitude": 130.854996,
         "municipality": "Kumamoto",
-        "closest_quake_distance_km": 25.1,
+        "closest_quake_distance_km": 137.5,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 25.1,
-            "exposure_contribution": 5.34,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000thhk",
             "magnitude": 5.3,
@@ -342,31 +242,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 6.09
-      },
-      {
-        "name": "Nagasaki Airport",
-        "iata_code": "NGS",
-        "latitude": 32.916901,
-        "longitude": 129.914001,
-        "municipality": "Nagasaki",
-        "closest_quake_distance_km": 71.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgy8",
-            "magnitude": 5,
-            "latitude": 32.7068,
-            "longitude": 130.6356,
-            "depth_km": 10,
-            "time_ms": 1785419259044,
-            "place": "3 km NW of Uto, Japan",
-            "distance_km": 71.4,
-            "exposure_contribution": 1.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.48
+        "exposure_score": 0.76
       },
       {
         "name": "Aomori Airport",
@@ -456,11 +332,11 @@
       {
         "id": "us6000tmz6",
         "magnitude": 6,
-        "latitude": 41.8344,
-        "longitude": 142.8255,
-        "depth_km": 42.867,
-        "time_ms": 1787492693514,
-        "place": "33 km SSW of Honchō, Japan",
+        "latitude": 41.8495,
+        "longitude": 142.802,
+        "depth_km": 41,
+        "time_ms": 1787492693389,
+        "place": "32 km SSW of Honchō, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -540,20 +416,9 @@
         "place": "63 km E of Mutsu, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tgy8",
-        "magnitude": 5,
-        "latitude": 32.7068,
-        "longitude": 130.6356,
-        "depth_km": 10,
-        "time_ms": 1785419259044,
-        "place": "3 km NW of Uto, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 42.49
+    "seismic_hub_risk_score": 30.69
   },
   {
     "country": "",
@@ -1034,108 +899,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "FM",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.53,
-    "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-07-30",
-      "depth_km": 29.9,
-      "latitude": 11.5402,
-      "longitude": 139.0293
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yap International Airport",
-        "iata_code": "YAP",
-        "latitude": 9.49891,
-        "longitude": 138.082993,
-        "municipality": "Yap Island",
-        "closest_quake_distance_km": 23.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tl43",
-            "magnitude": 5.4,
-            "latitude": 9.6571,
-            "longitude": 138.224,
-            "depth_km": 10,
-            "time_ms": 1786834375761,
-            "place": "19 km NE of Colonia, Micronesia",
-            "distance_km": 23.4,
-            "exposure_contribution": 9.11,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tlgm",
-            "magnitude": 5.3,
-            "latitude": 9.6219,
-            "longitude": 138.3124,
-            "depth_km": 10,
-            "time_ms": 1787007191231,
-            "place": "23 km ENE of Colonia, Micronesia",
-            "distance_km": 28.6,
-            "exposure_contribution": 6.54,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 15.65
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tlgm",
-        "magnitude": 5.3,
-        "latitude": 9.6219,
-        "longitude": 138.3124,
-        "depth_km": 10,
-        "time_ms": 1787007191231,
-        "place": "23 km ENE of Colonia, Micronesia",
-        "country_code": "FM",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tl43",
-        "magnitude": 5.4,
-        "latitude": 9.6571,
-        "longitude": 138.224,
-        "depth_km": 10,
-        "time_ms": 1786834375761,
-        "place": "19 km NE of Colonia, Micronesia",
-        "country_code": "FM",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000th1h",
-        "magnitude": 5.9,
-        "latitude": 11.5402,
-        "longitude": 139.0293,
-        "depth_km": 29.875,
-        "time_ms": 1785434158902,
-        "place": "244 km NNE of Colonia, Micronesia",
-        "country_code": "FM",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 15.65
-  },
-  {
-    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -1148,7 +911,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 62,
-    "avg_magnitude": 5.33,
+    "avg_magnitude": 5.32,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -1161,30 +924,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
-      {
-        "name": "Dortheys Hiyo Eluay International Airport",
-        "iata_code": "DJJ",
-        "latitude": -2.579627,
-        "longitude": 140.519857,
-        "municipality": "Sentani",
-        "closest_quake_distance_km": 182.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tgvu",
-            "magnitude": 5.4,
-            "latitude": -2.5881,
-            "longitude": 138.8756,
-            "depth_km": 10,
-            "time_ms": 1785386528654,
-            "place": "195 km W of Abepura, Indonesia",
-            "distance_km": 182.6,
-            "exposure_contribution": 0.55,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.55
-      },
       {
         "name": "Sam Ratulangi International Airport",
         "iata_code": "MDC",
@@ -1236,6 +975,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tcsu",
+        "magnitude": 5,
+        "latitude": -0.7032,
+        "longitude": 126.9069,
+        "depth_km": 41.899,
+        "time_ms": 1787990925662,
+        "place": "64 km W of Labuha, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000tc8j",
         "magnitude": 5.3,
         "latitude": -8.0324,
@@ -1282,11 +1032,11 @@
       {
         "id": "us6000tn0s",
         "magnitude": 5.2,
-        "latitude": -8.1992,
-        "longitude": 120.8354,
+        "latitude": -8.1851,
+        "longitude": 120.8487,
         "depth_km": 10,
-        "time_ms": 1787520015767,
-        "place": "61 km NE of Ruteng, Indonesia",
+        "time_ms": 1787520015850,
+        "place": "63 km NE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1392,21 +1142,21 @@
       {
         "id": "us6000tm0u",
         "magnitude": 5.8,
-        "latitude": -8.3922,
-        "longitude": 120.5278,
+        "latitude": -8.3585,
+        "longitude": 120.5389,
         "depth_km": 10,
-        "time_ms": 1787179517395,
-        "place": "25 km NNE of Ruteng, Indonesia",
+        "time_ms": 1787179517227,
+        "place": "29 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
       {
         "id": "us6000tm0s",
         "magnitude": 5.2,
-        "latitude": -8.3101,
-        "longitude": 120.4718,
+        "latitude": -8.3067,
+        "longitude": 120.4487,
         "depth_km": 10,
-        "time_ms": 1787178488388,
+        "time_ms": 1787178488453,
         "place": "33 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
@@ -1905,20 +1655,9 @@
         "place": "141 km ENE of Masohi, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tgvu",
-        "magnitude": 5.4,
-        "latitude": -2.5881,
-        "longitude": 138.8756,
-        "depth_km": 10,
-        "time_ms": 1785386528654,
-        "place": "195 km W of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 10.19
+    "seismic_hub_risk_score": 9.64
   },
   {
     "country": "",
@@ -1933,8 +1672,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-17",
@@ -1953,21 +1692,8 @@
         "latitude": 53.168716,
         "longitude": 158.451068,
         "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 75.3,
+        "closest_quake_distance_km": 85.6,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000th3m",
-            "magnitude": 5.1,
-            "latitude": 53.0248,
-            "longitude": 159.5532,
-            "depth_km": 72.408,
-            "time_ms": 1785448407234,
-            "place": "62 km E of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 75.3,
-            "exposure_contribution": 0.97,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "usd0015edq",
             "magnitude": 5.8,
@@ -1995,7 +1721,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.56
+        "exposure_score": 2.59
       }
     ],
     "earthquakes": [
@@ -2013,11 +1739,11 @@
       {
         "id": "us6000tn19",
         "magnitude": 5,
-        "latitude": 52.1941,
-        "longitude": 176.3834,
-        "depth_km": 13.186,
-        "time_ms": 1787527235668,
-        "place": "Rat Islands, Aleutian Islands, Alaska",
+        "latitude": 52.1915,
+        "longitude": 176.4305,
+        "depth_km": 8.129,
+        "time_ms": 1787527234888,
+        "place": "231 km ESE of Attu Station, Alaska",
         "country_code": "RU",
         "shakemap_available": true
       },
@@ -2086,20 +1812,9 @@
         "place": "159 km SSW of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000th3m",
-        "magnitude": 5.1,
-        "latitude": 53.0248,
-        "longitude": 159.5532,
-        "depth_km": 72.408,
-        "time_ms": 1785448407234,
-        "place": "62 km E of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.56
+    "seismic_hub_risk_score": 2.59
   },
   {
     "country": "",
@@ -2467,8 +2182,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-08-18",
@@ -2572,17 +2287,6 @@
         "place": "91 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000th1t",
-        "magnitude": 5,
-        "latitude": 14.2669,
-        "longitude": -93.0973,
-        "depth_km": 8.468,
-        "time_ms": 1785435632621,
-        "place": "88 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.64
@@ -2601,7 +2305,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 10,
-    "avg_magnitude": 5.15,
+    "avg_magnitude": 5.12,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-16",
@@ -2659,6 +2363,17 @@
         "depth_km": 35,
         "time_ms": 1787250319502,
         "place": "183 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm42",
+        "magnitude": 5,
+        "latitude": -1.143,
+        "longitude": 148.5466,
+        "depth_km": 10,
+        "time_ms": 1787234100046,
+        "place": "172 km NE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
@@ -2736,17 +2451,6 @@
         "depth_km": 16.281,
         "time_ms": 1785959187554,
         "place": "29 km S of Ialibu, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tgva",
-        "magnitude": 5.3,
-        "latitude": -5.7495,
-        "longitude": 153.7224,
-        "depth_km": 10,
-        "time_ms": 1785379583781,
-        "place": "204 km WNW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       }
