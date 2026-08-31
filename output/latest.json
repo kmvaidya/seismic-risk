@@ -910,8 +910,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 62,
-    "avg_magnitude": 5.32,
+    "earthquake_count": 59,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-08-14",
@@ -920,7 +920,7 @@
       "longitude": 121.3517
     },
     "highest_pager_alert": "yellow",
-    "max_felt_reports": 51,
+    "max_felt_reports": 52,
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
@@ -1622,39 +1622,6 @@
         "place": "125 km NW of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000thcs",
-        "magnitude": 5.1,
-        "latitude": -2.9413,
-        "longitude": 130.1101,
-        "depth_km": 10,
-        "time_ms": 1785539857228,
-        "place": "132 km ENE of Masohi, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thcq",
-        "magnitude": 5.1,
-        "latitude": -2.9239,
-        "longitude": 130.2558,
-        "depth_km": 10,
-        "time_ms": 1785539750134,
-        "place": "148 km ENE of Masohi, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thbq",
-        "magnitude": 5.3,
-        "latitude": -2.8643,
-        "longitude": 130.1655,
-        "depth_km": 10,
-        "time_ms": 1785529166519,
-        "place": "141 km ENE of Masohi, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 9.64
@@ -1815,167 +1782,6 @@
       }
     ],
     "seismic_hub_risk_score": 2.59
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.7,
-    "strongest_earthquake": {
-      "magnitude": 6.7,
-      "date": "2026-08-20",
-      "depth_km": 99,
-      "latitude": -14.6414,
-      "longitude": -73.5236
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 74,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 18.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000th4k",
-            "magnitude": 5.6,
-            "latitude": -8.325,
-            "longitude": -74.4179,
-            "depth_km": 156.481,
-            "time_ms": 1785459524783,
-            "place": "15 km ENE of San Fernando, Peru",
-            "distance_km": 18.2,
-            "exposure_contribution": 0.9,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000thpt",
-            "magnitude": 5.2,
-            "latitude": -8.6087,
-            "longitude": -75.836,
-            "depth_km": 123.99,
-            "time_ms": 1785721344824,
-            "place": "71 km ESE of Uchiza, Peru",
-            "distance_km": 141.1,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      },
-      {
-        "name": "Jorge Chávez International Airport",
-        "iata_code": "LIM",
-        "latitude": -12.0219,
-        "longitude": -77.114305,
-        "municipality": "Lima",
-        "closest_quake_distance_km": 189.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tip9",
-            "magnitude": 5.3,
-            "latitude": -12.157,
-            "longitude": -75.3788,
-            "depth_km": 10,
-            "time_ms": 1786042641239,
-            "place": "4 km N of Yanacancha, Peru",
-            "distance_km": 189.3,
-            "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.46
-      },
-      {
-        "name": "Captain Renán Elías Olivera International Airport",
-        "iata_code": "PIO",
-        "latitude": -13.7449,
-        "longitude": -76.220299,
-        "municipality": "Pisco",
-        "closest_quake_distance_km": 198.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tip9",
-            "magnitude": 5.3,
-            "latitude": -12.157,
-            "longitude": -75.3788,
-            "depth_km": 10,
-            "time_ms": 1786042641239,
-            "place": "4 km N of Yanacancha, Peru",
-            "distance_km": 198.7,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tm81",
-        "magnitude": 6.7,
-        "latitude": -14.6414,
-        "longitude": -73.5236,
-        "depth_km": 99,
-        "time_ms": 1787248818626,
-        "place": "31 km NW of Aniso, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tip9",
-        "magnitude": 5.3,
-        "latitude": -12.157,
-        "longitude": -75.3788,
-        "depth_km": 10,
-        "time_ms": 1786042641239,
-        "place": "4 km N of Yanacancha, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thpt",
-        "magnitude": 5.2,
-        "latitude": -8.6087,
-        "longitude": -75.836,
-        "depth_km": 123.99,
-        "time_ms": 1785721344824,
-        "place": "71 km ESE of Uchiza, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th4k",
-        "magnitude": 5.6,
-        "latitude": -8.325,
-        "longitude": -74.4179,
-        "depth_km": 156.481,
-        "time_ms": 1785459524783,
-        "place": "15 km ENE of San Fernando, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.21
   },
   {
     "country": "",
@@ -2171,6 +1977,143 @@
   },
   {
     "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.73,
+    "strongest_earthquake": {
+      "magnitude": 6.7,
+      "date": "2026-08-20",
+      "depth_km": 99,
+      "latitude": -14.6414,
+      "longitude": -73.5236
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 74,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Cap FAP David Abenzur Rengifo International Airport",
+        "iata_code": "PCL",
+        "latitude": -8.378064,
+        "longitude": -74.574495,
+        "municipality": "Pucallpa",
+        "closest_quake_distance_km": 141.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000thpt",
+            "magnitude": 5.2,
+            "latitude": -8.6087,
+            "longitude": -75.836,
+            "depth_km": 123.99,
+            "time_ms": 1785721344824,
+            "place": "71 km ESE of Uchiza, Peru",
+            "distance_km": 141.1,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      },
+      {
+        "name": "Jorge Chávez International Airport",
+        "iata_code": "LIM",
+        "latitude": -12.0219,
+        "longitude": -77.114305,
+        "municipality": "Lima",
+        "closest_quake_distance_km": 186.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tip9",
+            "magnitude": 5.3,
+            "latitude": -12.1916,
+            "longitude": -75.4066,
+            "depth_km": 10,
+            "time_ms": 1786042641190,
+            "place": "2 km WNW of Yanacancha, Peru",
+            "distance_km": 186.6,
+            "exposure_contribution": 0.48,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.48
+      },
+      {
+        "name": "Captain Renán Elías Olivera International Airport",
+        "iata_code": "PIO",
+        "latitude": -13.7449,
+        "longitude": -76.220299,
+        "municipality": "Pisco",
+        "closest_quake_distance_km": 193.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tip9",
+            "magnitude": 5.3,
+            "latitude": -12.1916,
+            "longitude": -75.4066,
+            "depth_km": 10,
+            "time_ms": 1786042641190,
+            "place": "2 km WNW of Yanacancha, Peru",
+            "distance_km": 193.9,
+            "exposure_contribution": 0.45,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.45
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tm81",
+        "magnitude": 6.7,
+        "latitude": -14.6414,
+        "longitude": -73.5236,
+        "depth_km": 99,
+        "time_ms": 1787248818626,
+        "place": "31 km NW of Aniso, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tip9",
+        "magnitude": 5.3,
+        "latitude": -12.1916,
+        "longitude": -75.4066,
+        "depth_km": 10,
+        "time_ms": 1786042641190,
+        "place": "2 km WNW of Yanacancha, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000thpt",
+        "magnitude": 5.2,
+        "latitude": -8.6087,
+        "longitude": -75.836,
+        "depth_km": 123.99,
+        "time_ms": 1785721344824,
+        "place": "71 km ESE of Uchiza, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.35
+  },
+  {
+    "country": "",
     "iso_alpha2": "MX",
     "iso_alpha3": "",
     "capital": "",
@@ -2182,8 +2125,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-08-18",
@@ -2274,17 +2217,6 @@
         "depth_km": 10,
         "time_ms": 1785676246579,
         "place": "79 km ENE of Mulegé, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000th8n",
-        "magnitude": 5.2,
-        "latitude": 14.5026,
-        "longitude": -93.242,
-        "depth_km": 10,
-        "time_ms": 1785514557624,
-        "place": "91 km WSW of Puerto Madero, Mexico",
         "country_code": "MX",
         "shakemap_available": false
       }
