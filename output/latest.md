@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-08-31 12:15 UTC
+Generated: 2026-09-01 10:50 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-06-03 to 2026-08-31).
+Based on 89 snapshots (2026-06-04 to 2026-09-01).
 
 
 **Top score changes**:
@@ -12,9 +12,9 @@ Based on 89 snapshots (2026-06-03 to 2026-08-31).
 
 **Top airport exposure changes**:
 
-- Cap FAP David Abenzur Rengifo International Airport (PCL, ): -0.9
-- Jorge Chávez International Airport (LIM, ): +0.0
-- Captain Renán Elías Olivera International Airport (PIO, ): +0.0
+- Hakodate Airport (HKD, ): -1.1
+- Aomori Airport (AOJ, ): -0.9
+- New Chitose Airport (CTS, ): -0.7
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 
@@ -22,10 +22,10 @@ Based on 89 snapshots (2026-06-03 to 2026-08-31).
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 30.7 | ~ | 5.5 | M6 (2026-08-23) | 10 | 10 | green | No | 1 |
+|  |  |  | 23.4 | ~ | 5.5 | M6 (2026-08-23) | 8 | 6 | green | No | 1 |
 |  |  |  | 17.0 | ~ | 5.3 | M6.3 (2026-08-05) | 11 | 7 | green | No | 1 |
-|  |  |  | 9.6 | ~ | 5.3 | M7.7 (2026-08-14) | 59 | 2 | yellow | No | 2 |
-|  |  |  | 2.6 | ~ | 5.2 | M5.8 (2026-08-17) | 8 | 1 | - | No | 0 |
+|  |  |  | 9.6 | ~ | 5.3 | M7.8 (2026-08-14) | 64 | 2 | yellow | No | 2 |
+|  |  |  | 2.6 | ~ | 5.2 | M5.8 (2026-08-17) | 7 | 1 | - | No | 0 |
 |  |  |  | 1.4 | ~ | 5.1 | M5.5 (2026-08-18) | 8 | 3 | yellow | No | 2 |
 |  |  |  | 1.4 | ~ | 5.7 | M6.7 (2026-08-20) | 3 | 3 | green | No | 1 |
 |  |  |  | 0.6 | ~ | 5.3 | M5.7 (2026-08-18) | 5 | 1 | - | No | 0 |
@@ -39,13 +39,9 @@ Based on 89 snapshots (2026-06-03 to 2026-08-31).
 | Narita International Airport | NRT | Narita |  | 7.3 | ~ | 0.0729 | 33.7 | 1 |
 | Ibaraki Airport | IBR | Omitama |  | 6.9 | ~ | 0.0693 | 40.6 | 1 |
 | Tokyo Haneda International Airport | HND | Tokyo |  | 5.4 | ~ | 0.0540 | 50.5 | 1 |
-| Miyazaki Airport | KMI | Miyazaki |  | 2.6 | ~ | - | 50.5 | 1 |
-| Hakodate Airport | HKD | Hakodate |  | 2.4 | ~ | - | 107.2 | 2 |
-| New Chitose Airport | CTS | Sapporo |  | 2.3 | ~ | - | 137.6 | 2 |
-| Aomori Airport | AOJ | Aomori |  | 1.7 | ~ | - | 126.3 | 2 |
-| Kagoshima Airport | KOJ | Kagoshima |  | 0.9 | ~ | - | 119.3 | 1 |
-| Kumamoto Airport | KMJ | Kumamoto |  | 0.8 | ~ | - | 137.5 | 1 |
-| Kyushu Saga International Airport | HSG | Saga |  | 0.4 | ~ | - | 199.4 | 1 |
+| New Chitose Airport | CTS | Sapporo |  | 1.7 | -0.7 | - | 137.6 | 1 |
+| Hakodate Airport | HKD | Hakodate |  | 1.3 | -1.1 | - | 164.3 | 1 |
+| Aomori Airport | AOJ | Aomori |  | 0.8 | -0.9 | - | 153.2 | 1 |
 | General Santos International Airport | GES | General Santos |  | 11.5 | ~ | 0.0573 | 89.1 | 7 |
 | Laguindingan International Airport | CGY | Laguindingan |  | 1.8 | ~ | - | 126.4 | 3 |
 | Bohol-Panglao International Airport | TAG | Panglao |  | 1.1 | ~ | - | 174.4 | 3 |
@@ -61,7 +57,7 @@ Based on 89 snapshots (2026-06-03 to 2026-08-31).
 | Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 0.3 | ~ | - | 188.8 | 1 |
 | Jorge Chávez International Airport | LIM | Lima |  | 0.5 | ~ | - | 186.6 | 1 |
 | Captain Renán Elías Olivera International Airport | PIO | Pisco |  | 0.5 | ~ | - | 193.9 | 1 |
-| Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 0.4 | -0.9 | - | 141.1 | 1 |
+| Cap FAP David Abenzur Rengifo International Airport | PCL | Pucallpa |  | 0.4 | ~ | - | 141.1 | 1 |
 | Loreto International Airport | LTO | Loreto |  | 0.6 | ~ | - | 136.0 | 1 |
 | Nadzab Tomodachi International Airport | LAE | Lae |  | 0.6 | ~ | - | 114.2 | 1 |
 | Bauerfield International Airport | VLI | Port Vila |  | 0.4 | ~ | - | 174.4 | 1 |

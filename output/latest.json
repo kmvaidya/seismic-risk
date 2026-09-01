@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.45,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.46,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-08-23",
@@ -94,22 +94,9 @@
             "exposure_contribution": 1.66,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000thdk",
-            "magnitude": 5.5,
-            "latitude": 41.3318,
-            "longitude": 141.97,
-            "depth_km": 74.853,
-            "time_ms": 1785552480535,
-            "place": "63 km E of Mutsu, Japan",
-            "distance_km": 162.1,
-            "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 2.31
+        "exposure_score": 1.66
       },
       {
         "name": "Hakodate Airport",
@@ -117,21 +104,8 @@
         "latitude": 41.77,
         "longitude": 140.822006,
         "municipality": "Hakodate",
-        "closest_quake_distance_km": 107.2,
+        "closest_quake_distance_km": 164.3,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thdk",
-            "magnitude": 5.5,
-            "latitude": 41.3318,
-            "longitude": 141.97,
-            "depth_km": 74.853,
-            "time_ms": 1785552480535,
-            "place": "63 km E of Mutsu, Japan",
-            "distance_km": 107.2,
-            "exposure_contribution": 1.09,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tmz6",
             "magnitude": 6,
@@ -146,103 +120,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.35
-      },
-      {
-        "name": "Kagoshima Airport",
-        "iata_code": "KOJ",
-        "latitude": 31.8034,
-        "longitude": 130.718994,
-        "municipality": "Kagoshima",
-        "closest_quake_distance_km": 119.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thhk",
-            "magnitude": 5.3,
-            "latitude": 32.0214,
-            "longitude": 131.9561,
-            "depth_km": 35,
-            "time_ms": 1785611453802,
-            "place": "44 km SE of Tsunō, Japan",
-            "distance_km": 119.3,
-            "exposure_contribution": 0.93,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.93
-      },
-      {
-        "name": "Miyazaki Airport",
-        "iata_code": "KMI",
-        "latitude": 31.877199,
-        "longitude": 131.449005,
-        "municipality": "Miyazaki",
-        "closest_quake_distance_km": 50.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thhk",
-            "magnitude": 5.3,
-            "latitude": 32.0214,
-            "longitude": 131.9561,
-            "depth_km": 35,
-            "time_ms": 1785611453802,
-            "place": "44 km SE of Tsunō, Japan",
-            "distance_km": 50.5,
-            "exposure_contribution": 2.6,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.6
-      },
-      {
-        "name": "Kyushu Saga International Airport",
-        "iata_code": "HSG",
-        "latitude": 33.1497,
-        "longitude": 130.302002,
-        "municipality": "Saga",
-        "closest_quake_distance_km": 199.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thhk",
-            "magnitude": 5.3,
-            "latitude": 32.0214,
-            "longitude": 131.9561,
-            "depth_km": 35,
-            "time_ms": 1785611453802,
-            "place": "44 km SE of Tsunō, Japan",
-            "distance_km": 199.4,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.41
-      },
-      {
-        "name": "Kumamoto Airport",
-        "iata_code": "KMJ",
-        "latitude": 32.837299,
-        "longitude": 130.854996,
-        "municipality": "Kumamoto",
-        "closest_quake_distance_km": 137.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thhk",
-            "magnitude": 5.3,
-            "latitude": 32.0214,
-            "longitude": 131.9561,
-            "depth_km": 35,
-            "time_ms": 1785611453802,
-            "place": "44 km SE of Tsunō, Japan",
-            "distance_km": 137.5,
-            "exposure_contribution": 0.76,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.76
+        "exposure_score": 1.26
       },
       {
         "name": "Aomori Airport",
@@ -250,21 +128,8 @@
         "latitude": 40.733777,
         "longitude": 140.689477,
         "municipality": "Aomori",
-        "closest_quake_distance_km": 126.3,
+        "closest_quake_distance_km": 153.2,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thdk",
-            "magnitude": 5.5,
-            "latitude": 41.3318,
-            "longitude": 141.97,
-            "depth_km": 74.853,
-            "time_ms": 1785552480535,
-            "place": "63 km E of Mutsu, Japan",
-            "distance_km": 126.3,
-            "exposure_contribution": 0.9,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tjaj",
             "magnitude": 5.5,
@@ -279,7 +144,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.71
+        "exposure_score": 0.81
       },
       {
         "name": "Tokyo Haneda International Airport",
@@ -394,31 +259,9 @@
         "place": "151 km E of Miyako, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000thhk",
-        "magnitude": 5.3,
-        "latitude": 32.0214,
-        "longitude": 131.9561,
-        "depth_km": 35,
-        "time_ms": 1785611453802,
-        "place": "44 km SE of Tsunō, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thdk",
-        "magnitude": 5.5,
-        "latitude": 41.3318,
-        "longitude": 141.97,
-        "depth_km": 74.853,
-        "time_ms": 1785552480535,
-        "place": "63 km E of Mutsu, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 30.69
+    "seismic_hub_risk_score": 23.35
   },
   {
     "country": "",
@@ -910,14 +753,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 59,
+    "earthquake_count": 64,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
-      "magnitude": 7.7,
+      "magnitude": 7.8,
       "date": "2026-08-14",
       "depth_km": 10,
-      "latitude": -8.3101,
-      "longitude": 121.3517
+      "latitude": -8.3514,
+      "longitude": 121.3478
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 52,
@@ -974,6 +817,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000td2z",
+        "magnitude": 5.5,
+        "latitude": -8.241,
+        "longitude": 120.6119,
+        "depth_km": 10,
+        "time_ms": 1788163408497,
+        "place": "44 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tcsu",
         "magnitude": 5,
@@ -1164,11 +1018,11 @@
       {
         "id": "us6000tlxq",
         "magnitude": 5.5,
-        "latitude": -8.1769,
-        "longitude": 120.6643,
+        "latitude": -8.2075,
+        "longitude": 120.558,
         "depth_km": 10,
-        "time_ms": 1787156258400,
-        "place": "52 km NNE of Ruteng, Indonesia",
+        "time_ms": 1787156258287,
+        "place": "45 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1461,35 +1315,57 @@
       {
         "id": "us6000tkuw",
         "magnitude": 5.3,
-        "latitude": -8.2053,
-        "longitude": 120.2253,
+        "latitude": -8.0924,
+        "longitude": 120.2652,
         "depth_km": 10,
-        "time_ms": 1786747991834,
-        "place": "49 km NE of Labuan Bajo, Indonesia",
+        "time_ms": 1786747992033,
+        "place": "61 km NE of Labuan Bajo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us6000tkuf",
         "magnitude": 5.5,
-        "latitude": -8.1604,
-        "longitude": 120.1908,
+        "latitude": -8.2816,
+        "longitude": 120.0343,
         "depth_km": 10,
-        "time_ms": 1786747037172,
-        "place": "49 km NE of Labuan Bajo, Indonesia",
+        "time_ms": 1786747037355,
+        "place": "28 km NE of Labuan Bajo, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
       {
         "id": "us6000tkuc",
         "magnitude": 6.1,
-        "latitude": -8.3186,
-        "longitude": 121.5717,
+        "latitude": -8.2904,
+        "longitude": 121.5625,
         "depth_km": 10,
-        "time_ms": 1786746517550,
-        "place": "58 km N of Ende, Indonesia",
+        "time_ms": 1786746517743,
+        "place": "62 km N of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
+      },
+      {
+        "id": "us6000tlwk",
+        "magnitude": 5,
+        "latitude": -8.1366,
+        "longitude": 120.5824,
+        "depth_km": 10,
+        "time_ms": 1786746422125,
+        "place": "54 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tlwl",
+        "magnitude": 5.1,
+        "latitude": -8.3144,
+        "longitude": 121.3409,
+        "depth_km": 10,
+        "time_ms": 1786746114003,
+        "place": "68 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
       },
       {
         "id": "us6000tku7",
@@ -1503,35 +1379,57 @@
         "shakemap_available": true
       },
       {
+        "id": "us6000tlx9",
+        "magnitude": 5.4,
+        "latitude": -8.3292,
+        "longitude": 121.2044,
+        "depth_km": 10,
+        "time_ms": 1786745840727,
+        "place": "75 km NW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000tkub",
         "magnitude": 5.5,
-        "latitude": -8.4696,
-        "longitude": 121.0058,
+        "latitude": -8.4867,
+        "longitude": 121.0158,
         "depth_km": 10,
-        "time_ms": 1786745820060,
-        "place": "61 km ENE of Ruteng, Indonesia",
+        "time_ms": 1786745819927,
+        "place": "62 km ENE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
       {
         "id": "us6000tkta",
         "magnitude": 5.9,
-        "latitude": -8.2849,
-        "longitude": 120.1465,
+        "latitude": -8.2393,
+        "longitude": 120.1488,
         "depth_km": 10,
-        "time_ms": 1786745630869,
-        "place": "36 km NE of Labuan Bajo, Indonesia",
+        "time_ms": 1786745630837,
+        "place": "40 km NE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tlwi",
+        "magnitude": 5.8,
+        "latitude": -8.229,
+        "longitude": 121.308,
+        "depth_km": 10,
+        "time_ms": 1786745189750,
+        "place": "78 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
       {
         "id": "us6000tkt2",
-        "magnitude": 7.7,
-        "latitude": -8.3101,
-        "longitude": 121.3517,
+        "magnitude": 7.8,
+        "latitude": -8.3514,
+        "longitude": 121.3478,
         "depth_km": 10,
-        "time_ms": 1786744701564,
-        "place": "68 km NNW of Ende, Indonesia",
+        "time_ms": 1786744701505,
+        "place": "64 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1639,7 +1537,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
+    "earthquake_count": 7,
     "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 5.8,
@@ -1766,17 +1664,6 @@
         "depth_km": 92.38,
         "time_ms": 1785629619721,
         "place": "122 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thhr",
-        "magnitude": 5.2,
-        "latitude": 49.3423,
-        "longitude": 155.2981,
-        "depth_km": 56.61,
-        "time_ms": 1785614567387,
-        "place": "159 km SSW of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       }
