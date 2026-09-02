@@ -276,8 +276,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.3,
       "date": "2026-08-05",
@@ -296,23 +296,23 @@
         "latitude": 14.794833,
         "longitude": 120.271883,
         "municipality": "Olongapo",
-        "closest_quake_distance_km": 160.9,
+        "closest_quake_distance_km": 177.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tivb",
-            "magnitude": 5,
-            "latitude": 13.3855,
-            "longitude": 120.6108,
-            "depth_km": 90.196,
-            "time_ms": 1786070290013,
-            "place": "7 km NW of Cabacao, Philippines",
-            "distance_km": 160.9,
-            "exposure_contribution": 0.34,
+            "magnitude": 5.3,
+            "latitude": 13.2442,
+            "longitude": 120.6615,
+            "depth_km": 90.523,
+            "time_ms": 1786070289583,
+            "place": "7 km ENE of Mamburao, Philippines",
+            "distance_km": 177.5,
+            "exposure_contribution": 0.43,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.34
+        "exposure_score": 0.43
       },
       {
         "name": "Ninoy Aquino International Airport",
@@ -320,23 +320,23 @@
         "latitude": 14.5086,
         "longitude": 121.019997,
         "municipality": "Manila (Pasay)",
-        "closest_quake_distance_km": 132.5,
+        "closest_quake_distance_km": 145.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tivb",
-            "magnitude": 5,
-            "latitude": 13.3855,
-            "longitude": 120.6108,
-            "depth_km": 90.196,
-            "time_ms": 1786070290013,
-            "place": "7 km NW of Cabacao, Philippines",
-            "distance_km": 132.5,
-            "exposure_contribution": 0.44,
+            "magnitude": 5.3,
+            "latitude": 13.2442,
+            "longitude": 120.6615,
+            "depth_km": 90.523,
+            "time_ms": 1786070289583,
+            "place": "7 km ENE of Mamburao, Philippines",
+            "distance_km": 145.8,
+            "exposure_contribution": 0.55,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.44
+        "exposure_score": 0.55
       },
       {
         "name": "Francisco Bangoy International Airport",
@@ -462,6 +462,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000tdbr",
+            "magnitude": 5.2,
+            "latitude": 5.1623,
+            "longitude": 125.672,
+            "depth_km": 120.779,
+            "time_ms": 1788268950133,
+            "place": "35 km SE of Sarangani, Philippines",
+            "distance_km": 118.2,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tmrf",
             "magnitude": 5,
             "latitude": 6.7397,
@@ -475,7 +488,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 11.48
+        "exposure_score": 11.98
       },
       {
         "name": "Laguindingan International Airport",
@@ -617,6 +630,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tdbr",
+        "magnitude": 5.2,
+        "latitude": 5.1623,
+        "longitude": 125.672,
+        "depth_km": 120.779,
+        "time_ms": 1788268950133,
+        "place": "35 km SE of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tmrf",
         "magnitude": 5,
         "latitude": 6.7397,
@@ -684,12 +708,12 @@
       },
       {
         "id": "us6000tivb",
-        "magnitude": 5,
-        "latitude": 13.3855,
-        "longitude": 120.6108,
-        "depth_km": 90.196,
-        "time_ms": 1786070290013,
-        "place": "7 km NW of Cabacao, Philippines",
+        "magnitude": 5.3,
+        "latitude": 13.2442,
+        "longitude": 120.6615,
+        "depth_km": 90.523,
+        "time_ms": 1786070289583,
+        "place": "7 km ENE of Mamburao, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -738,7 +762,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 17.01
+    "seismic_hub_risk_score": 17.71
   },
   {
     "country": "",
@@ -753,8 +777,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 64,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 65,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-08-14",
@@ -817,6 +841,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tdav",
+        "magnitude": 5.6,
+        "latitude": 0.1685,
+        "longitude": 128.8054,
+        "depth_km": 10,
+        "time_ms": 1788250940813,
+        "place": "82 km SE of Maba, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us7000td2z",
         "magnitude": 5.5,
@@ -1537,8 +1572,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.24,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-17",
@@ -1655,17 +1690,6 @@
         "place": "56 km SE of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000thj5",
-        "magnitude": 5.1,
-        "latitude": 49.7284,
-        "longitude": 155.2385,
-        "depth_km": 92.38,
-        "time_ms": 1785629619721,
-        "place": "122 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.59
@@ -1683,8 +1707,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.12,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.14,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-18",
@@ -1829,11 +1853,11 @@
       {
         "id": "us6000tivz",
         "magnitude": 5.1,
-        "latitude": 28.505,
-        "longitude": 104.7523,
+        "latitude": 28.4377,
+        "longitude": 104.7436,
         "depth_km": 10,
-        "time_ms": 1786079310903,
-        "place": "6 km NNE of Xunchang, China",
+        "time_ms": 1786079310186,
+        "place": "3 km ESE of Xunchang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -1845,17 +1869,6 @@
         "depth_km": 10,
         "time_ms": 1785924369610,
         "place": "61 km NE of Shi Yomi, India",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thn0",
-        "magnitude": 5,
-        "latitude": 28.5301,
-        "longitude": 104.7446,
-        "depth_km": 10,
-        "time_ms": 1785694905760,
-        "place": "8 km NNE of Xunchang, China",
         "country_code": "CN",
         "shakemap_available": false
       }
@@ -2001,7 +2014,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "MX",
+    "iso_alpha2": "US",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -2012,103 +2025,105 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-08-18",
+      "magnitude": 5.6,
+      "date": "2026-08-08",
       "depth_km": 10,
-      "latitude": 14.2298,
-      "longitude": -93.1475
+      "latitude": 62.269,
+      "longitude": -152.314
     },
     "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "max_felt_reports": 1137,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
-        "name": "Loreto International Airport",
-        "iata_code": "LTO",
-        "latitude": 25.989549,
-        "longitude": -111.348408,
-        "municipality": "Loreto",
-        "closest_quake_distance_km": 136.0,
+        "name": "Ted Stevens Anchorage International Airport",
+        "iata_code": "ANC",
+        "latitude": 61.179004,
+        "longitude": -149.992561,
+        "municipality": "Anchorage",
+        "closest_quake_distance_km": 172.2,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000thm1",
-            "magnitude": 5.1,
-            "latitude": 27.2104,
-            "longitude": -111.2632,
+            "earthquake_id": "aka2026powmkf",
+            "magnitude": 5.6,
+            "latitude": 62.269,
+            "longitude": -152.314,
             "depth_km": 10,
-            "time_ms": 1785676246579,
-            "place": "79 km ENE of Mulegé, Mexico",
-            "distance_km": 136.0,
-            "exposure_contribution": 0.64,
+            "time_ms": 1786164634985,
+            "place": "57 km WNW of Skwentna, Alaska",
+            "distance_km": 172.2,
+            "exposure_contribution": 0.27,
+            "pga_g": 0.00267,
+            "mmi": 2.9
+          }
+        ],
+        "exposure_score": 0.27
+      },
+      {
+        "name": "Ellison Onizuka Kona International Airport at Keāhole",
+        "iata_code": "KOA",
+        "latitude": 19.738783,
+        "longitude": -156.045603,
+        "municipality": "Kailua-Kona",
+        "closest_quake_distance_km": 128.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "hv75018296",
+            "magnitude": 5.2,
+            "latitude": 18.879,
+            "longitude": -155.233333333333,
+            "depth_km": 10.73,
+            "time_ms": 1786506513980,
+            "place": "42 km ESE of Naalehu, Hawaii",
+            "distance_km": 128.1,
+            "exposure_contribution": 0.79,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.64
+        "exposure_score": 0.79
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000tch3",
-        "magnitude": 5,
-        "latitude": 8.4191,
-        "longitude": -103.4604,
-        "depth_km": 10,
-        "time_ms": 1787884757518,
-        "place": "northern East Pacific Rise",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tlkl",
-        "magnitude": 5.7,
-        "latitude": 14.2298,
-        "longitude": -93.1475,
-        "depth_km": 10,
-        "time_ms": 1787029352244,
-        "place": "95 km SW of Puerto Madero, Mexico",
-        "country_code": "MX",
+        "id": "us7000tdab",
+        "magnitude": 5.3,
+        "latitude": 52.2132,
+        "longitude": -169.4456,
+        "depth_km": 26.001,
+        "time_ms": 1788245076948,
+        "place": "89 km SSW of Nikolski, Alaska",
+        "country_code": "US",
         "shakemap_available": true
       },
       {
-        "id": "usd0015e8n",
+        "id": "hv75018296",
         "magnitude": 5.2,
-        "latitude": 14.4177,
-        "longitude": -92.969,
-        "depth_km": 35,
-        "time_ms": 1786895573557,
-        "place": "67 km WSW of Puerto Madero, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tjjj",
-        "magnitude": 5.5,
-        "latitude": 0.3112,
-        "longitude": -114.648,
-        "depth_km": 10,
-        "time_ms": 1786340504224,
-        "place": "east central Pacific Ocean",
-        "country_code": "MX",
+        "latitude": 18.879,
+        "longitude": -155.233333333333,
+        "depth_km": 10.73,
+        "time_ms": 1786506513980,
+        "place": "42 km ESE of Naalehu, Hawaii",
+        "country_code": "US",
         "shakemap_available": true
       },
       {
-        "id": "us6000thm1",
-        "magnitude": 5.1,
-        "latitude": 27.2104,
-        "longitude": -111.2632,
+        "id": "aka2026powmkf",
+        "magnitude": 5.6,
+        "latitude": 62.269,
+        "longitude": -152.314,
         "depth_km": 10,
-        "time_ms": 1785676246579,
-        "place": "79 km ENE of Mulegé, Mexico",
-        "country_code": "MX",
-        "shakemap_available": false
+        "time_ms": 1786164634985,
+        "place": "57 km WNW of Skwentna, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 0.64
+    "seismic_hub_risk_score": 1.06
   },
   {
     "country": "",
@@ -2289,8 +2304,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-08-16",
@@ -2329,6 +2344,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tdey",
+        "magnitude": 5,
+        "latitude": -20.5024,
+        "longitude": 169.7829,
+        "depth_km": 122.461,
+        "time_ms": 1788287849222,
+        "place": "118 km SSE of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tcig",
         "magnitude": 5,
