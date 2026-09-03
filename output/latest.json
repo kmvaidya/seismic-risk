@@ -464,13 +464,13 @@
           {
             "earthquake_id": "us7000tdbr",
             "magnitude": 5.2,
-            "latitude": 5.1623,
-            "longitude": 125.672,
-            "depth_km": 120.779,
-            "time_ms": 1788268950133,
-            "place": "35 km SE of Sarangani, Philippines",
-            "distance_km": 118.2,
-            "exposure_contribution": 0.51,
+            "latitude": 5.0959,
+            "longitude": 125.7229,
+            "depth_km": 113.117,
+            "time_ms": 1788268949602,
+            "place": "44 km SE of Sarangani, Philippines",
+            "distance_km": 127.4,
+            "exposure_contribution": 0.5,
             "pga_g": null,
             "mmi": null
           },
@@ -632,11 +632,11 @@
       {
         "id": "us7000tdbr",
         "magnitude": 5.2,
-        "latitude": 5.1623,
-        "longitude": 125.672,
-        "depth_km": 120.779,
-        "time_ms": 1788268950133,
-        "place": "35 km SE of Sarangani, Philippines",
+        "latitude": 5.0959,
+        "longitude": 125.7229,
+        "depth_km": 113.117,
+        "time_ms": 1788268949602,
+        "place": "44 km SE of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -777,8 +777,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 65,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 67,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-08-14",
@@ -791,6 +791,30 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 2,
     "exposed_airports": [
+      {
+        "name": "Dortheys Hiyo Eluay International Airport",
+        "iata_code": "DJJ",
+        "latitude": -2.579627,
+        "longitude": 140.519857,
+        "municipality": "Sentani",
+        "closest_quake_distance_km": 148.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdhl",
+            "magnitude": 5.6,
+            "latitude": -3.2239,
+            "longitude": 139.3456,
+            "depth_km": 69.052,
+            "time_ms": 1788307495147,
+            "place": "159 km WSW of Abepura, Indonesia",
+            "distance_km": 148.8,
+            "exposure_contribution": 0.84,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.84
+      },
       {
         "name": "Sam Ratulangi International Airport",
         "iata_code": "MDC",
@@ -841,6 +865,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tdhl",
+        "magnitude": 5.6,
+        "latitude": -3.2239,
+        "longitude": 139.3456,
+        "depth_km": 69.052,
+        "time_ms": 1788307495147,
+        "place": "159 km WSW of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tdav",
         "magnitude": 5.6,
@@ -954,33 +989,44 @@
       {
         "id": "us6000tm9h",
         "magnitude": 5,
-        "latitude": -8.214,
-        "longitude": 121.3299,
+        "latitude": -8.1732,
+        "longitude": 121.3645,
         "depth_km": 10,
-        "time_ms": 1787255631824,
-        "place": "78 km NNW of Ende, Indonesia",
+        "time_ms": 1787255631720,
+        "place": "81 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us6000tm93",
         "magnitude": 5,
-        "latitude": -8.423,
-        "longitude": 121.2709,
+        "latitude": -8.402,
+        "longitude": 121.2108,
         "depth_km": 10,
-        "time_ms": 1787253843495,
-        "place": "63 km NW of Ende, Indonesia",
+        "time_ms": 1787253842793,
+        "place": "69 km NW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tc70",
+        "magnitude": 5,
+        "latitude": -8.3073,
+        "longitude": 120.2123,
+        "depth_km": 10,
+        "time_ms": 1787250602521,
+        "place": "41 km ENE of Labuan Bajo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us6000tm8h",
         "magnitude": 5.6,
-        "latitude": -8.2877,
-        "longitude": 121.3981,
+        "latitude": -8.297,
+        "longitude": 121.3718,
         "depth_km": 10,
-        "time_ms": 1787249571721,
-        "place": "67 km NNW of Ende, Indonesia",
+        "time_ms": 1787249571589,
+        "place": "68 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1515,10 +1561,10 @@
       {
         "id": "us6000tjcl",
         "magnitude": 5,
-        "latitude": 7.017,
-        "longitude": 94.1402,
+        "latitude": 7.0007,
+        "longitude": 94.1238,
         "depth_km": 10,
-        "time_ms": 1786244527086,
+        "time_ms": 1786244526993,
         "place": "180 km NW of Sabang, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
@@ -1557,7 +1603,120 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 9.64
+    "seismic_hub_risk_score": 10.48
+  },
+  {
+    "country": "",
+    "iso_alpha2": "NZ",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.45,
+    "strongest_earthquake": {
+      "magnitude": 6.3,
+      "date": "2026-08-05",
+      "depth_km": 216.7,
+      "latitude": -33.6969,
+      "longitude": 179.4683
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 14,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Queenstown Airport",
+        "iata_code": "ZQN",
+        "latitude": -45.019205,
+        "longitude": 168.746379,
+        "municipality": "Queenstown",
+        "closest_quake_distance_km": 73.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdj8",
+            "magnitude": 5.3,
+            "latitude": -44.4431,
+            "longitude": 168.3029,
+            "depth_km": 10,
+            "time_ms": 1788329613779,
+            "place": "66 km NNW of Arthurs Point, New Zealand",
+            "distance_km": 73.0,
+            "exposure_contribution": 2.02,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdjg",
+            "magnitude": 5.2,
+            "latitude": -44.4277,
+            "longitude": 168.2503,
+            "depth_km": 10,
+            "time_ms": 1788332232278,
+            "place": "70 km NNW of Arthurs Point, New Zealand",
+            "distance_km": 76.6,
+            "exposure_contribution": 1.69,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.71
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tdjg",
+        "magnitude": 5.2,
+        "latitude": -44.4277,
+        "longitude": 168.2503,
+        "depth_km": 10,
+        "time_ms": 1788332232278,
+        "place": "70 km NNW of Arthurs Point, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdj8",
+        "magnitude": 5.3,
+        "latitude": -44.4431,
+        "longitude": 168.3029,
+        "depth_km": 10,
+        "time_ms": 1788329613779,
+        "place": "66 km NNW of Arthurs Point, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ti8i",
+        "magnitude": 6.3,
+        "latitude": -33.6969,
+        "longitude": 179.4683,
+        "depth_km": 216.73,
+        "time_ms": 1785915806215,
+        "place": "south of the Kermadec Islands",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ti85",
+        "magnitude": 5,
+        "latitude": -49.5839,
+        "longitude": 164.0179,
+        "depth_km": 13.304,
+        "time_ms": 1785912262772,
+        "place": "Auckland Islands, New Zealand region",
+        "country_code": "NZ",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 3.71
   },
   {
     "country": "",
@@ -1693,6 +1852,196 @@
       }
     ],
     "seismic_hub_risk_score": 2.59
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 11,
+    "avg_magnitude": 5.15,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-08-16",
+      "depth_km": 147.7,
+      "latitude": -5.5432,
+      "longitude": 146.7882
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 93.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdqc",
+            "magnitude": 5.4,
+            "latitude": -7.1815,
+            "longitude": 146.1539,
+            "depth_km": 65.164,
+            "time_ms": 1788379473407,
+            "place": "53 km W of Bulolo, Papua New Guinea",
+            "distance_km": 93.0,
+            "exposure_contribution": 1.21,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "usd0015e7p",
+            "magnitude": 5.5,
+            "latitude": -5.5432,
+            "longitude": 146.7882,
+            "depth_km": 147.71,
+            "time_ms": 1786877951283,
+            "place": "116 km ESE of Madang, Papua New Guinea",
+            "distance_km": 114.2,
+            "exposure_contribution": 0.6,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.81
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tdqc",
+        "magnitude": 5.4,
+        "latitude": -7.1815,
+        "longitude": 146.1539,
+        "depth_km": 65.164,
+        "time_ms": 1788379473407,
+        "place": "53 km W of Bulolo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tcp5",
+        "magnitude": 5,
+        "latitude": -6.211,
+        "longitude": 151.7381,
+        "depth_km": 10,
+        "time_ms": 1787948378305,
+        "place": "191 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm8j",
+        "magnitude": 5.1,
+        "latitude": -5.478,
+        "longitude": 153.4364,
+        "depth_km": 35,
+        "time_ms": 1787250320048,
+        "place": "180 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm42",
+        "magnitude": 5,
+        "latitude": -1.143,
+        "longitude": 148.5466,
+        "depth_km": 10,
+        "time_ms": 1787234100046,
+        "place": "172 km NE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015edb",
+        "magnitude": 5.1,
+        "latitude": -6.3769,
+        "longitude": 149.3577,
+        "depth_km": 35,
+        "time_ms": 1786964423022,
+        "place": "28 km SW of Kandrian, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015e7p",
+        "magnitude": 5.5,
+        "latitude": -5.5432,
+        "longitude": 146.7882,
+        "depth_km": 147.71,
+        "time_ms": 1786877951283,
+        "place": "116 km ESE of Madang, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkyz",
+        "magnitude": 5.3,
+        "latitude": -4.4905,
+        "longitude": 144.0023,
+        "depth_km": 112.102,
+        "time_ms": 1786792224186,
+        "place": "47 km S of Angoram, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tkgn",
+        "magnitude": 5,
+        "latitude": -4.4318,
+        "longitude": 143.8885,
+        "depth_km": 134.025,
+        "time_ms": 1786625099102,
+        "place": "45 km SSW of Angoram, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tk29",
+        "magnitude": 5,
+        "latitude": -4.6393,
+        "longitude": 152.9244,
+        "depth_km": 71.07,
+        "time_ms": 1786480289038,
+        "place": "79 km ESE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tk0a",
+        "magnitude": 5,
+        "latitude": -7.5839,
+        "longitude": 144.9098,
+        "depth_km": 10,
+        "time_ms": 1786467978407,
+        "place": "103 km WNW of Kerema, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tie5",
+        "magnitude": 5.2,
+        "latitude": -6.5471,
+        "longitude": 143.9624,
+        "depth_km": 16.281,
+        "time_ms": 1785959187554,
+        "place": "29 km S of Ialibu, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.81
   },
   {
     "country": "",
@@ -1877,143 +2226,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.73,
-    "strongest_earthquake": {
-      "magnitude": 6.7,
-      "date": "2026-08-20",
-      "depth_km": 99,
-      "latitude": -14.6414,
-      "longitude": -73.5236
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 74,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Cap FAP David Abenzur Rengifo International Airport",
-        "iata_code": "PCL",
-        "latitude": -8.378064,
-        "longitude": -74.574495,
-        "municipality": "Pucallpa",
-        "closest_quake_distance_km": 141.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000thpt",
-            "magnitude": 5.2,
-            "latitude": -8.6087,
-            "longitude": -75.836,
-            "depth_km": 123.99,
-            "time_ms": 1785721344824,
-            "place": "71 km ESE of Uchiza, Peru",
-            "distance_km": 141.1,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.42
-      },
-      {
-        "name": "Jorge Chávez International Airport",
-        "iata_code": "LIM",
-        "latitude": -12.0219,
-        "longitude": -77.114305,
-        "municipality": "Lima",
-        "closest_quake_distance_km": 186.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tip9",
-            "magnitude": 5.3,
-            "latitude": -12.1916,
-            "longitude": -75.4066,
-            "depth_km": 10,
-            "time_ms": 1786042641190,
-            "place": "2 km WNW of Yanacancha, Peru",
-            "distance_km": 186.6,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.48
-      },
-      {
-        "name": "Captain Renán Elías Olivera International Airport",
-        "iata_code": "PIO",
-        "latitude": -13.7449,
-        "longitude": -76.220299,
-        "municipality": "Pisco",
-        "closest_quake_distance_km": 193.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tip9",
-            "magnitude": 5.3,
-            "latitude": -12.1916,
-            "longitude": -75.4066,
-            "depth_km": 10,
-            "time_ms": 1786042641190,
-            "place": "2 km WNW of Yanacancha, Peru",
-            "distance_km": 193.9,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.45
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tm81",
-        "magnitude": 6.7,
-        "latitude": -14.6414,
-        "longitude": -73.5236,
-        "depth_km": 99,
-        "time_ms": 1787248818626,
-        "place": "31 km NW of Aniso, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tip9",
-        "magnitude": 5.3,
-        "latitude": -12.1916,
-        "longitude": -75.4066,
-        "depth_km": 10,
-        "time_ms": 1786042641190,
-        "place": "2 km WNW of Yanacancha, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000thpt",
-        "magnitude": 5.2,
-        "latitude": -8.6087,
-        "longitude": -75.836,
-        "depth_km": 123.99,
-        "time_ms": 1785721344824,
-        "place": "71 km ESE of Uchiza, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.35
-  },
-  {
-    "country": "",
     "iso_alpha2": "US",
     "iso_alpha3": "",
     "capital": "",
@@ -2025,8 +2237,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-08-08",
@@ -2090,6 +2302,28 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tdmm",
+        "magnitude": 5.2,
+        "latitude": 52.3538,
+        "longitude": -169.4988,
+        "depth_km": 35,
+        "time_ms": 1788352321324,
+        "place": "78 km SSW of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdin",
+        "magnitude": 5.2,
+        "latitude": 52.1186,
+        "longitude": -169.295,
+        "depth_km": 35,
+        "time_ms": 1788326040312,
+        "place": "95 km SSW of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
         "id": "us7000tdab",
         "magnitude": 5.3,
         "latitude": 52.2132,
@@ -2127,172 +2361,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PG",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.12,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-08-16",
-      "depth_km": 147.7,
-      "latitude": -5.5432,
-      "longitude": 146.7882
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 114.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "usd0015e7p",
-            "magnitude": 5.5,
-            "latitude": -5.5432,
-            "longitude": 146.7882,
-            "depth_km": 147.71,
-            "time_ms": 1786877951283,
-            "place": "116 km ESE of Madang, Papua New Guinea",
-            "distance_km": 114.2,
-            "exposure_contribution": 0.6,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.6
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000tcp5",
-        "magnitude": 5,
-        "latitude": -6.211,
-        "longitude": 151.7381,
-        "depth_km": 10,
-        "time_ms": 1787948378305,
-        "place": "191 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm8j",
-        "magnitude": 5.1,
-        "latitude": -5.3709,
-        "longitude": 153.5631,
-        "depth_km": 35,
-        "time_ms": 1787250319502,
-        "place": "183 km SE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm42",
-        "magnitude": 5,
-        "latitude": -1.143,
-        "longitude": 148.5466,
-        "depth_km": 10,
-        "time_ms": 1787234100046,
-        "place": "172 km NE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015edb",
-        "magnitude": 5.1,
-        "latitude": -6.3769,
-        "longitude": 149.3577,
-        "depth_km": 35,
-        "time_ms": 1786964423022,
-        "place": "28 km SW of Kandrian, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015e7p",
-        "magnitude": 5.5,
-        "latitude": -5.5432,
-        "longitude": 146.7882,
-        "depth_km": 147.71,
-        "time_ms": 1786877951283,
-        "place": "116 km ESE of Madang, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkyz",
-        "magnitude": 5.3,
-        "latitude": -4.4905,
-        "longitude": 144.0023,
-        "depth_km": 112.102,
-        "time_ms": 1786792224186,
-        "place": "47 km S of Angoram, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkgn",
-        "magnitude": 5,
-        "latitude": -4.4318,
-        "longitude": 143.8885,
-        "depth_km": 134.025,
-        "time_ms": 1786625099102,
-        "place": "45 km SSW of Angoram, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tk29",
-        "magnitude": 5,
-        "latitude": -4.6393,
-        "longitude": 152.9244,
-        "depth_km": 71.07,
-        "time_ms": 1786480289038,
-        "place": "79 km ESE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tk0a",
-        "magnitude": 5,
-        "latitude": -7.5839,
-        "longitude": 144.9098,
-        "depth_km": 10,
-        "time_ms": 1786467978407,
-        "place": "103 km WNW of Kerema, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tie5",
-        "magnitude": 5.2,
-        "latitude": -6.5471,
-        "longitude": 143.9624,
-        "depth_km": 16.281,
-        "time_ms": 1785959187554,
-        "place": "29 km S of Ialibu, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.6
-  },
-  {
-    "country": "",
     "iso_alpha2": "VU",
     "iso_alpha3": "",
     "capital": "",
@@ -2304,8 +2372,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-08-16",
@@ -2344,6 +2412,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tdr1",
+        "magnitude": 5.4,
+        "latitude": -20.279,
+        "longitude": 169.4012,
+        "depth_km": 93.091,
+        "time_ms": 1788384128653,
+        "place": "82 km S of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tdey",
         "magnitude": 5,
