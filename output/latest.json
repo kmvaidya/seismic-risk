@@ -282,13 +282,13 @@
       "magnitude": 6.3,
       "date": "2026-08-05",
       "depth_km": 10,
-      "latitude": 5.1995,
-      "longitude": 125.3134
+      "latitude": 5.1799,
+      "longitude": 125.2798
     },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 66,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Subic Bay International Airport / Naval Air Station Cubi Point",
@@ -412,15 +412,15 @@
           {
             "earthquake_id": "us6000ti6x",
             "magnitude": 6.3,
-            "latitude": 5.1995,
-            "longitude": 125.3134,
+            "latitude": 5.1799,
+            "longitude": 125.2798,
             "depth_km": 10,
-            "time_ms": 1785903246073,
-            "place": "28 km SW of Sarangani, Philippines",
-            "distance_km": 98.4,
-            "exposure_contribution": 5.73,
-            "pga_g": 0.057321,
-            "mmi": 5.2
+            "time_ms": 1785903246079,
+            "place": "32 km SW of Sarangani, Philippines",
+            "distance_km": 99.6,
+            "exposure_contribution": 4.11,
+            "pga_g": null,
+            "mmi": null
           },
           {
             "earthquake_id": "us6000ti80",
@@ -488,7 +488,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 11.98
+        "exposure_score": 10.35
       },
       {
         "name": "Laguindingan International Airport",
@@ -753,16 +753,16 @@
       {
         "id": "us6000ti6x",
         "magnitude": 6.3,
-        "latitude": 5.1995,
-        "longitude": 125.3134,
+        "latitude": 5.1799,
+        "longitude": 125.2798,
         "depth_km": 10,
-        "time_ms": 1785903246073,
-        "place": "28 km SW of Sarangani, Philippines",
+        "time_ms": 1785903246079,
+        "place": "32 km SW of Sarangani, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 17.71
+    "seismic_hub_risk_score": 16.08
   },
   {
     "country": "",
@@ -777,7 +777,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 67,
+    "earthquake_count": 66,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.8,
@@ -814,30 +814,6 @@
           }
         ],
         "exposure_score": 0.84
-      },
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 175.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000ti49",
-            "magnitude": 5.7,
-            "latitude": 1.5011,
-            "longitude": 126.5024,
-            "depth_km": 34.167,
-            "time_ms": 1785874597007,
-            "place": "125 km NW of Ternate, Indonesia",
-            "distance_km": 175.3,
-            "exposure_contribution": 0.82,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.82
       },
       {
         "name": "Kualanamu International Airport",
@@ -1077,11 +1053,11 @@
       {
         "id": "us6000tm0u",
         "magnitude": 5.8,
-        "latitude": -8.3585,
-        "longitude": 120.5389,
+        "latitude": -8.3359,
+        "longitude": 120.5368,
         "depth_km": 10,
-        "time_ms": 1787179517227,
-        "place": "29 km NNE of Ruteng, Indonesia",
+        "time_ms": 1787179517337,
+        "place": "31 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1187,11 +1163,11 @@
       {
         "id": "usd0015eay",
         "magnitude": 5.5,
-        "latitude": -8.22,
-        "longitude": 121.441,
-        "depth_km": 5.134,
-        "time_ms": 1786927599473,
-        "place": "73 km NNW of Ende, Indonesia",
+        "latitude": -8.2878,
+        "longitude": 121.4763,
+        "depth_km": 7.122,
+        "time_ms": 1786927599857,
+        "place": "64 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1352,11 +1328,11 @@
       {
         "id": "us6000tkvp",
         "magnitude": 5.1,
-        "latitude": -8.0088,
-        "longitude": 120.6888,
+        "latitude": -7.9609,
+        "longitude": 120.6873,
         "depth_km": 10,
-        "time_ms": 1786756640014,
-        "place": "71 km NNE of Ruteng, Indonesia",
+        "time_ms": 1786756640050,
+        "place": "76 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1374,22 +1350,22 @@
       {
         "id": "us6000tkv9",
         "magnitude": 5,
-        "latitude": -8.3348,
-        "longitude": 121.359,
+        "latitude": -8.3398,
+        "longitude": 121.3807,
         "depth_km": 10,
-        "time_ms": 1786749425284,
-        "place": "65 km NNW of Ende, Indonesia",
+        "time_ms": 1786749425434,
+        "place": "63 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us6000tkv7",
         "magnitude": 5.1,
-        "latitude": -8.1694,
-        "longitude": 120.4166,
+        "latitude": -8.0226,
+        "longitude": 120.5519,
         "depth_km": 10,
-        "time_ms": 1786749151091,
-        "place": "49 km N of Ruteng, Indonesia",
+        "time_ms": 1786749151473,
+        "place": "65 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1590,20 +1566,9 @@
         "place": "90 km SSW of Singaparna, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000ti49",
-        "magnitude": 5.7,
-        "latitude": 1.5011,
-        "longitude": 126.5024,
-        "depth_km": 34.167,
-        "time_ms": 1785874597007,
-        "place": "125 km NW of Ternate, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 10.48
+    "seismic_hub_risk_score": 9.66
   },
   {
     "country": "",
@@ -1627,10 +1592,10 @@
       "latitude": -33.6969,
       "longitude": 179.4683
     },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 14,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Queenstown Airport",
@@ -1717,6 +1682,246 @@
       }
     ],
     "seismic_hub_risk_score": 3.71
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 10,
+    "avg_magnitude": 5.17,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-08-18",
+      "depth_km": 6,
+      "latitude": 37.8333,
+      "longitude": 95.5438
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 6,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 3,
+    "exposed_airports": [
+      {
+        "name": "Chongqing Jiangbei International Airport",
+        "iata_code": "CKG",
+        "latitude": 29.712254,
+        "longitude": 106.651895,
+        "municipality": "Chongqing",
+        "closest_quake_distance_km": 146.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tcht",
+            "magnitude": 5,
+            "latitude": 29.2752,
+            "longitude": 105.229,
+            "depth_km": 10,
+            "time_ms": 1787894015070,
+            "place": "19 km NW of Fuji, China",
+            "distance_km": 146.0,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.51
+      },
+      {
+        "name": "Chengdu Tianfu International Airport",
+        "iata_code": "TFU",
+        "latitude": 30.31252,
+        "longitude": 104.441284,
+        "municipality": "Chengdu (Jianyang)",
+        "closest_quake_distance_km": 138.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tcht",
+            "magnitude": 5,
+            "latitude": 29.2752,
+            "longitude": 105.229,
+            "depth_km": 10,
+            "time_ms": 1787894015070,
+            "place": "19 km NW of Fuji, China",
+            "distance_km": 138.1,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdw6",
+            "magnitude": 5.4,
+            "latitude": 31.8458,
+            "longitude": 104.5066,
+            "depth_km": 10,
+            "time_ms": 1788435581981,
+            "place": "21 km WNW of Jiangyou, China",
+            "distance_km": 170.6,
+            "exposure_contribution": 0.61,
+            "pga_g": 0.006092,
+            "mmi": 3.2
+          }
+        ],
+        "exposure_score": 1.17
+      },
+      {
+        "name": "Chengdu Shuangliu International Airport",
+        "iata_code": "CTU",
+        "latitude": 30.558257,
+        "longitude": 103.945966,
+        "municipality": "Chengdu (Shuangliu)",
+        "closest_quake_distance_km": 152.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdw6",
+            "magnitude": 5.4,
+            "latitude": 31.8458,
+            "longitude": 104.5066,
+            "depth_km": 10,
+            "time_ms": 1788435581981,
+            "place": "21 km WNW of Jiangyou, China",
+            "distance_km": 152.8,
+            "exposure_contribution": 0.88,
+            "pga_g": 0.008789,
+            "mmi": 3.5
+          },
+          {
+            "earthquake_id": "us7000tcht",
+            "magnitude": 5,
+            "latitude": 29.2752,
+            "longitude": 105.229,
+            "depth_km": 10,
+            "time_ms": 1787894015070,
+            "place": "19 km NW of Fuji, China",
+            "distance_km": 188.8,
+            "exposure_contribution": 0.33,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.21
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000te21",
+        "magnitude": 5.2,
+        "latitude": 37.7963,
+        "longitude": 95.4671,
+        "depth_km": 10,
+        "time_ms": 1788455080769,
+        "place": "271 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tdw6",
+        "magnitude": 5.4,
+        "latitude": 31.8458,
+        "longitude": 104.5066,
+        "depth_km": 10,
+        "time_ms": 1788435581981,
+        "place": "21 km WNW of Jiangyou, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdv4",
+        "magnitude": 5.1,
+        "latitude": 31.3618,
+        "longitude": 80.33,
+        "depth_km": 10,
+        "time_ms": 1788423396417,
+        "place": "115 km NE of Joshīmath, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tcht",
+        "magnitude": 5,
+        "latitude": 29.2752,
+        "longitude": 105.229,
+        "depth_km": 10,
+        "time_ms": 1787894015070,
+        "place": "19 km NW of Fuji, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tc9m",
+        "magnitude": 5,
+        "latitude": 33.2423,
+        "longitude": 86.9395,
+        "depth_km": 10,
+        "time_ms": 1787841948054,
+        "place": "western Xizang",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tbwb",
+        "magnitude": 5.2,
+        "latitude": 28.271,
+        "longitude": 85.515,
+        "depth_km": 0,
+        "time_ms": 1787712730000,
+        "place": "55 km NW of Kodāri̇̄, Nepal",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm2y",
+        "magnitude": 5.2,
+        "latitude": 37.8058,
+        "longitude": 95.4454,
+        "depth_km": 10,
+        "time_ms": 1787219387975,
+        "place": "270 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tlrj",
+        "magnitude": 5.5,
+        "latitude": 37.8333,
+        "longitude": 95.5438,
+        "depth_km": 6,
+        "time_ms": 1787088987999,
+        "place": "269 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tivz",
+        "magnitude": 5.1,
+        "latitude": 28.4377,
+        "longitude": 104.7436,
+        "depth_km": 10,
+        "time_ms": 1786079310186,
+        "place": "3 km ESE of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ti9w",
+        "magnitude": 5,
+        "latitude": 28.9711,
+        "longitude": 94.7507,
+        "depth_km": 10,
+        "time_ms": 1785924369610,
+        "place": "61 km NE of Shi Yomi, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.89
   },
   {
     "country": "",
@@ -1886,18 +2091,18 @@
         "latitude": -6.567995,
         "longitude": 146.726544,
         "municipality": "Lae",
-        "closest_quake_distance_km": 93.0,
+        "closest_quake_distance_km": 86.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tdqc",
             "magnitude": 5.4,
-            "latitude": -7.1815,
-            "longitude": 146.1539,
-            "depth_km": 65.164,
-            "time_ms": 1788379473407,
-            "place": "53 km W of Bulolo, Papua New Guinea",
-            "distance_km": 93.0,
-            "exposure_contribution": 1.21,
+            "latitude": -7.1178,
+            "longitude": 146.174,
+            "depth_km": 69.916,
+            "time_ms": 1788379473819,
+            "place": "52 km W of Bulolo, Papua New Guinea",
+            "distance_km": 86.4,
+            "exposure_contribution": 1.25,
             "pga_g": null,
             "mmi": null
           },
@@ -1915,18 +2120,18 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.81
+        "exposure_score": 1.85
       }
     ],
     "earthquakes": [
       {
         "id": "us7000tdqc",
         "magnitude": 5.4,
-        "latitude": -7.1815,
-        "longitude": 146.1539,
-        "depth_km": 65.164,
-        "time_ms": 1788379473407,
-        "place": "53 km W of Bulolo, Papua New Guinea",
+        "latitude": -7.1178,
+        "longitude": 146.174,
+        "depth_km": 69.916,
+        "time_ms": 1788379473819,
+        "place": "52 km W of Bulolo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       },
@@ -2041,188 +2246,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.81
-  },
-  {
-    "country": "",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.14,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-08-18",
-      "depth_km": 6,
-      "latitude": 37.8333,
-      "longitude": 95.5438
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 2,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 2,
-    "exposed_airports": [
-      {
-        "name": "Chongqing Jiangbei International Airport",
-        "iata_code": "CKG",
-        "latitude": 29.712254,
-        "longitude": 106.651895,
-        "municipality": "Chongqing",
-        "closest_quake_distance_km": 146.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tcht",
-            "magnitude": 5,
-            "latitude": 29.2752,
-            "longitude": 105.229,
-            "depth_km": 10,
-            "time_ms": 1787894015070,
-            "place": "19 km NW of Fuji, China",
-            "distance_km": 146.0,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.51
-      },
-      {
-        "name": "Chengdu Tianfu International Airport",
-        "iata_code": "TFU",
-        "latitude": 30.31252,
-        "longitude": 104.441284,
-        "municipality": "Chengdu (Jianyang)",
-        "closest_quake_distance_km": 138.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tcht",
-            "magnitude": 5,
-            "latitude": 29.2752,
-            "longitude": 105.229,
-            "depth_km": 10,
-            "time_ms": 1787894015070,
-            "place": "19 km NW of Fuji, China",
-            "distance_km": 138.1,
-            "exposure_contribution": 0.56,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.56
-      },
-      {
-        "name": "Chengdu Shuangliu International Airport",
-        "iata_code": "CTU",
-        "latitude": 30.558257,
-        "longitude": 103.945966,
-        "municipality": "Chengdu (Shuangliu)",
-        "closest_quake_distance_km": 188.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tcht",
-            "magnitude": 5,
-            "latitude": 29.2752,
-            "longitude": 105.229,
-            "depth_km": 10,
-            "time_ms": 1787894015070,
-            "place": "19 km NW of Fuji, China",
-            "distance_km": 188.8,
-            "exposure_contribution": 0.33,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.33
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000tcht",
-        "magnitude": 5,
-        "latitude": 29.2752,
-        "longitude": 105.229,
-        "depth_km": 10,
-        "time_ms": 1787894015070,
-        "place": "19 km NW of Fuji, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tc9m",
-        "magnitude": 5,
-        "latitude": 33.2423,
-        "longitude": 86.9395,
-        "depth_km": 10,
-        "time_ms": 1787841948054,
-        "place": "western Xizang",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tbwb",
-        "magnitude": 5.2,
-        "latitude": 28.271,
-        "longitude": 85.515,
-        "depth_km": 0,
-        "time_ms": 1787712730000,
-        "place": "55 km NW of Kodāri̇̄, Nepal",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm2y",
-        "magnitude": 5.2,
-        "latitude": 37.8058,
-        "longitude": 95.4454,
-        "depth_km": 10,
-        "time_ms": 1787219387975,
-        "place": "270 km SSE of Dunhuang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tlrj",
-        "magnitude": 5.5,
-        "latitude": 37.8333,
-        "longitude": 95.5438,
-        "depth_km": 6,
-        "time_ms": 1787088987999,
-        "place": "269 km SSE of Dunhuang, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tivz",
-        "magnitude": 5.1,
-        "latitude": 28.4377,
-        "longitude": 104.7436,
-        "depth_km": 10,
-        "time_ms": 1786079310186,
-        "place": "3 km ESE of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ti9w",
-        "magnitude": 5,
-        "latitude": 28.9711,
-        "longitude": 94.7507,
-        "depth_km": 10,
-        "time_ms": 1785924369610,
-        "place": "61 km NE of Shi Yomi, India",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.4
+    "seismic_hub_risk_score": 1.85
   },
   {
     "country": "",
@@ -2237,19 +2261,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-08-08",
-      "depth_km": 10,
-      "latitude": 62.269,
-      "longitude": -152.314
+      "magnitude": 6.3,
+      "date": "2026-09-03",
+      "depth_km": 35,
+      "latitude": 52.2579,
+      "longitude": -169.4088
     },
-    "highest_pager_alert": null,
+    "highest_pager_alert": "green",
     "max_felt_reports": 1137,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "tsunami_warning_issued": true,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Ted Stevens Anchorage International Airport",
@@ -2301,6 +2325,61 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000te4b",
+        "magnitude": 5.5,
+        "latitude": 52.0506,
+        "longitude": -169.1387,
+        "depth_km": 10,
+        "time_ms": 1788466875216,
+        "place": "100 km S of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000te2m",
+        "magnitude": 5.3,
+        "latitude": 52.0304,
+        "longitude": -169.2217,
+        "depth_km": 10,
+        "time_ms": 1788461139228,
+        "place": "104 km SSW of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdys",
+        "magnitude": 5.2,
+        "latitude": 52.0562,
+        "longitude": -169.1988,
+        "depth_km": 10,
+        "time_ms": 1788440598659,
+        "place": "100 km SSW of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdy7",
+        "magnitude": 5.2,
+        "latitude": 52.1321,
+        "longitude": -169.4182,
+        "depth_km": 45.17,
+        "time_ms": 1788434695479,
+        "place": "97 km SSW of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdvt",
+        "magnitude": 6.3,
+        "latitude": 52.2579,
+        "longitude": -169.4088,
+        "depth_km": 35,
+        "time_ms": 1788434244056,
+        "place": "84 km SSW of Nikolski, Alaska",
+        "country_code": "US",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tdmm",
         "magnitude": 5.2,
