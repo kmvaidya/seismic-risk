@@ -241,7 +241,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 67,
+    "earthquake_count": 68,
     "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.8,
@@ -377,6 +377,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tg06",
+        "magnitude": 5,
+        "latitude": 4.0172,
+        "longitude": 125.3233,
+        "depth_km": 10,
+        "time_ms": 1788937623319,
+        "place": "154 km S of Sarangani, Philippines",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tfum",
         "magnitude": 5.2,
@@ -655,10 +666,10 @@
       {
         "id": "us6000tm0u",
         "magnitude": 5.8,
-        "latitude": -8.3359,
-        "longitude": 120.5368,
+        "latitude": -8.3418,
+        "longitude": 120.5442,
         "depth_km": 10,
-        "time_ms": 1787179517337,
+        "time_ms": 1787179517290,
         "place": "31 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
@@ -666,11 +677,11 @@
       {
         "id": "us6000tm0s",
         "magnitude": 5.2,
-        "latitude": -8.3067,
-        "longitude": 120.4487,
+        "latitude": -8.2828,
+        "longitude": 120.4454,
         "depth_km": 10,
-        "time_ms": 1787178488453,
-        "place": "33 km N of Ruteng, Indonesia",
+        "time_ms": 1787178488543,
+        "place": "36 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -732,22 +743,33 @@
       {
         "id": "usd0015ed8",
         "magnitude": 5.4,
-        "latitude": -7.9289,
-        "longitude": 120.4324,
+        "latitude": -7.9023,
+        "longitude": 120.4192,
         "depth_km": 10,
-        "time_ms": 1786963489886,
-        "place": "75 km N of Ruteng, Indonesia",
+        "time_ms": 1786963489243,
+        "place": "78 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
       {
         "id": "usd0015ed7",
-        "magnitude": 5.2,
-        "latitude": -7.8762,
-        "longitude": 120.5019,
+        "magnitude": 5.3,
+        "latitude": -7.8141,
+        "longitude": 120.4341,
         "depth_km": 10,
-        "time_ms": 1786963361971,
-        "place": "81 km N of Ruteng, Indonesia",
+        "time_ms": 1786963361670,
+        "place": "88 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ed1",
+        "magnitude": 5,
+        "latitude": -8.312,
+        "longitude": 121.4184,
+        "depth_km": 10,
+        "time_ms": 1786958164684,
+        "place": "64 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1100,17 +1122,6 @@
         "depth_km": 10,
         "time_ms": 1786479258524,
         "place": "41 km E of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tjqj",
-        "magnitude": 5,
-        "latitude": -5.9436,
-        "longitude": 102.3524,
-        "depth_km": 18.046,
-        "time_ms": 1786381686212,
-        "place": "234 km SSW of Pagar Alam, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       }
@@ -1717,13 +1728,13 @@
       "magnitude": 5.5,
       "date": "2026-08-18",
       "depth_km": 6,
-      "latitude": 37.8333,
-      "longitude": 95.5438
+      "latitude": 37.8425,
+      "longitude": 95.5713
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 6,
     "tsunami_warning_issued": false,
-    "significant_events_count": 3,
+    "significant_events_count": 2,
     "exposed_airports": [
       {
         "name": "Chongqing Jiangbei International Airport",
@@ -1905,10 +1916,10 @@
       {
         "id": "us6000tlrj",
         "magnitude": 5.5,
-        "latitude": 37.8333,
-        "longitude": 95.5438,
+        "latitude": 37.8425,
+        "longitude": 95.5713,
         "depth_km": 6,
-        "time_ms": 1787088987999,
+        "time_ms": 1787088987988,
         "place": "269 km SSE of Dunhuang, China",
         "country_code": "CN",
         "shakemap_available": true
@@ -2409,8 +2420,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-08-16",
@@ -2450,6 +2461,28 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tg43",
+        "magnitude": 5.1,
+        "latitude": -19.7219,
+        "longitude": 170.0391,
+        "depth_km": 10,
+        "time_ms": 1788974325381,
+        "place": "81 km ESE of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tg3x",
+        "magnitude": 5.2,
+        "latitude": -19.8237,
+        "longitude": 169.9486,
+        "depth_km": 10,
+        "time_ms": 1788973312208,
+        "place": "76 km ESE of Isangel, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000tfqf",
         "magnitude": 5.1,
         "latitude": -19.8072,
@@ -2485,11 +2518,11 @@
       {
         "id": "us7000tdey",
         "magnitude": 5,
-        "latitude": -20.5024,
-        "longitude": 169.7829,
-        "depth_km": 122.461,
-        "time_ms": 1788287849222,
-        "place": "118 km SSE of Isangel, Vanuatu",
+        "latitude": -20.4489,
+        "longitude": 169.7122,
+        "depth_km": 122.685,
+        "time_ms": 1788287848667,
+        "place": "110 km SSE of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       },

@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-09-09 10:28 UTC
+Generated: 2026-09-10 10:18 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-06-12 to 2026-09-09).
+Based on 89 snapshots (2026-06-13 to 2026-09-10).
 
 
 **Top score changes**:
@@ -23,15 +23,15 @@ Based on 89 snapshots (2026-06-12 to 2026-09-09).
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 24.2 | ~ | 5.5 | M6 (2026-08-23) | 7 | 5 | green | No | 1 |
-|  |  |  | 11.4 | ~ | 5.3 | M7.8 (2026-08-14) | 67 | 5 | yellow | No | 2 |
+|  |  |  | 11.4 | ~ | 5.3 | M7.8 (2026-08-14) | 68 | 5 | yellow | No | 2 |
 |  |  |  | 8.0 | ~ | 5.3 | M5.8 (2026-08-30) | 7 | 1 | - | No | 0 |
 |  |  |  | 7.4 | ~ | 5.1 | M5.3 (2026-08-13) | 7 | 5 | - | No | 0 |
 |  |  |  | 3.7 | ~ | 5.2 | M5.3 (2026-09-02) | 3 | 1 | - | No | 0 |
-|  |  |  | 2.9 | ~ | 5.2 | M5.5 (2026-08-18) | 8 | 3 | yellow | No | 3 |
+|  |  |  | 2.9 | ~ | 5.2 | M5.5 (2026-08-18) | 8 | 3 | yellow | No | 2 |
 |  |  |  | 2.4 | ~ | 5.3 | M5.8 (2026-08-17) | 6 | 1 | - | No | 0 |
 |  |  |  | 2.1 | ~ | 5.2 | M5.5 (2026-09-05) | 10 | 1 | - | No | 0 |
 |  |  |  | 0.8 | ~ | 5.4 | M6.3 (2026-09-03) | 10 | 1 | green | Yes | 1 |
-|  |  |  | 0.4 | ~ | 5.3 | M6.1 (2026-08-16) | 7 | 1 | - | No | 0 |
+|  |  |  | 0.4 | ~ | 5.3 | M6.1 (2026-08-16) | 9 | 1 | - | No | 0 |
 
 ## Airport Details
 
@@ -47,7 +47,7 @@ Based on 89 snapshots (2026-06-12 to 2026-09-09).
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.8 | ~ | - | 148.8 | 1 |
 | Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.4 | ~ | - | 185.3 | 1 |
 | Adisoemarmo International Airport | SOC | Surakarta |  | 0.4 | ~ | - | 196.2 | 1 |
-| Vava'u International Airport | VAV | Vava'u Island |  | 8.0 | NEW | - | 23.8 | 1 |
+| Vava'u International Airport | VAV | Vava'u Island |  | 8.0 | ~ | - | 23.8 | 1 |
 | General Santos International Airport | GES | General Santos |  | 2.6 | ~ | - | 85.6 | 4 |
 | Laguindingan International Airport | CGY | Laguindingan |  | 1.8 | ~ | - | 126.4 | 3 |
 | Bohol-Panglao International Airport | TAG | Panglao |  | 1.1 | ~ | - | 174.4 | 3 |
