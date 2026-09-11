@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-09-10 10:18 UTC
+Generated: 2026-09-11 10:18 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-06-13 to 2026-09-10).
+Based on 89 snapshots (2026-06-14 to 2026-09-11).
 
 
 **Top score changes**:
@@ -12,24 +12,24 @@ Based on 89 snapshots (2026-06-13 to 2026-09-10).
 
 **Top airport exposure changes**:
 
+- Dortheys Hiyo Eluay International Airport (DJJ, ): -0.3
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 - New Chitose Airport (CTS, ): 0.0
 - Hakodate Airport (HKD, ): 0.0
-- Tokyo Haneda International Airport (HND, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 24.2 | ~ | 5.5 | M6 (2026-08-23) | 7 | 5 | green | No | 1 |
-|  |  |  | 11.4 | ~ | 5.3 | M7.8 (2026-08-14) | 68 | 5 | yellow | No | 2 |
-|  |  |  | 8.0 | ~ | 5.3 | M5.8 (2026-08-30) | 7 | 1 | - | No | 0 |
+|  |  |  | 11.2 | ~ | 5.3 | M7.8 (2026-08-14) | 67 | 5 | orange | No | 2 |
+|  |  |  | 8.0 | ~ | 5.4 | M5.8 (2026-08-30) | 6 | 1 | - | No | 0 |
 |  |  |  | 7.4 | ~ | 5.1 | M5.3 (2026-08-13) | 7 | 5 | - | No | 0 |
 |  |  |  | 3.7 | ~ | 5.2 | M5.3 (2026-09-02) | 3 | 1 | - | No | 0 |
 |  |  |  | 2.9 | ~ | 5.2 | M5.5 (2026-08-18) | 8 | 3 | yellow | No | 2 |
 |  |  |  | 2.4 | ~ | 5.3 | M5.8 (2026-08-17) | 6 | 1 | - | No | 0 |
-|  |  |  | 2.1 | ~ | 5.2 | M5.5 (2026-09-05) | 10 | 1 | - | No | 0 |
+|  |  |  | 2.1 | ~ | 5.3 | M5.5 (2026-09-05) | 8 | 1 | - | No | 0 |
 |  |  |  | 0.8 | ~ | 5.4 | M6.3 (2026-09-03) | 10 | 1 | green | Yes | 1 |
 |  |  |  | 0.4 | ~ | 5.3 | M6.1 (2026-08-16) | 9 | 1 | - | No | 0 |
 
@@ -44,7 +44,7 @@ Based on 89 snapshots (2026-06-13 to 2026-09-10).
 | Hakodate Airport | HKD | Hakodate |  | 1.3 | ~ | - | 164.3 | 1 |
 | Kualanamu International Airport | KNO | Beringin |  | 8.8 | ~ | 0.0882 | 73.6 | 1 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 1.0 | ~ | - | 112.3 | 1 |
-| Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.8 | ~ | - | 148.8 | 1 |
+| Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.6 | ~ | - | 154.3 | 1 |
 | Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.4 | ~ | - | 185.3 | 1 |
 | Adisoemarmo International Airport | SOC | Surakarta |  | 0.4 | ~ | - | 196.2 | 1 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 8.0 | ~ | - | 23.8 | 1 |
