@@ -32,23 +32,23 @@
         "latitude": 35.76858,
         "longitude": 140.388714,
         "municipality": "Narita",
-        "closest_quake_distance_km": 32.6,
+        "closest_quake_distance_km": 28.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmta",
             "magnitude": 5.8,
-            "latitude": 35.9182,
-            "longitude": 140.0771,
+            "latitude": 35.9675,
+            "longitude": 140.1972,
             "depth_km": 61,
-            "time_ms": 1787418039299,
-            "place": "2 km NNW of Toride, Japan",
-            "distance_km": 32.6,
-            "exposure_contribution": 5.42,
-            "pga_g": 0.054161,
-            "mmi": 4.7
+            "time_ms": 1787418039194,
+            "place": "5 km E of Ushiku, Japan",
+            "distance_km": 28.1,
+            "exposure_contribution": 5.43,
+            "pga_g": 0.054285,
+            "mmi": 4.8
           }
         ],
-        "exposure_score": 5.42
+        "exposure_score": 5.43
       },
       {
         "name": "Ibaraki Airport",
@@ -56,23 +56,23 @@
         "latitude": 36.181456,
         "longitude": 140.414434,
         "municipality": "Omitama",
-        "closest_quake_distance_km": 42.1,
+        "closest_quake_distance_km": 30.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmta",
             "magnitude": 5.8,
-            "latitude": 35.9182,
-            "longitude": 140.0771,
+            "latitude": 35.9675,
+            "longitude": 140.1972,
             "depth_km": 61,
-            "time_ms": 1787418039299,
-            "place": "2 km NNW of Toride, Japan",
-            "distance_km": 42.1,
-            "exposure_contribution": 11.2,
-            "pga_g": 0.111979,
-            "mmi": 5.0
+            "time_ms": 1787418039194,
+            "place": "5 km E of Ushiku, Japan",
+            "distance_km": 30.8,
+            "exposure_contribution": 11.07,
+            "pga_g": 0.110684,
+            "mmi": 5.3
           }
         ],
-        "exposure_score": 11.2
+        "exposure_score": 11.07
       },
       {
         "name": "New Chitose Airport",
@@ -128,23 +128,23 @@
         "latitude": 35.549678,
         "longitude": 139.786958,
         "municipality": "Tokyo",
-        "closest_quake_distance_km": 48.6,
+        "closest_quake_distance_km": 59.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmta",
             "magnitude": 5.8,
-            "latitude": 35.9182,
-            "longitude": 140.0771,
+            "latitude": 35.9675,
+            "longitude": 140.1972,
             "depth_km": 61,
-            "time_ms": 1787418039299,
-            "place": "2 km NNW of Toride, Japan",
-            "distance_km": 48.6,
-            "exposure_contribution": 4.7,
-            "pga_g": 0.046978,
-            "mmi": 4.7
+            "time_ms": 1787418039194,
+            "place": "5 km E of Ushiku, Japan",
+            "distance_km": 59.4,
+            "exposure_contribution": 4.55,
+            "pga_g": 0.045492,
+            "mmi": 4.6
           }
         ],
-        "exposure_score": 4.7
+        "exposure_score": 4.55
       }
     ],
     "earthquakes": [
@@ -195,11 +195,11 @@
       {
         "id": "us6000tmta",
         "magnitude": 5.8,
-        "latitude": 35.9182,
-        "longitude": 140.0771,
+        "latitude": 35.9675,
+        "longitude": 140.1972,
         "depth_km": 61,
-        "time_ms": 1787418039299,
-        "place": "2 km NNW of Toride, Japan",
+        "time_ms": 1787418039194,
+        "place": "5 km E of Ushiku, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -226,7 +226,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 24.24
+    "seismic_hub_risk_score": 23.97
   },
   {
     "country": "",
@@ -241,8 +241,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 67,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 68,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-08-14",
@@ -253,7 +253,7 @@
     "highest_pager_alert": "orange",
     "max_felt_reports": 66,
     "tsunami_warning_issued": false,
-    "significant_events_count": 2,
+    "significant_events_count": 3,
     "exposed_airports": [
       {
         "name": "Yogyakarta International Airport",
@@ -352,6 +352,54 @@
         "exposure_score": 0.43
       },
       {
+        "name": "Halim Perdanakusuma International Airport",
+        "iata_code": "HLP",
+        "latitude": -6.266989,
+        "longitude": 106.890318,
+        "municipality": "Jakarta",
+        "closest_quake_distance_km": 130.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tgrk",
+            "magnitude": 6.6,
+            "latitude": -5.0932,
+            "longitude": 106.903,
+            "depth_km": 358.597,
+            "time_ms": 1789161835001,
+            "place": "115 km NNE of Teluknaga, Indonesia",
+            "distance_km": 130.5,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.51
+      },
+      {
+        "name": "Soekarno-Hatta International Airport",
+        "iata_code": "CGK",
+        "latitude": -6.12557,
+        "longitude": 106.655998,
+        "municipality": "Jakarta",
+        "closest_quake_distance_km": 118.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tgrk",
+            "magnitude": 6.6,
+            "latitude": -5.0932,
+            "longitude": 106.903,
+            "depth_km": 358.597,
+            "time_ms": 1789161835001,
+            "place": "115 km NNE of Teluknaga, Indonesia",
+            "distance_km": 118.0,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.52
+      },
+      {
         "name": "Kualanamu International Airport",
         "iata_code": "KNO",
         "latitude": 3.637847,
@@ -377,6 +425,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tgrk",
+        "magnitude": 6.6,
+        "latitude": -5.0932,
+        "longitude": 106.903,
+        "depth_km": 358.597,
+        "time_ms": 1789161835001,
+        "place": "115 km NNE of Teluknaga, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tg06",
         "magnitude": 5,
@@ -556,11 +615,11 @@
       {
         "id": "us6000tmq5",
         "magnitude": 5.2,
-        "latitude": -8.2752,
-        "longitude": 120.5614,
+        "latitude": -8.1406,
+        "longitude": 120.5537,
         "depth_km": 10,
-        "time_ms": 1787362259335,
-        "place": "38 km NNE of Ruteng, Indonesia",
+        "time_ms": 1787362258707,
+        "place": "52 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1115,7 +1174,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 11.17
+    "seismic_hub_risk_score": 12.2
   },
   {
     "country": "",
@@ -2199,172 +2258,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "US",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.37,
-    "strongest_earthquake": {
-      "magnitude": 6.3,
-      "date": "2026-09-03",
-      "depth_km": 35,
-      "latitude": 52.2579,
-      "longitude": -169.4088
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 3,
-    "tsunami_warning_issued": true,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Ellison Onizuka Kona International Airport at Keāhole",
-        "iata_code": "KOA",
-        "latitude": 19.738783,
-        "longitude": -156.045603,
-        "municipality": "Kailua-Kona",
-        "closest_quake_distance_km": 128.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "hv75018296",
-            "magnitude": 5.2,
-            "latitude": 18.879,
-            "longitude": -155.233333333333,
-            "depth_km": 10.73,
-            "time_ms": 1786506513980,
-            "place": "42 km ESE of Naalehu, Hawaii",
-            "distance_km": 128.1,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.79
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000tesi",
-        "magnitude": 5.3,
-        "latitude": 43.9019,
-        "longitude": -128.2038,
-        "depth_km": 10,
-        "time_ms": 1788744624930,
-        "place": "off the coast of Oregon",
-        "country_code": "US",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te4b",
-        "magnitude": 5.5,
-        "latitude": 52.0506,
-        "longitude": -169.1387,
-        "depth_km": 10,
-        "time_ms": 1788466875216,
-        "place": "100 km S of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000te2m",
-        "magnitude": 5.3,
-        "latitude": 52.0304,
-        "longitude": -169.2217,
-        "depth_km": 10,
-        "time_ms": 1788461139228,
-        "place": "104 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdys",
-        "magnitude": 5.2,
-        "latitude": 52.0562,
-        "longitude": -169.1988,
-        "depth_km": 10,
-        "time_ms": 1788440598659,
-        "place": "100 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdy7",
-        "magnitude": 5.2,
-        "latitude": 52.1321,
-        "longitude": -169.4182,
-        "depth_km": 45.17,
-        "time_ms": 1788434695479,
-        "place": "97 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdvt",
-        "magnitude": 6.3,
-        "latitude": 52.2579,
-        "longitude": -169.4088,
-        "depth_km": 35,
-        "time_ms": 1788434244056,
-        "place": "84 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdmm",
-        "magnitude": 5.2,
-        "latitude": 52.3538,
-        "longitude": -169.4988,
-        "depth_km": 35,
-        "time_ms": 1788352321324,
-        "place": "78 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdin",
-        "magnitude": 5.2,
-        "latitude": 52.1186,
-        "longitude": -169.295,
-        "depth_km": 35,
-        "time_ms": 1788326040312,
-        "place": "95 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdab",
-        "magnitude": 5.3,
-        "latitude": 52.2132,
-        "longitude": -169.4456,
-        "depth_km": 26.001,
-        "time_ms": 1788245076948,
-        "place": "89 km SSW of Nikolski, Alaska",
-        "country_code": "US",
-        "shakemap_available": true
-      },
-      {
-        "id": "hv75018296",
-        "magnitude": 5.2,
-        "latitude": 18.879,
-        "longitude": -155.233333333333,
-        "depth_km": 10.73,
-        "time_ms": 1786506513980,
-        "place": "42 km ESE of Naalehu, Hawaii",
-        "country_code": "US",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 0.79
-  },
-  {
-    "country": "",
     "iso_alpha2": "VU",
     "iso_alpha3": "",
     "capital": "",
@@ -2496,11 +2389,11 @@
       {
         "id": "us6000tm16",
         "magnitude": 5,
-        "latitude": -20.324,
-        "longitude": 169.1514,
-        "depth_km": 72.946,
-        "time_ms": 1787185224938,
-        "place": "87 km S of Isangel, Vanuatu",
+        "latitude": -20.2995,
+        "longitude": 169.2335,
+        "depth_km": 69.934,
+        "time_ms": 1787185224463,
+        "place": "84 km S of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       },
