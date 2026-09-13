@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.49,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.44,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-08-23",
@@ -149,6 +149,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000th1q",
+        "magnitude": 5.1,
+        "latitude": 29.3244,
+        "longitude": 130.3787,
+        "depth_km": 45.513,
+        "time_ms": 1789245178910,
+        "place": "101 km S of Yudomari, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000tefx",
         "magnitude": 5.5,
         "latitude": 44.9418,
@@ -242,7 +253,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 68,
-    "avg_magnitude": 5.35,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.8,
       "date": "2026-08-14",
@@ -357,23 +368,23 @@
         "latitude": -6.266989,
         "longitude": 106.890318,
         "municipality": "Jakarta",
-        "closest_quake_distance_km": 130.5,
+        "closest_quake_distance_km": 142.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tgrk",
-            "magnitude": 6.6,
-            "latitude": -5.0932,
-            "longitude": 106.903,
-            "depth_km": 358.597,
-            "time_ms": 1789161835001,
-            "place": "115 km NNE of Teluknaga, Indonesia",
-            "distance_km": 130.5,
-            "exposure_contribution": 0.51,
+            "magnitude": 6.5,
+            "latitude": -4.9832,
+            "longitude": 106.8742,
+            "depth_km": 372,
+            "time_ms": 1789161835907,
+            "place": "126 km NNE of Teluknaga, Indonesia",
+            "distance_km": 142.8,
+            "exposure_contribution": 0.41,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.51
+        "exposure_score": 0.41
       },
       {
         "name": "Soekarno-Hatta International Airport",
@@ -381,23 +392,23 @@
         "latitude": -6.12557,
         "longitude": 106.655998,
         "municipality": "Jakarta",
-        "closest_quake_distance_km": 118.0,
+        "closest_quake_distance_km": 129.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tgrk",
-            "magnitude": 6.6,
-            "latitude": -5.0932,
-            "longitude": 106.903,
-            "depth_km": 358.597,
-            "time_ms": 1789161835001,
-            "place": "115 km NNE of Teluknaga, Indonesia",
-            "distance_km": 118.0,
-            "exposure_contribution": 0.52,
+            "magnitude": 6.5,
+            "latitude": -4.9832,
+            "longitude": 106.8742,
+            "depth_km": 372,
+            "time_ms": 1789161835907,
+            "place": "126 km NNE of Teluknaga, Indonesia",
+            "distance_km": 129.3,
+            "exposure_contribution": 0.42,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.52
+        "exposure_score": 0.42
       },
       {
         "name": "Kualanamu International Airport",
@@ -427,12 +438,12 @@
     "earthquakes": [
       {
         "id": "us7000tgrk",
-        "magnitude": 6.6,
-        "latitude": -5.0932,
-        "longitude": 106.903,
-        "depth_km": 358.597,
-        "time_ms": 1789161835001,
-        "place": "115 km NNE of Teluknaga, Indonesia",
+        "magnitude": 6.5,
+        "latitude": -4.9832,
+        "longitude": 106.8742,
+        "depth_km": 372,
+        "time_ms": 1789161835907,
+        "place": "126 km NNE of Teluknaga, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1174,7 +1185,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 12.2
+    "seismic_hub_risk_score": 12.0
   },
   {
     "country": "",
@@ -1189,8 +1200,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-30",
@@ -1283,17 +1294,6 @@
         "place": "south of Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tkhm",
-        "magnitude": 5.6,
-        "latitude": -28.7929,
-        "longitude": -176.3328,
-        "depth_km": 10,
-        "time_ms": 1786637505730,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 7.97
@@ -1311,14 +1311,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.13,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.1,
     "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-08-13",
-      "depth_km": 55.3,
-      "latitude": 5.2976,
-      "longitude": 125.4298
+      "magnitude": 5.2,
+      "date": "2026-09-01",
+      "depth_km": 113.1,
+      "latitude": 5.0959,
+      "longitude": 125.7229
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1331,21 +1331,8 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 100.7,
+        "closest_quake_distance_km": 127.8,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tkfh",
-            "magnitude": 5.1,
-            "latitude": 6.2419,
-            "longitude": 125.8478,
-            "depth_km": 92.638,
-            "time_ms": 1786612978839,
-            "place": "19 km ENE of Lapuan, Philippines",
-            "distance_km": 100.7,
-            "exposure_contribution": 0.64,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000tmrf",
             "magnitude": 5,
@@ -1360,7 +1347,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.05
+        "exposure_score": 0.41
       },
       {
         "name": "General Santos International Airport",
@@ -1368,34 +1355,8 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 85.6,
+        "closest_quake_distance_km": 127.4,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tkfh",
-            "magnitude": 5.1,
-            "latitude": 6.2419,
-            "longitude": 125.8478,
-            "depth_km": 92.638,
-            "time_ms": 1786612978839,
-            "place": "19 km ENE of Lapuan, Philippines",
-            "distance_km": 85.6,
-            "exposure_contribution": 0.73,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tkig",
-            "magnitude": 5.3,
-            "latitude": 5.2976,
-            "longitude": 125.4298,
-            "depth_km": 55.266,
-            "time_ms": 1786646370077,
-            "place": "12 km SSW of Sarangani, Philippines",
-            "distance_km": 92.2,
-            "exposure_contribution": 1.17,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000tdbr",
             "magnitude": 5.2,
@@ -1423,7 +1384,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.63
+        "exposure_score": 0.74
       },
       {
         "name": "Laguindingan International Airport",
@@ -1449,13 +1410,13 @@
           {
             "earthquake_id": "us6000tmr2",
             "magnitude": 5,
-            "latitude": 9.3981,
-            "longitude": 125.5805,
+            "latitude": 9.3576,
+            "longitude": 125.5685,
             "depth_km": 10,
-            "time_ms": 1787373848744,
-            "place": "6 km S of Kitcharao, Philippines",
-            "distance_km": 151.2,
-            "exposure_contribution": 0.48,
+            "time_ms": 1787373848708,
+            "place": "5 km NNE of Bangonay, Philippines",
+            "distance_km": 147.6,
+            "exposure_contribution": 0.5,
             "pga_g": null,
             "mmi": null
           },
@@ -1473,7 +1434,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.8
+        "exposure_score": 1.82
       },
       {
         "name": "Bohol-Panglao International Airport",
@@ -1512,12 +1473,12 @@
           {
             "earthquake_id": "us6000tmr2",
             "magnitude": 5,
-            "latitude": 9.3981,
-            "longitude": 125.5805,
+            "latitude": 9.3576,
+            "longitude": 125.5685,
             "depth_km": 10,
-            "time_ms": 1787373848744,
-            "place": "6 km S of Kitcharao, Philippines",
-            "distance_km": 199.5,
+            "time_ms": 1787373848708,
+            "place": "5 km NNE of Bangonay, Philippines",
+            "distance_km": 198.7,
             "exposure_contribution": 0.3,
             "pga_g": null,
             "mmi": null
@@ -1589,11 +1550,11 @@
       {
         "id": "us6000tmr2",
         "magnitude": 5,
-        "latitude": 9.3981,
-        "longitude": 125.5805,
+        "latitude": 9.3576,
+        "longitude": 125.5685,
         "depth_km": 10,
-        "time_ms": 1787373848744,
-        "place": "6 km S of Kitcharao, Philippines",
+        "time_ms": 1787373848708,
+        "place": "5 km NNE of Bangonay, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -1618,31 +1579,9 @@
         "place": "19 km W of Jabonga, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tkig",
-        "magnitude": 5.3,
-        "latitude": 5.2976,
-        "longitude": 125.4298,
-        "depth_km": 55.266,
-        "time_ms": 1786646370077,
-        "place": "12 km SSW of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkfh",
-        "magnitude": 5.1,
-        "latitude": 6.2419,
-        "longitude": 125.8478,
-        "depth_km": 92.638,
-        "time_ms": 1786612978839,
-        "place": "19 km ENE of Lapuan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 7.38
+    "seismic_hub_risk_score": 4.87
   },
   {
     "country": "",
@@ -1898,11 +1837,11 @@
       {
         "id": "us7000tdv4",
         "magnitude": 5.1,
-        "latitude": 31.3618,
-        "longitude": 80.33,
+        "latitude": 31.3933,
+        "longitude": 80.3486,
         "depth_km": 10,
-        "time_ms": 1788423396417,
-        "place": "115 km NE of Joshīmath, India",
+        "time_ms": 1788423396404,
+        "place": "119 km NE of Joshīmath, India",
         "country_code": "CN",
         "shakemap_available": false
       },
