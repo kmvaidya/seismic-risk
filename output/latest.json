@@ -217,11 +217,11 @@
       {
         "id": "us6000tmfe",
         "magnitude": 5.4,
-        "latitude": 33.7171,
-        "longitude": 140.3802,
-        "depth_km": 61.666,
-        "time_ms": 1787313727072,
-        "place": "148 km SSE of Tateyama, Japan",
+        "latitude": 33.6984,
+        "longitude": 140.4935,
+        "depth_km": 65.527,
+        "time_ms": 1787313727291,
+        "place": "153 km SSE of Tateyama, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -241,6 +241,117 @@
   },
   {
     "country": "",
+    "iso_alpha2": "TO",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.36,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-08-30",
+      "depth_km": 35,
+      "latitude": -30.1462,
+      "longitude": -177.8882
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Vava'u International Airport",
+        "iata_code": "VAV",
+        "latitude": -18.5853,
+        "longitude": -173.962006,
+        "municipality": "Vava'u Island",
+        "closest_quake_distance_km": 23.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tftd",
+            "magnitude": 5.3,
+            "latitude": -18.4736,
+            "longitude": -174.1551,
+            "depth_km": 10,
+            "time_ms": 1788868269687,
+            "place": "26 km NW of Neiafu, Tonga",
+            "distance_km": 23.8,
+            "exposure_contribution": 7.97,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 7.97
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tftd",
+        "magnitude": 5.3,
+        "latitude": -18.4736,
+        "longitude": -174.1551,
+        "depth_km": 10,
+        "time_ms": 1788868269687,
+        "place": "26 km NW of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000te9t",
+        "magnitude": 5.4,
+        "latitude": -28.5616,
+        "longitude": -176.6452,
+        "depth_km": 10,
+        "time_ms": 1788523198323,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tcxn",
+        "magnitude": 5.8,
+        "latitude": -30.1462,
+        "longitude": -177.8882,
+        "depth_km": 35,
+        "time_ms": 1788080529229,
+        "place": "Kermadec Islands, New Zealand",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tnd7",
+        "magnitude": 5.2,
+        "latitude": -17.4086,
+        "longitude": -171.8992,
+        "depth_km": 10,
+        "time_ms": 1787670954340,
+        "place": "258 km SE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tmei",
+        "magnitude": 5.1,
+        "latitude": -24.8208,
+        "longitude": -175.2565,
+        "depth_km": 10,
+        "time_ms": 1787299953842,
+        "place": "south of Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 7.97
+  },
+  {
+    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -252,19 +363,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 68,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 56,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
-      "magnitude": 7.8,
-      "date": "2026-08-14",
-      "depth_km": 10,
-      "latitude": -8.3514,
-      "longitude": 121.3478
+      "magnitude": 6.9,
+      "date": "2026-08-15",
+      "depth_km": 175,
+      "latitude": 2.9863,
+      "longitude": 98.9853
     },
-    "highest_pager_alert": "orange",
-    "max_felt_reports": 66,
+    "highest_pager_alert": "green",
+    "max_felt_reports": 21,
     "tsunami_warning_issued": false,
-    "significant_events_count": 3,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Yogyakarta International Airport",
@@ -427,15 +538,26 @@
             "time_ms": 1786791291798,
             "place": "9 km WNW of Pematangsiantar, Indonesia",
             "distance_km": 73.6,
-            "exposure_contribution": 8.82,
-            "pga_g": 0.088197,
-            "mmi": 5.1
+            "exposure_contribution": 2.92,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 8.82
+        "exposure_score": 2.92
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000th8u",
+        "magnitude": 5.1,
+        "latitude": -8.1597,
+        "longitude": 120.3822,
+        "depth_km": 10,
+        "time_ms": 1789339201303,
+        "place": "50 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tgrk",
         "magnitude": 6.5,
@@ -505,11 +627,11 @@
       {
         "id": "us7000teck",
         "magnitude": 5.1,
-        "latitude": 1.3758,
-        "longitude": 99.0453,
-        "depth_km": 121.712,
-        "time_ms": 1788539081107,
-        "place": "25 km W of Padangsidempuan, Indonesia",
+        "latitude": 1.3016,
+        "longitude": 99.0782,
+        "depth_km": 122.009,
+        "time_ms": 1788539080634,
+        "place": "23 km WSW of Padangsidempuan, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -582,10 +704,10 @@
       {
         "id": "us7000tbyu",
         "magnitude": 5,
-        "latitude": -8.3425,
-        "longitude": 121.4343,
+        "latitude": -8.3515,
+        "longitude": 121.4186,
         "depth_km": 10,
-        "time_ms": 1787753730369,
+        "time_ms": 1787753730370,
         "place": "60 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
@@ -1040,263 +1162,9 @@
         "place": "73 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tkv9",
-        "magnitude": 5,
-        "latitude": -8.3398,
-        "longitude": 121.3807,
-        "depth_km": 10,
-        "time_ms": 1786749425434,
-        "place": "63 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkv7",
-        "magnitude": 5.1,
-        "latitude": -8.0226,
-        "longitude": 120.5519,
-        "depth_km": 10,
-        "time_ms": 1786749151473,
-        "place": "65 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkuw",
-        "magnitude": 5.3,
-        "latitude": -8.0924,
-        "longitude": 120.2652,
-        "depth_km": 10,
-        "time_ms": 1786747992033,
-        "place": "61 km NE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkuf",
-        "magnitude": 5.5,
-        "latitude": -8.2816,
-        "longitude": 120.0343,
-        "depth_km": 10,
-        "time_ms": 1786747037355,
-        "place": "28 km NE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkuc",
-        "magnitude": 6.1,
-        "latitude": -8.2904,
-        "longitude": 121.5625,
-        "depth_km": 10,
-        "time_ms": 1786746517743,
-        "place": "62 km N of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tlwk",
-        "magnitude": 5,
-        "latitude": -8.1366,
-        "longitude": 120.5824,
-        "depth_km": 10,
-        "time_ms": 1786746422125,
-        "place": "54 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tlwl",
-        "magnitude": 5.1,
-        "latitude": -8.3144,
-        "longitude": 121.3409,
-        "depth_km": 10,
-        "time_ms": 1786746114003,
-        "place": "68 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tku7",
-        "magnitude": 5.6,
-        "latitude": -8.4444,
-        "longitude": 121.4566,
-        "depth_km": 10,
-        "time_ms": 1786745887362,
-        "place": "49 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tlx9",
-        "magnitude": 5.4,
-        "latitude": -8.3292,
-        "longitude": 121.2044,
-        "depth_km": 10,
-        "time_ms": 1786745840727,
-        "place": "75 km NW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkub",
-        "magnitude": 5.5,
-        "latitude": -8.4867,
-        "longitude": 121.0158,
-        "depth_km": 10,
-        "time_ms": 1786745819927,
-        "place": "62 km ENE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkta",
-        "magnitude": 5.9,
-        "latitude": -8.2393,
-        "longitude": 120.1488,
-        "depth_km": 10,
-        "time_ms": 1786745630837,
-        "place": "40 km NE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tlwi",
-        "magnitude": 5.8,
-        "latitude": -8.229,
-        "longitude": 121.308,
-        "depth_km": 10,
-        "time_ms": 1786745189750,
-        "place": "78 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkt2",
-        "magnitude": 7.8,
-        "latitude": -8.3514,
-        "longitude": 121.3478,
-        "depth_km": 10,
-        "time_ms": 1786744701505,
-        "place": "64 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 12.0
-  },
-  {
-    "country": "",
-    "iso_alpha2": "TO",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.36,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-08-30",
-      "depth_km": 35,
-      "latitude": -30.1462,
-      "longitude": -177.8882
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Vava'u International Airport",
-        "iata_code": "VAV",
-        "latitude": -18.5853,
-        "longitude": -173.962006,
-        "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 23.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tftd",
-            "magnitude": 5.3,
-            "latitude": -18.4736,
-            "longitude": -174.1551,
-            "depth_km": 10,
-            "time_ms": 1788868269687,
-            "place": "26 km NW of Neiafu, Tonga",
-            "distance_km": 23.8,
-            "exposure_contribution": 7.97,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 7.97
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000tftd",
-        "magnitude": 5.3,
-        "latitude": -18.4736,
-        "longitude": -174.1551,
-        "depth_km": 10,
-        "time_ms": 1788868269687,
-        "place": "26 km NW of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te9t",
-        "magnitude": 5.4,
-        "latitude": -28.5616,
-        "longitude": -176.6452,
-        "depth_km": 10,
-        "time_ms": 1788523198323,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tcxn",
-        "magnitude": 5.8,
-        "latitude": -30.1462,
-        "longitude": -177.8882,
-        "depth_km": 35,
-        "time_ms": 1788080529229,
-        "place": "Kermadec Islands, New Zealand",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tnd7",
-        "magnitude": 5.2,
-        "latitude": -17.4086,
-        "longitude": -171.8992,
-        "depth_km": 10,
-        "time_ms": 1787670954340,
-        "place": "258 km SE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tmei",
-        "magnitude": 5.1,
-        "latitude": -24.8208,
-        "longitude": -175.2565,
-        "depth_km": 10,
-        "time_ms": 1787299953842,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 7.97
+    "seismic_hub_risk_score": 6.1
   },
   {
     "country": "",
@@ -1699,7 +1567,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 8,
-    "avg_magnitude": 5.19,
+    "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-08-18",
@@ -1880,12 +1748,12 @@
       },
       {
         "id": "us6000tm2y",
-        "magnitude": 5.2,
-        "latitude": 37.8058,
-        "longitude": 95.4454,
+        "magnitude": 5,
+        "latitude": 37.793,
+        "longitude": 95.5387,
         "depth_km": 10,
-        "time_ms": 1787219387975,
-        "place": "270 km SSE of Dunhuang, China",
+        "time_ms": 1787219387985,
+        "place": "273 km SSE of Dunhuang, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -2208,8 +2076,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-08-16",
@@ -2249,6 +2117,28 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000th50",
+        "magnitude": 5,
+        "latitude": -22.2281,
+        "longitude": 171.3544,
+        "depth_km": 98.813,
+        "time_ms": 1789284623024,
+        "place": "southeast of the Loyalty Islands",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000th4y",
+        "magnitude": 5.2,
+        "latitude": -15.2195,
+        "longitude": 167.4363,
+        "depth_km": 135.084,
+        "time_ms": 1789283961693,
+        "place": "43 km ESE of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000tg43",
         "magnitude": 5.1,
         "latitude": -19.777,
@@ -2284,11 +2174,11 @@
       {
         "id": "us7000tek0",
         "magnitude": 5.6,
-        "latitude": -19.807,
-        "longitude": 170.1576,
-        "depth_km": 10,
-        "time_ms": 1788627731581,
-        "place": "96 km ESE of Isangel, Vanuatu",
+        "latitude": -19.7418,
+        "longitude": 170.1102,
+        "depth_km": 9,
+        "time_ms": 1788627731369,
+        "place": "89 km ESE of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
       },
