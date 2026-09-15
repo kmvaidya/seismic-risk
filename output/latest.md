@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-09-14 11:19 UTC
+Generated: 2026-09-15 10:44 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-06-17 to 2026-09-14).
+Based on 89 snapshots (2026-06-18 to 2026-09-15).
 
 
 **Top score changes**:
@@ -12,7 +12,7 @@ Based on 89 snapshots (2026-06-17 to 2026-09-14).
 
 **Top airport exposure changes**:
 
-- Kualanamu International Airport (KNO, ): -5.9
+- Nadzab Tomodachi International Airport (LAE, ): +0.7
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 - New Chitose Airport (CTS, ): 0.0
@@ -24,12 +24,12 @@ Based on 89 snapshots (2026-06-17 to 2026-09-14).
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 24.0 | ~ | 5.4 | M6 (2026-08-23) | 8 | 5 | green | No | 1 |
 |  |  |  | 8.0 | ~ | 5.4 | M5.8 (2026-08-30) | 5 | 1 | - | No | 0 |
-|  |  |  | 6.1 | ~ | 5.3 | M6.9 (2026-08-15) | 56 | 7 | green | No | 1 |
 |  |  |  | 4.9 | ~ | 5.1 | M5.2 (2026-09-01) | 5 | 5 | - | No | 0 |
 |  |  |  | 3.7 | ~ | 5.2 | M5.3 (2026-09-02) | 3 | 1 | - | No | 0 |
+|  |  |  | 3.2 | ~ | 5.3 | M6.5 (2026-09-11) | 47 | 6 | green | No | 1 |
 |  |  |  | 2.9 | ~ | 5.2 | M5.5 (2026-08-18) | 8 | 3 | yellow | No | 2 |
-|  |  |  | 2.4 | ~ | 5.3 | M5.8 (2026-08-17) | 6 | 1 | - | No | 0 |
-|  |  |  | 2.1 | ~ | 5.3 | M5.5 (2026-09-05) | 8 | 1 | - | No | 0 |
+|  |  |  | 2.7 | ~ | 5.2 | M5.5 (2026-09-05) | 8 | 1 | - | No | 0 |
+|  |  |  | 2.4 | ~ | 5.2 | M5.8 (2026-08-17) | 5 | 1 | - | No | 0 |
 |  |  |  | 0.4 | ~ | 5.2 | M6.1 (2026-08-16) | 11 | 1 | - | No | 0 |
 
 ## Airport Details
@@ -42,22 +42,21 @@ Based on 89 snapshots (2026-06-17 to 2026-09-14).
 | New Chitose Airport | CTS | Sapporo |  | 1.7 | ~ | - | 137.6 | 1 |
 | Hakodate Airport | HKD | Hakodate |  | 1.3 | ~ | - | 164.3 | 1 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 8.0 | ~ | - | 23.8 | 1 |
-| Kualanamu International Airport | KNO | Beringin |  | 2.9 | -5.9 | - | 73.6 | 1 |
-| Yogyakarta International Airport | YIA | Yogyakarta |  | 1.0 | ~ | - | 112.3 | 1 |
-| Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.6 | ~ | - | 154.3 | 1 |
-| Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.4 | ~ | - | 185.3 | 1 |
-| Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.4 | ~ | - | 129.3 | 1 |
-| Halim Perdanakusuma International Airport | HLP | Jakarta |  | 0.4 | ~ | - | 142.8 | 1 |
-| Adisoemarmo International Airport | SOC | Surakarta |  | 0.4 | ~ | - | 196.2 | 1 |
 | Laguindingan International Airport | CGY | Laguindingan |  | 1.8 | ~ | - | 126.4 | 3 |
 | Bohol-Panglao International Airport | TAG | Panglao |  | 1.1 | ~ | - | 174.4 | 3 |
 | Mactan Cebu International Airport | CEB | Cebu City/Lapu-Lapu City |  | 0.8 | ~ | - | 184.2 | 2 |
 | General Santos International Airport | GES | General Santos |  | 0.7 | ~ | - | 127.4 | 2 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 0.4 | ~ | - | 127.8 | 1 |
 | Queenstown Airport | ZQN | Queenstown |  | 3.7 | ~ | - | 73.0 | 2 |
+| Yogyakarta International Airport | YIA | Yogyakarta |  | 1.0 | ~ | - | 112.3 | 1 |
+| Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.6 | ~ | - | 154.3 | 1 |
+| Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.4 | ~ | - | 185.3 | 1 |
+| Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.4 | ~ | - | 129.3 | 1 |
+| Halim Perdanakusuma International Airport | HLP | Jakarta |  | 0.4 | ~ | - | 142.8 | 1 |
+| Adisoemarmo International Airport | SOC | Surakarta |  | 0.4 | ~ | - | 196.2 | 1 |
 | Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 1.2 | ~ | 0.0088 | 152.8 | 2 |
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 1.2 | ~ | 0.0061 | 138.1 | 2 |
 | Chongqing Jiangbei International Airport | CKG | Chongqing |  | 0.5 | ~ | - | 146.0 | 1 |
+| Nadzab Tomodachi International Airport | LAE | Lae |  | 2.7 | +0.7 | - | 36.5 | 3 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 2.4 | ~ | - | 85.4 | 2 |
-| Nadzab Tomodachi International Airport | LAE | Lae |  | 2.1 | ~ | - | 87.4 | 2 |
 | Bauerfield International Airport | VLI | Port Vila |  | 0.4 | ~ | - | 172.6 | 1 |

@@ -352,822 +352,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "ID",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 56,
-    "avg_magnitude": 5.27,
-    "strongest_earthquake": {
-      "magnitude": 6.9,
-      "date": "2026-08-15",
-      "depth_km": 175,
-      "latitude": 2.9863,
-      "longitude": 98.9853
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 21,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Yogyakarta International Airport",
-        "iata_code": "YIA",
-        "latitude": -7.905338,
-        "longitude": 110.057264,
-        "municipality": "Yogyakarta",
-        "closest_quake_distance_km": 112.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000te82",
-            "magnitude": 5.2,
-            "latitude": -7.9867,
-            "longitude": 109.0409,
-            "depth_km": 10,
-            "time_ms": 1788498294278,
-            "place": "28 km S of Cilacap, Indonesia",
-            "distance_km": 112.3,
-            "exposure_contribution": 0.97,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.97
-      },
-      {
-        "name": "Dortheys Hiyo Eluay International Airport",
-        "iata_code": "DJJ",
-        "latitude": -2.579627,
-        "longitude": 140.519857,
-        "municipality": "Sentani",
-        "closest_quake_distance_km": 154.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdhl",
-            "magnitude": 5.3,
-            "latitude": -3.224,
-            "longitude": 139.2891,
-            "depth_km": 70.554,
-            "time_ms": 1788307495294,
-            "place": "164 km WSW of Abepura, Indonesia",
-            "distance_km": 154.3,
-            "exposure_contribution": 0.56,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.56
-      },
-      {
-        "name": "Adisoemarmo International Airport",
-        "iata_code": "SOC",
-        "latitude": -7.516044,
-        "longitude": 110.757492,
-        "municipality": "Surakarta",
-        "closest_quake_distance_km": 196.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000te82",
-            "magnitude": 5.2,
-            "latitude": -7.9867,
-            "longitude": 109.0409,
-            "depth_km": 10,
-            "time_ms": 1788498294278,
-            "place": "28 km S of Cilacap, Indonesia",
-            "distance_km": 196.2,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.39
-      },
-      {
-        "name": "Jenderal Ahmad Yani Airport",
-        "iata_code": "SRG",
-        "latitude": -6.970732,
-        "longitude": 110.373244,
-        "municipality": "Semarang",
-        "closest_quake_distance_km": 185.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000te82",
-            "magnitude": 5.2,
-            "latitude": -7.9867,
-            "longitude": 109.0409,
-            "depth_km": 10,
-            "time_ms": 1788498294278,
-            "place": "28 km S of Cilacap, Indonesia",
-            "distance_km": 185.3,
-            "exposure_contribution": 0.43,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.43
-      },
-      {
-        "name": "Halim Perdanakusuma International Airport",
-        "iata_code": "HLP",
-        "latitude": -6.266989,
-        "longitude": 106.890318,
-        "municipality": "Jakarta",
-        "closest_quake_distance_km": 142.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tgrk",
-            "magnitude": 6.5,
-            "latitude": -4.9832,
-            "longitude": 106.8742,
-            "depth_km": 372,
-            "time_ms": 1789161835907,
-            "place": "126 km NNE of Teluknaga, Indonesia",
-            "distance_km": 142.8,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.41
-      },
-      {
-        "name": "Soekarno-Hatta International Airport",
-        "iata_code": "CGK",
-        "latitude": -6.12557,
-        "longitude": 106.655998,
-        "municipality": "Jakarta",
-        "closest_quake_distance_km": 129.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tgrk",
-            "magnitude": 6.5,
-            "latitude": -4.9832,
-            "longitude": 106.8742,
-            "depth_km": 372,
-            "time_ms": 1789161835907,
-            "place": "126 km NNE of Teluknaga, Indonesia",
-            "distance_km": 129.3,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.42
-      },
-      {
-        "name": "Kualanamu International Airport",
-        "iata_code": "KNO",
-        "latitude": 3.637847,
-        "longitude": 98.870566,
-        "municipality": "Beringin",
-        "closest_quake_distance_km": 73.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tkyk",
-            "magnitude": 6.9,
-            "latitude": 2.9863,
-            "longitude": 98.9853,
-            "depth_km": 175,
-            "time_ms": 1786791291798,
-            "place": "9 km WNW of Pematangsiantar, Indonesia",
-            "distance_km": 73.6,
-            "exposure_contribution": 2.92,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.92
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000th8u",
-        "magnitude": 5.1,
-        "latitude": -8.1597,
-        "longitude": 120.3822,
-        "depth_km": 10,
-        "time_ms": 1789339201303,
-        "place": "50 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tgrk",
-        "magnitude": 6.5,
-        "latitude": -4.9832,
-        "longitude": 106.8742,
-        "depth_km": 372,
-        "time_ms": 1789161835907,
-        "place": "126 km NNE of Teluknaga, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tg06",
-        "magnitude": 5,
-        "latitude": 4.0172,
-        "longitude": 125.3233,
-        "depth_km": 10,
-        "time_ms": 1788937623319,
-        "place": "154 km S of Sarangani, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tfum",
-        "magnitude": 5.2,
-        "latitude": -7.6809,
-        "longitude": 121.1202,
-        "depth_km": 10,
-        "time_ms": 1788881794907,
-        "place": "125 km NE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tfr8",
-        "magnitude": 5.3,
-        "latitude": -8.1646,
-        "longitude": 120.5995,
-        "depth_km": 10,
-        "time_ms": 1788842428046,
-        "place": "51 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tejg",
-        "magnitude": 5.2,
-        "latitude": 1.0574,
-        "longitude": 98.6095,
-        "depth_km": 91.853,
-        "time_ms": 1788617167776,
-        "place": "77 km SSW of Sibolga, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000teiy",
-        "magnitude": 5,
-        "latitude": -4.4202,
-        "longitude": 102.7513,
-        "depth_km": 68.934,
-        "time_ms": 1788605955678,
-        "place": "70 km SW of Pagar Alam, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000teck",
-        "magnitude": 5.1,
-        "latitude": 1.3016,
-        "longitude": 99.0782,
-        "depth_km": 122.009,
-        "time_ms": 1788539080634,
-        "place": "23 km WSW of Padangsidempuan, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te82",
-        "magnitude": 5.2,
-        "latitude": -7.9867,
-        "longitude": 109.0409,
-        "depth_km": 10,
-        "time_ms": 1788498294278,
-        "place": "28 km S of Cilacap, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tdhl",
-        "magnitude": 5.3,
-        "latitude": -3.224,
-        "longitude": 139.2891,
-        "depth_km": 70.554,
-        "time_ms": 1788307495294,
-        "place": "164 km WSW of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdav",
-        "magnitude": 5.6,
-        "latitude": 0.1685,
-        "longitude": 128.8054,
-        "depth_km": 10,
-        "time_ms": 1788250940813,
-        "place": "82 km SE of Maba, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000td2z",
-        "magnitude": 5.5,
-        "latitude": -8.241,
-        "longitude": 120.6119,
-        "depth_km": 10,
-        "time_ms": 1788163408497,
-        "place": "44 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tcsu",
-        "magnitude": 5,
-        "latitude": -0.7032,
-        "longitude": 126.9069,
-        "depth_km": 41.899,
-        "time_ms": 1787990925662,
-        "place": "64 km W of Labuha, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tc8j",
-        "magnitude": 5.3,
-        "latitude": -8.0324,
-        "longitude": 120.0539,
-        "depth_km": 10,
-        "time_ms": 1787826804325,
-        "place": "54 km NNE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tbyu",
-        "magnitude": 5,
-        "latitude": -8.3515,
-        "longitude": 121.4186,
-        "depth_km": 10,
-        "time_ms": 1787753730370,
-        "place": "60 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tnd4",
-        "magnitude": 5,
-        "latitude": -8.0758,
-        "longitude": 120.6333,
-        "depth_km": 10,
-        "time_ms": 1787669934052,
-        "place": "62 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tn33",
-        "magnitude": 5.5,
-        "latitude": -5.0525,
-        "longitude": 129.6871,
-        "depth_km": 10,
-        "time_ms": 1787565778888,
-        "place": "207 km SSE of Amahai, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tn0s",
-        "magnitude": 5.2,
-        "latitude": -8.1851,
-        "longitude": 120.8487,
-        "depth_km": 10,
-        "time_ms": 1787520015850,
-        "place": "63 km NE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tmq5",
-        "magnitude": 5.2,
-        "latitude": -8.1406,
-        "longitude": 120.5537,
-        "depth_km": 10,
-        "time_ms": 1787362258707,
-        "place": "52 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tmlu",
-        "magnitude": 5.8,
-        "latitude": -7.5318,
-        "longitude": 104.5854,
-        "depth_km": 9,
-        "time_ms": 1787334104174,
-        "place": "187 km SW of Labuan, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tm9h",
-        "magnitude": 5,
-        "latitude": -8.1732,
-        "longitude": 121.3645,
-        "depth_km": 10,
-        "time_ms": 1787255631720,
-        "place": "81 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm93",
-        "magnitude": 5,
-        "latitude": -8.402,
-        "longitude": 121.2108,
-        "depth_km": 10,
-        "time_ms": 1787253842793,
-        "place": "69 km NW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tc70",
-        "magnitude": 5,
-        "latitude": -8.3073,
-        "longitude": 120.2123,
-        "depth_km": 10,
-        "time_ms": 1787250602521,
-        "place": "41 km ENE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm8h",
-        "magnitude": 5.6,
-        "latitude": -8.297,
-        "longitude": 121.3718,
-        "depth_km": 10,
-        "time_ms": 1787249571589,
-        "place": "68 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tm2v",
-        "magnitude": 5.3,
-        "latitude": -8.2215,
-        "longitude": 120.6701,
-        "depth_km": 10,
-        "time_ms": 1787218252720,
-        "place": "48 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm2k",
-        "magnitude": 5,
-        "latitude": -8.2074,
-        "longitude": 120.4906,
-        "depth_km": 35,
-        "time_ms": 1787212893960,
-        "place": "44 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm2j",
-        "magnitude": 5,
-        "latitude": -8.2667,
-        "longitude": 120.3323,
-        "depth_km": 15.891,
-        "time_ms": 1787212503944,
-        "place": "40 km NNW of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm1j",
-        "magnitude": 5.6,
-        "latitude": -8.2328,
-        "longitude": 120.5308,
-        "depth_km": 10,
-        "time_ms": 1787194018986,
-        "place": "42 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tm0u",
-        "magnitude": 5.8,
-        "latitude": -8.3418,
-        "longitude": 120.5442,
-        "depth_km": 10,
-        "time_ms": 1787179517290,
-        "place": "31 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tm0s",
-        "magnitude": 5.2,
-        "latitude": -8.2828,
-        "longitude": 120.4454,
-        "depth_km": 10,
-        "time_ms": 1787178488543,
-        "place": "36 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tlxq",
-        "magnitude": 5.5,
-        "latitude": -8.2075,
-        "longitude": 120.558,
-        "depth_km": 10,
-        "time_ms": 1787156258287,
-        "place": "45 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tlt9",
-        "magnitude": 5.1,
-        "latitude": -8.3648,
-        "longitude": 121.3236,
-        "depth_km": 10,
-        "time_ms": 1787109206706,
-        "place": "64 km NW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tlkt",
-        "magnitude": 5.6,
-        "latitude": -0.5829,
-        "longitude": 98.4357,
-        "depth_km": 10,
-        "time_ms": 1787032940555,
-        "place": "145 km SSE of Teluk Dalam, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "usd0015ee2",
-        "magnitude": 5,
-        "latitude": -8.221,
-        "longitude": 120.345,
-        "depth_km": 10,
-        "time_ms": 1786975114247,
-        "place": "45 km NNW of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015edt",
-        "magnitude": 5,
-        "latitude": -8.1972,
-        "longitude": 120.4892,
-        "depth_km": 10,
-        "time_ms": 1786971063447,
-        "place": "45 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015ed8",
-        "magnitude": 5.4,
-        "latitude": -7.9023,
-        "longitude": 120.4192,
-        "depth_km": 10,
-        "time_ms": 1786963489243,
-        "place": "78 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "usd0015ed7",
-        "magnitude": 5.3,
-        "latitude": -7.8141,
-        "longitude": 120.4341,
-        "depth_km": 10,
-        "time_ms": 1786963361670,
-        "place": "88 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015ed1",
-        "magnitude": 5,
-        "latitude": -8.312,
-        "longitude": 121.4184,
-        "depth_km": 10,
-        "time_ms": 1786958164684,
-        "place": "64 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015ebj",
-        "magnitude": 5.1,
-        "latitude": -8.2581,
-        "longitude": 121.1401,
-        "depth_km": 10,
-        "time_ms": 1786938482420,
-        "place": "84 km ENE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015ebi",
-        "magnitude": 5.2,
-        "latitude": -8.1503,
-        "longitude": 121.2002,
-        "depth_km": 10,
-        "time_ms": 1786937798195,
-        "place": "91 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015eay",
-        "magnitude": 5.5,
-        "latitude": -8.2878,
-        "longitude": 121.4763,
-        "depth_km": 7.122,
-        "time_ms": 1786927599857,
-        "place": "64 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "usd0015e86",
-        "magnitude": 5,
-        "latitude": -7.9323,
-        "longitude": 120.5649,
-        "depth_km": 10,
-        "time_ms": 1786887519185,
-        "place": "75 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015e7k",
-        "magnitude": 5.2,
-        "latitude": -7.8539,
-        "longitude": 120.5848,
-        "depth_km": 10,
-        "time_ms": 1786876294855,
-        "place": "84 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015e7j",
-        "magnitude": 5.3,
-        "latitude": -7.9467,
-        "longitude": 120.6027,
-        "depth_km": 10,
-        "time_ms": 1786875276311,
-        "place": "75 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tl6a",
-        "magnitude": 5.5,
-        "latitude": -7.8982,
-        "longitude": 120.5537,
-        "depth_km": 11.509,
-        "time_ms": 1786863107123,
-        "place": "79 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tl44",
-        "magnitude": 5,
-        "latitude": -7.8409,
-        "longitude": 120.5245,
-        "depth_km": 10,
-        "time_ms": 1786835574593,
-        "place": "85 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tl1s",
-        "magnitude": 5.7,
-        "latitude": 0.1795,
-        "longitude": 120.2829,
-        "depth_km": 84.61,
-        "time_ms": 1786811119547,
-        "place": "128 km NNE of Palu, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tl0v",
-        "magnitude": 5.1,
-        "latitude": -8.2578,
-        "longitude": 121.2937,
-        "depth_km": 16.658,
-        "time_ms": 1786796080304,
-        "place": "76 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkyk",
-        "magnitude": 6.9,
-        "latitude": 2.9863,
-        "longitude": 98.9853,
-        "depth_km": 175,
-        "time_ms": 1786791291798,
-        "place": "9 km WNW of Pematangsiantar, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkyg",
-        "magnitude": 5,
-        "latitude": -8.2588,
-        "longitude": 120.3528,
-        "depth_km": 35,
-        "time_ms": 1786789893854,
-        "place": "40 km NNW of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkx5",
-        "magnitude": 5.2,
-        "latitude": -8.0652,
-        "longitude": 120.8009,
-        "depth_km": 10,
-        "time_ms": 1786779578638,
-        "place": "70 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkwq",
-        "magnitude": 5.1,
-        "latitude": -8.2884,
-        "longitude": 121.3891,
-        "depth_km": 10,
-        "time_ms": 1786775330852,
-        "place": "68 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkwj",
-        "magnitude": 5,
-        "latitude": -8.4028,
-        "longitude": 121.2455,
-        "depth_km": 10,
-        "time_ms": 1786772707896,
-        "place": "66 km NW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkw9",
-        "magnitude": 5,
-        "latitude": -8.2853,
-        "longitude": 121.3868,
-        "depth_km": 10,
-        "time_ms": 1786766053275,
-        "place": "68 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkvp",
-        "magnitude": 5.1,
-        "latitude": -7.9609,
-        "longitude": 120.6873,
-        "depth_km": 10,
-        "time_ms": 1786756640050,
-        "place": "76 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tkvh",
-        "magnitude": 5.1,
-        "latitude": -8.2408,
-        "longitude": 121.39,
-        "depth_km": 10,
-        "time_ms": 1786754419019,
-        "place": "73 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 6.1
-  },
-  {
-    "country": "",
     "iso_alpha2": "PH",
     "iso_alpha3": "",
     "capital": "",
@@ -1555,6 +739,699 @@
   },
   {
     "country": "",
+    "iso_alpha2": "ID",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 47,
+    "avg_magnitude": 5.28,
+    "strongest_earthquake": {
+      "magnitude": 6.5,
+      "date": "2026-09-11",
+      "depth_km": 372,
+      "latitude": -4.9832,
+      "longitude": 106.8742
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 21,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Yogyakarta International Airport",
+        "iata_code": "YIA",
+        "latitude": -7.905338,
+        "longitude": 110.057264,
+        "municipality": "Yogyakarta",
+        "closest_quake_distance_km": 112.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000te82",
+            "magnitude": 5.2,
+            "latitude": -7.9867,
+            "longitude": 109.0409,
+            "depth_km": 10,
+            "time_ms": 1788498294278,
+            "place": "28 km S of Cilacap, Indonesia",
+            "distance_km": 112.3,
+            "exposure_contribution": 0.97,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.97
+      },
+      {
+        "name": "Dortheys Hiyo Eluay International Airport",
+        "iata_code": "DJJ",
+        "latitude": -2.579627,
+        "longitude": 140.519857,
+        "municipality": "Sentani",
+        "closest_quake_distance_km": 154.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdhl",
+            "magnitude": 5.3,
+            "latitude": -3.224,
+            "longitude": 139.2891,
+            "depth_km": 70.554,
+            "time_ms": 1788307495294,
+            "place": "164 km WSW of Abepura, Indonesia",
+            "distance_km": 154.3,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.56
+      },
+      {
+        "name": "Adisoemarmo International Airport",
+        "iata_code": "SOC",
+        "latitude": -7.516044,
+        "longitude": 110.757492,
+        "municipality": "Surakarta",
+        "closest_quake_distance_km": 196.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000te82",
+            "magnitude": 5.2,
+            "latitude": -7.9867,
+            "longitude": 109.0409,
+            "depth_km": 10,
+            "time_ms": 1788498294278,
+            "place": "28 km S of Cilacap, Indonesia",
+            "distance_km": 196.2,
+            "exposure_contribution": 0.39,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.39
+      },
+      {
+        "name": "Jenderal Ahmad Yani Airport",
+        "iata_code": "SRG",
+        "latitude": -6.970732,
+        "longitude": 110.373244,
+        "municipality": "Semarang",
+        "closest_quake_distance_km": 185.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000te82",
+            "magnitude": 5.2,
+            "latitude": -7.9867,
+            "longitude": 109.0409,
+            "depth_km": 10,
+            "time_ms": 1788498294278,
+            "place": "28 km S of Cilacap, Indonesia",
+            "distance_km": 185.3,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.43
+      },
+      {
+        "name": "Halim Perdanakusuma International Airport",
+        "iata_code": "HLP",
+        "latitude": -6.266989,
+        "longitude": 106.890318,
+        "municipality": "Jakarta",
+        "closest_quake_distance_km": 142.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tgrk",
+            "magnitude": 6.5,
+            "latitude": -4.9832,
+            "longitude": 106.8742,
+            "depth_km": 372,
+            "time_ms": 1789161835907,
+            "place": "126 km NNE of Teluknaga, Indonesia",
+            "distance_km": 142.8,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.41
+      },
+      {
+        "name": "Soekarno-Hatta International Airport",
+        "iata_code": "CGK",
+        "latitude": -6.12557,
+        "longitude": 106.655998,
+        "municipality": "Jakarta",
+        "closest_quake_distance_km": 129.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tgrk",
+            "magnitude": 6.5,
+            "latitude": -4.9832,
+            "longitude": 106.8742,
+            "depth_km": 372,
+            "time_ms": 1789161835907,
+            "place": "126 km NNE of Teluknaga, Indonesia",
+            "distance_km": 129.3,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000thcs",
+        "magnitude": 5.6,
+        "latitude": 2.4223,
+        "longitude": 128.1704,
+        "depth_km": 162.179,
+        "time_ms": 1789383483047,
+        "place": "78 km NNE of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000thc6",
+        "magnitude": 5.5,
+        "latitude": -8.5419,
+        "longitude": 105.8726,
+        "depth_km": 10,
+        "time_ms": 1789378058536,
+        "place": "187 km SSW of Pelabuhanratu, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000th8u",
+        "magnitude": 5.1,
+        "latitude": -8.1597,
+        "longitude": 120.3822,
+        "depth_km": 10,
+        "time_ms": 1789339201303,
+        "place": "50 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tgrk",
+        "magnitude": 6.5,
+        "latitude": -4.9832,
+        "longitude": 106.8742,
+        "depth_km": 372,
+        "time_ms": 1789161835907,
+        "place": "126 km NNE of Teluknaga, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tg06",
+        "magnitude": 5,
+        "latitude": 4.0172,
+        "longitude": 125.3233,
+        "depth_km": 10,
+        "time_ms": 1788937623319,
+        "place": "154 km S of Sarangani, Philippines",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tfum",
+        "magnitude": 5.2,
+        "latitude": -7.6809,
+        "longitude": 121.1202,
+        "depth_km": 10,
+        "time_ms": 1788881794907,
+        "place": "125 km NE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tfr8",
+        "magnitude": 5.3,
+        "latitude": -8.1646,
+        "longitude": 120.5995,
+        "depth_km": 10,
+        "time_ms": 1788842428046,
+        "place": "51 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tejg",
+        "magnitude": 5.2,
+        "latitude": 1.0574,
+        "longitude": 98.6095,
+        "depth_km": 91.853,
+        "time_ms": 1788617167776,
+        "place": "77 km SSW of Sibolga, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000teiy",
+        "magnitude": 5,
+        "latitude": -4.4202,
+        "longitude": 102.7513,
+        "depth_km": 68.934,
+        "time_ms": 1788605955678,
+        "place": "70 km SW of Pagar Alam, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000teck",
+        "magnitude": 5.1,
+        "latitude": 1.3016,
+        "longitude": 99.0782,
+        "depth_km": 122.009,
+        "time_ms": 1788539080634,
+        "place": "23 km WSW of Padangsidempuan, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000te82",
+        "magnitude": 5.2,
+        "latitude": -7.9867,
+        "longitude": 109.0409,
+        "depth_km": 10,
+        "time_ms": 1788498294278,
+        "place": "28 km S of Cilacap, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tdhl",
+        "magnitude": 5.3,
+        "latitude": -3.224,
+        "longitude": 139.2891,
+        "depth_km": 70.554,
+        "time_ms": 1788307495294,
+        "place": "164 km WSW of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdav",
+        "magnitude": 5.6,
+        "latitude": 0.1685,
+        "longitude": 128.8054,
+        "depth_km": 10,
+        "time_ms": 1788250940813,
+        "place": "82 km SE of Maba, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000td2z",
+        "magnitude": 5.5,
+        "latitude": -8.241,
+        "longitude": 120.6119,
+        "depth_km": 10,
+        "time_ms": 1788163408497,
+        "place": "44 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tcsu",
+        "magnitude": 5,
+        "latitude": -0.7032,
+        "longitude": 126.9069,
+        "depth_km": 41.899,
+        "time_ms": 1787990925662,
+        "place": "64 km W of Labuha, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tc8j",
+        "magnitude": 5.3,
+        "latitude": -8.0324,
+        "longitude": 120.0539,
+        "depth_km": 10,
+        "time_ms": 1787826804325,
+        "place": "54 km NNE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tbyu",
+        "magnitude": 5,
+        "latitude": -8.3515,
+        "longitude": 121.4186,
+        "depth_km": 10,
+        "time_ms": 1787753730370,
+        "place": "60 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tnd4",
+        "magnitude": 5,
+        "latitude": -8.0758,
+        "longitude": 120.6333,
+        "depth_km": 10,
+        "time_ms": 1787669934052,
+        "place": "62 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tn33",
+        "magnitude": 5.4,
+        "latitude": -5.0731,
+        "longitude": 129.7114,
+        "depth_km": 10,
+        "time_ms": 1787565778429,
+        "place": "210 km SSE of Amahai, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tn0s",
+        "magnitude": 5.2,
+        "latitude": -8.1851,
+        "longitude": 120.8487,
+        "depth_km": 10,
+        "time_ms": 1787520015850,
+        "place": "63 km NE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tmq5",
+        "magnitude": 5.2,
+        "latitude": -8.1406,
+        "longitude": 120.5537,
+        "depth_km": 10,
+        "time_ms": 1787362258707,
+        "place": "52 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tmlu",
+        "magnitude": 5.8,
+        "latitude": -7.5318,
+        "longitude": 104.5854,
+        "depth_km": 9,
+        "time_ms": 1787334104174,
+        "place": "187 km SW of Labuan, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tm9h",
+        "magnitude": 5,
+        "latitude": -8.1732,
+        "longitude": 121.3645,
+        "depth_km": 10,
+        "time_ms": 1787255631720,
+        "place": "81 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm93",
+        "magnitude": 5,
+        "latitude": -8.402,
+        "longitude": 121.2108,
+        "depth_km": 10,
+        "time_ms": 1787253842793,
+        "place": "69 km NW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tc70",
+        "magnitude": 5,
+        "latitude": -8.3073,
+        "longitude": 120.2123,
+        "depth_km": 10,
+        "time_ms": 1787250602521,
+        "place": "41 km ENE of Labuan Bajo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm8h",
+        "magnitude": 5.6,
+        "latitude": -8.297,
+        "longitude": 121.3718,
+        "depth_km": 10,
+        "time_ms": 1787249571589,
+        "place": "68 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tm2v",
+        "magnitude": 5.3,
+        "latitude": -8.2215,
+        "longitude": 120.6701,
+        "depth_km": 10,
+        "time_ms": 1787218252720,
+        "place": "48 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm2k",
+        "magnitude": 5,
+        "latitude": -8.2074,
+        "longitude": 120.4906,
+        "depth_km": 35,
+        "time_ms": 1787212893960,
+        "place": "44 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm2j",
+        "magnitude": 5,
+        "latitude": -8.2667,
+        "longitude": 120.3323,
+        "depth_km": 15.891,
+        "time_ms": 1787212503944,
+        "place": "40 km NNW of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm1j",
+        "magnitude": 5.6,
+        "latitude": -8.2328,
+        "longitude": 120.5308,
+        "depth_km": 10,
+        "time_ms": 1787194018986,
+        "place": "42 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tm0u",
+        "magnitude": 5.8,
+        "latitude": -8.3418,
+        "longitude": 120.5442,
+        "depth_km": 10,
+        "time_ms": 1787179517290,
+        "place": "31 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tm0s",
+        "magnitude": 5.2,
+        "latitude": -8.2828,
+        "longitude": 120.4454,
+        "depth_km": 10,
+        "time_ms": 1787178488543,
+        "place": "36 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tlxq",
+        "magnitude": 5.5,
+        "latitude": -8.2075,
+        "longitude": 120.558,
+        "depth_km": 10,
+        "time_ms": 1787156258287,
+        "place": "45 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tlt9",
+        "magnitude": 5.1,
+        "latitude": -8.3648,
+        "longitude": 121.3236,
+        "depth_km": 10,
+        "time_ms": 1787109206706,
+        "place": "64 km NW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tlkt",
+        "magnitude": 5.6,
+        "latitude": -0.5829,
+        "longitude": 98.4357,
+        "depth_km": 10,
+        "time_ms": 1787032940555,
+        "place": "145 km SSE of Teluk Dalam, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "usd0015ee2",
+        "magnitude": 5,
+        "latitude": -8.221,
+        "longitude": 120.345,
+        "depth_km": 10,
+        "time_ms": 1786975114247,
+        "place": "45 km NNW of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015edt",
+        "magnitude": 5,
+        "latitude": -8.1972,
+        "longitude": 120.4892,
+        "depth_km": 10,
+        "time_ms": 1786971063447,
+        "place": "45 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ed8",
+        "magnitude": 5.4,
+        "latitude": -7.9023,
+        "longitude": 120.4192,
+        "depth_km": 10,
+        "time_ms": 1786963489243,
+        "place": "78 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "usd0015ed7",
+        "magnitude": 5.3,
+        "latitude": -7.8141,
+        "longitude": 120.4341,
+        "depth_km": 10,
+        "time_ms": 1786963361670,
+        "place": "88 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ed1",
+        "magnitude": 5,
+        "latitude": -8.312,
+        "longitude": 121.4184,
+        "depth_km": 10,
+        "time_ms": 1786958164684,
+        "place": "64 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ebj",
+        "magnitude": 5.1,
+        "latitude": -8.2581,
+        "longitude": 121.1401,
+        "depth_km": 10,
+        "time_ms": 1786938482420,
+        "place": "84 km ENE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015ebi",
+        "magnitude": 5.2,
+        "latitude": -8.1503,
+        "longitude": 121.2002,
+        "depth_km": 10,
+        "time_ms": 1786937798195,
+        "place": "91 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015eay",
+        "magnitude": 5.5,
+        "latitude": -8.2878,
+        "longitude": 121.4763,
+        "depth_km": 7.122,
+        "time_ms": 1786927599857,
+        "place": "64 km NNW of Ende, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "usd0015e86",
+        "magnitude": 5,
+        "latitude": -7.9323,
+        "longitude": 120.5649,
+        "depth_km": 10,
+        "time_ms": 1786887519185,
+        "place": "75 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015e7k",
+        "magnitude": 5.2,
+        "latitude": -7.8539,
+        "longitude": 120.5848,
+        "depth_km": 10,
+        "time_ms": 1786876294855,
+        "place": "84 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015e7j",
+        "magnitude": 5.3,
+        "latitude": -7.9467,
+        "longitude": 120.6027,
+        "depth_km": 10,
+        "time_ms": 1786875276311,
+        "place": "75 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tl6a",
+        "magnitude": 5.5,
+        "latitude": -7.8982,
+        "longitude": 120.5537,
+        "depth_km": 11.509,
+        "time_ms": 1786863107123,
+        "place": "79 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 3.18
+  },
+  {
+    "country": "",
     "iso_alpha2": "CN",
     "iso_alpha3": "",
     "capital": "",
@@ -1773,6 +1650,176 @@
   },
   {
     "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 8,
+    "avg_magnitude": 5.24,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-09-05",
+      "depth_km": 109,
+      "latitude": -4.5717,
+      "longitude": 153.7143
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 36.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000thhd",
+            "magnitude": 5,
+            "latitude": -6.3071,
+            "longitude": 146.5257,
+            "depth_km": 119.787,
+            "time_ms": 1789423613342,
+            "place": "69 km NW of Lae, Papua New Guinea",
+            "distance_km": 36.5,
+            "exposure_contribution": 0.65,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdqc",
+            "magnitude": 5.4,
+            "latitude": -7.1321,
+            "longitude": 146.175,
+            "depth_km": 57.516,
+            "time_ms": 1788379472508,
+            "place": "51 km W of Bulolo, Papua New Guinea",
+            "distance_km": 87.4,
+            "exposure_contribution": 1.36,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "usd0015e7p",
+            "magnitude": 5.5,
+            "latitude": -5.6736,
+            "longitude": 146.7605,
+            "depth_km": 137.2,
+            "time_ms": 1786877949771,
+            "place": "118 km ESE of Madang, Papua New Guinea",
+            "distance_km": 99.5,
+            "exposure_contribution": 0.71,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.73
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000thhd",
+        "magnitude": 5,
+        "latitude": -6.3071,
+        "longitude": 146.5257,
+        "depth_km": 119.787,
+        "time_ms": 1789423613342,
+        "place": "69 km NW of Lae, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000teji",
+        "magnitude": 5.5,
+        "latitude": -4.5717,
+        "longitude": 153.7143,
+        "depth_km": 109,
+        "time_ms": 1788617526943,
+        "place": "162 km E of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdqc",
+        "magnitude": 5.4,
+        "latitude": -7.1321,
+        "longitude": 146.175,
+        "depth_km": 57.516,
+        "time_ms": 1788379472508,
+        "place": "51 km W of Bulolo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tcp5",
+        "magnitude": 5,
+        "latitude": -6.211,
+        "longitude": 151.7381,
+        "depth_km": 10,
+        "time_ms": 1787948378305,
+        "place": "191 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm8j",
+        "magnitude": 5.1,
+        "latitude": -5.478,
+        "longitude": 153.4364,
+        "depth_km": 35,
+        "time_ms": 1787250320048,
+        "place": "180 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm42",
+        "magnitude": 5,
+        "latitude": -1.143,
+        "longitude": 148.5466,
+        "depth_km": 10,
+        "time_ms": 1787234100046,
+        "place": "172 km NE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015edb",
+        "magnitude": 5.4,
+        "latitude": -6.3828,
+        "longitude": 149.452,
+        "depth_km": 35,
+        "time_ms": 1786964422688,
+        "place": "22 km SSW of Kandrian, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "usd0015e7p",
+        "magnitude": 5.5,
+        "latitude": -5.6736,
+        "longitude": 146.7605,
+        "depth_km": 137.2,
+        "time_ms": 1786877949771,
+        "place": "118 km ESE of Madang, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 2.73
+  },
+  {
+    "country": "",
     "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
@@ -1784,8 +1831,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-17",
@@ -1891,177 +1938,9 @@
         "place": "72 km E of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tkvj",
-        "magnitude": 5.5,
-        "latitude": 50.3726,
-        "longitude": 156.5089,
-        "depth_km": 72.462,
-        "time_ms": 1786754609486,
-        "place": "43 km SE of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.38
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PG",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.28,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-09-05",
-      "depth_km": 109,
-      "latitude": -4.5717,
-      "longitude": 153.7143
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 87.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdqc",
-            "magnitude": 5.4,
-            "latitude": -7.1321,
-            "longitude": 146.175,
-            "depth_km": 57.516,
-            "time_ms": 1788379472508,
-            "place": "51 km W of Bulolo, Papua New Guinea",
-            "distance_km": 87.4,
-            "exposure_contribution": 1.36,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "usd0015e7p",
-            "magnitude": 5.5,
-            "latitude": -5.6736,
-            "longitude": 146.7605,
-            "depth_km": 137.2,
-            "time_ms": 1786877949771,
-            "place": "118 km ESE of Madang, Papua New Guinea",
-            "distance_km": 99.5,
-            "exposure_contribution": 0.71,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.07
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000teji",
-        "magnitude": 5.5,
-        "latitude": -4.5717,
-        "longitude": 153.7143,
-        "depth_km": 109,
-        "time_ms": 1788617526943,
-        "place": "162 km E of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdqc",
-        "magnitude": 5.4,
-        "latitude": -7.1321,
-        "longitude": 146.175,
-        "depth_km": 57.516,
-        "time_ms": 1788379472508,
-        "place": "51 km W of Bulolo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tcp5",
-        "magnitude": 5,
-        "latitude": -6.211,
-        "longitude": 151.7381,
-        "depth_km": 10,
-        "time_ms": 1787948378305,
-        "place": "191 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm8j",
-        "magnitude": 5.1,
-        "latitude": -5.478,
-        "longitude": 153.4364,
-        "depth_km": 35,
-        "time_ms": 1787250320048,
-        "place": "180 km SE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm42",
-        "magnitude": 5,
-        "latitude": -1.143,
-        "longitude": 148.5466,
-        "depth_km": 10,
-        "time_ms": 1787234100046,
-        "place": "172 km NE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015edb",
-        "magnitude": 5.4,
-        "latitude": -6.3828,
-        "longitude": 149.452,
-        "depth_km": 35,
-        "time_ms": 1786964422688,
-        "place": "22 km SSW of Kandrian, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "usd0015e7p",
-        "magnitude": 5.5,
-        "latitude": -5.6736,
-        "longitude": 146.7605,
-        "depth_km": 137.2,
-        "time_ms": 1786877949771,
-        "place": "118 km ESE of Madang, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tkyz",
-        "magnitude": 5.3,
-        "latitude": -4.4905,
-        "longitude": 144.0023,
-        "depth_km": 112.102,
-        "time_ms": 1786792224186,
-        "place": "47 km S of Angoram, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.07
   },
   {
     "country": "",
