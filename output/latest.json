@@ -383,23 +383,23 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 127.8,
+        "closest_quake_distance_km": 126.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmrf",
             "magnitude": 5,
-            "latitude": 6.7397,
-            "longitude": 126.7362,
-            "depth_km": 107.802,
-            "time_ms": 1787381019032,
-            "place": "45 km SE of Lukatan, Philippines",
-            "distance_km": 127.8,
-            "exposure_contribution": 0.41,
+            "latitude": 6.7473,
+            "longitude": 126.722,
+            "depth_km": 111.804,
+            "time_ms": 1787381019406,
+            "place": "44 km SE of Lukatan, Philippines",
+            "distance_km": 126.0,
+            "exposure_contribution": 0.4,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.41
+        "exposure_score": 0.4
       },
       {
         "name": "General Santos International Airport",
@@ -425,12 +425,12 @@
           {
             "earthquake_id": "us6000tmrf",
             "magnitude": 5,
-            "latitude": 6.7397,
-            "longitude": 126.7362,
-            "depth_km": 107.802,
-            "time_ms": 1787381019032,
-            "place": "45 km SE of Lukatan, Philippines",
-            "distance_km": 196.5,
+            "latitude": 6.7473,
+            "longitude": 126.722,
+            "depth_km": 111.804,
+            "time_ms": 1787381019406,
+            "place": "44 km SE of Lukatan, Philippines",
+            "distance_km": 195.3,
             "exposure_contribution": 0.24,
             "pga_g": null,
             "mmi": null
@@ -591,11 +591,11 @@
       {
         "id": "us6000tmrf",
         "magnitude": 5,
-        "latitude": 6.7397,
-        "longitude": 126.7362,
-        "depth_km": 107.802,
-        "time_ms": 1787381019032,
-        "place": "45 km SE of Lukatan, Philippines",
+        "latitude": 6.7473,
+        "longitude": 126.722,
+        "depth_km": 111.804,
+        "time_ms": 1787381019406,
+        "place": "44 km SE of Lukatan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -633,7 +633,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.87
+    "seismic_hub_risk_score": 4.86
   },
   {
     "country": "",
@@ -750,7 +750,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 47,
+    "earthquake_count": 43,
     "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.5,
@@ -1382,50 +1382,6 @@
         "place": "64 km NNW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "usd0015e86",
-        "magnitude": 5,
-        "latitude": -7.9323,
-        "longitude": 120.5649,
-        "depth_km": 10,
-        "time_ms": 1786887519185,
-        "place": "75 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015e7k",
-        "magnitude": 5.2,
-        "latitude": -7.8539,
-        "longitude": 120.5848,
-        "depth_km": 10,
-        "time_ms": 1786876294855,
-        "place": "84 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015e7j",
-        "magnitude": 5.3,
-        "latitude": -7.9467,
-        "longitude": 120.6027,
-        "depth_km": 10,
-        "time_ms": 1786875276311,
-        "place": "75 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tl6a",
-        "magnitude": 5.5,
-        "latitude": -7.8982,
-        "longitude": 120.5537,
-        "depth_km": 11.509,
-        "time_ms": 1786863107123,
-        "place": "79 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 3.18
@@ -1650,176 +1606,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PG",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.24,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-09-05",
-      "depth_km": 109,
-      "latitude": -4.5717,
-      "longitude": 153.7143
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 36.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000thhd",
-            "magnitude": 5,
-            "latitude": -6.3071,
-            "longitude": 146.5257,
-            "depth_km": 119.787,
-            "time_ms": 1789423613342,
-            "place": "69 km NW of Lae, Papua New Guinea",
-            "distance_km": 36.5,
-            "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tdqc",
-            "magnitude": 5.4,
-            "latitude": -7.1321,
-            "longitude": 146.175,
-            "depth_km": 57.516,
-            "time_ms": 1788379472508,
-            "place": "51 km W of Bulolo, Papua New Guinea",
-            "distance_km": 87.4,
-            "exposure_contribution": 1.36,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "usd0015e7p",
-            "magnitude": 5.5,
-            "latitude": -5.6736,
-            "longitude": 146.7605,
-            "depth_km": 137.2,
-            "time_ms": 1786877949771,
-            "place": "118 km ESE of Madang, Papua New Guinea",
-            "distance_km": 99.5,
-            "exposure_contribution": 0.71,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.73
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000thhd",
-        "magnitude": 5,
-        "latitude": -6.3071,
-        "longitude": 146.5257,
-        "depth_km": 119.787,
-        "time_ms": 1789423613342,
-        "place": "69 km NW of Lae, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000teji",
-        "magnitude": 5.5,
-        "latitude": -4.5717,
-        "longitude": 153.7143,
-        "depth_km": 109,
-        "time_ms": 1788617526943,
-        "place": "162 km E of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdqc",
-        "magnitude": 5.4,
-        "latitude": -7.1321,
-        "longitude": 146.175,
-        "depth_km": 57.516,
-        "time_ms": 1788379472508,
-        "place": "51 km W of Bulolo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tcp5",
-        "magnitude": 5,
-        "latitude": -6.211,
-        "longitude": 151.7381,
-        "depth_km": 10,
-        "time_ms": 1787948378305,
-        "place": "191 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm8j",
-        "magnitude": 5.1,
-        "latitude": -5.478,
-        "longitude": 153.4364,
-        "depth_km": 35,
-        "time_ms": 1787250320048,
-        "place": "180 km SE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm42",
-        "magnitude": 5,
-        "latitude": -1.143,
-        "longitude": 148.5466,
-        "depth_km": 10,
-        "time_ms": 1787234100046,
-        "place": "172 km NE of Lorengau, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "usd0015edb",
-        "magnitude": 5.4,
-        "latitude": -6.3828,
-        "longitude": 149.452,
-        "depth_km": 35,
-        "time_ms": 1786964422688,
-        "place": "22 km SSW of Kandrian, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "usd0015e7p",
-        "magnitude": 5.5,
-        "latitude": -5.6736,
-        "longitude": 146.7605,
-        "depth_km": 137.2,
-        "time_ms": 1786877949771,
-        "place": "118 km ESE of Madang, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.73
-  },
-  {
-    "country": "",
     "iso_alpha2": "RU",
     "iso_alpha3": "",
     "capital": "",
@@ -1944,6 +1730,152 @@
   },
   {
     "country": "",
+    "iso_alpha2": "PG",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 7,
+    "avg_magnitude": 5.2,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-09-05",
+      "depth_km": 109,
+      "latitude": -4.5717,
+      "longitude": 153.7143
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 36.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000thhd",
+            "magnitude": 5,
+            "latitude": -6.3071,
+            "longitude": 146.5257,
+            "depth_km": 119.787,
+            "time_ms": 1789423613342,
+            "place": "69 km NW of Lae, Papua New Guinea",
+            "distance_km": 36.5,
+            "exposure_contribution": 0.65,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdqc",
+            "magnitude": 5.4,
+            "latitude": -7.1321,
+            "longitude": 146.175,
+            "depth_km": 57.516,
+            "time_ms": 1788379472508,
+            "place": "51 km W of Bulolo, Papua New Guinea",
+            "distance_km": 87.4,
+            "exposure_contribution": 1.36,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.02
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000thhd",
+        "magnitude": 5,
+        "latitude": -6.3071,
+        "longitude": 146.5257,
+        "depth_km": 119.787,
+        "time_ms": 1789423613342,
+        "place": "69 km NW of Lae, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000teji",
+        "magnitude": 5.5,
+        "latitude": -4.5717,
+        "longitude": 153.7143,
+        "depth_km": 109,
+        "time_ms": 1788617526943,
+        "place": "162 km E of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdqc",
+        "magnitude": 5.4,
+        "latitude": -7.1321,
+        "longitude": 146.175,
+        "depth_km": 57.516,
+        "time_ms": 1788379472508,
+        "place": "51 km W of Bulolo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tcp5",
+        "magnitude": 5,
+        "latitude": -6.211,
+        "longitude": 151.7381,
+        "depth_km": 10,
+        "time_ms": 1787948378305,
+        "place": "191 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm8j",
+        "magnitude": 5.1,
+        "latitude": -5.478,
+        "longitude": 153.4364,
+        "depth_km": 35,
+        "time_ms": 1787250320048,
+        "place": "180 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tm42",
+        "magnitude": 5,
+        "latitude": -1.143,
+        "longitude": 148.5466,
+        "depth_km": 10,
+        "time_ms": 1787234100046,
+        "place": "172 km NE of Lorengau, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "usd0015edb",
+        "magnitude": 5.4,
+        "latitude": -6.3828,
+        "longitude": 149.452,
+        "depth_km": 35,
+        "time_ms": 1786964422688,
+        "place": "22 km SSW of Kandrian, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 2.02
+  },
+  {
+    "country": "",
     "iso_alpha2": "VU",
     "iso_alpha3": "",
     "capital": "",
@@ -1955,14 +1887,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.17,
     "strongest_earthquake": {
-      "magnitude": 6.1,
-      "date": "2026-08-16",
-      "depth_km": 186.6,
-      "latitude": -14.5653,
-      "longitude": 167.2418
+      "magnitude": 5.6,
+      "date": "2026-09-05",
+      "depth_km": 9,
+      "latitude": -19.7418,
+      "longitude": 170.1102
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -2041,12 +1973,12 @@
       },
       {
         "id": "us7000tfqf",
-        "magnitude": 5.1,
-        "latitude": -19.8072,
-        "longitude": 170.1194,
+        "magnitude": 5.2,
+        "latitude": -19.8366,
+        "longitude": 170.139,
         "depth_km": 10,
-        "time_ms": 1788828722083,
-        "place": "92 km ESE of Isangel, Vanuatu",
+        "time_ms": 1788828722076,
+        "place": "95 km ESE of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       },
@@ -2104,17 +2036,6 @@
         "place": "84 km S of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tl4w",
-        "magnitude": 6.1,
-        "latitude": -14.5653,
-        "longitude": 167.2418,
-        "depth_km": 186.573,
-        "time_ms": 1786850423928,
-        "place": "55 km NNE of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.39

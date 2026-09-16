@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-09-15 10:44 UTC
+Generated: 2026-09-16 10:32 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-06-18 to 2026-09-15).
+Based on 89 snapshots (2026-06-19 to 2026-09-16).
 
 
 **Top score changes**:
@@ -12,11 +12,11 @@ Based on 89 snapshots (2026-06-18 to 2026-09-15).
 
 **Top airport exposure changes**:
 
-- Nadzab Tomodachi International Airport (LAE, ): +0.7
+- Nadzab Tomodachi International Airport (LAE, ): -0.7
+- Francisco Bangoy International Airport (DVO, ): -0.0
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 - New Chitose Airport (CTS, ): 0.0
-- Hakodate Airport (HKD, ): 0.0
 
 ## Country Summary
 
@@ -26,11 +26,11 @@ Based on 89 snapshots (2026-06-18 to 2026-09-15).
 |  |  |  | 8.0 | ~ | 5.4 | M5.8 (2026-08-30) | 5 | 1 | - | No | 0 |
 |  |  |  | 4.9 | ~ | 5.1 | M5.2 (2026-09-01) | 5 | 5 | - | No | 0 |
 |  |  |  | 3.7 | ~ | 5.2 | M5.3 (2026-09-02) | 3 | 1 | - | No | 0 |
-|  |  |  | 3.2 | ~ | 5.3 | M6.5 (2026-09-11) | 47 | 6 | green | No | 1 |
+|  |  |  | 3.2 | ~ | 5.3 | M6.5 (2026-09-11) | 43 | 6 | green | No | 1 |
 |  |  |  | 2.9 | ~ | 5.2 | M5.5 (2026-08-18) | 8 | 3 | yellow | No | 2 |
-|  |  |  | 2.7 | ~ | 5.2 | M5.5 (2026-09-05) | 8 | 1 | - | No | 0 |
 |  |  |  | 2.4 | ~ | 5.2 | M5.8 (2026-08-17) | 5 | 1 | - | No | 0 |
-|  |  |  | 0.4 | ~ | 5.2 | M6.1 (2026-08-16) | 11 | 1 | - | No | 0 |
+|  |  |  | 2.0 | ~ | 5.2 | M5.5 (2026-09-05) | 7 | 1 | - | No | 0 |
+|  |  |  | 0.4 | ~ | 5.2 | M5.6 (2026-09-05) | 10 | 1 | - | No | 0 |
 
 ## Airport Details
 
@@ -46,7 +46,7 @@ Based on 89 snapshots (2026-06-18 to 2026-09-15).
 | Bohol-Panglao International Airport | TAG | Panglao |  | 1.1 | ~ | - | 174.4 | 3 |
 | Mactan Cebu International Airport | CEB | Cebu City/Lapu-Lapu City |  | 0.8 | ~ | - | 184.2 | 2 |
 | General Santos International Airport | GES | General Santos |  | 0.7 | ~ | - | 127.4 | 2 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 0.4 | ~ | - | 127.8 | 1 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 0.4 | ~ | - | 126.0 | 1 |
 | Queenstown Airport | ZQN | Queenstown |  | 3.7 | ~ | - | 73.0 | 2 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 1.0 | ~ | - | 112.3 | 1 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.6 | ~ | - | 154.3 | 1 |
@@ -57,6 +57,6 @@ Based on 89 snapshots (2026-06-18 to 2026-09-15).
 | Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 1.2 | ~ | 0.0088 | 152.8 | 2 |
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 1.2 | ~ | 0.0061 | 138.1 | 2 |
 | Chongqing Jiangbei International Airport | CKG | Chongqing |  | 0.5 | ~ | - | 146.0 | 1 |
-| Nadzab Tomodachi International Airport | LAE | Lae |  | 2.7 | +0.7 | - | 36.5 | 3 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 2.4 | ~ | - | 85.4 | 2 |
+| Nadzab Tomodachi International Airport | LAE | Lae |  | 2.0 | -0.7 | - | 36.5 | 2 |
 | Bauerfield International Airport | VLI | Port Vila |  | 0.4 | ~ | - | 172.6 | 1 |
