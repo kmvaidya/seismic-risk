@@ -234,11 +234,11 @@
       {
         "id": "us6000tnbv",
         "magnitude": 5,
-        "latitude": 43.045,
-        "longitude": 145.6343,
-        "depth_km": 96.855,
-        "time_ms": 1787648840740,
-        "place": "31 km S of Nemuro, Japan",
+        "latitude": 43.0989,
+        "longitude": 145.7121,
+        "depth_km": 90.672,
+        "time_ms": 1787648840226,
+        "place": "27 km SSE of Nemuro, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -291,8 +291,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-30",
@@ -325,12 +325,36 @@
             "exposure_contribution": 7.97,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000thz3",
+            "magnitude": 5.3,
+            "latitude": -17.3232,
+            "longitude": -173.4476,
+            "depth_km": 10,
+            "time_ms": 1789618013528,
+            "place": "155 km SSE of Hihifo, Tonga",
+            "distance_km": 150.5,
+            "exposure_contribution": 0.69,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 7.97
+        "exposure_score": 8.65
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000thz3",
+        "magnitude": 5.3,
+        "latitude": -17.3232,
+        "longitude": -173.4476,
+        "depth_km": 10,
+        "time_ms": 1789618013528,
+        "place": "155 km SSE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tftd",
         "magnitude": 5.3,
@@ -367,11 +391,11 @@
       {
         "id": "us6000tnd7",
         "magnitude": 5.2,
-        "latitude": -17.4086,
-        "longitude": -171.8992,
+        "latitude": -17.46,
+        "longitude": -171.888,
         "depth_km": 10,
-        "time_ms": 1787670954340,
-        "place": "258 km SE of Hihifo, Tonga",
+        "time_ms": 1787670954249,
+        "place": "258 km ENE of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -387,7 +411,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 7.97
+    "seismic_hub_risk_score": 8.65
   },
   {
     "country": "",
@@ -483,18 +507,31 @@
         "latitude": 8.612203,
         "longitude": 124.456496,
         "municipality": "Laguindingan",
-        "closest_quake_distance_km": 126.4,
+        "closest_quake_distance_km": 127.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmer",
             "magnitude": 5.2,
-            "latitude": 9.3382,
-            "longitude": 125.342,
+            "latitude": 9.3001,
+            "longitude": 125.3902,
             "depth_km": 10,
-            "time_ms": 1787303540890,
-            "place": "19 km W of Jabonga, Philippines",
-            "distance_km": 126.4,
-            "exposure_contribution": 0.81,
+            "time_ms": 1787303540678,
+            "place": "14 km WSW of Jabonga, Philippines",
+            "distance_km": 127.9,
+            "exposure_contribution": 0.79,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tmes",
+            "magnitude": 5.1,
+            "latitude": 9.3881,
+            "longitude": 125.4217,
+            "depth_km": 10,
+            "time_ms": 1787304157095,
+            "place": "11 km S of Cantapoy, Philippines",
+            "distance_km": 136.7,
+            "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
           },
@@ -510,22 +547,9 @@
             "exposure_contribution": 0.5,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmes",
-            "magnitude": 5.1,
-            "latitude": 9.4833,
-            "longitude": 125.5784,
-            "depth_km": 10,
-            "time_ms": 1787304156390,
-            "place": "1 km N of Alegria, Philippines",
-            "distance_km": 156.7,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.82
+        "exposure_score": 1.93
       },
       {
         "name": "Bohol-Panglao International Airport",
@@ -533,31 +557,31 @@
         "latitude": 9.573045,
         "longitude": 123.770143,
         "municipality": "Panglao",
-        "closest_quake_distance_km": 174.4,
+        "closest_quake_distance_km": 180.3,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tmer",
             "magnitude": 5.2,
-            "latitude": 9.3382,
-            "longitude": 125.342,
+            "latitude": 9.3001,
+            "longitude": 125.3902,
             "depth_km": 10,
-            "time_ms": 1787303540890,
-            "place": "19 km W of Jabonga, Philippines",
-            "distance_km": 174.4,
-            "exposure_contribution": 0.48,
+            "time_ms": 1787303540678,
+            "place": "14 km WSW of Jabonga, Philippines",
+            "distance_km": 180.3,
+            "exposure_contribution": 0.45,
             "pga_g": null,
             "mmi": null
           },
           {
             "earthquake_id": "us6000tmes",
             "magnitude": 5.1,
-            "latitude": 9.4833,
-            "longitude": 125.5784,
+            "latitude": 9.3881,
+            "longitude": 125.4217,
             "depth_km": 10,
-            "time_ms": 1787304156390,
-            "place": "1 km N of Alegria, Philippines",
-            "distance_km": 198.5,
-            "exposure_contribution": 0.34,
+            "time_ms": 1787304157095,
+            "place": "11 km S of Cantapoy, Philippines",
+            "distance_km": 182.3,
+            "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
           },
@@ -575,7 +599,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.12
+        "exposure_score": 1.15
       },
       {
         "name": "Mactan Cebu International Airport",
@@ -583,31 +607,31 @@
         "latitude": 10.309261,
         "longitude": 123.97974,
         "municipality": "Cebu City/Lapu-Lapu City",
-        "closest_quake_distance_km": 184.2,
+        "closest_quake_distance_km": 188.3,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000tmer",
-            "magnitude": 5.2,
-            "latitude": 9.3382,
-            "longitude": 125.342,
+            "earthquake_id": "us6000tmes",
+            "magnitude": 5.1,
+            "latitude": 9.3881,
+            "longitude": 125.4217,
             "depth_km": 10,
-            "time_ms": 1787303540890,
-            "place": "19 km W of Jabonga, Philippines",
-            "distance_km": 184.2,
-            "exposure_contribution": 0.43,
+            "time_ms": 1787304157095,
+            "place": "11 km S of Cantapoy, Philippines",
+            "distance_km": 188.3,
+            "exposure_contribution": 0.37,
             "pga_g": null,
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tmes",
-            "magnitude": 5.1,
-            "latitude": 9.4833,
-            "longitude": 125.5784,
+            "earthquake_id": "us6000tmer",
+            "magnitude": 5.2,
+            "latitude": 9.3001,
+            "longitude": 125.3902,
             "depth_km": 10,
-            "time_ms": 1787304156390,
-            "place": "1 km N of Alegria, Philippines",
-            "distance_km": 197.7,
-            "exposure_contribution": 0.34,
+            "time_ms": 1787303540678,
+            "place": "14 km WSW of Jabonga, Philippines",
+            "distance_km": 191.0,
+            "exposure_contribution": 0.41,
             "pga_g": null,
             "mmi": null
           }
@@ -652,129 +676,27 @@
       {
         "id": "us6000tmes",
         "magnitude": 5.1,
-        "latitude": 9.4833,
-        "longitude": 125.5784,
+        "latitude": 9.3881,
+        "longitude": 125.4217,
         "depth_km": 10,
-        "time_ms": 1787304156390,
-        "place": "1 km N of Alegria, Philippines",
+        "time_ms": 1787304157095,
+        "place": "11 km S of Cantapoy, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
       {
         "id": "us6000tmer",
         "magnitude": 5.2,
-        "latitude": 9.3382,
-        "longitude": 125.342,
+        "latitude": 9.3001,
+        "longitude": 125.3902,
         "depth_km": 10,
-        "time_ms": 1787303540890,
-        "place": "19 km W of Jabonga, Philippines",
+        "time_ms": 1787303540678,
+        "place": "14 km WSW of Jabonga, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.86
-  },
-  {
-    "country": "",
-    "iso_alpha2": "NZ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.17,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-09-02",
-      "depth_km": 10,
-      "latitude": -44.4431,
-      "longitude": 168.3029
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Queenstown Airport",
-        "iata_code": "ZQN",
-        "latitude": -45.019205,
-        "longitude": 168.746379,
-        "municipality": "Queenstown",
-        "closest_quake_distance_km": 73.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdj8",
-            "magnitude": 5.3,
-            "latitude": -44.4431,
-            "longitude": 168.3029,
-            "depth_km": 10,
-            "time_ms": 1788329613779,
-            "place": "66 km NNW of Arthurs Point, New Zealand",
-            "distance_km": 73.0,
-            "exposure_contribution": 2.02,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tdjg",
-            "magnitude": 5.2,
-            "latitude": -44.4277,
-            "longitude": 168.2503,
-            "depth_km": 10,
-            "time_ms": 1788332232278,
-            "place": "70 km NNW of Arthurs Point, New Zealand",
-            "distance_km": 76.6,
-            "exposure_contribution": 1.69,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 3.71
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000test",
-        "magnitude": 5,
-        "latitude": -30.9663,
-        "longitude": 178.5443,
-        "depth_km": 585.146,
-        "time_ms": 1788746808371,
-        "place": "Kermadec Islands region",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tdjg",
-        "magnitude": 5.2,
-        "latitude": -44.4277,
-        "longitude": 168.2503,
-        "depth_km": 10,
-        "time_ms": 1788332232278,
-        "place": "70 km NNW of Arthurs Point, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdj8",
-        "magnitude": 5.3,
-        "latitude": -44.4431,
-        "longitude": 168.3029,
-        "depth_km": 10,
-        "time_ms": 1788329613779,
-        "place": "66 km NNW of Arthurs Point, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 3.71
+    "seismic_hub_risk_score": 5.0
   },
   {
     "country": "",
@@ -790,7 +712,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 35,
-    "avg_magnitude": 5.31,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -850,6 +772,30 @@
           }
         ],
         "exposure_score": 0.56
+      },
+      {
+        "name": "Sam Ratulangi International Airport",
+        "iata_code": "MDC",
+        "latitude": 1.548591,
+        "longitude": 124.92625,
+        "municipality": "Manado",
+        "closest_quake_distance_km": 155.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000thzp",
+            "magnitude": 5.2,
+            "latitude": 1.3156,
+            "longitude": 126.3092,
+            "depth_km": 10,
+            "time_ms": 1789626048508,
+            "place": "132 km E of Bitung, Indonesia",
+            "distance_km": 155.9,
+            "exposure_contribution": 0.58,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.58
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -949,6 +895,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000thzp",
+        "magnitude": 5.2,
+        "latitude": 1.3156,
+        "longitude": 126.3092,
+        "depth_km": 10,
+        "time_ms": 1789626048508,
+        "place": "132 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000thcs",
         "magnitude": 5.6,
@@ -1128,11 +1085,11 @@
       {
         "id": "us6000tnd4",
         "magnitude": 5,
-        "latitude": -8.0758,
-        "longitude": 120.6333,
+        "latitude": -8.0189,
+        "longitude": 120.6395,
         "depth_km": 10,
-        "time_ms": 1787669934052,
-        "place": "62 km NNE of Ruteng, Indonesia",
+        "time_ms": 1787669934153,
+        "place": "68 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1322,20 +1279,111 @@
         "place": "64 km NW of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 3.76
+  },
+  {
+    "country": "",
+    "iso_alpha2": "NZ",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.17,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-09-02",
+      "depth_km": 10,
+      "latitude": -44.4431,
+      "longitude": 168.3029
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Queenstown Airport",
+        "iata_code": "ZQN",
+        "latitude": -45.019205,
+        "longitude": 168.746379,
+        "municipality": "Queenstown",
+        "closest_quake_distance_km": 73.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdj8",
+            "magnitude": 5.3,
+            "latitude": -44.4431,
+            "longitude": 168.3029,
+            "depth_km": 10,
+            "time_ms": 1788329613779,
+            "place": "66 km NNW of Arthurs Point, New Zealand",
+            "distance_km": 73.0,
+            "exposure_contribution": 2.02,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdjg",
+            "magnitude": 5.2,
+            "latitude": -44.4277,
+            "longitude": 168.2503,
+            "depth_km": 10,
+            "time_ms": 1788332232278,
+            "place": "70 km NNW of Arthurs Point, New Zealand",
+            "distance_km": 76.6,
+            "exposure_contribution": 1.69,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.71
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000test",
+        "magnitude": 5,
+        "latitude": -30.9663,
+        "longitude": 178.5443,
+        "depth_km": 585.146,
+        "time_ms": 1788746808371,
+        "place": "Kermadec Islands region",
+        "country_code": "NZ",
+        "shakemap_available": false
       },
       {
-        "id": "us6000tlkt",
-        "magnitude": 5.6,
-        "latitude": -0.5829,
-        "longitude": 98.4357,
+        "id": "us7000tdjg",
+        "magnitude": 5.2,
+        "latitude": -44.4277,
+        "longitude": 168.2503,
         "depth_km": 10,
-        "time_ms": 1787032940555,
-        "place": "145 km SSE of Teluk Dalam, Indonesia",
-        "country_code": "ID",
+        "time_ms": 1788332232278,
+        "place": "70 km NNW of Arthurs Point, New Zealand",
+        "country_code": "NZ",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdj8",
+        "magnitude": 5.3,
+        "latitude": -44.4431,
+        "longitude": 168.3029,
+        "depth_km": 10,
+        "time_ms": 1788329613779,
+        "place": "66 km NNW of Arthurs Point, New Zealand",
+        "country_code": "NZ",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.18
+    "seismic_hub_risk_score": 3.71
   },
   {
     "country": "",
@@ -1350,14 +1398,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.14,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.1,
     "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-08-18",
-      "depth_km": 6,
-      "latitude": 37.8425,
-      "longitude": 95.5713
+      "magnitude": 5.4,
+      "date": "2026-09-03",
+      "depth_km": 10,
+      "latitude": 31.8458,
+      "longitude": 104.5066
     },
     "highest_pager_alert": "yellow",
     "max_felt_reports": 6,
@@ -1551,17 +1599,6 @@
         "place": "273 km SSE of Dunhuang, China",
         "country_code": "CN",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tlrj",
-        "magnitude": 5.5,
-        "latitude": 37.8425,
-        "longitude": 95.5713,
-        "depth_km": 6,
-        "time_ms": 1787088987988,
-        "place": "269 km SSE of Dunhuang, China",
-        "country_code": "CN",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.89
