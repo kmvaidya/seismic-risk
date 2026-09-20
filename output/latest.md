@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-09-19 10:00 UTC
+Generated: 2026-09-20 10:20 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-06-22 to 2026-09-19).
+Based on 89 snapshots (2026-06-23 to 2026-09-20).
 
 
 **Top score changes**:
@@ -12,7 +12,7 @@ Based on 89 snapshots (2026-06-22 to 2026-09-19).
 
 **Top airport exposure changes**:
 
-- Rota International Airport (ROP, ): +0.1
+- Dortheys Hiyo Eluay International Airport (DJJ, ): +0.4
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 - New Chitose Airport (CTS, ): 0.0
@@ -25,13 +25,13 @@ Based on 89 snapshots (2026-06-22 to 2026-09-19).
 |  |  |  | 27.1 | ~ | 5.4 | M6 (2026-08-23) | 9 | 5 | green | No | 1 |
 |  |  |  | 8.7 | ~ | 5.4 | M5.8 (2026-08-30) | 7 | 1 | - | No | 0 |
 |  |  |  | 5.0 | ~ | 5.1 | M5.2 (2026-09-01) | 5 | 5 | - | No | 0 |
-|  |  |  | 3.8 | ~ | 5.3 | M6.5 (2026-09-11) | 32 | 7 | green | No | 1 |
+|  |  |  | 4.1 | ~ | 5.3 | M6.5 (2026-09-11) | 26 | 7 | green | No | 1 |
 |  |  |  | 3.7 | ~ | 5.2 | M5.3 (2026-09-02) | 3 | 1 | - | No | 0 |
-|  |  |  | 2.9 | ~ | 5.1 | M5.4 (2026-09-03) | 8 | 3 | yellow | No | 2 |
-|  |  |  | 2.0 | ~ | 5.2 | M5.5 (2026-09-05) | 7 | 1 | - | No | 0 |
+|  |  |  | 2.9 | ~ | 5.1 | M5.4 (2026-09-03) | 7 | 3 | yellow | No | 2 |
+|  |  |  | 2.0 | ~ | 5.2 | M5.5 (2026-09-05) | 5 | 1 | - | No | 0 |
 |  |  |  | 1.0 | ~ | 5.3 | M5.9 (2026-09-02) | 7 | 1 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.1 | M5.2 (2026-08-27) | 3 | 1 | - | No | 0 |
-|  |  |  | 0.4 | ~ | 5.2 | M5.6 (2026-09-05) | 10 | 1 | - | No | 0 |
+|  |  |  | 0.4 | ~ | 5.2 | M5.6 (2026-09-05) | 9 | 1 | - | No | 0 |
 |  |  |  | 0.3 | ~ | 5.0 | M5 (2026-09-04) | 3 | 1 | - | No | 0 |
 
 ## Airport Details
@@ -50,8 +50,8 @@ Based on 89 snapshots (2026-06-22 to 2026-09-19).
 | General Santos International Airport | GES | General Santos |  | 0.7 | ~ | - | 127.4 | 2 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 0.4 | ~ | - | 126.0 | 1 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 1.0 | ~ | - | 112.3 | 1 |
+| Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.9 | ~ | - | 154.3 | 2 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 0.6 | ~ | - | 155.9 | 1 |
-| Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 0.6 | ~ | - | 154.3 | 1 |
 | Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.4 | ~ | - | 185.3 | 1 |
 | Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.4 | ~ | - | 129.3 | 1 |
 | Halim Perdanakusuma International Airport | HLP | Jakarta |  | 0.4 | ~ | - | 142.8 | 1 |
@@ -61,7 +61,7 @@ Based on 89 snapshots (2026-06-22 to 2026-09-19).
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 1.2 | ~ | 0.0061 | 138.1 | 2 |
 | Chongqing Jiangbei International Airport | CKG | Chongqing |  | 0.5 | ~ | - | 146.0 | 1 |
 | Nadzab Tomodachi International Airport | LAE | Lae |  | 2.0 | ~ | - | 36.5 | 2 |
-| Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.0 | NEW | - | 42.9 | 1 |
+| Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 1.0 | ~ | - | 42.9 | 1 |
 | Rota International Airport | ROP | Rota Island |  | 0.9 | ~ | - | 22.2 | 1 |
 | Bauerfield International Airport | VLI | Port Vila |  | 0.4 | ~ | - | 172.6 | 1 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 0.3 | ~ | - | 189.0 | 1 |

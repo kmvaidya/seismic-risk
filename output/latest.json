@@ -733,8 +733,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 32,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 26,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -791,9 +791,22 @@
             "exposure_contribution": 0.56,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tih8",
+            "magnitude": 5.2,
+            "latitude": -1.8561,
+            "longitude": 138.8882,
+            "depth_km": 10,
+            "time_ms": 1789791515318,
+            "place": "210 km WNW of Abepura, Indonesia",
+            "distance_km": 198.3,
+            "exposure_contribution": 0.38,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 0.56
+        "exposure_score": 0.94
       },
       {
         "name": "Sam Ratulangi International Airport",
@@ -917,6 +930,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tiju",
+        "magnitude": 5.1,
+        "latitude": -8.1668,
+        "longitude": 120.8819,
+        "depth_km": 10,
+        "time_ms": 1789826160869,
+        "place": "67 km NE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tih8",
+        "magnitude": 5.2,
+        "latitude": -1.8561,
+        "longitude": 138.8882,
+        "depth_km": 10,
+        "time_ms": 1789791515318,
+        "place": "210 km WNW of Abepura, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tib8",
         "magnitude": 5.2,
@@ -1180,97 +1215,9 @@
         "place": "187 km SW of Labuan, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tm9h",
-        "magnitude": 5,
-        "latitude": -8.1732,
-        "longitude": 121.3645,
-        "depth_km": 10,
-        "time_ms": 1787255631720,
-        "place": "81 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm93",
-        "magnitude": 5,
-        "latitude": -8.402,
-        "longitude": 121.2108,
-        "depth_km": 10,
-        "time_ms": 1787253842793,
-        "place": "69 km NW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tc70",
-        "magnitude": 5,
-        "latitude": -8.3073,
-        "longitude": 120.2123,
-        "depth_km": 10,
-        "time_ms": 1787250602521,
-        "place": "41 km ENE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm8h",
-        "magnitude": 5.6,
-        "latitude": -8.297,
-        "longitude": 121.3718,
-        "depth_km": 10,
-        "time_ms": 1787249571589,
-        "place": "68 km NNW of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tm2v",
-        "magnitude": 5.3,
-        "latitude": -8.2675,
-        "longitude": 120.6324,
-        "depth_km": 10,
-        "time_ms": 1787218252104,
-        "place": "42 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm2k",
-        "magnitude": 5,
-        "latitude": -8.2074,
-        "longitude": 120.4906,
-        "depth_km": 35,
-        "time_ms": 1787212893960,
-        "place": "44 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm2j",
-        "magnitude": 5,
-        "latitude": -8.2667,
-        "longitude": 120.3323,
-        "depth_km": 15.891,
-        "time_ms": 1787212503944,
-        "place": "40 km NNW of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm1j",
-        "magnitude": 5.6,
-        "latitude": -8.2328,
-        "longitude": 120.5308,
-        "depth_km": 10,
-        "time_ms": 1787194018986,
-        "place": "42 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.76
+    "seismic_hub_risk_score": 4.14
   },
   {
     "country": "",
@@ -1387,8 +1334,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.1,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.11,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-09-03",
@@ -1577,17 +1524,6 @@
         "place": "55 km NW of Kodāri̇̄, Nepal",
         "country_code": "CN",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tm2y",
-        "magnitude": 5,
-        "latitude": 37.793,
-        "longitude": 95.5387,
-        "depth_km": 10,
-        "time_ms": 1787219387985,
-        "place": "273 km SSE of Dunhuang, China",
-        "country_code": "CN",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.89
@@ -1605,8 +1541,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.16,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-09-05",
@@ -1710,28 +1646,6 @@
         "depth_km": 10,
         "time_ms": 1787948378305,
         "place": "191 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm8j",
-        "magnitude": 5.1,
-        "latitude": -5.478,
-        "longitude": 153.4364,
-        "depth_km": 35,
-        "time_ms": 1787250320048,
-        "place": "180 km SE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm42",
-        "magnitude": 5,
-        "latitude": -1.143,
-        "longitude": 148.5466,
-        "depth_km": 10,
-        "time_ms": 1787234100046,
-        "place": "172 km NE of Lorengau, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       }
@@ -1973,8 +1887,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-09-05",
@@ -2109,17 +2023,6 @@
         "depth_km": 10,
         "time_ms": 1787905956200,
         "place": "115 km WNW of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tm16",
-        "magnitude": 5,
-        "latitude": -20.2995,
-        "longitude": 169.2335,
-        "depth_km": 69.934,
-        "time_ms": 1787185224463,
-        "place": "84 km S of Isangel, Vanuatu",
         "country_code": "VU",
         "shakemap_available": false
       }
