@@ -13,7 +13,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.38,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-08-23",
@@ -188,6 +188,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tipl",
+        "magnitude": 5.1,
+        "latitude": 28.3947,
+        "longitude": 129.3406,
+        "depth_km": 68.834,
+        "time_ms": 1789889302965,
+        "place": "14 km WNW of Naze, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000ti89",
         "magnitude": 5,
         "latitude": 32.243,
@@ -274,17 +285,6 @@
         "place": "5 km E of Ushiku, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tmfe",
-        "magnitude": 5.4,
-        "latitude": 33.6984,
-        "longitude": 140.4935,
-        "depth_km": 65.527,
-        "time_ms": 1787313727291,
-        "place": "153 km SSE of Tateyama, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 27.13
@@ -302,8 +302,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-08-30",
@@ -355,6 +355,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tirq",
+        "magnitude": 5.2,
+        "latitude": -15.8682,
+        "longitude": -174.8169,
+        "depth_km": 10,
+        "time_ms": 1789909245292,
+        "place": "109 km W of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tip2",
+        "magnitude": 5,
+        "latitude": -15.8926,
+        "longitude": -174.7641,
+        "depth_km": 10,
+        "time_ms": 1789880823869,
+        "place": "103 km W of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tigd",
         "magnitude": 5.5,
@@ -420,24 +442,13 @@
         "place": "258 km ENE of Neiafu, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tmei",
-        "magnitude": 5.1,
-        "latitude": -24.8208,
-        "longitude": -175.2565,
-        "depth_km": 10,
-        "time_ms": 1787299953842,
-        "place": "south of Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 8.65
   },
   {
     "country": "",
-    "iso_alpha2": "PH",
+    "iso_alpha2": "PG",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -448,277 +459,164 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.1,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-09-01",
-      "depth_km": 113.1,
-      "latitude": 5.0959,
-      "longitude": 125.7229
+      "magnitude": 6.4,
+      "date": "2026-09-20",
+      "depth_km": 104.3,
+      "latitude": -5.9021,
+      "longitude": 146.0922
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "green",
+    "max_felt_reports": 30,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 126.0,
+        "name": "Nadzab Tomodachi International Airport",
+        "iata_code": "LAE",
+        "latitude": -6.567995,
+        "longitude": 146.726544,
+        "municipality": "Lae",
+        "closest_quake_distance_km": 36.5,
         "nearby_quakes": [
           {
-            "earthquake_id": "us6000tmrf",
+            "earthquake_id": "us7000thhd",
             "magnitude": 5,
-            "latitude": 6.7473,
-            "longitude": 126.722,
-            "depth_km": 111.804,
-            "time_ms": 1787381019406,
-            "place": "44 km SE of Lukatan, Philippines",
-            "distance_km": 126.0,
-            "exposure_contribution": 0.4,
+            "latitude": -6.3071,
+            "longitude": 146.5257,
+            "depth_km": 119.787,
+            "time_ms": 1789423613342,
+            "place": "69 km NW of Lae, Papua New Guinea",
+            "distance_km": 36.5,
+            "exposure_contribution": 0.65,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdqc",
+            "magnitude": 5.4,
+            "latitude": -7.1321,
+            "longitude": 146.175,
+            "depth_km": 57.516,
+            "time_ms": 1788379472508,
+            "place": "51 km W of Bulolo, Papua New Guinea",
+            "distance_km": 87.4,
+            "exposure_contribution": 1.36,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tiqc",
+            "magnitude": 6.4,
+            "latitude": -5.9021,
+            "longitude": 146.0922,
+            "depth_km": 104.329,
+            "time_ms": 1789895855624,
+            "place": "49 km NNE of Kainantu, Papua New Guinea",
+            "distance_km": 102.0,
+            "exposure_contribution": 5.78,
+            "pga_g": 0.057783,
+            "mmi": 4.6
+          },
+          {
+            "earthquake_id": "us7000tirh",
+            "magnitude": 5.4,
+            "latitude": -5.7711,
+            "longitude": 146.2041,
+            "depth_km": 116.019,
+            "time_ms": 1789908353415,
+            "place": "68 km NNE of Kainantu, Papua New Guinea",
+            "distance_km": 105.8,
+            "exposure_contribution": 0.72,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.4
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 127.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdbr",
-            "magnitude": 5.2,
-            "latitude": 5.0959,
-            "longitude": 125.7229,
-            "depth_km": 113.117,
-            "time_ms": 1788268949602,
-            "place": "44 km SE of Sarangani, Philippines",
-            "distance_km": 127.4,
-            "exposure_contribution": 0.5,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmrf",
-            "magnitude": 5,
-            "latitude": 6.7473,
-            "longitude": 126.722,
-            "depth_km": 111.804,
-            "time_ms": 1787381019406,
-            "place": "44 km SE of Lukatan, Philippines",
-            "distance_km": 195.3,
-            "exposure_contribution": 0.24,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.74
-      },
-      {
-        "name": "Laguindingan International Airport",
-        "iata_code": "CGY",
-        "latitude": 8.612203,
-        "longitude": 124.456496,
-        "municipality": "Laguindingan",
-        "closest_quake_distance_km": 127.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tmer",
-            "magnitude": 5.2,
-            "latitude": 9.3001,
-            "longitude": 125.3902,
-            "depth_km": 10,
-            "time_ms": 1787303540678,
-            "place": "14 km WSW of Jabonga, Philippines",
-            "distance_km": 127.9,
-            "exposure_contribution": 0.79,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmes",
-            "magnitude": 5.1,
-            "latitude": 9.3881,
-            "longitude": 125.4217,
-            "depth_km": 10,
-            "time_ms": 1787304157095,
-            "place": "11 km S of Cantapoy, Philippines",
-            "distance_km": 136.7,
-            "exposure_contribution": 0.64,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmr2",
-            "magnitude": 5,
-            "latitude": 9.3576,
-            "longitude": 125.5685,
-            "depth_km": 10,
-            "time_ms": 1787373848708,
-            "place": "5 km NNE of Bangonay, Philippines",
-            "distance_km": 147.6,
-            "exposure_contribution": 0.5,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.93
-      },
-      {
-        "name": "Bohol-Panglao International Airport",
-        "iata_code": "TAG",
-        "latitude": 9.573045,
-        "longitude": 123.770143,
-        "municipality": "Panglao",
-        "closest_quake_distance_km": 180.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tmer",
-            "magnitude": 5.2,
-            "latitude": 9.3001,
-            "longitude": 125.3902,
-            "depth_km": 10,
-            "time_ms": 1787303540678,
-            "place": "14 km WSW of Jabonga, Philippines",
-            "distance_km": 180.3,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmes",
-            "magnitude": 5.1,
-            "latitude": 9.3881,
-            "longitude": 125.4217,
-            "depth_km": 10,
-            "time_ms": 1787304157095,
-            "place": "11 km S of Cantapoy, Philippines",
-            "distance_km": 182.3,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmr2",
-            "magnitude": 5,
-            "latitude": 9.3576,
-            "longitude": 125.5685,
-            "depth_km": 10,
-            "time_ms": 1787373848708,
-            "place": "5 km NNE of Bangonay, Philippines",
-            "distance_km": 198.7,
-            "exposure_contribution": 0.3,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.15
-      },
-      {
-        "name": "Mactan Cebu International Airport",
-        "iata_code": "CEB",
-        "latitude": 10.309261,
-        "longitude": 123.97974,
-        "municipality": "Cebu City/Lapu-Lapu City",
-        "closest_quake_distance_km": 188.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tmes",
-            "magnitude": 5.1,
-            "latitude": 9.3881,
-            "longitude": 125.4217,
-            "depth_km": 10,
-            "time_ms": 1787304157095,
-            "place": "11 km S of Cantapoy, Philippines",
-            "distance_km": 188.3,
-            "exposure_contribution": 0.37,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tmer",
-            "magnitude": 5.2,
-            "latitude": 9.3001,
-            "longitude": 125.3902,
-            "depth_km": 10,
-            "time_ms": 1787303540678,
-            "place": "14 km WSW of Jabonga, Philippines",
-            "distance_km": 191.0,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.78
+        "exposure_score": 8.52
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000tdbr",
-        "magnitude": 5.2,
-        "latitude": 5.0959,
-        "longitude": 125.7229,
-        "depth_km": 113.117,
-        "time_ms": 1788268949602,
-        "place": "44 km SE of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
+        "id": "us7000tirh",
+        "magnitude": 5.4,
+        "latitude": -5.7711,
+        "longitude": 146.2041,
+        "depth_km": 116.019,
+        "time_ms": 1789908353415,
+        "place": "68 km NNE of Kainantu, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
       },
       {
-        "id": "us6000tmrf",
-        "magnitude": 5,
-        "latitude": 6.7473,
-        "longitude": 126.722,
-        "depth_km": 111.804,
-        "time_ms": 1787381019406,
-        "place": "44 km SE of Lukatan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
+        "id": "us7000tiqc",
+        "magnitude": 6.4,
+        "latitude": -5.9021,
+        "longitude": 146.0922,
+        "depth_km": 104.329,
+        "time_ms": 1789895855624,
+        "place": "49 km NNE of Kainantu, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
       },
       {
-        "id": "us6000tmr2",
-        "magnitude": 5,
-        "latitude": 9.3576,
-        "longitude": 125.5685,
-        "depth_km": 10,
-        "time_ms": 1787373848708,
-        "place": "5 km NNE of Bangonay, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tmes",
+        "id": "us7000thxg",
         "magnitude": 5.1,
-        "latitude": 9.3881,
-        "longitude": 125.4217,
+        "latitude": -6.0303,
+        "longitude": 151.7908,
         "depth_km": 10,
-        "time_ms": 1787304157095,
-        "place": "11 km S of Cantapoy, Philippines",
-        "country_code": "PH",
+        "time_ms": 1789590084473,
+        "place": "190 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
         "shakemap_available": false
       },
       {
-        "id": "us6000tmer",
-        "magnitude": 5.2,
-        "latitude": 9.3001,
-        "longitude": 125.3902,
+        "id": "us7000thhd",
+        "magnitude": 5,
+        "latitude": -6.3071,
+        "longitude": 146.5257,
+        "depth_km": 119.787,
+        "time_ms": 1789423613342,
+        "place": "69 km NW of Lae, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000teji",
+        "magnitude": 5.5,
+        "latitude": -4.5717,
+        "longitude": 153.7143,
+        "depth_km": 109,
+        "time_ms": 1788617526943,
+        "place": "162 km E of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdqc",
+        "magnitude": 5.4,
+        "latitude": -7.1321,
+        "longitude": 146.175,
+        "depth_km": 57.516,
+        "time_ms": 1788379472508,
+        "place": "51 km W of Bulolo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tcp5",
+        "magnitude": 5,
+        "latitude": -6.211,
+        "longitude": 151.7381,
         "depth_km": 10,
-        "time_ms": 1787303540678,
-        "place": "14 km WSW of Jabonga, Philippines",
-        "country_code": "PH",
+        "time_ms": 1787948378305,
+        "place": "191 km ESE of Kimbe, Papua New Guinea",
+        "country_code": "PG",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.0
+    "seismic_hub_risk_score": 8.52
   },
   {
     "country": "",
@@ -733,8 +631,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 26,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 24,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -998,12 +896,12 @@
       },
       {
         "id": "us7000th8u",
-        "magnitude": 5.1,
-        "latitude": -8.1597,
-        "longitude": 120.3822,
+        "magnitude": 5,
+        "latitude": -8.1863,
+        "longitude": 120.2331,
         "depth_km": 10,
-        "time_ms": 1789339201303,
-        "place": "50 km N of Ruteng, Indonesia",
+        "time_ms": 1789339201429,
+        "place": "51 km NE of Labuan Bajo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1193,28 +1091,6 @@
         "place": "52 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tmn5",
-        "magnitude": 5,
-        "latitude": -7.9259,
-        "longitude": 120.613,
-        "depth_km": 10,
-        "time_ms": 1787343713540,
-        "place": "77 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tmlu",
-        "magnitude": 5.8,
-        "latitude": -7.5318,
-        "longitude": 104.5854,
-        "depth_km": 9,
-        "time_ms": 1787334104174,
-        "place": "187 km SW of Labuan, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 4.14
@@ -1530,7 +1406,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PG",
+    "iso_alpha2": "AR",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -1541,14 +1417,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.2,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.13,
     "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-09-05",
-      "depth_km": 109,
-      "latitude": -4.5717,
-      "longitude": 153.7143
+      "magnitude": 5.3,
+      "date": "2026-09-20",
+      "depth_km": 10,
+      "latitude": -25.9869,
+      "longitude": -66.6117
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1556,101 +1432,316 @@
     "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Nadzab Tomodachi International Airport",
-        "iata_code": "LAE",
-        "latitude": -6.567995,
-        "longitude": 146.726544,
-        "municipality": "Lae",
-        "closest_quake_distance_km": 36.5,
+        "name": "Teniente Benjamín Matienzo International Airport",
+        "iata_code": "TUC",
+        "latitude": -26.837397,
+        "longitude": -65.104195,
+        "municipality": "San Miguel de Tucumán",
+        "closest_quake_distance_km": 159.6,
         "nearby_quakes": [
           {
-            "earthquake_id": "us7000thhd",
+            "earthquake_id": "us7000tg12",
             "magnitude": 5,
-            "latitude": -6.3071,
-            "longitude": 146.5257,
-            "depth_km": 119.787,
-            "time_ms": 1789423613342,
-            "place": "69 km NW of Lae, Papua New Guinea",
-            "distance_km": 36.5,
-            "exposure_contribution": 0.65,
+            "latitude": -26.1386,
+            "longitude": -66.5049,
+            "depth_km": 10,
+            "time_ms": 1788948417170,
+            "place": "53 km W of Cafayate, Argentina",
+            "distance_km": 159.6,
+            "exposure_contribution": 0.44,
             "pga_g": null,
             "mmi": null
           },
           {
-            "earthquake_id": "us7000tdqc",
-            "magnitude": 5.4,
-            "latitude": -7.1321,
-            "longitude": 146.175,
-            "depth_km": 57.516,
-            "time_ms": 1788379472508,
-            "place": "51 km W of Bulolo, Papua New Guinea",
-            "distance_km": 87.4,
-            "exposure_contribution": 1.36,
+            "earthquake_id": "us7000tiq2",
+            "magnitude": 5.3,
+            "latitude": -25.9869,
+            "longitude": -66.6117,
+            "depth_km": 10,
+            "time_ms": 1789894074457,
+            "place": "64 km W of Cafayate, Argentina",
+            "distance_km": 177.4,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tej2",
+            "magnitude": 5.1,
+            "latitude": -26.1078,
+            "longitude": -66.7176,
+            "depth_km": 10,
+            "time_ms": 1788608232553,
+            "place": "69 km E of Antofagasta de la Sierra, Argentina",
+            "distance_km": 179.9,
+            "exposure_contribution": 0.4,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.02
+        "exposure_score": 1.36
+      },
+      {
+        "name": "Martín Miguel de Güemes International Airport",
+        "iata_code": "SLA",
+        "latitude": -24.856001,
+        "longitude": -65.486198,
+        "municipality": "Salta",
+        "closest_quake_distance_km": 169.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tiq2",
+            "magnitude": 5.3,
+            "latitude": -25.9869,
+            "longitude": -66.6117,
+            "depth_km": 10,
+            "time_ms": 1789894074457,
+            "place": "64 km W of Cafayate, Argentina",
+            "distance_km": 169.1,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tg12",
+            "magnitude": 5,
+            "latitude": -26.1386,
+            "longitude": -66.5049,
+            "depth_km": 10,
+            "time_ms": 1788948417170,
+            "place": "53 km W of Cafayate, Argentina",
+            "distance_km": 175.5,
+            "exposure_contribution": 0.38,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tej2",
+            "magnitude": 5.1,
+            "latitude": -26.1078,
+            "longitude": -66.7176,
+            "depth_km": 10,
+            "time_ms": 1788608232553,
+            "place": "69 km E of Antofagasta de la Sierra, Argentina",
+            "distance_km": 186.2,
+            "exposure_contribution": 0.38,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.32
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000thxg",
+        "id": "us7000tiq2",
+        "magnitude": 5.3,
+        "latitude": -25.9869,
+        "longitude": -66.6117,
+        "depth_km": 10,
+        "time_ms": 1789894074457,
+        "place": "64 km W of Cafayate, Argentina",
+        "country_code": "AR",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tg12",
+        "magnitude": 5,
+        "latitude": -26.1386,
+        "longitude": -66.5049,
+        "depth_km": 10,
+        "time_ms": 1788948417170,
+        "place": "53 km W of Cafayate, Argentina",
+        "country_code": "AR",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tej2",
         "magnitude": 5.1,
-        "latitude": -6.0303,
-        "longitude": 151.7908,
+        "latitude": -26.1078,
+        "longitude": -66.7176,
         "depth_km": 10,
-        "time_ms": 1789590084473,
-        "place": "190 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000thhd",
-        "magnitude": 5,
-        "latitude": -6.3071,
-        "longitude": 146.5257,
-        "depth_km": 119.787,
-        "time_ms": 1789423613342,
-        "place": "69 km NW of Lae, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000teji",
-        "magnitude": 5.5,
-        "latitude": -4.5717,
-        "longitude": 153.7143,
-        "depth_km": 109,
-        "time_ms": 1788617526943,
-        "place": "162 km E of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdqc",
-        "magnitude": 5.4,
-        "latitude": -7.1321,
-        "longitude": 146.175,
-        "depth_km": 57.516,
-        "time_ms": 1788379472508,
-        "place": "51 km W of Bulolo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tcp5",
-        "magnitude": 5,
-        "latitude": -6.211,
-        "longitude": 151.7381,
-        "depth_km": 10,
-        "time_ms": 1787948378305,
-        "place": "191 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
+        "time_ms": 1788608232553,
+        "place": "69 km E of Antofagasta de la Sierra, Argentina",
+        "country_code": "AR",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.02
+    "seismic_hub_risk_score": 2.68
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.07,
+    "strongest_earthquake": {
+      "magnitude": 5.2,
+      "date": "2026-09-01",
+      "depth_km": 113.1,
+      "latitude": 5.0959,
+      "longitude": 125.7229
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 126.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmrf",
+            "magnitude": 5,
+            "latitude": 6.7473,
+            "longitude": 126.722,
+            "depth_km": 111.804,
+            "time_ms": 1787381019406,
+            "place": "44 km SE of Lukatan, Philippines",
+            "distance_km": 126.0,
+            "exposure_contribution": 0.4,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.4
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 127.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdbr",
+            "magnitude": 5.2,
+            "latitude": 5.0959,
+            "longitude": 125.7229,
+            "depth_km": 113.117,
+            "time_ms": 1788268949602,
+            "place": "44 km SE of Sarangani, Philippines",
+            "distance_km": 127.4,
+            "exposure_contribution": 0.5,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tmrf",
+            "magnitude": 5,
+            "latitude": 6.7473,
+            "longitude": 126.722,
+            "depth_km": 111.804,
+            "time_ms": 1787381019406,
+            "place": "44 km SE of Lukatan, Philippines",
+            "distance_km": 195.3,
+            "exposure_contribution": 0.24,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.74
+      },
+      {
+        "name": "Laguindingan International Airport",
+        "iata_code": "CGY",
+        "latitude": 8.612203,
+        "longitude": 124.456496,
+        "municipality": "Laguindingan",
+        "closest_quake_distance_km": 147.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmr2",
+            "magnitude": 5,
+            "latitude": 9.3576,
+            "longitude": 125.5685,
+            "depth_km": 10,
+            "time_ms": 1787373848708,
+            "place": "5 km NNE of Bangonay, Philippines",
+            "distance_km": 147.6,
+            "exposure_contribution": 0.5,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.5
+      },
+      {
+        "name": "Bohol-Panglao International Airport",
+        "iata_code": "TAG",
+        "latitude": 9.573045,
+        "longitude": 123.770143,
+        "municipality": "Panglao",
+        "closest_quake_distance_km": 198.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tmr2",
+            "magnitude": 5,
+            "latitude": 9.3576,
+            "longitude": 125.5685,
+            "depth_km": 10,
+            "time_ms": 1787373848708,
+            "place": "5 km NNE of Bangonay, Philippines",
+            "distance_km": 198.7,
+            "exposure_contribution": 0.3,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.3
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tdbr",
+        "magnitude": 5.2,
+        "latitude": 5.0959,
+        "longitude": 125.7229,
+        "depth_km": 113.117,
+        "time_ms": 1788268949602,
+        "place": "44 km SE of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tmrf",
+        "magnitude": 5,
+        "latitude": 6.7473,
+        "longitude": 126.722,
+        "depth_km": 111.804,
+        "time_ms": 1787381019406,
+        "place": "44 km SE of Lukatan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tmr2",
+        "magnitude": 5,
+        "latitude": 9.3576,
+        "longitude": 125.5685,
+        "depth_km": 10,
+        "time_ms": 1787373848708,
+        "place": "5 km NNE of Bangonay, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.94
   },
   {
     "country": "",
