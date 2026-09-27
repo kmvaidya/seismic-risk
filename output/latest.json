@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-09-20",
@@ -104,6 +104,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000txtc",
+        "magnitude": 5.6,
+        "latitude": -4.6952,
+        "longitude": 152.8383,
+        "depth_km": 57.78,
+        "time_ms": 1790431697704,
+        "place": "74 km ESE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
       {
         "id": "us6000txhp",
         "magnitude": 5.3,
@@ -447,7 +458,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 22,
-    "avg_magnitude": 5.3,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -527,23 +538,23 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 155.9,
+        "closest_quake_distance_km": 157.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000thzp",
             "magnitude": 5.2,
-            "latitude": 1.3156,
-            "longitude": 126.3092,
+            "latitude": 1.2794,
+            "longitude": 126.3131,
             "depth_km": 10,
-            "time_ms": 1789626048508,
-            "place": "132 km E of Bitung, Indonesia",
-            "distance_km": 155.9,
-            "exposure_contribution": 0.58,
+            "time_ms": 1789626048427,
+            "place": "130 km WNW of Ternate, Indonesia",
+            "distance_km": 157.0,
+            "exposure_contribution": 0.57,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.58
+        "exposure_score": 0.57
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -644,6 +655,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000txur",
+        "magnitude": 5,
+        "latitude": -8.1581,
+        "longitude": 120.3294,
+        "depth_km": 10,
+        "time_ms": 1790451421212,
+        "place": "52 km NNW of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000txim",
         "magnitude": 5,
         "latitude": -7.4036,
@@ -712,11 +734,11 @@
       {
         "id": "us7000thzp",
         "magnitude": 5.2,
-        "latitude": 1.3156,
-        "longitude": 126.3092,
+        "latitude": 1.2794,
+        "longitude": 126.3131,
         "depth_km": 10,
-        "time_ms": 1789626048508,
-        "place": "132 km E of Bitung, Indonesia",
+        "time_ms": 1789626048427,
+        "place": "130 km WNW of Ternate, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -873,20 +895,9 @@
         "place": "67 km W of Labuha, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tc8j",
-        "magnitude": 5.2,
-        "latitude": -7.9804,
-        "longitude": 120.1629,
-        "depth_km": 10,
-        "time_ms": 1787826804339,
-        "place": "64 km NNE of Labuan Bajo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.5
+    "seismic_hub_risk_score": 4.49
   },
   {
     "country": "",
@@ -907,8 +918,8 @@
       "magnitude": 5.5,
       "date": "2026-09-04",
       "depth_km": 32,
-      "latitude": 44.9418,
-      "longitude": 149.9838
+      "latitude": 45.0284,
+      "longitude": 149.8017
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1145,10 +1156,10 @@
       {
         "id": "us7000ti89",
         "magnitude": 5,
-        "latitude": 32.243,
-        "longitude": 141.5763,
-        "depth_km": 35.294,
-        "time_ms": 1789715968254,
+        "latitude": 32.3036,
+        "longitude": 141.402,
+        "depth_km": 38.867,
+        "time_ms": 1789715969154,
         "place": "Izu Islands, Japan region",
         "country_code": "JP",
         "shakemap_available": false
@@ -1167,11 +1178,11 @@
       {
         "id": "us7000tefx",
         "magnitude": 5.5,
-        "latitude": 44.9418,
-        "longitude": 149.9838,
+        "latitude": 45.0284,
+        "longitude": 149.8017,
         "depth_km": 32,
-        "time_ms": 1788565949825,
-        "place": "168 km ESE of Kuril’sk, Russia",
+        "time_ms": 1788565950709,
+        "place": "152 km E of Kuril’sk, Russia",
         "country_code": "JP",
         "shakemap_available": true
       }
@@ -1191,8 +1202,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.08,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.09,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-09-03",
@@ -1407,17 +1418,6 @@
         "place": "22 km NW of Fuji, China",
         "country_code": "CN",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tc9m",
-        "magnitude": 5,
-        "latitude": 33.2546,
-        "longitude": 86.9132,
-        "depth_km": 10,
-        "time_ms": 1787841948131,
-        "place": "western Xizang",
-        "country_code": "CN",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 3.55
@@ -1491,10 +1491,10 @@
       {
         "id": "us7000test",
         "magnitude": 5,
-        "latitude": -30.9663,
-        "longitude": 178.5443,
-        "depth_km": 585.146,
-        "time_ms": 1788746808371,
+        "latitude": -30.9411,
+        "longitude": 178.671,
+        "depth_km": 570.726,
+        "time_ms": 1788746807128,
         "place": "Kermadec Islands region",
         "country_code": "NZ",
         "shakemap_available": false
@@ -1892,14 +1892,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.08,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.05,
     "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-08-27",
-      "depth_km": 10,
-      "latitude": 24.2624,
-      "longitude": 142.7467
+      "magnitude": 5.1,
+      "date": "2026-09-16",
+      "depth_km": 106.6,
+      "latitude": 14.2719,
+      "longitude": 145.4199
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1973,17 +1973,6 @@
         "depth_km": 10,
         "time_ms": 1789547820012,
         "place": "172 km ESE of Saipan, Northern Mariana Islands",
-        "country_code": "MP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tc7l",
-        "magnitude": 5.2,
-        "latitude": 24.2624,
-        "longitude": 142.7467,
-        "depth_km": 10,
-        "time_ms": 1787809465931,
-        "place": "Volcano Islands, Japan region",
         "country_code": "MP",
         "shakemap_available": false
       }
