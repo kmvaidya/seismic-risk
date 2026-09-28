@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-09-20",
@@ -213,17 +213,6 @@
         "place": "52 km W of Bulolo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000tcp5",
-        "magnitude": 5,
-        "latitude": -6.2123,
-        "longitude": 151.6757,
-        "depth_km": 10,
-        "time_ms": 1787948378561,
-        "place": "185 km ESE of Kimbe, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 9.65
@@ -1191,239 +1180,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CN",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.09,
-    "strongest_earthquake": {
-      "magnitude": 5.4,
-      "date": "2026-09-03",
-      "depth_km": 10,
-      "latitude": 31.8458,
-      "longitude": 104.5066
-    },
-    "highest_pager_alert": "yellow",
-    "max_felt_reports": 6,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Chongqing Jiangbei International Airport",
-        "iata_code": "CKG",
-        "latitude": 29.712254,
-        "longitude": 106.651895,
-        "municipality": "Chongqing",
-        "closest_quake_distance_km": 145.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tcht",
-            "magnitude": 5,
-            "latitude": 29.304,
-            "longitude": 105.2207,
-            "depth_km": 10,
-            "time_ms": 1787894015089,
-            "place": "22 km NW of Fuji, China",
-            "distance_km": 145.7,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.51
-      },
-      {
-        "name": "Chengdu Tianfu International Airport",
-        "iata_code": "TFU",
-        "latitude": 30.31252,
-        "longitude": 104.441284,
-        "municipality": "Chengdu (Jianyang)",
-        "closest_quake_distance_km": 135.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tcht",
-            "magnitude": 5,
-            "latitude": 29.304,
-            "longitude": 105.2207,
-            "depth_km": 10,
-            "time_ms": 1787894015089,
-            "place": "22 km NW of Fuji, China",
-            "distance_km": 135.0,
-            "exposure_contribution": 0.58,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tdw6",
-            "magnitude": 5.4,
-            "latitude": 31.8458,
-            "longitude": 104.5066,
-            "depth_km": 10,
-            "time_ms": 1788435581981,
-            "place": "21 km WNW of Jiangyou, China",
-            "distance_km": 170.6,
-            "exposure_contribution": 0.61,
-            "pga_g": 0.006092,
-            "mmi": 3.2
-          },
-          {
-            "earthquake_id": "us6000txql",
-            "magnitude": 5,
-            "latitude": 28.5792,
-            "longitude": 104.6428,
-            "depth_km": 10,
-            "time_ms": 1790380653361,
-            "place": "15 km NNW of Xunchang, China",
-            "distance_km": 193.7,
-            "exposure_contribution": 0.32,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000txpf",
-            "magnitude": 5,
-            "latitude": 28.5744,
-            "longitude": 104.7032,
-            "depth_km": 10,
-            "time_ms": 1790370087262,
-            "place": "13 km N of Xunchang, China",
-            "distance_km": 194.9,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.82
-      },
-      {
-        "name": "Chengdu Shuangliu International Airport",
-        "iata_code": "CTU",
-        "latitude": 30.558257,
-        "longitude": 103.945966,
-        "municipality": "Chengdu (Shuangliu)",
-        "closest_quake_distance_km": 152.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdw6",
-            "magnitude": 5.4,
-            "latitude": 31.8458,
-            "longitude": 104.5066,
-            "depth_km": 10,
-            "time_ms": 1788435581981,
-            "place": "21 km WNW of Jiangyou, China",
-            "distance_km": 152.8,
-            "exposure_contribution": 0.88,
-            "pga_g": 0.008789,
-            "mmi": 3.5
-          },
-          {
-            "earthquake_id": "us7000tcht",
-            "magnitude": 5,
-            "latitude": 29.304,
-            "longitude": 105.2207,
-            "depth_km": 10,
-            "time_ms": 1787894015089,
-            "place": "22 km NW of Fuji, China",
-            "distance_km": 185.8,
-            "exposure_contribution": 0.34,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.22
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000txql",
-        "magnitude": 5,
-        "latitude": 28.5792,
-        "longitude": 104.6428,
-        "depth_km": 10,
-        "time_ms": 1790380653361,
-        "place": "15 km NNW of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000txpf",
-        "magnitude": 5,
-        "latitude": 28.5744,
-        "longitude": 104.7032,
-        "depth_km": 10,
-        "time_ms": 1790370087262,
-        "place": "13 km N of Xunchang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ths9",
-        "magnitude": 5,
-        "latitude": 37.7078,
-        "longitude": 95.4963,
-        "depth_km": 10.46,
-        "time_ms": 1789537923328,
-        "place": "281 km SSE of Dunhuang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te21",
-        "magnitude": 5.1,
-        "latitude": 37.7769,
-        "longitude": 95.4643,
-        "depth_km": 10,
-        "time_ms": 1788455080655,
-        "place": "273 km SSE of Dunhuang, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tdw6",
-        "magnitude": 5.4,
-        "latitude": 31.8458,
-        "longitude": 104.5066,
-        "depth_km": 10,
-        "time_ms": 1788435581981,
-        "place": "21 km WNW of Jiangyou, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdv4",
-        "magnitude": 5.1,
-        "latitude": 31.3933,
-        "longitude": 80.3486,
-        "depth_km": 10,
-        "time_ms": 1788423396404,
-        "place": "119 km NE of Joshīmath, India",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tcht",
-        "magnitude": 5,
-        "latitude": 29.304,
-        "longitude": 105.2207,
-        "depth_km": 10,
-        "time_ms": 1787894015089,
-        "place": "22 km NW of Fuji, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 3.55
-  },
-  {
-    "country": "",
     "iso_alpha2": "NZ",
     "iso_alpha3": "",
     "capital": "",
@@ -1435,8 +1191,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.07,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.1,
     "strongest_earthquake": {
       "magnitude": 5.2,
       "date": "2026-09-02",
@@ -1520,17 +1276,6 @@
         "place": "67 km NNW of Arthurs Point, New Zealand",
         "country_code": "NZ",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000tcj9",
-        "magnitude": 5,
-        "latitude": -63.019,
-        "longitude": -158.5357,
-        "depth_km": 10,
-        "time_ms": 1787882008169,
-        "place": "Pacific-Antarctic Ridge",
-        "country_code": "NZ",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 3.28
@@ -1710,6 +1455,189 @@
       }
     ],
     "seismic_hub_risk_score": 2.68
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 7,
+    "avg_magnitude": 5.1,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-09-03",
+      "depth_km": 10,
+      "latitude": 31.8509,
+      "longitude": 104.5554
+    },
+    "highest_pager_alert": "orange",
+    "max_felt_reports": 6,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Chengdu Tianfu International Airport",
+        "iata_code": "TFU",
+        "latitude": 30.31252,
+        "longitude": 104.441284,
+        "municipality": "Chengdu (Jianyang)",
+        "closest_quake_distance_km": 171.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdw6",
+            "magnitude": 5.5,
+            "latitude": 31.8509,
+            "longitude": 104.5554,
+            "depth_km": 10,
+            "time_ms": 1788435582108,
+            "place": "17 km WNW of Jiangyou, China",
+            "distance_km": 171.4,
+            "exposure_contribution": 0.69,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000txql",
+            "magnitude": 5,
+            "latitude": 28.5792,
+            "longitude": 104.6428,
+            "depth_km": 10,
+            "time_ms": 1790380653361,
+            "place": "15 km NNW of Xunchang, China",
+            "distance_km": 193.7,
+            "exposure_contribution": 0.32,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000txpf",
+            "magnitude": 5,
+            "latitude": 28.5744,
+            "longitude": 104.7032,
+            "depth_km": 10,
+            "time_ms": 1790370087262,
+            "place": "13 km N of Xunchang, China",
+            "distance_km": 194.9,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.32
+      },
+      {
+        "name": "Chengdu Shuangliu International Airport",
+        "iata_code": "CTU",
+        "latitude": 30.558257,
+        "longitude": 103.945966,
+        "municipality": "Chengdu (Shuangliu)",
+        "closest_quake_distance_km": 155.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tdw6",
+            "magnitude": 5.5,
+            "latitude": 31.8509,
+            "longitude": 104.5554,
+            "depth_km": 10,
+            "time_ms": 1788435582108,
+            "place": "17 km WNW of Jiangyou, China",
+            "distance_km": 155.0,
+            "exposure_contribution": 0.82,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.82
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000txzj",
+        "magnitude": 5,
+        "latitude": 35.3861,
+        "longitude": 99.5536,
+        "depth_km": 10,
+        "time_ms": 1790527390268,
+        "place": "191 km NW of Oula Xiuma, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000txql",
+        "magnitude": 5,
+        "latitude": 28.5792,
+        "longitude": 104.6428,
+        "depth_km": 10,
+        "time_ms": 1790380653361,
+        "place": "15 km NNW of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000txpf",
+        "magnitude": 5,
+        "latitude": 28.5744,
+        "longitude": 104.7032,
+        "depth_km": 10,
+        "time_ms": 1790370087262,
+        "place": "13 km N of Xunchang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ths9",
+        "magnitude": 5,
+        "latitude": 37.7078,
+        "longitude": 95.4963,
+        "depth_km": 10.46,
+        "time_ms": 1789537923328,
+        "place": "281 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000te21",
+        "magnitude": 5.1,
+        "latitude": 37.7769,
+        "longitude": 95.4643,
+        "depth_km": 10,
+        "time_ms": 1788455080655,
+        "place": "273 km SSE of Dunhuang, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tdw6",
+        "magnitude": 5.5,
+        "latitude": 31.8509,
+        "longitude": 104.5554,
+        "depth_km": 10,
+        "time_ms": 1788435582108,
+        "place": "17 km WNW of Jiangyou, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdv4",
+        "magnitude": 5.1,
+        "latitude": 31.3933,
+        "longitude": 80.3486,
+        "depth_km": 10,
+        "time_ms": 1788423396404,
+        "place": "119 km NE of Joshīmath, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.14
   },
   {
     "country": "",
@@ -1978,149 +1906,5 @@
       }
     ],
     "seismic_hub_risk_score": 0.91
-  },
-  {
-    "country": "",
-    "iso_alpha2": "VU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.21,
-    "strongest_earthquake": {
-      "magnitude": 5.6,
-      "date": "2026-09-05",
-      "depth_km": 9,
-      "latitude": -19.7418,
-      "longitude": 170.1102
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Bauerfield International Airport",
-        "iata_code": "VLI",
-        "latitude": -17.699301,
-        "longitude": 168.320007,
-        "municipality": "Port Vila",
-        "closest_quake_distance_km": 172.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tcig",
-            "magnitude": 5,
-            "latitude": -19.249,
-            "longitude": 168.2309,
-            "depth_km": 10,
-            "time_ms": 1787905956200,
-            "place": "115 km WNW of Isangel, Vanuatu",
-            "distance_km": 172.6,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.39
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000th4y",
-        "magnitude": 5.2,
-        "latitude": -15.2804,
-        "longitude": 167.3824,
-        "depth_km": 154.069,
-        "time_ms": 1789283963968,
-        "place": "35 km NE of Luganville, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tg43",
-        "magnitude": 5.1,
-        "latitude": -19.777,
-        "longitude": 170.0677,
-        "depth_km": 10,
-        "time_ms": 1788974325408,
-        "place": "86 km ESE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tg3x",
-        "magnitude": 5.2,
-        "latitude": -19.8279,
-        "longitude": 169.9636,
-        "depth_km": 10,
-        "time_ms": 1788973312191,
-        "place": "78 km ESE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tfqf",
-        "magnitude": 5.2,
-        "latitude": -19.8366,
-        "longitude": 170.139,
-        "depth_km": 10,
-        "time_ms": 1788828722076,
-        "place": "95 km ESE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tek0",
-        "magnitude": 5.6,
-        "latitude": -19.7418,
-        "longitude": 170.1102,
-        "depth_km": 9,
-        "time_ms": 1788627731369,
-        "place": "89 km ESE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdr1",
-        "magnitude": 5.4,
-        "latitude": -20.2349,
-        "longitude": 169.4185,
-        "depth_km": 79.021,
-        "time_ms": 1788384127155,
-        "place": "78 km S of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdey",
-        "magnitude": 5,
-        "latitude": -20.4489,
-        "longitude": 169.7122,
-        "depth_km": 122.685,
-        "time_ms": 1788287848667,
-        "place": "110 km SSE of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tcig",
-        "magnitude": 5,
-        "latitude": -19.249,
-        "longitude": 168.2309,
-        "depth_km": 10,
-        "time_ms": 1787905956200,
-        "place": "115 km WNW of Isangel, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.39
   }
 ]
