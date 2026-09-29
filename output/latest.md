@@ -1,36 +1,36 @@
 # Seismic Risk Report
-Generated: 2026-09-28 12:27 UTC
+Generated: 2026-09-29 11:51 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-07-01 to 2026-09-28).
+Based on 89 snapshots (2026-07-02 to 2026-09-29).
 
 
 **Top score changes**:
 
--  (): +0.5
+-  (): 0.0
 
 **Top airport exposure changes**:
 
-- Chengdu Tianfu International Airport (TFU, ): -0.5
-- Chengdu Shuangliu International Airport (CTU, ): -0.4
+- Yogyakarta International Airport (YIA, ): +0.3
+- Adisoemarmo International Airport (SOC, ): +0.1
+- Jenderal Ahmad Yani Airport (SRG, ): +0.1
 - Nadzab Tomodachi International Airport (LAE, ): 0.0
 - Fua'amotu International Airport (TBU, ): 0.0
-- Vava'u International Airport (VAV, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 9.7 | +0.5 | 5.4 | M6.4 (2026-09-20) | 10 | 1 | green | No | 1 |
-|  |  |  | 9.1 | +0.5 | 5.3 | M5.7 (2026-09-23) | 10 | 2 | - | No | 0 |
-|  |  |  | 4.5 | +0.5 | 5.3 | M6.5 (2026-09-11) | 22 | 7 | green | No | 1 |
-|  |  |  | 3.8 | +0.5 | 5.1 | M5.5 (2026-09-04) | 6 | 8 | - | No | 0 |
-|  |  |  | 3.3 | +0.5 | 5.1 | M5.2 (2026-09-02) | 3 | 1 | - | No | 0 |
-|  |  |  | 2.7 | +0.5 | 5.2 | M5.3 (2026-09-23) | 4 | 2 | - | No | 0 |
-|  |  |  | 2.1 | +0.5 | 5.1 | M5.5 (2026-09-03) | 7 | 2 | orange | No | 1 |
-|  |  |  | 1.1 | +0.5 | 5.3 | M5.9 (2026-09-02) | 8 | 2 | - | No | 0 |
-|  |  |  | 0.9 | +0.5 | 5.0 | M5.1 (2026-09-16) | 4 | 1 | - | No | 0 |
+|  |  |  | 9.7 | ~ | 5.4 | M6.4 (2026-09-20) | 10 | 1 | green | No | 1 |
+|  |  |  | 9.1 | ~ | 5.3 | M5.7 (2026-09-23) | 10 | 2 | - | No | 0 |
+|  |  |  | 4.9 | ~ | 5.3 | M6.5 (2026-09-11) | 21 | 7 | green | No | 1 |
+|  |  |  | 3.8 | ~ | 5.1 | M5.5 (2026-09-04) | 6 | 8 | - | No | 0 |
+|  |  |  | 3.3 | ~ | 5.1 | M5.2 (2026-09-02) | 3 | 1 | - | No | 0 |
+|  |  |  | 2.7 | ~ | 5.2 | M5.3 (2026-09-23) | 4 | 2 | - | No | 0 |
+|  |  |  | 2.1 | ~ | 5.1 | M5.5 (2026-09-03) | 7 | 2 | orange | No | 1 |
+|  |  |  | 1.1 | ~ | 5.3 | M5.9 (2026-09-02) | 8 | 2 | - | No | 0 |
+|  |  |  | 0.9 | ~ | 5.0 | M5.1 (2026-09-16) | 4 | 1 | - | No | 0 |
 
 ## Airport Details
 
@@ -40,12 +40,12 @@ Based on 89 snapshots (2026-07-01 to 2026-09-28).
 | Vava'u International Airport | VAV | Vava'u Island |  | 8.9 | ~ | - | 23.8 | 3 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.2 | ~ | - | 194.9 | 1 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 1.3 | ~ | - | 153.5 | 2 |
-| Yogyakarta International Airport | YIA | Yogyakarta |  | 1.0 | ~ | - | 112.3 | 1 |
+| Yogyakarta International Airport | YIA | Yogyakarta |  | 1.2 | ~ | - | 94.8 | 1 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 0.6 | ~ | - | 157.0 | 1 |
-| Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.4 | ~ | - | 185.3 | 1 |
+| Jenderal Ahmad Yani Airport | SRG | Semarang |  | 0.5 | ~ | - | 173.8 | 1 |
+| Adisoemarmo International Airport | SOC | Surakarta |  | 0.5 | ~ | - | 180.1 | 1 |
 | Soekarno-Hatta International Airport | CGK | Jakarta |  | 0.4 | ~ | - | 129.3 | 1 |
 | Halim Perdanakusuma International Airport | HLP | Jakarta |  | 0.4 | ~ | - | 142.8 | 1 |
-| Adisoemarmo International Airport | SOC | Surakarta |  | 0.4 | ~ | - | 196.2 | 1 |
 | Miyazaki Airport | KMI | Miyazaki |  | 0.8 | ~ | - | 99.7 | 1 |
 | Kumamoto Airport | KMJ | Kumamoto |  | 0.7 | ~ | - | 117.7 | 1 |
 | Matsuyama Airport | MYJ | Matsuyama |  | 0.5 | ~ | - | 148.3 | 1 |
