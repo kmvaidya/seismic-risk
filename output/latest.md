@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-09-29 11:51 UTC
+Generated: 2026-09-30 11:38 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-07-02 to 2026-09-29).
+Based on 89 snapshots (2026-07-03 to 2026-09-30).
 
 
 **Top score changes**:
@@ -12,22 +12,22 @@ Based on 89 snapshots (2026-07-02 to 2026-09-29).
 
 **Top airport exposure changes**:
 
-- Yogyakarta International Airport (YIA, ): +0.3
-- Adisoemarmo International Airport (SOC, ): +0.1
-- Jenderal Ahmad Yani Airport (SRG, ): +0.1
+- Fua'amotu International Airport (TBU, ): +1.0
+- Teniente Benjamín Matienzo International Airport (TUC, ): +0.1
+- Martín Miguel de Güemes International Airport (SLA, ): +0.0
+- Vava'u International Airport (VAV, ): 0.0
 - Nadzab Tomodachi International Airport (LAE, ): 0.0
-- Fua'amotu International Airport (TBU, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
+|  |  |  | 10.1 | ~ | 5.3 | M5.7 (2026-09-23) | 10 | 2 | - | No | 0 |
 |  |  |  | 9.7 | ~ | 5.4 | M6.4 (2026-09-20) | 10 | 1 | green | No | 1 |
-|  |  |  | 9.1 | ~ | 5.3 | M5.7 (2026-09-23) | 10 | 2 | - | No | 0 |
-|  |  |  | 4.9 | ~ | 5.3 | M6.5 (2026-09-11) | 21 | 7 | green | No | 1 |
+|  |  |  | 4.9 | ~ | 5.3 | M6.5 (2026-09-11) | 22 | 7 | green | No | 1 |
 |  |  |  | 3.8 | ~ | 5.1 | M5.5 (2026-09-04) | 6 | 8 | - | No | 0 |
 |  |  |  | 3.3 | ~ | 5.1 | M5.2 (2026-09-02) | 3 | 1 | - | No | 0 |
-|  |  |  | 2.7 | ~ | 5.2 | M5.3 (2026-09-23) | 4 | 2 | - | No | 0 |
+|  |  |  | 2.8 | ~ | 5.2 | M5.3 (2026-09-23) | 4 | 2 | - | No | 0 |
 |  |  |  | 2.1 | ~ | 5.1 | M5.5 (2026-09-03) | 7 | 2 | orange | No | 1 |
 |  |  |  | 1.1 | ~ | 5.3 | M5.9 (2026-09-02) | 8 | 2 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.0 | M5.1 (2026-09-16) | 4 | 1 | - | No | 0 |
@@ -36,9 +36,9 @@ Based on 89 snapshots (2026-07-02 to 2026-09-29).
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Max PGA (g) | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|------------:|-------------------:|--------------:|
-| Nadzab Tomodachi International Airport | LAE | Lae |  | 9.7 | ~ | 0.0578 | 37.5 | 5 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 8.9 | ~ | - | 23.8 | 3 |
-| Fua'amotu International Airport | TBU | Nuku'alofa |  | 0.2 | ~ | - | 194.9 | 1 |
+| Fua'amotu International Airport | TBU | Nuku'alofa |  | 1.2 | +1.0 | - | 127.4 | 2 |
+| Nadzab Tomodachi International Airport | LAE | Lae |  | 9.7 | ~ | 0.0578 | 37.5 | 5 |
 | Dortheys Hiyo Eluay International Airport | DJJ | Sentani |  | 1.3 | ~ | - | 153.5 | 2 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 1.2 | ~ | - | 94.8 | 1 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 0.6 | ~ | - | 157.0 | 1 |
@@ -56,7 +56,7 @@ Based on 89 snapshots (2026-07-02 to 2026-09-29).
 | Fukuoka Airport | FUK | Fukuoka |  | 0.3 | ~ | - | 187.4 | 1 |
 | Queenstown Airport | ZQN | Queenstown |  | 3.3 | ~ | - | 74.4 | 2 |
 | Teniente Benjamín Matienzo International Airport | TUC | San Miguel de Tucumán |  | 1.4 | ~ | - | 159.6 | 3 |
-| Martín Miguel de Güemes International Airport | SLA | Salta |  | 1.3 | ~ | - | 169.1 | 3 |
+| Martín Miguel de Güemes International Airport | SLA | Salta |  | 1.4 | ~ | - | 169.1 | 3 |
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 1.3 | ~ | - | 171.4 | 3 |
 | Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 0.8 | ~ | - | 155.0 | 1 |
 | Comodoro Arturo Merino Benítez International Airport | SCL | Santiago |  | 0.7 | ~ | - | 137.9 | 1 |

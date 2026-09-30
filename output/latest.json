@@ -1,6 +1,235 @@
 [
   {
     "country": "",
+    "iso_alpha2": "TO",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 10,
+    "avg_magnitude": 5.28,
+    "strongest_earthquake": {
+      "magnitude": 5.7,
+      "date": "2026-09-23",
+      "depth_km": 10,
+      "latitude": -14.9369,
+      "longitude": -175.1114
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Fua'amotu International Airport",
+        "iata_code": "TBU",
+        "latitude": -21.241438,
+        "longitude": -175.149164,
+        "municipality": "Nuku'alofa",
+        "closest_quake_distance_km": 127.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tyc1",
+            "magnitude": 5.4,
+            "latitude": -20.6773,
+            "longitude": -174.0813,
+            "depth_km": 10,
+            "time_ms": 1790685635064,
+            "place": "99 km SSE of Pangai, Tonga",
+            "distance_km": 127.4,
+            "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdbc",
+            "magnitude": 5,
+            "latitude": -19.5015,
+            "longitude": -175.3713,
+            "depth_km": 159.256,
+            "time_ms": 1788258884597,
+            "place": "112 km WNW of Pangai, Tonga",
+            "distance_km": 194.9,
+            "exposure_contribution": 0.19,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.2
+      },
+      {
+        "name": "Vava'u International Airport",
+        "iata_code": "VAV",
+        "latitude": -18.5853,
+        "longitude": -173.962006,
+        "municipality": "Vava'u Island",
+        "closest_quake_distance_km": 23.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tftd",
+            "magnitude": 5.3,
+            "latitude": -18.4736,
+            "longitude": -174.1551,
+            "depth_km": 10,
+            "time_ms": 1788868269687,
+            "place": "26 km NW of Neiafu, Tonga",
+            "distance_km": 23.8,
+            "exposure_contribution": 7.97,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000thz3",
+            "magnitude": 5.3,
+            "latitude": -17.3232,
+            "longitude": -173.4476,
+            "depth_km": 10,
+            "time_ms": 1789618013528,
+            "place": "155 km SSE of Hihifo, Tonga",
+            "distance_km": 150.5,
+            "exposure_contribution": 0.69,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tdbc",
+            "magnitude": 5,
+            "latitude": -19.5015,
+            "longitude": -175.3713,
+            "depth_km": 159.256,
+            "time_ms": 1788258884597,
+            "place": "112 km WNW of Pangai, Tonga",
+            "distance_km": 179.8,
+            "exposure_contribution": 0.21,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 8.87
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tyc1",
+        "magnitude": 5.4,
+        "latitude": -20.6773,
+        "longitude": -174.0813,
+        "depth_km": 10,
+        "time_ms": 1790685635064,
+        "place": "99 km SSE of Pangai, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tx3m",
+        "magnitude": 5.7,
+        "latitude": -14.9369,
+        "longitude": -175.1114,
+        "depth_km": 10,
+        "time_ms": 1790174462650,
+        "place": "180 km NW of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tirq",
+        "magnitude": 5.2,
+        "latitude": -15.8731,
+        "longitude": -174.7672,
+        "depth_km": 10,
+        "time_ms": 1789909245411,
+        "place": "104 km W of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tip2",
+        "magnitude": 5,
+        "latitude": -15.8926,
+        "longitude": -174.7641,
+        "depth_km": 10,
+        "time_ms": 1789880823869,
+        "place": "103 km W of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tigd",
+        "magnitude": 5.5,
+        "latitude": -27.8581,
+        "longitude": -177.2286,
+        "depth_km": 94.054,
+        "time_ms": 1789773508306,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000thz3",
+        "magnitude": 5.3,
+        "latitude": -17.3232,
+        "longitude": -173.4476,
+        "depth_km": 10,
+        "time_ms": 1789618013528,
+        "place": "155 km SSE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tftd",
+        "magnitude": 5.3,
+        "latitude": -18.4736,
+        "longitude": -174.1551,
+        "depth_km": 10,
+        "time_ms": 1788868269687,
+        "place": "26 km NW of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000te9t",
+        "magnitude": 5.4,
+        "latitude": -28.4108,
+        "longitude": -176.6908,
+        "depth_km": 10,
+        "time_ms": 1788523198500,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tdbc",
+        "magnitude": 5,
+        "latitude": -19.5015,
+        "longitude": -175.3713,
+        "depth_km": 159.256,
+        "time_ms": 1788258884597,
+        "place": "112 km WNW of Pangai, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000td8u",
+        "magnitude": 5,
+        "latitude": -20.4855,
+        "longitude": -178.1203,
+        "depth_km": 536.094,
+        "time_ms": 1788226151420,
+        "place": "Fiji region",
+        "country_code": "TO",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 10.07
+  },
+  {
+    "country": "",
     "iso_alpha2": "PG",
     "iso_alpha3": "",
     "capital": "",
@@ -107,11 +336,11 @@
       {
         "id": "us6000txtc",
         "magnitude": 5.6,
-        "latitude": -4.6952,
-        "longitude": 152.8383,
-        "depth_km": 57.78,
-        "time_ms": 1790431697704,
-        "place": "74 km ESE of Kokopo, Papua New Guinea",
+        "latitude": -4.6288,
+        "longitude": 152.8611,
+        "depth_km": 69.51,
+        "time_ms": 1790431698875,
+        "place": "72 km ESE of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       },
@@ -219,222 +448,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "TO",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.29,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-09-23",
-      "depth_km": 10,
-      "latitude": -14.9369,
-      "longitude": -175.1114
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Fua'amotu International Airport",
-        "iata_code": "TBU",
-        "latitude": -21.241438,
-        "longitude": -175.149164,
-        "municipality": "Nuku'alofa",
-        "closest_quake_distance_km": 194.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdbc",
-            "magnitude": 5,
-            "latitude": -19.5015,
-            "longitude": -175.3713,
-            "depth_km": 159.256,
-            "time_ms": 1788258884597,
-            "place": "112 km WNW of Pangai, Tonga",
-            "distance_km": 194.9,
-            "exposure_contribution": 0.19,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.19
-      },
-      {
-        "name": "Vava'u International Airport",
-        "iata_code": "VAV",
-        "latitude": -18.5853,
-        "longitude": -173.962006,
-        "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 23.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tftd",
-            "magnitude": 5.3,
-            "latitude": -18.4736,
-            "longitude": -174.1551,
-            "depth_km": 10,
-            "time_ms": 1788868269687,
-            "place": "26 km NW of Neiafu, Tonga",
-            "distance_km": 23.8,
-            "exposure_contribution": 7.97,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000thz3",
-            "magnitude": 5.3,
-            "latitude": -17.3232,
-            "longitude": -173.4476,
-            "depth_km": 10,
-            "time_ms": 1789618013528,
-            "place": "155 km SSE of Hihifo, Tonga",
-            "distance_km": 150.5,
-            "exposure_contribution": 0.69,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tdbc",
-            "magnitude": 5,
-            "latitude": -19.5015,
-            "longitude": -175.3713,
-            "depth_km": 159.256,
-            "time_ms": 1788258884597,
-            "place": "112 km WNW of Pangai, Tonga",
-            "distance_km": 179.8,
-            "exposure_contribution": 0.21,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 8.87
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tx3m",
-        "magnitude": 5.7,
-        "latitude": -14.9369,
-        "longitude": -175.1114,
-        "depth_km": 10,
-        "time_ms": 1790174462650,
-        "place": "180 km NW of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tirq",
-        "magnitude": 5.2,
-        "latitude": -15.8731,
-        "longitude": -174.7672,
-        "depth_km": 10,
-        "time_ms": 1789909245411,
-        "place": "104 km W of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tip2",
-        "magnitude": 5,
-        "latitude": -15.8926,
-        "longitude": -174.7641,
-        "depth_km": 10,
-        "time_ms": 1789880823869,
-        "place": "103 km W of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tigd",
-        "magnitude": 5.5,
-        "latitude": -27.8581,
-        "longitude": -177.2286,
-        "depth_km": 94.054,
-        "time_ms": 1789773508306,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000thz3",
-        "magnitude": 5.3,
-        "latitude": -17.3232,
-        "longitude": -173.4476,
-        "depth_km": 10,
-        "time_ms": 1789618013528,
-        "place": "155 km SSE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tftd",
-        "magnitude": 5.3,
-        "latitude": -18.4736,
-        "longitude": -174.1551,
-        "depth_km": 10,
-        "time_ms": 1788868269687,
-        "place": "26 km NW of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te9t",
-        "magnitude": 5.4,
-        "latitude": -28.5616,
-        "longitude": -176.6452,
-        "depth_km": 10,
-        "time_ms": 1788523198323,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdbc",
-        "magnitude": 5,
-        "latitude": -19.5015,
-        "longitude": -175.3713,
-        "depth_km": 159.256,
-        "time_ms": 1788258884597,
-        "place": "112 km WNW of Pangai, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000td8u",
-        "magnitude": 5,
-        "latitude": -20.4855,
-        "longitude": -178.1203,
-        "depth_km": 536.094,
-        "time_ms": 1788226151420,
-        "place": "Fiji region",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tcxn",
-        "magnitude": 5.5,
-        "latitude": -30.1683,
-        "longitude": -177.8842,
-        "depth_km": 29,
-        "time_ms": 1788080528070,
-        "place": "Kermadec Islands, New Zealand",
-        "country_code": "TO",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 9.06
-  },
-  {
-    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -446,8 +459,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 22,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -643,6 +656,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tyc9",
+        "magnitude": 5,
+        "latitude": -8.7834,
+        "longitude": 124.0495,
+        "depth_km": 157.801,
+        "time_ms": 1790691246077,
+        "place": "58 km NW of Pante Makasar, Timor Leste",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000txur",
         "magnitude": 5,
@@ -1318,6 +1342,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000tej2",
+            "magnitude": 5.1,
+            "latitude": -26.1121,
+            "longitude": -66.5901,
+            "depth_km": 10,
+            "time_ms": 1788608232281,
+            "place": "61 km W of Cafayate, Argentina",
+            "distance_km": 168.5,
+            "exposure_contribution": 0.45,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000tiq2",
             "magnitude": 5.3,
             "latitude": -25.9869,
@@ -1329,22 +1366,9 @@
             "exposure_contribution": 0.52,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tej2",
-            "magnitude": 5.1,
-            "latitude": -26.1078,
-            "longitude": -66.7176,
-            "depth_km": 10,
-            "time_ms": 1788608232553,
-            "place": "69 km E of Antofagasta de la Sierra, Argentina",
-            "distance_km": 179.9,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.36
+        "exposure_score": 1.41
       },
       {
         "name": "Martín Miguel de Güemes International Airport",
@@ -1383,18 +1407,18 @@
           {
             "earthquake_id": "us7000tej2",
             "magnitude": 5.1,
-            "latitude": -26.1078,
-            "longitude": -66.7176,
+            "latitude": -26.1121,
+            "longitude": -66.5901,
             "depth_km": 10,
-            "time_ms": 1788608232553,
-            "place": "69 km E of Antofagasta de la Sierra, Argentina",
-            "distance_km": 186.2,
-            "exposure_contribution": 0.38,
+            "time_ms": 1788608232281,
+            "place": "61 km W of Cafayate, Argentina",
+            "distance_km": 178.3,
+            "exposure_contribution": 0.41,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.32
+        "exposure_score": 1.35
       }
     ],
     "earthquakes": [
@@ -1434,16 +1458,16 @@
       {
         "id": "us7000tej2",
         "magnitude": 5.1,
-        "latitude": -26.1078,
-        "longitude": -66.7176,
+        "latitude": -26.1121,
+        "longitude": -66.5901,
         "depth_km": 10,
-        "time_ms": 1788608232553,
-        "place": "69 km E of Antofagasta de la Sierra, Argentina",
+        "time_ms": 1788608232281,
+        "place": "61 km W of Cafayate, Argentina",
         "country_code": "AR",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.68
+    "seismic_hub_risk_score": 2.76
   },
   {
     "country": "",
@@ -1642,7 +1666,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 8,
-    "avg_magnitude": 5.3,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-09-02",
@@ -1741,21 +1765,21 @@
       {
         "id": "us7000tepx",
         "magnitude": 5.2,
-        "latitude": -24.2436,
-        "longitude": -115.8082,
+        "latitude": -24.3673,
+        "longitude": -115.9109,
         "depth_km": 10,
-        "time_ms": 1788696016067,
+        "time_ms": 1788696015193,
         "place": "southern East Pacific Rise",
         "country_code": "CL",
         "shakemap_available": false
       },
       {
         "id": "us7000tepa",
-        "magnitude": 5.2,
-        "latitude": -24.5229,
-        "longitude": -116.0305,
+        "magnitude": 5.1,
+        "latitude": -24.3833,
+        "longitude": -116.2065,
         "depth_km": 10,
-        "time_ms": 1788691098353,
+        "time_ms": 1788691099070,
         "place": "southern East Pacific Rise",
         "country_code": "CL",
         "shakemap_available": false
@@ -1763,10 +1787,10 @@
       {
         "id": "us7000tep6",
         "magnitude": 5.2,
-        "latitude": -24.5304,
-        "longitude": -115.6112,
+        "latitude": -24.4882,
+        "longitude": -115.6508,
         "depth_km": 10,
-        "time_ms": 1788690748227,
+        "time_ms": 1788690748205,
         "place": "southern East Pacific Rise",
         "country_code": "CL",
         "shakemap_available": false
@@ -1774,11 +1798,11 @@
       {
         "id": "us7000tduc",
         "magnitude": 5.1,
-        "latitude": -29.7624,
-        "longitude": -71.5077,
-        "depth_km": 59.445,
-        "time_ms": 1788415443130,
-        "place": "26 km NW of Coquimbo, Chile",
+        "latitude": -29.7974,
+        "longitude": -71.5245,
+        "depth_km": 66.353,
+        "time_ms": 1788415443432,
+        "place": "24 km NW of Coquimbo, Chile",
         "country_code": "CL",
         "shakemap_available": false
       },
