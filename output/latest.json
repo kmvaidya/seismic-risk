@@ -151,11 +151,11 @@
       {
         "id": "us7000tip2",
         "magnitude": 5,
-        "latitude": -15.8926,
-        "longitude": -174.7641,
+        "latitude": -15.9518,
+        "longitude": -174.5258,
         "depth_km": 10,
-        "time_ms": 1789880823869,
-        "place": "103 km W of Hihifo, Tonga",
+        "time_ms": 1789880823090,
+        "place": "78 km W of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -241,8 +241,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-09-20",
@@ -334,6 +334,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tyit",
+        "magnitude": 5.1,
+        "latitude": -5.435,
+        "longitude": 152.1328,
+        "depth_km": 28.026,
+        "time_ms": 1790756117486,
+        "place": "121 km S of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000txtc",
         "magnitude": 5.6,
         "latitude": -4.6288,
@@ -424,11 +435,11 @@
       {
         "id": "us7000teji",
         "magnitude": 5.5,
-        "latitude": -4.5717,
-        "longitude": 153.7143,
+        "latitude": -4.5724,
+        "longitude": 153.7224,
         "depth_km": 109,
-        "time_ms": 1788617526943,
-        "place": "162 km E of Kokopo, Papua New Guinea",
+        "time_ms": 1788617527079,
+        "place": "163 km E of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       },
@@ -459,8 +470,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 22,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 21,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -657,13 +668,13 @@
     ],
     "earthquakes": [
       {
-        "id": "us6000tyc9",
+        "id": "us6000tyjb",
         "magnitude": 5,
-        "latitude": -8.7834,
-        "longitude": 124.0495,
-        "depth_km": 157.801,
-        "time_ms": 1790691246077,
-        "place": "58 km NW of Pante Makasar, Timor Leste",
+        "latitude": -9.9243,
+        "longitude": 123.6462,
+        "depth_km": 19.368,
+        "time_ms": 1790765930586,
+        "place": "27 km N of Kupang, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -823,23 +834,23 @@
       },
       {
         "id": "us7000tfr8",
-        "magnitude": 5.3,
-        "latitude": -8.1646,
-        "longitude": 120.5995,
+        "magnitude": 5.2,
+        "latitude": -8.152,
+        "longitude": 120.5257,
         "depth_km": 10,
-        "time_ms": 1788842428046,
-        "place": "51 km NNE of Ruteng, Indonesia",
+        "time_ms": 1788842428006,
+        "place": "51 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
       {
         "id": "us7000tejg",
         "magnitude": 5.2,
-        "latitude": 1.0574,
-        "longitude": 98.6095,
-        "depth_km": 91.853,
-        "time_ms": 1788617167776,
-        "place": "77 km SSW of Sibolga, Indonesia",
+        "latitude": 1.0484,
+        "longitude": 98.5931,
+        "depth_km": 84.747,
+        "time_ms": 1788617166990,
+        "place": "79 km SSW of Sibolga, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -886,17 +897,6 @@
         "place": "96 km SE of Maba, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000td2z",
-        "magnitude": 5.4,
-        "latitude": -8.2583,
-        "longitude": 120.5729,
-        "depth_km": 10,
-        "time_ms": 1788163407890,
-        "place": "40 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 4.87
@@ -914,14 +914,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.13,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-09-04",
-      "depth_km": 32,
-      "latitude": 45.0284,
-      "longitude": 149.8017
+      "magnitude": 5.6,
+      "date": "2026-09-30",
+      "depth_km": 10.8,
+      "latitude": 23.8027,
+      "longitude": 122.9149
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1123,6 +1123,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000tyhk",
+        "magnitude": 5.6,
+        "latitude": 23.8027,
+        "longitude": 122.9149,
+        "depth_km": 10.792,
+        "time_ms": 1790744424971,
+        "place": "74 km S of Yonakuni, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
         "id": "us7000tj4y",
         "magnitude": 5.1,
         "latitude": 29.0367,
@@ -1147,11 +1158,11 @@
       {
         "id": "us7000tipl",
         "magnitude": 5.1,
-        "latitude": 28.3947,
-        "longitude": 129.3406,
-        "depth_km": 68.834,
-        "time_ms": 1789889302965,
-        "place": "14 km WNW of Naze, Japan",
+        "latitude": 28.4442,
+        "longitude": 129.3273,
+        "depth_km": 68.899,
+        "time_ms": 1789889302963,
+        "place": "17 km WNW of Naze, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -1292,182 +1303,6 @@
       }
     ],
     "seismic_hub_risk_score": 3.28
-  },
-  {
-    "country": "",
-    "iso_alpha2": "AR",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.17,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-09-23",
-      "depth_km": 121.5,
-      "latitude": -28.7298,
-      "longitude": -67.2912
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Teniente Benjamín Matienzo International Airport",
-        "iata_code": "TUC",
-        "latitude": -26.837397,
-        "longitude": -65.104195,
-        "municipality": "San Miguel de Tucumán",
-        "closest_quake_distance_km": 159.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tg12",
-            "magnitude": 5,
-            "latitude": -26.1386,
-            "longitude": -66.5049,
-            "depth_km": 10,
-            "time_ms": 1788948417170,
-            "place": "53 km W of Cafayate, Argentina",
-            "distance_km": 159.6,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tej2",
-            "magnitude": 5.1,
-            "latitude": -26.1121,
-            "longitude": -66.5901,
-            "depth_km": 10,
-            "time_ms": 1788608232281,
-            "place": "61 km W of Cafayate, Argentina",
-            "distance_km": 168.5,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tiq2",
-            "magnitude": 5.3,
-            "latitude": -25.9869,
-            "longitude": -66.6117,
-            "depth_km": 10,
-            "time_ms": 1789894074457,
-            "place": "64 km W of Cafayate, Argentina",
-            "distance_km": 177.4,
-            "exposure_contribution": 0.52,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.41
-      },
-      {
-        "name": "Martín Miguel de Güemes International Airport",
-        "iata_code": "SLA",
-        "latitude": -24.856001,
-        "longitude": -65.486198,
-        "municipality": "Salta",
-        "closest_quake_distance_km": 169.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tiq2",
-            "magnitude": 5.3,
-            "latitude": -25.9869,
-            "longitude": -66.6117,
-            "depth_km": 10,
-            "time_ms": 1789894074457,
-            "place": "64 km W of Cafayate, Argentina",
-            "distance_km": 169.1,
-            "exposure_contribution": 0.56,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tg12",
-            "magnitude": 5,
-            "latitude": -26.1386,
-            "longitude": -66.5049,
-            "depth_km": 10,
-            "time_ms": 1788948417170,
-            "place": "53 km W of Cafayate, Argentina",
-            "distance_km": 175.5,
-            "exposure_contribution": 0.38,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tej2",
-            "magnitude": 5.1,
-            "latitude": -26.1121,
-            "longitude": -66.5901,
-            "depth_km": 10,
-            "time_ms": 1788608232281,
-            "place": "61 km W of Cafayate, Argentina",
-            "distance_km": 178.3,
-            "exposure_contribution": 0.41,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.35
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tx29",
-        "magnitude": 5.3,
-        "latitude": -28.7298,
-        "longitude": -67.2912,
-        "depth_km": 121.534,
-        "time_ms": 1790155274600,
-        "place": "51 km WSW of Arauco, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tiq2",
-        "magnitude": 5.3,
-        "latitude": -25.9869,
-        "longitude": -66.6117,
-        "depth_km": 10,
-        "time_ms": 1789894074457,
-        "place": "64 km W of Cafayate, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tg12",
-        "magnitude": 5,
-        "latitude": -26.1386,
-        "longitude": -66.5049,
-        "depth_km": 10,
-        "time_ms": 1788948417170,
-        "place": "53 km W of Cafayate, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tej2",
-        "magnitude": 5.1,
-        "latitude": -26.1121,
-        "longitude": -66.5901,
-        "depth_km": 10,
-        "time_ms": 1788608232281,
-        "place": "61 km W of Cafayate, Argentina",
-        "country_code": "AR",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 2.76
   },
   {
     "country": "",
@@ -1651,6 +1486,145 @@
       }
     ],
     "seismic_hub_risk_score": 2.14
+  },
+  {
+    "country": "",
+    "iso_alpha2": "AR",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.23,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-09-23",
+      "depth_km": 121.5,
+      "latitude": -28.7298,
+      "longitude": -67.2912
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Teniente Benjamín Matienzo International Airport",
+        "iata_code": "TUC",
+        "latitude": -26.837397,
+        "longitude": -65.104195,
+        "municipality": "San Miguel de Tucumán",
+        "closest_quake_distance_km": 168.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tej2",
+            "magnitude": 5.1,
+            "latitude": -26.1121,
+            "longitude": -66.5901,
+            "depth_km": 10,
+            "time_ms": 1788608232281,
+            "place": "61 km W of Cafayate, Argentina",
+            "distance_km": 168.5,
+            "exposure_contribution": 0.45,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tiq2",
+            "magnitude": 5.3,
+            "latitude": -25.9869,
+            "longitude": -66.6117,
+            "depth_km": 10,
+            "time_ms": 1789894074457,
+            "place": "64 km W of Cafayate, Argentina",
+            "distance_km": 177.4,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.97
+      },
+      {
+        "name": "Martín Miguel de Güemes International Airport",
+        "iata_code": "SLA",
+        "latitude": -24.856001,
+        "longitude": -65.486198,
+        "municipality": "Salta",
+        "closest_quake_distance_km": 169.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tiq2",
+            "magnitude": 5.3,
+            "latitude": -25.9869,
+            "longitude": -66.6117,
+            "depth_km": 10,
+            "time_ms": 1789894074457,
+            "place": "64 km W of Cafayate, Argentina",
+            "distance_km": 169.1,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tej2",
+            "magnitude": 5.1,
+            "latitude": -26.1121,
+            "longitude": -66.5901,
+            "depth_km": 10,
+            "time_ms": 1788608232281,
+            "place": "61 km W of Cafayate, Argentina",
+            "distance_km": 178.3,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.97
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tx29",
+        "magnitude": 5.3,
+        "latitude": -28.7298,
+        "longitude": -67.2912,
+        "depth_km": 121.534,
+        "time_ms": 1790155274600,
+        "place": "51 km WSW of Arauco, Argentina",
+        "country_code": "AR",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tiq2",
+        "magnitude": 5.3,
+        "latitude": -25.9869,
+        "longitude": -66.6117,
+        "depth_km": 10,
+        "time_ms": 1789894074457,
+        "place": "64 km W of Cafayate, Argentina",
+        "country_code": "AR",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tej2",
+        "magnitude": 5.1,
+        "latitude": -26.1121,
+        "longitude": -66.5901,
+        "depth_km": 10,
+        "time_ms": 1788608232281,
+        "place": "61 km W of Cafayate, Argentina",
+        "country_code": "AR",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.94
   },
   {
     "country": "",
