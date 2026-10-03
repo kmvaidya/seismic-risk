@@ -13,7 +13,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 11,
-    "avg_magnitude": 5.37,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-09-20",
@@ -44,19 +44,6 @@
             "place": "68 km NW of Lae, Papua New Guinea",
             "distance_km": 37.5,
             "exposure_contribution": 0.65,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tdqc",
-            "magnitude": 5.4,
-            "latitude": -7.1447,
-            "longitude": 146.1703,
-            "depth_km": 60.563,
-            "time_ms": 1788379472839,
-            "place": "52 km W of Bulolo, Papua New Guinea",
-            "distance_km": 88.8,
-            "exposure_contribution": 1.31,
             "pga_g": null,
             "mmi": null
           },
@@ -100,10 +87,21 @@
             "mmi": null
           }
         ],
-        "exposure_score": 9.65
+        "exposure_score": 8.34
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tz0x",
+        "magnitude": 5,
+        "latitude": -6.6368,
+        "longitude": 155.0136,
+        "depth_km": 38.25,
+        "time_ms": 1790939654383,
+        "place": "63 km SW of Panguna, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tyit",
         "magnitude": 5.1,
@@ -213,20 +211,9 @@
         "place": "163 km E of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000tdqc",
-        "magnitude": 5.4,
-        "latitude": -7.1447,
-        "longitude": 146.1703,
-        "depth_km": 60.563,
-        "time_ms": 1788379472839,
-        "place": "52 km W of Bulolo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 9.65
+    "seismic_hub_risk_score": 8.34
   },
   {
     "country": "",
@@ -433,8 +420,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 20,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -477,21 +464,8 @@
         "latitude": -2.579627,
         "longitude": 140.519857,
         "municipality": "Sentani",
-        "closest_quake_distance_km": 153.5,
+        "closest_quake_distance_km": 198.3,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdhl",
-            "magnitude": 5.7,
-            "latitude": -3.2669,
-            "longitude": 139.321,
-            "depth_km": 66.016,
-            "time_ms": 1788307494803,
-            "place": "163 km WSW of Abepura, Indonesia",
-            "distance_km": 153.5,
-            "exposure_contribution": 0.92,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000tih8",
             "magnitude": 5.2,
@@ -506,7 +480,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.3
+        "exposure_score": 0.38
       },
       {
         "name": "Sam Ratulangi International Airport",
@@ -849,122 +823,9 @@
         "place": "38 km SSE of Cilacap, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tdhl",
-        "magnitude": 5.7,
-        "latitude": -3.2669,
-        "longitude": 139.321,
-        "depth_km": 66.016,
-        "time_ms": 1788307494803,
-        "place": "163 km WSW of Abepura, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 4.87
-  },
-  {
-    "country": "",
-    "iso_alpha2": "NZ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.1,
-    "strongest_earthquake": {
-      "magnitude": 5.2,
-      "date": "2026-09-02",
-      "depth_km": 10,
-      "latitude": -44.4297,
-      "longitude": 168.2643
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Queenstown Airport",
-        "iata_code": "ZQN",
-        "latitude": -45.019205,
-        "longitude": 168.746379,
-        "municipality": "Queenstown",
-        "closest_quake_distance_km": 74.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tdj8",
-            "magnitude": 5.1,
-            "latitude": -44.438,
-            "longitude": 168.2788,
-            "depth_km": 10,
-            "time_ms": 1788329613590,
-            "place": "67 km NNW of Arthurs Point, New Zealand",
-            "distance_km": 74.4,
-            "exposure_contribution": 1.56,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tdjg",
-            "magnitude": 5.2,
-            "latitude": -44.4297,
-            "longitude": 168.2643,
-            "depth_km": 10,
-            "time_ms": 1788332232284,
-            "place": "69 km NNW of Arthurs Point, New Zealand",
-            "distance_km": 75.8,
-            "exposure_contribution": 1.71,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 3.28
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000test",
-        "magnitude": 5,
-        "latitude": -30.9411,
-        "longitude": 178.671,
-        "depth_km": 570.726,
-        "time_ms": 1788746807128,
-        "place": "Kermadec Islands region",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tdjg",
-        "magnitude": 5.2,
-        "latitude": -44.4297,
-        "longitude": 168.2643,
-        "depth_km": 10,
-        "time_ms": 1788332232284,
-        "place": "69 km NNW of Arthurs Point, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tdj8",
-        "magnitude": 5.1,
-        "latitude": -44.438,
-        "longitude": 168.2788,
-        "depth_km": 10,
-        "time_ms": 1788329613590,
-        "place": "67 km NNW of Arthurs Point, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 3.28
+    "seismic_hub_risk_score": 3.95
   },
   {
     "country": "",
@@ -1471,6 +1332,143 @@
   },
   {
     "country": "",
+    "iso_alpha2": "RU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 5,
+    "avg_magnitude": 5.18,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-10-02",
+      "depth_km": 29.5,
+      "latitude": 51.6873,
+      "longitude": 159.7398
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Yelizovo Airport",
+        "iata_code": "PKC",
+        "latitude": 53.168716,
+        "longitude": 158.451068,
+        "municipality": "Petropavlovsk-Kamchatsky",
+        "closest_quake_distance_km": 158.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tyku",
+            "magnitude": 5,
+            "latitude": 52.3167,
+            "longitude": 160.3332,
+            "depth_km": 35,
+            "time_ms": 1790792479257,
+            "place": "142 km SE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 158.2,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tz62",
+            "magnitude": 5.8,
+            "latitude": 51.6873,
+            "longitude": 159.7398,
+            "depth_km": 29.477,
+            "time_ms": 1790958881010,
+            "place": "165 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 186.5,
+            "exposure_contribution": 0.83,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tz8l",
+            "magnitude": 5,
+            "latitude": 51.6886,
+            "longitude": 159.8843,
+            "depth_km": 30.93,
+            "time_ms": 1790974455391,
+            "place": "171 km SE of Vilyuchinsk, Russia",
+            "distance_km": 191.1,
+            "exposure_contribution": 0.32,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.58
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tz8l",
+        "magnitude": 5,
+        "latitude": 51.6886,
+        "longitude": 159.8843,
+        "depth_km": 30.93,
+        "time_ms": 1790974455391,
+        "place": "171 km SE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tz8c",
+        "magnitude": 5.1,
+        "latitude": 51.3149,
+        "longitude": 159.665,
+        "depth_km": 10,
+        "time_ms": 1790972847120,
+        "place": "199 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tz7b",
+        "magnitude": 5,
+        "latitude": 51.5775,
+        "longitude": 159.8307,
+        "depth_km": 10,
+        "time_ms": 1790965520940,
+        "place": "179 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tz62",
+        "magnitude": 5.8,
+        "latitude": 51.6873,
+        "longitude": 159.7398,
+        "depth_km": 29.477,
+        "time_ms": 1790958881010,
+        "place": "165 km SSE of Vilyuchinsk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tyku",
+        "magnitude": 5,
+        "latitude": 52.3167,
+        "longitude": 160.3332,
+        "depth_km": 35,
+        "time_ms": 1790792479257,
+        "place": "142 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "country_code": "RU",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 1.58
+  },
+  {
+    "country": "",
     "iso_alpha2": "CL",
     "iso_alpha3": "",
     "capital": "",
@@ -1482,14 +1480,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.2,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-09-02",
+      "magnitude": 5.4,
+      "date": "2026-09-10",
       "depth_km": 10,
-      "latitude": -34.8796,
-      "longitude": -109.0117
+      "latitude": -34.7752,
+      "longitude": -109.1447
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1622,17 +1620,6 @@
         "place": "24 km NW of Coquimbo, Chile",
         "country_code": "CL",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tdms",
-        "magnitude": 5.9,
-        "latitude": -34.8796,
-        "longitude": -109.0117,
-        "depth_km": 10,
-        "time_ms": 1788352556633,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.1
@@ -1736,5 +1723,94 @@
       }
     ],
     "seismic_hub_risk_score": 0.91
+  },
+  {
+    "country": "",
+    "iso_alpha2": "FJ",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.1,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-09-25",
+      "depth_km": 24.0,
+      "latitude": -21.8904,
+      "longitude": 174.0792
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Nadi International Airport",
+        "iata_code": "NAN",
+        "latitude": -17.761822,
+        "longitude": 177.437843,
+        "municipality": "Nadi",
+        "closest_quake_distance_km": 172.5,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tx58",
+            "magnitude": 5,
+            "latitude": -16.3155,
+            "longitude": 178.0237,
+            "depth_km": 10,
+            "time_ms": 1790185566554,
+            "place": "139 km NNE of Ba, Fiji",
+            "distance_km": 172.5,
+            "exposure_contribution": 0.39,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.39
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tyzi",
+        "magnitude": 5,
+        "latitude": -24.7752,
+        "longitude": 178.6446,
+        "depth_km": 557.245,
+        "time_ms": 1790915225754,
+        "place": "south of the Fiji Islands",
+        "country_code": "FJ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000txjy",
+        "magnitude": 5.3,
+        "latitude": -21.8904,
+        "longitude": 174.0792,
+        "depth_km": 23.966,
+        "time_ms": 1790334735838,
+        "place": "Vanuatu region",
+        "country_code": "FJ",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tx58",
+        "magnitude": 5,
+        "latitude": -16.3155,
+        "longitude": 178.0237,
+        "depth_km": 10,
+        "time_ms": 1790185566554,
+        "place": "139 km NNE of Ba, Fiji",
+        "country_code": "FJ",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.39
   }
 ]
