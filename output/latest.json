@@ -228,8 +228,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.19,
     "strongest_earthquake": {
       "magnitude": 5.6,
       "date": "2026-09-30",
@@ -392,20 +392,203 @@
         "place": "99 km S of Yudomari, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tefx",
-        "magnitude": 5.5,
-        "latitude": 45.0284,
-        "longitude": 149.8017,
-        "depth_km": 32,
-        "time_ms": 1788565950709,
-        "place": "152 km E of Kuril’sk, Russia",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 7.93
+  },
+  {
+    "country": "",
+    "iso_alpha2": "TO",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 8,
+    "avg_magnitude": 5.28,
+    "strongest_earthquake": {
+      "magnitude": 5.7,
+      "date": "2026-09-23",
+      "depth_km": 10,
+      "latitude": -14.9369,
+      "longitude": -175.1114
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Fua'amotu International Airport",
+        "iata_code": "TBU",
+        "latitude": -21.241438,
+        "longitude": -175.149164,
+        "municipality": "Nuku'alofa",
+        "closest_quake_distance_km": 64.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000twyf",
+            "magnitude": 5,
+            "latitude": -20.8795,
+            "longitude": -175.6376,
+            "depth_km": 94.085,
+            "time_ms": 1790107909199,
+            "place": "47 km NW of Houma, Tonga",
+            "distance_km": 64.7,
+            "exposure_contribution": 0.75,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tyc1",
+            "magnitude": 5.4,
+            "latitude": -20.6773,
+            "longitude": -174.0813,
+            "depth_km": 10,
+            "time_ms": 1790685635064,
+            "place": "99 km SSE of Pangai, Tonga",
+            "distance_km": 127.4,
+            "exposure_contribution": 1.0,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.76
+      },
+      {
+        "name": "Vava'u International Airport",
+        "iata_code": "VAV",
+        "latitude": -18.5853,
+        "longitude": -173.962006,
+        "municipality": "Vava'u Island",
+        "closest_quake_distance_km": 29.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tftd",
+            "magnitude": 5.1,
+            "latitude": -18.3792,
+            "longitude": -174.1334,
+            "depth_km": 86.077,
+            "time_ms": 1788868279507,
+            "place": "34 km NNW of Neiafu, Tonga",
+            "distance_km": 29.2,
+            "exposure_contribution": 1.19,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000thz3",
+            "magnitude": 5.3,
+            "latitude": -17.3232,
+            "longitude": -173.4476,
+            "depth_km": 10,
+            "time_ms": 1789618013528,
+            "place": "155 km SSE of Hihifo, Tonga",
+            "distance_km": 150.5,
+            "exposure_contribution": 0.69,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.88
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000tyc1",
+        "magnitude": 5.4,
+        "latitude": -20.6773,
+        "longitude": -174.0813,
+        "depth_km": 10,
+        "time_ms": 1790685635064,
+        "place": "99 km SSE of Pangai, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tx3m",
+        "magnitude": 5.7,
+        "latitude": -14.9369,
+        "longitude": -175.1114,
+        "depth_km": 10,
+        "time_ms": 1790174462650,
+        "place": "180 km NW of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000twyf",
+        "magnitude": 5,
+        "latitude": -20.8795,
+        "longitude": -175.6376,
+        "depth_km": 94.085,
+        "time_ms": 1790107909199,
+        "place": "47 km NW of Houma, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tirq",
+        "magnitude": 5.2,
+        "latitude": -15.8731,
+        "longitude": -174.7672,
+        "depth_km": 10,
+        "time_ms": 1789909245411,
+        "place": "104 km W of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tip2",
+        "magnitude": 5,
+        "latitude": -15.9518,
+        "longitude": -174.5258,
+        "depth_km": 10,
+        "time_ms": 1789880823090,
+        "place": "78 km W of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tigd",
+        "magnitude": 5.5,
+        "latitude": -27.8581,
+        "longitude": -177.2286,
+        "depth_km": 94.054,
+        "time_ms": 1789773508306,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000thz3",
+        "magnitude": 5.3,
+        "latitude": -17.3232,
+        "longitude": -173.4476,
+        "depth_km": 10,
+        "time_ms": 1789618013528,
+        "place": "155 km SSE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tftd",
+        "magnitude": 5.1,
+        "latitude": -18.3792,
+        "longitude": -174.1334,
+        "depth_km": 86.077,
+        "time_ms": 1788868279507,
+        "place": "34 km NNW of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 3.64
   },
   {
     "country": "",
@@ -420,44 +603,20 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 20,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
       "depth_km": 372,
-      "latitude": -4.9832,
-      "longitude": 106.8742
+      "latitude": -5.0271,
+      "longitude": 106.8682
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 21,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
-      {
-        "name": "Yogyakarta International Airport",
-        "iata_code": "YIA",
-        "latitude": -7.905338,
-        "longitude": 110.057264,
-        "municipality": "Yogyakarta",
-        "closest_quake_distance_km": 94.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000te82",
-            "magnitude": 5.2,
-            "latitude": -8.0197,
-            "longitude": 109.2039,
-            "depth_km": 10,
-            "time_ms": 1788498293844,
-            "place": "38 km SSE of Cilacap, Indonesia",
-            "distance_km": 94.8,
-            "exposure_contribution": 1.24,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.24
-      },
       {
         "name": "Dortheys Hiyo Eluay International Airport",
         "iata_code": "DJJ",
@@ -507,70 +666,22 @@
         "exposure_score": 0.57
       },
       {
-        "name": "Adisoemarmo International Airport",
-        "iata_code": "SOC",
-        "latitude": -7.516044,
-        "longitude": 110.757492,
-        "municipality": "Surakarta",
-        "closest_quake_distance_km": 180.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000te82",
-            "magnitude": 5.2,
-            "latitude": -8.0197,
-            "longitude": 109.2039,
-            "depth_km": 10,
-            "time_ms": 1788498293844,
-            "place": "38 km SSE of Cilacap, Indonesia",
-            "distance_km": 180.1,
-            "exposure_contribution": 0.45,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.45
-      },
-      {
-        "name": "Jenderal Ahmad Yani Airport",
-        "iata_code": "SRG",
-        "latitude": -6.970732,
-        "longitude": 110.373244,
-        "municipality": "Semarang",
-        "closest_quake_distance_km": 173.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000te82",
-            "magnitude": 5.2,
-            "latitude": -8.0197,
-            "longitude": 109.2039,
-            "depth_km": 10,
-            "time_ms": 1788498293844,
-            "place": "38 km SSE of Cilacap, Indonesia",
-            "distance_km": 173.8,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.48
-      },
-      {
         "name": "Halim Perdanakusuma International Airport",
         "iata_code": "HLP",
         "latitude": -6.266989,
         "longitude": 106.890318,
         "municipality": "Jakarta",
-        "closest_quake_distance_km": 142.8,
+        "closest_quake_distance_km": 137.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tgrk",
             "magnitude": 6.5,
-            "latitude": -4.9832,
-            "longitude": 106.8742,
+            "latitude": -5.0271,
+            "longitude": 106.8682,
             "depth_km": 372,
-            "time_ms": 1789161835907,
-            "place": "126 km NNE of Teluknaga, Indonesia",
-            "distance_km": 142.8,
+            "time_ms": 1789161835815,
+            "place": "121 km NNE of Teluknaga, Indonesia",
+            "distance_km": 137.9,
             "exposure_contribution": 0.41,
             "pga_g": null,
             "mmi": null
@@ -584,17 +695,17 @@
         "latitude": -6.12557,
         "longitude": 106.655998,
         "municipality": "Jakarta",
-        "closest_quake_distance_km": 129.3,
+        "closest_quake_distance_km": 124.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tgrk",
             "magnitude": 6.5,
-            "latitude": -4.9832,
-            "longitude": 106.8742,
+            "latitude": -5.0271,
+            "longitude": 106.8682,
             "depth_km": 372,
-            "time_ms": 1789161835907,
-            "place": "126 km NNE of Teluknaga, Indonesia",
-            "distance_km": 129.3,
+            "time_ms": 1789161835815,
+            "place": "121 km NNE of Teluknaga, Indonesia",
+            "distance_km": 124.4,
             "exposure_contribution": 0.42,
             "pga_g": null,
             "mmi": null
@@ -608,34 +719,45 @@
         "latitude": 5.525087,
         "longitude": 95.41997,
         "municipality": "Banda Aceh",
-        "closest_quake_distance_km": 80.6,
+        "closest_quake_distance_km": 82.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tzfg",
-            "magnitude": 5.6,
-            "latitude": 4.8223,
-            "longitude": 95.2428,
-            "depth_km": 69.726,
-            "time_ms": 1791070655621,
-            "place": "80 km S of Banda Aceh, Indonesia",
-            "distance_km": 80.6,
-            "exposure_contribution": 1.67,
+            "magnitude": 5.3,
+            "latitude": 4.8247,
+            "longitude": 95.1622,
+            "depth_km": 56.274,
+            "time_ms": 1791070654235,
+            "place": "81 km SSW of Banda Aceh, Indonesia",
+            "distance_km": 82.9,
+            "exposure_contribution": 1.3,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.67
+        "exposure_score": 1.3
       }
     ],
     "earthquakes": [
       {
+        "id": "us6000tzi5",
+        "magnitude": 5,
+        "latitude": -8.2698,
+        "longitude": 120.4532,
+        "depth_km": 10,
+        "time_ms": 1791108787298,
+        "place": "37 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tzfg",
-        "magnitude": 5.6,
-        "latitude": 4.8223,
-        "longitude": 95.2428,
-        "depth_km": 69.726,
-        "time_ms": 1791070655621,
-        "place": "80 km S of Banda Aceh, Indonesia",
+        "magnitude": 5.3,
+        "latitude": 4.8247,
+        "longitude": 95.1622,
+        "depth_km": 56.274,
+        "time_ms": 1791070654235,
+        "place": "81 km SSW of Banda Aceh, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -785,11 +907,11 @@
       {
         "id": "us7000tgrk",
         "magnitude": 6.5,
-        "latitude": -4.9832,
-        "longitude": 106.8742,
+        "latitude": -5.0271,
+        "longitude": 106.8682,
         "depth_km": 372,
-        "time_ms": 1789161835907,
-        "place": "126 km NNE of Teluknaga, Indonesia",
+        "time_ms": 1789161835815,
+        "place": "121 km NNE of Teluknaga, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -836,212 +958,9 @@
         "place": "79 km SSW of Sibolga, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000teck",
-        "magnitude": 5.1,
-        "latitude": 1.3016,
-        "longitude": 99.0782,
-        "depth_km": 122.009,
-        "time_ms": 1788539080634,
-        "place": "23 km WSW of Padangsidempuan, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te82",
-        "magnitude": 5.2,
-        "latitude": -8.0197,
-        "longitude": 109.2039,
-        "depth_km": 10,
-        "time_ms": 1788498293844,
-        "place": "38 km SSE of Cilacap, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.62
-  },
-  {
-    "country": "",
-    "iso_alpha2": "TO",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.33,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-09-23",
-      "depth_km": 10,
-      "latitude": -14.9369,
-      "longitude": -175.1114
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Fua'amotu International Airport",
-        "iata_code": "TBU",
-        "latitude": -21.241438,
-        "longitude": -175.149164,
-        "municipality": "Nuku'alofa",
-        "closest_quake_distance_km": 127.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tyc1",
-            "magnitude": 5.4,
-            "latitude": -20.6773,
-            "longitude": -174.0813,
-            "depth_km": 10,
-            "time_ms": 1790685635064,
-            "place": "99 km SSE of Pangai, Tonga",
-            "distance_km": 127.4,
-            "exposure_contribution": 1.0,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.0
-      },
-      {
-        "name": "Vava'u International Airport",
-        "iata_code": "VAV",
-        "latitude": -18.5853,
-        "longitude": -173.962006,
-        "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 29.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tftd",
-            "magnitude": 5.1,
-            "latitude": -18.3792,
-            "longitude": -174.1334,
-            "depth_km": 86.077,
-            "time_ms": 1788868279507,
-            "place": "34 km NNW of Neiafu, Tonga",
-            "distance_km": 29.2,
-            "exposure_contribution": 1.19,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000thz3",
-            "magnitude": 5.3,
-            "latitude": -17.3232,
-            "longitude": -173.4476,
-            "depth_km": 10,
-            "time_ms": 1789618013528,
-            "place": "155 km SSE of Hihifo, Tonga",
-            "distance_km": 150.5,
-            "exposure_contribution": 0.69,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.88
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tyc1",
-        "magnitude": 5.4,
-        "latitude": -20.6773,
-        "longitude": -174.0813,
-        "depth_km": 10,
-        "time_ms": 1790685635064,
-        "place": "99 km SSE of Pangai, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tx3m",
-        "magnitude": 5.7,
-        "latitude": -14.9369,
-        "longitude": -175.1114,
-        "depth_km": 10,
-        "time_ms": 1790174462650,
-        "place": "180 km NW of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tirq",
-        "magnitude": 5.2,
-        "latitude": -15.8731,
-        "longitude": -174.7672,
-        "depth_km": 10,
-        "time_ms": 1789909245411,
-        "place": "104 km W of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tip2",
-        "magnitude": 5,
-        "latitude": -15.9518,
-        "longitude": -174.5258,
-        "depth_km": 10,
-        "time_ms": 1789880823090,
-        "place": "78 km W of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tigd",
-        "magnitude": 5.5,
-        "latitude": -27.8581,
-        "longitude": -177.2286,
-        "depth_km": 94.054,
-        "time_ms": 1789773508306,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000thz3",
-        "magnitude": 5.3,
-        "latitude": -17.3232,
-        "longitude": -173.4476,
-        "depth_km": 10,
-        "time_ms": 1789618013528,
-        "place": "155 km SSE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tftd",
-        "magnitude": 5.1,
-        "latitude": -18.3792,
-        "longitude": -174.1334,
-        "depth_km": 86.077,
-        "time_ms": 1788868279507,
-        "place": "34 km NNW of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000te9t",
-        "magnitude": 5.4,
-        "latitude": -28.4108,
-        "longitude": -176.6908,
-        "depth_km": 10,
-        "time_ms": 1788523198500,
-        "place": "Kermadec Islands region",
-        "country_code": "TO",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 2.88
+    "seismic_hub_risk_score": 3.08
   },
   {
     "country": "",
@@ -1387,23 +1306,23 @@
         "latitude": -33.393002,
         "longitude": -70.785797,
         "municipality": "Santiago",
-        "closest_quake_distance_km": 137.9,
+        "closest_quake_distance_km": 145.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000txme",
             "magnitude": 5.2,
-            "latitude": -33.9661,
-            "longitude": -72.1079,
-            "depth_km": 29.072,
-            "time_ms": 1790350149560,
-            "place": "62 km SW of San Antonio, Chile",
-            "distance_km": 137.9,
-            "exposure_contribution": 0.68,
+            "latitude": -33.9903,
+            "longitude": -72.1838,
+            "depth_km": 18.7,
+            "time_ms": 1790350147875,
+            "place": "69 km SW of San Antonio, Chile",
+            "distance_km": 145.4,
+            "exposure_contribution": 0.64,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.68
+        "exposure_score": 0.64
       },
       {
         "name": "Andrés Sabella Gálvez International Airport",
@@ -1434,11 +1353,11 @@
       {
         "id": "us6000txme",
         "magnitude": 5.2,
-        "latitude": -33.9661,
-        "longitude": -72.1079,
-        "depth_km": 29.072,
-        "time_ms": 1790350149560,
-        "place": "62 km SW of San Antonio, Chile",
+        "latitude": -33.9903,
+        "longitude": -72.1838,
+        "depth_km": 18.7,
+        "time_ms": 1790350147875,
+        "place": "69 km SW of San Antonio, Chile",
         "country_code": "CL",
         "shakemap_available": false
       },
@@ -1498,7 +1417,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.1
+    "seismic_hub_risk_score": 1.06
   },
   {
     "country": "",
@@ -1513,14 +1432,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.05,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.06,
     "strongest_earthquake": {
       "magnitude": 5.1,
-      "date": "2026-09-16",
-      "depth_km": 106.6,
-      "latitude": 14.2719,
-      "longitude": 145.4199
+      "date": "2026-10-04",
+      "depth_km": 10,
+      "latitude": 22.8191,
+      "longitude": 144.6508
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1553,6 +1472,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000tzid",
+        "magnitude": 5.1,
+        "latitude": 22.8191,
+        "longitude": 144.6508,
+        "depth_km": 10,
+        "time_ms": 1791112368352,
+        "place": "Volcano Islands, Japan region",
+        "country_code": "MP",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tx38",
         "magnitude": 5,
