@@ -486,18 +486,18 @@
           {
             "earthquake_id": "us7000thz3",
             "magnitude": 5.3,
-            "latitude": -17.3232,
-            "longitude": -173.4476,
+            "latitude": -17.2943,
+            "longitude": -173.4778,
             "depth_km": 10,
-            "time_ms": 1789618013528,
-            "place": "155 km SSE of Hihifo, Tonga",
-            "distance_km": 150.5,
-            "exposure_contribution": 0.69,
+            "time_ms": 1789618013715,
+            "place": "152 km SSE of Hihifo, Tonga",
+            "distance_km": 152.4,
+            "exposure_contribution": 0.67,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.88
+        "exposure_score": 1.86
       }
     ],
     "earthquakes": [
@@ -570,11 +570,11 @@
       {
         "id": "us7000thz3",
         "magnitude": 5.3,
-        "latitude": -17.3232,
-        "longitude": -173.4476,
+        "latitude": -17.2943,
+        "longitude": -173.4778,
         "depth_km": 10,
-        "time_ms": 1789618013528,
-        "place": "155 km SSE of Hihifo, Tonga",
+        "time_ms": 1789618013715,
+        "place": "152 km SSE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -590,7 +590,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.65
+    "seismic_hub_risk_score": 4.63
   },
   {
     "country": "",
@@ -966,14 +966,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.14,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.22,
     "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-10-02",
-      "depth_km": 29.5,
-      "latitude": 51.6873,
-      "longitude": 159.7398
+      "magnitude": 5.9,
+      "date": "2026-10-06",
+      "depth_km": 26.0,
+      "latitude": 48.4554,
+      "longitude": 154.8085
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1039,12 +1039,36 @@
             "exposure_contribution": 0.32,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tz8c",
+            "magnitude": 5,
+            "latitude": 51.5289,
+            "longitude": 159.612,
+            "depth_km": 10,
+            "time_ms": 1790972848083,
+            "place": "176 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 198.7,
+            "exposure_contribution": 0.3,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.94
+        "exposure_score": 2.24
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000u0hy",
+        "magnitude": 5.9,
+        "latitude": 48.4554,
+        "longitude": 154.8085,
+        "depth_km": 26.047,
+        "time_ms": 1791305301805,
+        "place": "264 km SSW of Severo-Kuril’sk, Russia",
+        "country_code": "RU",
+        "shakemap_available": true
+      },
       {
         "id": "us6000tze2",
         "magnitude": 5.1,
@@ -1080,12 +1104,12 @@
       },
       {
         "id": "us6000tz8c",
-        "magnitude": 5.1,
-        "latitude": 51.3149,
-        "longitude": 159.665,
+        "magnitude": 5,
+        "latitude": 51.5289,
+        "longitude": 159.612,
         "depth_km": 10,
-        "time_ms": 1790972847120,
-        "place": "199 km SSE of Vilyuchinsk, Russia",
+        "time_ms": 1790972848083,
+        "place": "176 km SSE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -1123,7 +1147,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.94
+    "seismic_hub_risk_score": 2.24
   },
   {
     "country": "",
@@ -1138,8 +1162,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.22,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.27,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-09-10",
@@ -1234,39 +1258,6 @@
         "place": "southern East Pacific Rise",
         "country_code": "CL",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000tepx",
-        "magnitude": 5.2,
-        "latitude": -24.3673,
-        "longitude": -115.9109,
-        "depth_km": 10,
-        "time_ms": 1788696015193,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tepa",
-        "magnitude": 5.1,
-        "latitude": -24.3833,
-        "longitude": -116.2065,
-        "depth_km": 10,
-        "time_ms": 1788691099070,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tep6",
-        "magnitude": 5.2,
-        "latitude": -24.4882,
-        "longitude": -115.6508,
-        "depth_km": 10,
-        "time_ms": 1788690748205,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.06
