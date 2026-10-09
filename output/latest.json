@@ -387,6 +387,145 @@
   },
   {
     "country": "",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.27,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-10-08",
+      "depth_km": 52.1,
+      "latitude": 5.6006,
+      "longitude": 125.1521
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 178.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6006,
+            "longitude": 125.1521,
+            "depth_km": 52.054,
+            "time_ms": 1791446879114,
+            "place": "17 km SW of Burias, Philippines",
+            "distance_km": 178.1,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.61
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 51.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6006,
+            "longitude": 125.1521,
+            "depth_km": 52.054,
+            "time_ms": 1791446879114,
+            "place": "17 km SW of Burias, Philippines",
+            "distance_km": 51.1,
+            "exposure_contribution": 2.58,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tyq7",
+            "magnitude": 5,
+            "latitude": 6.1116,
+            "longitude": 123.8599,
+            "depth_km": 10,
+            "time_ms": 1790832850634,
+            "place": "38 km WSW of Palimbang, Philippines",
+            "distance_km": 136.8,
+            "exposure_contribution": 0.57,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tj1s",
+            "magnitude": 5.3,
+            "latitude": 4.5364,
+            "longitude": 125.3444,
+            "depth_km": 10,
+            "time_ms": 1790034493188,
+            "place": "96 km S of Sarangani, Philippines",
+            "distance_km": 171.3,
+            "exposure_contribution": 0.55,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.7
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000u0x4",
+        "magnitude": 5.5,
+        "latitude": 5.6006,
+        "longitude": 125.1521,
+        "depth_km": 52.054,
+        "time_ms": 1791446879114,
+        "place": "17 km SW of Burias, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tyq7",
+        "magnitude": 5,
+        "latitude": 6.1116,
+        "longitude": 123.8599,
+        "depth_km": 10,
+        "time_ms": 1790832850634,
+        "place": "38 km WSW of Palimbang, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tj1s",
+        "magnitude": 5.3,
+        "latitude": 4.5364,
+        "longitude": 125.3444,
+        "depth_km": 10,
+        "time_ms": 1790034493188,
+        "place": "96 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 4.31
+  },
+  {
+    "country": "",
     "iso_alpha2": "TO",
     "iso_alpha3": "",
     "capital": "",
@@ -398,8 +537,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.16,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.17,
     "strongest_earthquake": {
       "magnitude": 5.4,
       "date": "2026-09-29",
@@ -468,21 +607,8 @@
         "latitude": -18.5853,
         "longitude": -173.962006,
         "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 29.2,
+        "closest_quake_distance_km": 152.4,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tftd",
-            "magnitude": 5.1,
-            "latitude": -18.3792,
-            "longitude": -174.1334,
-            "depth_km": 86.077,
-            "time_ms": 1788868279507,
-            "place": "34 km NNW of Neiafu, Tonga",
-            "distance_km": 29.2,
-            "exposure_contribution": 1.19,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000thz3",
             "magnitude": 5.3,
@@ -497,7 +623,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.86
+        "exposure_score": 0.67
       }
     ],
     "earthquakes": [
@@ -577,20 +703,9 @@
         "place": "152 km SSE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tftd",
-        "magnitude": 5.1,
-        "latitude": -18.3792,
-        "longitude": -174.1334,
-        "depth_km": 86.077,
-        "time_ms": 1788868279507,
-        "place": "34 km NNW of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.63
+    "seismic_hub_risk_score": 3.44
   },
   {
     "country": "",
@@ -605,8 +720,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 19,
-    "avg_magnitude": 5.27,
+    "earthquake_count": 18,
+    "avg_magnitude": 5.24,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -742,6 +857,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000u0wa",
+        "magnitude": 5,
+        "latitude": -7.7761,
+        "longitude": 120.5395,
+        "depth_km": 10,
+        "time_ms": 1791434939943,
+        "place": "92 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000tzi5",
         "magnitude": 5,
         "latitude": -8.2698,
@@ -820,11 +946,11 @@
       },
       {
         "id": "us7000tiur",
-        "magnitude": 5.5,
-        "latitude": -8.307,
-        "longitude": 120.5793,
+        "magnitude": 5,
+        "latitude": -8.3118,
+        "longitude": 120.5899,
         "depth_km": 10,
-        "time_ms": 1789954896315,
+        "time_ms": 1789954896445,
         "place": "35 km NNE of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
@@ -925,28 +1051,6 @@
         "depth_km": 10,
         "time_ms": 1788937622446,
         "place": "162 km SSW of Sarangani, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tfum",
-        "magnitude": 5.2,
-        "latitude": -7.7172,
-        "longitude": 121.0531,
-        "depth_km": 10,
-        "time_ms": 1788881794825,
-        "place": "118 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tfr8",
-        "magnitude": 5.2,
-        "latitude": -8.152,
-        "longitude": 120.5257,
-        "depth_km": 10,
-        "time_ms": 1788842428006,
-        "place": "51 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       }
@@ -1633,5 +1737,94 @@
       }
     ],
     "seismic_hub_risk_score": 0.63
+  },
+  {
+    "country": "",
+    "iso_alpha2": "WF",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.37,
+    "strongest_earthquake": {
+      "magnitude": 5.7,
+      "date": "2026-09-23",
+      "depth_km": 10,
+      "latitude": -14.8019,
+      "longitude": -175.1949
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Hihifo Airport",
+        "iata_code": "WLS",
+        "latitude": -13.239445,
+        "longitude": -176.19865,
+        "municipality": "Wallis Island",
+        "closest_quake_distance_km": 195.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000thzw",
+            "magnitude": 5.3,
+            "latitude": -14.3959,
+            "longitude": -174.8386,
+            "depth_km": 10,
+            "time_ms": 1789627360709,
+            "place": "189 km SE of Mata-Utu, Wallis and Futuna",
+            "distance_km": 195.2,
+            "exposure_contribution": 0.44,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.44
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000u0xn",
+        "magnitude": 5.1,
+        "latitude": -18.0147,
+        "longitude": -178.4545,
+        "depth_km": 602.272,
+        "time_ms": 1791454048642,
+        "place": "236 km E of Levuka, Fiji",
+        "country_code": "WF",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tx3m",
+        "magnitude": 5.7,
+        "latitude": -14.8019,
+        "longitude": -175.1949,
+        "depth_km": 10,
+        "time_ms": 1790174462688,
+        "place": "197 km NW of Hihifo, Tonga",
+        "country_code": "WF",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000thzw",
+        "magnitude": 5.3,
+        "latitude": -14.3959,
+        "longitude": -174.8386,
+        "depth_km": 10,
+        "time_ms": 1789627360709,
+        "place": "189 km SE of Mata-Utu, Wallis and Futuna",
+        "country_code": "WF",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.44
   }
 ]
