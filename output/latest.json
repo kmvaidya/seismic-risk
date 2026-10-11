@@ -387,145 +387,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.27,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-10-08",
-      "depth_km": 52.1,
-      "latitude": 5.6006,
-      "longitude": 125.1521
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 178.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u0x4",
-            "magnitude": 5.5,
-            "latitude": 5.6006,
-            "longitude": 125.1521,
-            "depth_km": 52.054,
-            "time_ms": 1791446879114,
-            "place": "17 km SW of Burias, Philippines",
-            "distance_km": 178.1,
-            "exposure_contribution": 0.61,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.61
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 51.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u0x4",
-            "magnitude": 5.5,
-            "latitude": 5.6006,
-            "longitude": 125.1521,
-            "depth_km": 52.054,
-            "time_ms": 1791446879114,
-            "place": "17 km SW of Burias, Philippines",
-            "distance_km": 51.1,
-            "exposure_contribution": 2.58,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tyq7",
-            "magnitude": 5,
-            "latitude": 6.1116,
-            "longitude": 123.8599,
-            "depth_km": 10,
-            "time_ms": 1790832850634,
-            "place": "38 km WSW of Palimbang, Philippines",
-            "distance_km": 136.8,
-            "exposure_contribution": 0.57,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tj1s",
-            "magnitude": 5.3,
-            "latitude": 4.5364,
-            "longitude": 125.3444,
-            "depth_km": 10,
-            "time_ms": 1790034493188,
-            "place": "96 km S of Sarangani, Philippines",
-            "distance_km": 171.3,
-            "exposure_contribution": 0.55,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 3.7
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000u0x4",
-        "magnitude": 5.5,
-        "latitude": 5.6006,
-        "longitude": 125.1521,
-        "depth_km": 52.054,
-        "time_ms": 1791446879114,
-        "place": "17 km SW of Burias, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tyq7",
-        "magnitude": 5,
-        "latitude": 6.1116,
-        "longitude": 123.8599,
-        "depth_km": 10,
-        "time_ms": 1790832850634,
-        "place": "38 km WSW of Palimbang, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tj1s",
-        "magnitude": 5.3,
-        "latitude": 4.5364,
-        "longitude": 125.3444,
-        "depth_km": 10,
-        "time_ms": 1790034493188,
-        "place": "96 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 4.31
-  },
-  {
-    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -537,8 +398,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.25,
+    "earthquake_count": 20,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-09-11",
@@ -608,9 +469,35 @@
             "exposure_contribution": 0.57,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us6000u1bs",
+            "magnitude": 5.1,
+            "latitude": 1.416,
+            "longitude": 126.3601,
+            "depth_km": 10,
+            "time_ms": 1791597642634,
+            "place": "133 km WNW of Ternate, Indonesia",
+            "distance_km": 160.1,
+            "exposure_contribution": 0.49,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000u1cv",
+            "magnitude": 5,
+            "latitude": 1.6248,
+            "longitude": 126.3886,
+            "depth_km": 10,
+            "time_ms": 1791610321552,
+            "place": "141 km E of Bitung, Indonesia",
+            "distance_km": 162.8,
+            "exposure_contribution": 0.43,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.2
+        "exposure_score": 2.12
       },
       {
         "name": "Halim Perdanakusuma International Airport",
@@ -686,6 +573,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000u1cv",
+        "magnitude": 5,
+        "latitude": 1.6248,
+        "longitude": 126.3886,
+        "depth_km": 10,
+        "time_ms": 1791610321552,
+        "place": "141 km E of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u1bs",
+        "magnitude": 5.1,
+        "latitude": 1.416,
+        "longitude": 126.3601,
+        "depth_km": 10,
+        "time_ms": 1791597642634,
+        "place": "133 km WNW of Ternate, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us6000u13v",
         "magnitude": 5.2,
@@ -885,7 +794,146 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.71
+    "seismic_hub_risk_score": 4.63
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.27,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-10-08",
+      "depth_km": 52.1,
+      "latitude": 5.6006,
+      "longitude": 125.1521
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 178.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6006,
+            "longitude": 125.1521,
+            "depth_km": 52.054,
+            "time_ms": 1791446879114,
+            "place": "17 km SW of Burias, Philippines",
+            "distance_km": 178.1,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.61
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 51.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6006,
+            "longitude": 125.1521,
+            "depth_km": 52.054,
+            "time_ms": 1791446879114,
+            "place": "17 km SW of Burias, Philippines",
+            "distance_km": 51.1,
+            "exposure_contribution": 2.58,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tyq7",
+            "magnitude": 5,
+            "latitude": 6.1116,
+            "longitude": 123.8599,
+            "depth_km": 10,
+            "time_ms": 1790832850634,
+            "place": "38 km WSW of Palimbang, Philippines",
+            "distance_km": 136.8,
+            "exposure_contribution": 0.57,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tj1s",
+            "magnitude": 5.3,
+            "latitude": 4.5364,
+            "longitude": 125.3444,
+            "depth_km": 10,
+            "time_ms": 1790034493188,
+            "place": "96 km S of Sarangani, Philippines",
+            "distance_km": 171.3,
+            "exposure_contribution": 0.55,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.7
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000u0x4",
+        "magnitude": 5.5,
+        "latitude": 5.6006,
+        "longitude": 125.1521,
+        "depth_km": 52.054,
+        "time_ms": 1791446879114,
+        "place": "17 km SW of Burias, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tyq7",
+        "magnitude": 5,
+        "latitude": 6.1116,
+        "longitude": 123.8599,
+        "depth_km": 10,
+        "time_ms": 1790832850634,
+        "place": "38 km WSW of Palimbang, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tj1s",
+        "magnitude": 5.3,
+        "latitude": 4.5364,
+        "longitude": 125.3444,
+        "depth_km": 10,
+        "time_ms": 1790034493188,
+        "place": "96 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 4.31
   },
   {
     "country": "",
@@ -1415,13 +1463,13 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 3,
-    "avg_magnitude": 5.27,
+    "avg_magnitude": 5.23,
     "strongest_earthquake": {
-      "magnitude": 5.4,
-      "date": "2026-09-10",
+      "magnitude": 5.3,
+      "date": "2026-10-10",
       "depth_km": 10,
-      "latitude": -34.7752,
-      "longitude": -109.1447
+      "latitude": -37.1165,
+      "longitude": -95.2667
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1479,6 +1527,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000u1gs",
+        "magnitude": 5.3,
+        "latitude": -37.1165,
+        "longitude": -95.2667,
+        "depth_km": 10,
+        "time_ms": 1791668042337,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000txme",
         "magnitude": 5.2,
         "latitude": -33.9903,
@@ -1499,17 +1558,6 @@
         "place": "167 km WNW of Mejillones, Chile",
         "country_code": "CL",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tgey",
-        "magnitude": 5.4,
-        "latitude": -34.7752,
-        "longitude": -109.1447,
-        "depth_km": 10,
-        "time_ms": 1789064479077,
-        "place": "southern East Pacific Rise",
-        "country_code": "CL",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.06
@@ -1527,8 +1575,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.48,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.49,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
@@ -1537,9 +1585,9 @@
       "longitude": -80.769
     },
     "highest_pager_alert": "red",
-    "max_felt_reports": 719,
+    "max_felt_reports": 1200,
     "tsunami_warning_issued": true,
-    "significant_events_count": 3,
+    "significant_events_count": 4,
     "exposed_airports": [
       {
         "name": "Tocumen International Airport",
@@ -1580,6 +1628,28 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000u1cf",
+        "magnitude": 6,
+        "latitude": 7.5068,
+        "longitude": -80.5985,
+        "depth_km": 10,
+        "time_ms": 1791605641786,
+        "place": "7 km N of La Tronosa, Panama",
+        "country_code": "PA",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u1bu",
+        "magnitude": 5.1,
+        "latitude": 7.4178,
+        "longitude": -80.4348,
+        "depth_km": 10,
+        "time_ms": 1791599192740,
+        "place": "1 km NNE of Tonosí, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
       {
         "id": "us6000u1ay",
         "magnitude": 5.4,
@@ -1869,8 +1939,8 @@
       "magnitude": 5,
       "date": "2026-09-27",
       "depth_km": 10,
-      "latitude": 35.3861,
-      "longitude": 99.5536
+      "latitude": 35.3554,
+      "longitude": 99.5226
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1919,10 +1989,10 @@
       {
         "id": "us6000txzj",
         "magnitude": 5,
-        "latitude": 35.3861,
-        "longitude": 99.5536,
+        "latitude": 35.3554,
+        "longitude": 99.5226,
         "depth_km": 10,
-        "time_ms": 1790527390268,
+        "time_ms": 1790527390066,
         "place": "191 km NW of Oula Xiuma, China",
         "country_code": "CN",
         "shakemap_available": false
