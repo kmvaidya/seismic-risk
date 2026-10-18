@@ -396,8 +396,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-10-16",
@@ -484,6 +484,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000tz7b",
+            "magnitude": 5,
+            "latitude": 51.6115,
+            "longitude": 159.7723,
+            "depth_km": 10,
+            "time_ms": 1790965520937,
+            "place": "173 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 195.0,
+            "exposure_contribution": 0.31,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us6000tz8c",
             "magnitude": 5,
             "latitude": 51.5289,
@@ -497,7 +510,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.83
+        "exposure_score": 5.14
       }
     ],
     "earthquakes": [
@@ -535,17 +548,6 @@
         "shakemap_available": true
       },
       {
-        "id": "us6000tze2",
-        "magnitude": 5.1,
-        "latitude": 51.5457,
-        "longitude": 159.8296,
-        "depth_km": 10,
-        "time_ms": 1791057644104,
-        "place": "182 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000tzal",
         "magnitude": 5,
         "latitude": 52.0836,
@@ -581,11 +583,11 @@
       {
         "id": "us6000tz7b",
         "magnitude": 5,
-        "latitude": 51.5775,
-        "longitude": 159.8307,
+        "latitude": 51.6115,
+        "longitude": 159.7723,
         "depth_km": 10,
-        "time_ms": 1790965520940,
-        "place": "179 km SSE of Vilyuchinsk, Russia",
+        "time_ms": 1790965520937,
+        "place": "173 km SSE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -612,7 +614,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.83
+    "seismic_hub_risk_score": 5.14
   },
   {
     "country": "",
@@ -627,7 +629,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 19,
+    "earthquake_count": 18,
     "avg_magnitude": 5.17,
     "strongest_earthquake": {
       "magnitude": 5.9,
@@ -711,19 +713,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us7000thzp",
-            "magnitude": 5.2,
-            "latitude": 1.2794,
-            "longitude": 126.3131,
-            "depth_km": 10,
-            "time_ms": 1789626048427,
-            "place": "130 km WNW of Ternate, Indonesia",
-            "distance_km": 157.0,
-            "exposure_contribution": 0.57,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000u1bs",
             "magnitude": 5.1,
             "latitude": 1.416,
@@ -750,7 +739,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.12
+        "exposure_score": 1.55
       },
       {
         "name": "Sultan Iskandar Muda International Airport",
@@ -975,20 +964,9 @@
         "place": "182 km SSW of Pelabuhanratu, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000thzp",
-        "magnitude": 5.2,
-        "latitude": 1.2794,
-        "longitude": 126.3131,
-        "depth_km": 10,
-        "time_ms": 1789626048427,
-        "place": "130 km WNW of Ternate, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.29
+    "seismic_hub_risk_score": 3.72
   },
   {
     "country": "",
@@ -1003,7 +981,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
+    "earthquake_count": 10,
     "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 5.9,
@@ -1087,22 +1065,9 @@
             "exposure_contribution": 0.4,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000thz3",
-            "magnitude": 5.3,
-            "latitude": -17.2943,
-            "longitude": -173.4778,
-            "depth_km": 10,
-            "time_ms": 1789618013715,
-            "place": "152 km SSE of Hihifo, Tonga",
-            "distance_km": 152.4,
-            "exposure_contribution": 0.67,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.08
+        "exposure_score": 0.4
       }
     ],
     "earthquakes": [
@@ -1215,20 +1180,9 @@
         "place": "Kermadec Islands region",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000thz3",
-        "magnitude": 5.3,
-        "latitude": -17.2943,
-        "longitude": -173.4778,
-        "depth_km": 10,
-        "time_ms": 1789618013715,
-        "place": "152 km SSE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.85
+    "seismic_hub_risk_score": 3.17
   },
   {
     "country": "",
@@ -1253,7 +1207,7 @@
       "longitude": -80.769
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 1945,
+    "max_felt_reports": 1959,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1486,11 +1440,11 @@
       {
         "id": "us6000tzj8",
         "magnitude": 5,
-        "latitude": 5.3695,
-        "longitude": -82.7171,
+        "latitude": 5.251,
+        "longitude": -82.6909,
         "depth_km": 10,
-        "time_ms": 1791122770385,
-        "place": "295 km S of Burica, Panama",
+        "time_ms": 1791122770091,
+        "place": "south of Panama",
         "country_code": "PA",
         "shakemap_available": false
       }
@@ -1857,95 +1811,6 @@
       }
     ],
     "seismic_hub_risk_score": 0.6
-  },
-  {
-    "country": "",
-    "iso_alpha2": "WF",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.37,
-    "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-09-23",
-      "depth_km": 10,
-      "latitude": -14.8019,
-      "longitude": -175.1949
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Hihifo Airport",
-        "iata_code": "WLS",
-        "latitude": -13.239445,
-        "longitude": -176.19865,
-        "municipality": "Wallis Island",
-        "closest_quake_distance_km": 195.2,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000thzw",
-            "magnitude": 5.3,
-            "latitude": -14.3959,
-            "longitude": -174.8386,
-            "depth_km": 10,
-            "time_ms": 1789627360709,
-            "place": "189 km SE of Mata-Utu, Wallis and Futuna",
-            "distance_km": 195.2,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.44
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000u0xn",
-        "magnitude": 5.1,
-        "latitude": -18.0147,
-        "longitude": -178.4545,
-        "depth_km": 602.272,
-        "time_ms": 1791454048642,
-        "place": "236 km E of Levuka, Fiji",
-        "country_code": "WF",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tx3m",
-        "magnitude": 5.7,
-        "latitude": -14.8019,
-        "longitude": -175.1949,
-        "depth_km": 10,
-        "time_ms": 1790174462688,
-        "place": "197 km NW of Hihifo, Tonga",
-        "country_code": "WF",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000thzw",
-        "magnitude": 5.3,
-        "latitude": -14.3959,
-        "longitude": -174.8386,
-        "depth_km": 10,
-        "time_ms": 1789627360709,
-        "place": "189 km SE of Mata-Utu, Wallis and Futuna",
-        "country_code": "WF",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.44
   },
   {
     "country": "",
