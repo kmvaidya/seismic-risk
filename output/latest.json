@@ -161,7 +161,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.4,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-10-16",
@@ -223,14 +223,14 @@
           },
           {
             "earthquake_id": "us6000tzal",
-            "magnitude": 5,
-            "latitude": 52.0836,
-            "longitude": 160.4217,
+            "magnitude": 5.1,
+            "latitude": 52.1219,
+            "longitude": 160.599,
             "depth_km": 10,
-            "time_ms": 1790996346296,
-            "place": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 179.6,
-            "exposure_contribution": 0.36,
+            "time_ms": 1790996346658,
+            "place": "169 km SE of Petropavlovsk-Kamchatsky, Russia",
+            "distance_km": 185.9,
+            "exposure_contribution": 0.38,
             "pga_g": null,
             "mmi": null
           },
@@ -274,7 +274,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.14
+        "exposure_score": 5.16
       }
     ],
     "earthquakes": [
@@ -313,12 +313,12 @@
       },
       {
         "id": "us6000tzal",
-        "magnitude": 5,
-        "latitude": 52.0836,
-        "longitude": 160.4217,
+        "magnitude": 5.1,
+        "latitude": 52.1219,
+        "longitude": 160.599,
         "depth_km": 10,
-        "time_ms": 1790996346296,
-        "place": "163 km SE of Petropavlovsk-Kamchatsky, Russia",
+        "time_ms": 1790996346658,
+        "place": "169 km SE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -378,7 +378,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.14
+    "seismic_hub_risk_score": 5.16
   },
   {
     "country": "",
@@ -457,18 +457,18 @@
           {
             "earthquake_id": "us6000tyc1",
             "magnitude": 5.4,
-            "latitude": -20.6773,
-            "longitude": -174.0813,
+            "latitude": -20.4903,
+            "longitude": -174.214,
             "depth_km": 10,
-            "time_ms": 1790685635064,
-            "place": "99 km SSE of Pangai, Tonga",
-            "distance_km": 127.4,
-            "exposure_contribution": 1.0,
+            "time_ms": 1790685636353,
+            "place": "76 km S of Pangai, Tonga",
+            "distance_km": 128.1,
+            "exposure_contribution": 0.99,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 4.02
+        "exposure_score": 4.01
       },
       {
         "name": "Vava'u International Airport",
@@ -554,11 +554,11 @@
       {
         "id": "us6000tyc1",
         "magnitude": 5.4,
-        "latitude": -20.6773,
-        "longitude": -174.0813,
+        "latitude": -20.4903,
+        "longitude": -174.214,
         "depth_km": 10,
-        "time_ms": 1790685635064,
-        "place": "99 km SSE of Pangai, Tonga",
+        "time_ms": 1790685636353,
+        "place": "76 km S of Pangai, Tonga",
         "country_code": "TO",
         "shakemap_available": true
       },
@@ -585,7 +585,133 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.42
+    "seismic_hub_risk_score": 4.41
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.33,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-10-08",
+      "depth_km": 57.8,
+      "latitude": 5.6177,
+      "longitude": 125.1838
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 175.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6177,
+            "longitude": 125.1838,
+            "depth_km": 57.803,
+            "time_ms": 1791446879721,
+            "place": "13 km SW of Burias, Philippines",
+            "distance_km": 175.3,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.61
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 49.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6177,
+            "longitude": 125.1838,
+            "depth_km": 57.803,
+            "time_ms": 1791446879721,
+            "place": "13 km SW of Burias, Philippines",
+            "distance_km": 49.8,
+            "exposure_contribution": 2.42,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tyq7",
+            "magnitude": 5.3,
+            "latitude": 6.0524,
+            "longitude": 123.8339,
+            "depth_km": 10,
+            "time_ms": 1790832850575,
+            "place": "42 km WSW of Palimbang, Philippines",
+            "distance_km": 139.6,
+            "exposure_contribution": 0.77,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.2
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000u3t6",
+        "magnitude": 5.2,
+        "latitude": 13.0297,
+        "longitude": 125.5898,
+        "depth_km": 10,
+        "time_ms": 1792571861317,
+        "place": "68 km NE of Cabatuan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u0x4",
+        "magnitude": 5.5,
+        "latitude": 5.6177,
+        "longitude": 125.1838,
+        "depth_km": 57.803,
+        "time_ms": 1791446879721,
+        "place": "13 km SW of Burias, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tyq7",
+        "magnitude": 5.3,
+        "latitude": 6.0524,
+        "longitude": 123.8339,
+        "depth_km": 10,
+        "time_ms": 1790832850575,
+        "place": "42 km WSW of Palimbang, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 3.81
   },
   {
     "country": "",
@@ -600,7 +726,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
+    "earthquake_count": 15,
     "avg_magnitude": 5.15,
     "strongest_earthquake": {
       "magnitude": 5.9,
@@ -891,28 +1017,6 @@
         "place": "123 km N of Metinaro, Timor Leste",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000tj1s",
-        "magnitude": 5.3,
-        "latitude": 4.5016,
-        "longitude": 125.2831,
-        "depth_km": 10,
-        "time_ms": 1790034493035,
-        "place": "101 km SSW of Sarangani, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tiur",
-        "magnitude": 5,
-        "latitude": -8.3118,
-        "longitude": 120.5899,
-        "depth_km": 10,
-        "time_ms": 1789954896445,
-        "place": "35 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 3.65
@@ -1268,8 +1372,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.42,
+    "earthquake_count": 23,
+    "avg_magnitude": 5.39,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
@@ -1278,7 +1382,7 @@
       "longitude": -80.769
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 1987,
+    "max_felt_reports": 1944,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1322,6 +1426,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000u3rr",
+        "magnitude": 5,
+        "latitude": 4.5985,
+        "longitude": -82.7031,
+        "depth_km": 10,
+        "time_ms": 1792545602961,
+        "place": "south of Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000u3nl",
         "magnitude": 5.4,
         "latitude": 6.3226,
@@ -1333,13 +1448,24 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000u3vr",
+        "magnitude": 5,
+        "latitude": 7.7817,
+        "longitude": -81.3767,
+        "depth_km": 10,
+        "time_ms": 1791847670634,
+        "place": "8 km NW of Río Grande, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000u1wn",
         "magnitude": 6.1,
-        "latitude": 7.6896,
-        "longitude": -81.4896,
+        "latitude": 7.7098,
+        "longitude": -81.4715,
         "depth_km": 11,
-        "time_ms": 1791847236003,
-        "place": "17 km W of Río Grande, Panama",
+        "time_ms": 1791847236005,
+        "place": "15 km W of Río Grande, Panama",
         "country_code": "PA",
         "shakemap_available": true
       },
@@ -1557,141 +1683,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "CL",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.16,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-10-10",
-      "depth_km": 10,
-      "latitude": -37.1165,
-      "longitude": -95.2667
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Comodoro Arturo Merino Benítez International Airport",
-        "iata_code": "SCL",
-        "latitude": -33.393002,
-        "longitude": -70.785797,
-        "municipality": "Santiago",
-        "closest_quake_distance_km": 145.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000txme",
-            "magnitude": 5.2,
-            "latitude": -33.9903,
-            "longitude": -72.1838,
-            "depth_km": 18.7,
-            "time_ms": 1790350147875,
-            "place": "69 km SW of San Antonio, Chile",
-            "distance_km": 145.4,
-            "exposure_contribution": 0.64,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.64
-      },
-      {
-        "name": "Andrés Sabella Gálvez International Airport",
-        "iata_code": "ANF",
-        "latitude": -23.445274,
-        "longitude": -70.445232,
-        "municipality": "Antofagasta",
-        "closest_quake_distance_km": 192.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tixc",
-            "magnitude": 5.2,
-            "latitude": -22.3472,
-            "longitude": -71.8981,
-            "depth_km": 10,
-            "time_ms": 1789991309030,
-            "place": "170 km WNW of Mejillones, Chile",
-            "distance_km": 192.5,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.4
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000u26f",
-        "magnitude": 5,
-        "latitude": -29.219,
-        "longitude": -71.9168,
-        "depth_km": 10,
-        "time_ms": 1791938205416,
-        "place": "98 km NW of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u26c",
-        "magnitude": 5.1,
-        "latitude": -29.2155,
-        "longitude": -71.8024,
-        "depth_km": 21.947,
-        "time_ms": 1791937847706,
-        "place": "93 km NNW of Coquimbo, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u1gs",
-        "magnitude": 5.3,
-        "latitude": -37.1165,
-        "longitude": -95.2667,
-        "depth_km": 10,
-        "time_ms": 1791668042337,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000txme",
-        "magnitude": 5.2,
-        "latitude": -33.9903,
-        "longitude": -72.1838,
-        "depth_km": 18.7,
-        "time_ms": 1790350147875,
-        "place": "69 km SW of San Antonio, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tixc",
-        "magnitude": 5.2,
-        "latitude": -22.3472,
-        "longitude": -71.8981,
-        "depth_km": 10,
-        "time_ms": 1789991309030,
-        "place": "170 km WNW of Mejillones, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.04
-  },
-  {
-    "country": "",
     "iso_alpha2": "FJ",
     "iso_alpha3": "",
     "capital": "",
@@ -1802,6 +1793,106 @@
       }
     ],
     "seismic_hub_risk_score": 0.69
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CL",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.15,
+    "strongest_earthquake": {
+      "magnitude": 5.3,
+      "date": "2026-10-10",
+      "depth_km": 10,
+      "latitude": -37.1165,
+      "longitude": -95.2667
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Comodoro Arturo Merino Benítez International Airport",
+        "iata_code": "SCL",
+        "latitude": -33.393002,
+        "longitude": -70.785797,
+        "municipality": "Santiago",
+        "closest_quake_distance_km": 145.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000txme",
+            "magnitude": 5.2,
+            "latitude": -33.9903,
+            "longitude": -72.1838,
+            "depth_km": 18.7,
+            "time_ms": 1790350147875,
+            "place": "69 km SW of San Antonio, Chile",
+            "distance_km": 145.4,
+            "exposure_contribution": 0.64,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.64
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000u26f",
+        "magnitude": 5,
+        "latitude": -29.219,
+        "longitude": -71.9168,
+        "depth_km": 10,
+        "time_ms": 1791938205416,
+        "place": "98 km NW of Coquimbo, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u26c",
+        "magnitude": 5.1,
+        "latitude": -29.2155,
+        "longitude": -71.8024,
+        "depth_km": 21.947,
+        "time_ms": 1791937847706,
+        "place": "93 km NNW of Coquimbo, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u1gs",
+        "magnitude": 5.3,
+        "latitude": -37.1165,
+        "longitude": -95.2667,
+        "depth_km": 10,
+        "time_ms": 1791668042337,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000txme",
+        "magnitude": 5.2,
+        "latitude": -33.9903,
+        "longitude": -72.1838,
+        "depth_km": 18.7,
+        "time_ms": 1790350147875,
+        "place": "69 km SW of San Antonio, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.64
   },
   {
     "country": "",
