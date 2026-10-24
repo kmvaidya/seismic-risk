@@ -76,20 +76,19 @@ curl "http://localhost:8000/risk?min_magnitude=4.0&days=14&format=csv"
 *Updated daily by [GitHub Actions](https://github.com/kmvaidya/seismic-risk/actions/workflows/daily-report.yml). View the [interactive map](https://kmvaidya.github.io/seismic-risk/latest.html).*
 
 <!-- LATEST_RESULTS_START -->
-*Last updated: 2026-10-23 10:45 UTC*
+*Last updated: 2026-10-24 10:01 UTC*
 
 | # | Country | ISO | Score | Trend | Quakes | Airports | Alert |
 |--:|:--------|:----|------:|:------|-------:|---------:|:------|
-| 1 |  |  | 7.9 | +7.8 | 3 | 3 | - |
+| 1 |  |  | 8.4 | +8.2 | 4 | 4 | - |
 | 2 |  |  | 5.7 | +5.5 | 8 | 2 | - |
-| 3 |  |  | 5.2 | +5.0 | 9 | 1 | green |
+| 3 |  |  | 4.7 | +4.6 | 8 | 1 | green |
 | 4 |  |  | 3.8 | +3.7 | 3 | 2 | - |
 | 5 |  |  | 3.6 | +3.5 | 14 | 3 | - |
 | 6 |  |  | 1.4 | +1.2 | 8 | 2 | orange |
 | 7 |  |  | 1.1 | +0.9 | 12 | 1 | - |
 | 8 |  |  | 1.1 | +0.9 | 23 | 1 | orange |
-| 9 |  |  | 0.7 | +0.5 | 3 | 2 | - |
-| 10 |  |  | 0.1 | ~ | 3 | 1 | - |
+| 9 |  |  | 0.1 | ~ | 3 | 1 | - |
 <!-- LATEST_RESULTS_END -->
 
 ## How It Works

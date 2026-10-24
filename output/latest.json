@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
       "magnitude": 5.5,
       "date": "2026-09-30",
@@ -75,6 +75,30 @@
         "exposure_score": 2.23
       },
       {
+        "name": "Aomori Airport",
+        "iata_code": "AOJ",
+        "latitude": 40.733777,
+        "longitude": 140.689477,
+        "municipality": "Aomori",
+        "closest_quake_distance_km": 162.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u4e2",
+            "magnitude": 5.1,
+            "latitude": 40.4159,
+            "longitude": 142.572,
+            "depth_km": 38.138,
+            "time_ms": 1792771671754,
+            "place": "72 km ENE of Noda, Japan",
+            "distance_km": 162.9,
+            "exposure_contribution": 0.46,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.46
+      },
+      {
         "name": "Tokyo Haneda International Airport",
         "iata_code": "HND",
         "latitude": 35.549678,
@@ -100,6 +124,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000u4e2",
+        "magnitude": 5.1,
+        "latitude": 40.4159,
+        "longitude": 142.572,
+        "depth_km": 38.138,
+        "time_ms": 1792771671754,
+        "place": "72 km ENE of Noda, Japan",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
       {
         "id": "us6000tyw6",
         "magnitude": 5.1,
@@ -134,7 +169,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 7.93
+    "seismic_hub_risk_score": 8.39
   },
   {
     "country": "",
@@ -356,8 +391,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.41,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.46,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-10-16",
@@ -388,19 +423,6 @@
             "place": "76 km NE of Ozernovskiy, Russia",
             "distance_km": 153.9,
             "exposure_contribution": 2.55,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tyku",
-            "magnitude": 5,
-            "latitude": 52.3167,
-            "longitude": 160.3332,
-            "depth_km": 35,
-            "time_ms": 1790792479257,
-            "place": "142 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 158.2,
-            "exposure_contribution": 0.43,
             "pga_g": null,
             "mmi": null
           },
@@ -470,7 +492,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.16
+        "exposure_score": 4.73
       }
     ],
     "earthquakes": [
@@ -561,20 +583,9 @@
         "place": "152 km SE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tyku",
-        "magnitude": 5,
-        "latitude": 52.3167,
-        "longitude": 160.3332,
-        "depth_km": 35,
-        "time_ms": 1790792479257,
-        "place": "142 km SE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.16
+    "seismic_hub_risk_score": 4.73
   },
   {
     "country": "",
@@ -809,18 +820,18 @@
         "latitude": 5.525087,
         "longitude": 95.41997,
         "municipality": "Banda Aceh",
-        "closest_quake_distance_km": 82.9,
+        "closest_quake_distance_km": 86.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tzfg",
             "magnitude": 5.3,
-            "latitude": 4.8247,
-            "longitude": 95.1622,
-            "depth_km": 56.274,
-            "time_ms": 1791070654235,
-            "place": "81 km SSW of Banda Aceh, Indonesia",
-            "distance_km": 82.9,
-            "exposure_contribution": 1.3,
+            "latitude": 4.7986,
+            "longitude": 95.1352,
+            "depth_km": 55.019,
+            "time_ms": 1791070654268,
+            "place": "85 km SSW of Banda Aceh, Indonesia",
+            "distance_km": 86.7,
+            "exposure_contribution": 1.25,
             "pga_g": null,
             "mmi": null
           },
@@ -838,7 +849,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.61
+        "exposure_score": 1.56
       }
     ],
     "earthquakes": [
@@ -955,11 +966,11 @@
       {
         "id": "us6000tzfg",
         "magnitude": 5.3,
-        "latitude": 4.8247,
-        "longitude": 95.1622,
-        "depth_km": 56.274,
-        "time_ms": 1791070654235,
-        "place": "81 km SSW of Banda Aceh, Indonesia",
+        "latitude": 4.7986,
+        "longitude": 95.1352,
+        "depth_km": 55.019,
+        "time_ms": 1791070654268,
+        "place": "85 km SSW of Banda Aceh, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -997,7 +1008,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.65
+    "seismic_hub_risk_score": 3.6
   },
   {
     "country": "",
@@ -1022,7 +1033,7 @@
       "longitude": 93.7797
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 6,
+    "max_felt_reports": 8,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -1404,7 +1415,7 @@
       "longitude": -80.769
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 1995,
+    "max_felt_reports": 1998,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1705,119 +1716,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "FJ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.0,
-    "strongest_earthquake": {
-      "magnitude": 5,
-      "date": "2026-10-05",
-      "depth_km": 518.4,
-      "latitude": -24.4774,
-      "longitude": 179.8632
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Nadi International Airport",
-        "iata_code": "NAN",
-        "latitude": -17.761822,
-        "longitude": 177.437843,
-        "municipality": "Nadi",
-        "closest_quake_distance_km": 170.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tx58",
-            "magnitude": 5,
-            "latitude": -16.3322,
-            "longitude": 178.0282,
-            "depth_km": 10,
-            "time_ms": 1790185566613,
-            "place": "138 km NNE of Ba, Fiji",
-            "distance_km": 170.9,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.39
-      },
-      {
-        "name": "Nausori International Airport",
-        "iata_code": "SUV",
-        "latitude": -18.044226,
-        "longitude": 178.561486,
-        "municipality": "Nausori",
-        "closest_quake_distance_km": 198.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tx58",
-            "magnitude": 5,
-            "latitude": -16.3322,
-            "longitude": 178.0282,
-            "depth_km": 10,
-            "time_ms": 1790185566613,
-            "place": "138 km NNE of Ba, Fiji",
-            "distance_km": 198.6,
-            "exposure_contribution": 0.3,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.3
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000tzsc",
-        "magnitude": 5,
-        "latitude": -24.4774,
-        "longitude": 179.8632,
-        "depth_km": 518.391,
-        "time_ms": 1791231779107,
-        "place": "south of the Fiji Islands",
-        "country_code": "FJ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tyzi",
-        "magnitude": 5,
-        "latitude": -24.7752,
-        "longitude": 178.6446,
-        "depth_km": 557.245,
-        "time_ms": 1790915225754,
-        "place": "south of the Fiji Islands",
-        "country_code": "FJ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tx58",
-        "magnitude": 5,
-        "latitude": -16.3322,
-        "longitude": 178.0282,
-        "depth_km": 10,
-        "time_ms": 1790185566613,
-        "place": "138 km NNE of Ba, Fiji",
-        "country_code": "FJ",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.69
-  },
-  {
-    "country": "",
     "iso_alpha2": "NZ",
     "iso_alpha3": "",
     "capital": "",
@@ -1834,9 +1732,9 @@
     "strongest_earthquake": {
       "magnitude": 5.3,
       "date": "2026-10-15",
-      "depth_km": 286.0,
-      "latitude": -38.5478,
-      "longitude": 175.3814
+      "depth_km": 283.8,
+      "latitude": -38.5782,
+      "longitude": 175.3818
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1849,17 +1747,17 @@
         "latitude": -37.01199,
         "longitude": 174.786331,
         "municipality": "Auckland",
-        "closest_quake_distance_km": 178.6,
+        "closest_quake_distance_km": 181.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000u2ev",
             "magnitude": 5.3,
-            "latitude": -38.5478,
-            "longitude": 175.3814,
-            "depth_km": 286.008,
-            "time_ms": 1792041931942,
-            "place": "43 km SSE of Otorohanga, New Zealand",
-            "distance_km": 178.6,
+            "latitude": -38.5782,
+            "longitude": 175.3818,
+            "depth_km": 283.842,
+            "time_ms": 1792041931982,
+            "place": "46 km SSE of Otorohanga, New Zealand",
+            "distance_km": 181.8,
             "exposure_contribution": 0.15,
             "pga_g": null,
             "mmi": null
@@ -1883,21 +1781,21 @@
       {
         "id": "us6000u2ev",
         "magnitude": 5.3,
-        "latitude": -38.5478,
-        "longitude": 175.3814,
-        "depth_km": 286.008,
-        "time_ms": 1792041931942,
-        "place": "43 km SSE of Otorohanga, New Zealand",
+        "latitude": -38.5782,
+        "longitude": 175.3818,
+        "depth_km": 283.842,
+        "time_ms": 1792041931982,
+        "place": "46 km SSE of Otorohanga, New Zealand",
         "country_code": "NZ",
         "shakemap_available": true
       },
       {
         "id": "us6000tz1c",
         "magnitude": 5,
-        "latitude": -39.1361,
-        "longitude": 174.2299,
+        "latitude": -39.144,
+        "longitude": 174.2319,
         "depth_km": 10,
-        "time_ms": 1790949435825,
+        "time_ms": 1790949435823,
         "place": "4 km ENE of Inglewood, New Zealand",
         "country_code": "NZ",
         "shakemap_available": true

@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-24",
+  "scoring_method": "shakemap",
+  "countries": [
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 8.39,
+      "earthquake_count": 4,
+      "exposed_airport_count": 4,
+      "avg_magnitude": 5.25,
+      "airports": [
+        {
+          "iata_code": "NRT",
+          "name": "Narita International Airport",
+          "exposure_score": 3.97,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 16.4,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "IBR",
+          "name": "Ibaraki Airport",
+          "exposure_score": 2.23,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 54.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "AOJ",
+          "name": "Aomori Airport",
+          "exposure_score": 0.46,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 162.9,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "HND",
+          "name": "Tokyo Haneda International Airport",
+          "exposure_score": 1.73,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 71.1,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 5.69,
+      "earthquake_count": 8,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.28,
+      "airports": [
+        {
+          "iata_code": "TBU",
+          "name": "Fua'amotu International Airport",
+          "exposure_score": 5.29,
+          "nearby_quake_count": 4,
+          "closest_quake_km": 52.7,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "VAV",
+          "name": "Vava'u International Airport",
+          "exposure_score": 0.4,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 125.6,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 4.73,
+      "earthquake_count": 8,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.46,
+      "airports": [
+        {
+          "iata_code": "PKC",
+          "name": "Yelizovo Airport",
+          "exposure_score": 4.73,
+          "nearby_quake_count": 6,
+          "closest_quake_km": 153.9,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 3.81,
+      "earthquake_count": 3,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.33,
+      "airports": [
+        {
+          "iata_code": "DVO",
+          "name": "Francisco Bangoy International Airport",
+          "exposure_score": 0.61,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 175.3,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "GES",
+          "name": "General Santos International Airport",
+          "exposure_score": 3.2,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 49.8,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 3.6,
+      "earthquake_count": 14,
+      "exposed_airport_count": 3,
+      "avg_magnitude": 5.16,
+      "airports": [
+        {
+          "iata_code": "DPS",
+          "name": "Denpasar I Gusti Ngurah Rai International Airport",
+          "exposure_score": 0.49,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 160.4,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "MDC",
+          "name": "Sam Ratulangi International Airport",
+          "exposure_score": 1.55,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 142.6,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "BTJ",
+          "name": "Sultan Iskandar Muda International Airport",
+          "exposure_score": 1.56,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 86.7,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.39,
+      "earthquake_count": 8,
+      "exposed_airport_count": 2,
+      "avg_magnitude": 5.29,
+      "airports": [
+        {
+          "iata_code": "TFU",
+          "name": "Chengdu Tianfu International Airport",
+          "exposure_score": 0.96,
+          "nearby_quake_count": 3,
+          "closest_quake_km": 181.9,
+          "max_pga_g": null
+        },
+        {
+          "iata_code": "CTU",
+          "name": "Chengdu Shuangliu International Airport",
+          "exposure_score": 0.43,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 162.0,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.07,
+      "earthquake_count": 12,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.31,
+      "airports": [
+        {
+          "iata_code": "LAE",
+          "name": "Nadzab Tomodachi International Airport",
+          "exposure_score": 1.07,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 90.6,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 1.05,
+      "earthquake_count": 23,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.39,
+      "airports": [
+        {
+          "iata_code": "PTY",
+          "name": "Tocumen International Airport",
+          "exposure_score": 1.05,
+          "nearby_quake_count": 2,
+          "closest_quake_km": 192.9,
+          "max_pga_g": null
+        }
+      ]
+    },
+    {
+      "iso_alpha3": "",
+      "country": "",
+      "score": 0.15,
+      "earthquake_count": 3,
+      "exposed_airport_count": 1,
+      "avg_magnitude": 5.1,
+      "airports": [
+        {
+          "iata_code": "AKL",
+          "name": "Auckland International Airport",
+          "exposure_score": 0.15,
+          "nearby_quake_count": 1,
+          "closest_quake_km": 181.8,
+          "max_pga_g": null
+        }
+      ]
+    }
+  ]
+}
