@@ -13,7 +13,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 7,
-    "avg_magnitude": 5.44,
+    "avg_magnitude": 5.43,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -32,23 +32,23 @@
         "latitude": 35.76858,
         "longitude": 140.388714,
         "municipality": "Narita",
-        "closest_quake_distance_km": 16.4,
+        "closest_quake_distance_km": 15.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tytg",
-            "magnitude": 5.3,
-            "latitude": 35.7025,
-            "longitude": 140.5507,
-            "depth_km": 41.649,
-            "time_ms": 1790857631864,
-            "place": "0 km NNE of Yōkaichiba, Japan",
-            "distance_km": 16.4,
-            "exposure_contribution": 3.97,
+            "magnitude": 5.2,
+            "latitude": 35.653,
+            "longitude": 140.4924,
+            "depth_km": 64.885,
+            "time_ms": 1790857634063,
+            "place": "0 km ENE of Yokoshiba, Japan",
+            "distance_km": 15.9,
+            "exposure_contribution": 2.07,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 3.97
+        "exposure_score": 2.07
       },
       {
         "name": "Ibaraki Airport",
@@ -56,23 +56,23 @@
         "latitude": 36.181456,
         "longitude": 140.414434,
         "municipality": "Omitama",
-        "closest_quake_distance_km": 54.7,
+        "closest_quake_distance_km": 59.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tytg",
-            "magnitude": 5.3,
-            "latitude": 35.7025,
-            "longitude": 140.5507,
-            "depth_km": 41.649,
-            "time_ms": 1790857631864,
-            "place": "0 km NNE of Yōkaichiba, Japan",
-            "distance_km": 54.7,
-            "exposure_contribution": 2.23,
+            "magnitude": 5.2,
+            "latitude": 35.653,
+            "longitude": 140.4924,
+            "depth_km": 64.885,
+            "time_ms": 1790857634063,
+            "place": "0 km ENE of Yokoshiba, Japan",
+            "distance_km": 59.2,
+            "exposure_contribution": 1.4,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.23
+        "exposure_score": 1.4
       },
       {
         "name": "Kagoshima Airport",
@@ -176,23 +176,23 @@
         "latitude": 35.549678,
         "longitude": 139.786958,
         "municipality": "Tokyo",
-        "closest_quake_distance_km": 71.1,
+        "closest_quake_distance_km": 64.8,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000tytg",
-            "magnitude": 5.3,
-            "latitude": 35.7025,
-            "longitude": 140.5507,
-            "depth_km": 41.649,
-            "time_ms": 1790857631864,
-            "place": "0 km NNE of Yōkaichiba, Japan",
-            "distance_km": 71.1,
-            "exposure_contribution": 1.73,
+            "magnitude": 5.2,
+            "latitude": 35.653,
+            "longitude": 140.4924,
+            "depth_km": 64.885,
+            "time_ms": 1790857634063,
+            "place": "0 km ENE of Yokoshiba, Japan",
+            "distance_km": 64.8,
+            "exposure_contribution": 1.32,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.73
+        "exposure_score": 1.32
       }
     ],
     "earthquakes": [
@@ -253,12 +253,12 @@
       },
       {
         "id": "us6000tytg",
-        "magnitude": 5.3,
-        "latitude": 35.7025,
-        "longitude": 140.5507,
-        "depth_km": 41.649,
-        "time_ms": 1790857631864,
-        "place": "0 km NNE of Yōkaichiba, Japan",
+        "magnitude": 5.2,
+        "latitude": 35.653,
+        "longitude": 140.4924,
+        "depth_km": 64.885,
+        "time_ms": 1790857634063,
+        "place": "0 km ENE of Yokoshiba, Japan",
         "country_code": "JP",
         "shakemap_available": false
       },
@@ -274,7 +274,170 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 14.58
+    "seismic_hub_risk_score": 11.44
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.28,
+    "strongest_earthquake": {
+      "magnitude": 5.5,
+      "date": "2026-10-08",
+      "depth_km": 57.8,
+      "latitude": 5.6177,
+      "longitude": 125.1838
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 168.3,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ttkk",
+            "magnitude": 5.1,
+            "latitude": 5.6402,
+            "longitude": 125.3536,
+            "depth_km": 57.848,
+            "time_ms": 1793144631480,
+            "place": "7 km N of Balangonan, Philippines",
+            "distance_km": 168.3,
+            "exposure_contribution": 0.41,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6177,
+            "longitude": 125.1838,
+            "depth_km": 57.803,
+            "time_ms": 1791446879721,
+            "place": "13 km SW of Burias, Philippines",
+            "distance_km": 175.3,
+            "exposure_contribution": 0.61,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.02
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 49.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u0x4",
+            "magnitude": 5.5,
+            "latitude": 5.6177,
+            "longitude": 125.1838,
+            "depth_km": 57.803,
+            "time_ms": 1791446879721,
+            "place": "13 km SW of Burias, Philippines",
+            "distance_km": 49.8,
+            "exposure_contribution": 2.42,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000ttkk",
+            "magnitude": 5.1,
+            "latitude": 5.6402,
+            "longitude": 125.3536,
+            "depth_km": 57.848,
+            "time_ms": 1793144631480,
+            "place": "7 km N of Balangonan, Philippines",
+            "distance_km": 54.4,
+            "exposure_contribution": 1.45,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tyq7",
+            "magnitude": 5.3,
+            "latitude": 6.0524,
+            "longitude": 123.8339,
+            "depth_km": 10,
+            "time_ms": 1790832850575,
+            "place": "42 km WSW of Palimbang, Philippines",
+            "distance_km": 139.6,
+            "exposure_contribution": 0.77,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 4.64
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ttkk",
+        "magnitude": 5.1,
+        "latitude": 5.6402,
+        "longitude": 125.3536,
+        "depth_km": 57.848,
+        "time_ms": 1793144631480,
+        "place": "7 km N of Balangonan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u3t6",
+        "magnitude": 5.2,
+        "latitude": 13.0297,
+        "longitude": 125.5898,
+        "depth_km": 10,
+        "time_ms": 1792571861317,
+        "place": "68 km NE of Cabatuan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u0x4",
+        "magnitude": 5.5,
+        "latitude": 5.6177,
+        "longitude": 125.1838,
+        "depth_km": 57.803,
+        "time_ms": 1791446879721,
+        "place": "13 km SW of Burias, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tyq7",
+        "magnitude": 5.3,
+        "latitude": 6.0524,
+        "longitude": 123.8339,
+        "depth_km": 10,
+        "time_ms": 1790832850575,
+        "place": "42 km WSW of Palimbang, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 5.66
   },
   {
     "country": "",
@@ -511,315 +674,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.33,
-    "strongest_earthquake": {
-      "magnitude": 5.5,
-      "date": "2026-10-08",
-      "depth_km": 57.8,
-      "latitude": 5.6177,
-      "longitude": 125.1838
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 175.3,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u0x4",
-            "magnitude": 5.5,
-            "latitude": 5.6177,
-            "longitude": 125.1838,
-            "depth_km": 57.803,
-            "time_ms": 1791446879721,
-            "place": "13 km SW of Burias, Philippines",
-            "distance_km": 175.3,
-            "exposure_contribution": 0.61,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.61
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 49.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u0x4",
-            "magnitude": 5.5,
-            "latitude": 5.6177,
-            "longitude": 125.1838,
-            "depth_km": 57.803,
-            "time_ms": 1791446879721,
-            "place": "13 km SW of Burias, Philippines",
-            "distance_km": 49.8,
-            "exposure_contribution": 2.42,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tyq7",
-            "magnitude": 5.3,
-            "latitude": 6.0524,
-            "longitude": 123.8339,
-            "depth_km": 10,
-            "time_ms": 1790832850575,
-            "place": "42 km WSW of Palimbang, Philippines",
-            "distance_km": 139.6,
-            "exposure_contribution": 0.77,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 3.2
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000u3t6",
-        "magnitude": 5.2,
-        "latitude": 13.0297,
-        "longitude": 125.5898,
-        "depth_km": 10,
-        "time_ms": 1792571861317,
-        "place": "68 km NE of Cabatuan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u0x4",
-        "magnitude": 5.5,
-        "latitude": 5.6177,
-        "longitude": 125.1838,
-        "depth_km": 57.803,
-        "time_ms": 1791446879721,
-        "place": "13 km SW of Burias, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tyq7",
-        "magnitude": 5.3,
-        "latitude": 6.0524,
-        "longitude": 123.8339,
-        "depth_km": 10,
-        "time_ms": 1790832850575,
-        "place": "42 km WSW of Palimbang, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 3.81
-  },
-  {
-    "country": "",
-    "iso_alpha2": "TO",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.39,
-    "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-10-14",
-      "depth_km": 585.1,
-      "latitude": -20.9899,
-      "longitude": -178.7711
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Fua'amotu International Airport",
-        "iata_code": "TBU",
-        "latitude": -21.241438,
-        "longitude": -175.149164,
-        "municipality": "Nuku'alofa",
-        "closest_quake_distance_km": 93.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tzme",
-            "magnitude": 5,
-            "latitude": -21.4208,
-            "longitude": -174.2679,
-            "depth_km": 10,
-            "time_ms": 1791178004808,
-            "place": "71 km E of ‘Ohonua, Tonga",
-            "distance_km": 93.4,
-            "exposure_contribution": 1.01,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000u37h",
-            "magnitude": 5.2,
-            "latitude": -21.541,
-            "longitude": -174.2956,
-            "depth_km": 10,
-            "time_ms": 1792351948734,
-            "place": "71 km ESE of ‘Ohonua, Tonga",
-            "distance_km": 94.4,
-            "exposure_contribution": 1.25,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tyc1",
-            "magnitude": 5.4,
-            "latitude": -20.4903,
-            "longitude": -174.214,
-            "depth_km": 10,
-            "time_ms": 1790685636353,
-            "place": "76 km S of Pangai, Tonga",
-            "distance_km": 128.1,
-            "exposure_contribution": 0.99,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 3.26
-      },
-      {
-        "name": "Vava'u International Airport",
-        "iata_code": "VAV",
-        "latitude": -18.5853,
-        "longitude": -173.962006,
-        "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 125.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u1pl",
-            "magnitude": 5.5,
-            "latitude": -18.723,
-            "longitude": -175.1452,
-            "depth_km": 195.212,
-            "time_ms": 1791779892859,
-            "place": "122 km W of Neiafu, Tonga",
-            "distance_km": 125.6,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.4
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000u4yr",
-        "magnitude": 5.5,
-        "latitude": -18.283,
-        "longitude": -178.0109,
-        "depth_km": 641.812,
-        "time_ms": 1793009581234,
-        "place": "283 km E of Levuka, Fiji",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u37h",
-        "magnitude": 5.2,
-        "latitude": -21.541,
-        "longitude": -174.2956,
-        "depth_km": 10,
-        "time_ms": 1792351948734,
-        "place": "71 km ESE of ‘Ohonua, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2hv",
-        "magnitude": 5.2,
-        "latitude": -15.2498,
-        "longitude": -173.3236,
-        "depth_km": 10,
-        "time_ms": 1792070971595,
-        "place": "92 km NNE of Hihifo, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u28y",
-        "magnitude": 5.9,
-        "latitude": -20.9899,
-        "longitude": -178.7711,
-        "depth_km": 585.07,
-        "time_ms": 1791974987588,
-        "place": "Fiji region",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u1pl",
-        "magnitude": 5.5,
-        "latitude": -18.723,
-        "longitude": -175.1452,
-        "depth_km": 195.212,
-        "time_ms": 1791779892859,
-        "place": "122 km W of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tzme",
-        "magnitude": 5,
-        "latitude": -21.4208,
-        "longitude": -174.2679,
-        "depth_km": 10,
-        "time_ms": 1791178004808,
-        "place": "71 km E of ‘Ohonua, Tonga",
-        "country_code": "TO",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tyc1",
-        "magnitude": 5.4,
-        "latitude": -20.4903,
-        "longitude": -174.214,
-        "depth_km": 10,
-        "time_ms": 1790685636353,
-        "place": "76 km S of Pangai, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 3.66
-  },
-  {
-    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -831,8 +685,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.14,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-03",
@@ -868,6 +722,30 @@
           }
         ],
         "exposure_score": 0.49
+      },
+      {
+        "name": "Yogyakarta International Airport",
+        "iata_code": "YIA",
+        "latitude": -7.905338,
+        "longitude": 110.057264,
+        "municipality": "Yogyakarta",
+        "closest_quake_distance_km": 138.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ttgf",
+            "magnitude": 5.4,
+            "latitude": -9.1162,
+            "longitude": 110.3305,
+            "depth_km": 10,
+            "time_ms": 1793112240933,
+            "place": "128 km S of Pundong, Indonesia",
+            "distance_km": 138.0,
+            "exposure_contribution": 0.89,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.89
       },
       {
         "name": "Sam Ratulangi International Airport",
@@ -920,6 +798,30 @@
         "exposure_score": 1.55
       },
       {
+        "name": "Adisoemarmo International Airport",
+        "iata_code": "SOC",
+        "latitude": -7.516044,
+        "longitude": 110.757492,
+        "municipality": "Surakarta",
+        "closest_quake_distance_km": 184.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ttgf",
+            "magnitude": 5.4,
+            "latitude": -9.1162,
+            "longitude": 110.3305,
+            "depth_km": 10,
+            "time_ms": 1793112240933,
+            "place": "128 km S of Pundong, Indonesia",
+            "distance_km": 184.0,
+            "exposure_contribution": 0.55,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.55
+      },
+      {
         "name": "Sultan Iskandar Muda International Airport",
         "iata_code": "BTJ",
         "latitude": 5.525087,
@@ -958,6 +860,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ttgf",
+        "magnitude": 5.4,
+        "latitude": -9.1162,
+        "longitude": 110.3305,
+        "depth_km": 10,
+        "time_ms": 1793112240933,
+        "place": "128 km S of Pundong, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000u4y1",
         "magnitude": 5,
@@ -1060,10 +973,10 @@
       {
         "id": "us6000u0wa",
         "magnitude": 5,
-        "latitude": -7.7761,
-        "longitude": 120.5395,
+        "latitude": -7.7822,
+        "longitude": 120.3316,
         "depth_km": 10,
-        "time_ms": 1791434939943,
+        "time_ms": 1791434940248,
         "place": "92 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
@@ -1113,7 +1026,212 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.6
+    "seismic_hub_risk_score": 5.04
+  },
+  {
+    "country": "",
+    "iso_alpha2": "TO",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 9,
+    "avg_magnitude": 5.3,
+    "strongest_earthquake": {
+      "magnitude": 5.9,
+      "date": "2026-10-14",
+      "depth_km": 585.1,
+      "latitude": -20.9899,
+      "longitude": -178.7711
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Fua'amotu International Airport",
+        "iata_code": "TBU",
+        "latitude": -21.241438,
+        "longitude": -175.149164,
+        "municipality": "Nuku'alofa",
+        "closest_quake_distance_km": 93.4,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000tzme",
+            "magnitude": 5,
+            "latitude": -21.4208,
+            "longitude": -174.2679,
+            "depth_km": 10,
+            "time_ms": 1791178004808,
+            "place": "71 km E of ‘Ohonua, Tonga",
+            "distance_km": 93.4,
+            "exposure_contribution": 1.01,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000u37h",
+            "magnitude": 5.2,
+            "latitude": -21.541,
+            "longitude": -174.2956,
+            "depth_km": 10,
+            "time_ms": 1792351948734,
+            "place": "71 km ESE of ‘Ohonua, Tonga",
+            "distance_km": 94.4,
+            "exposure_contribution": 1.25,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000tyc1",
+            "magnitude": 5.4,
+            "latitude": -20.4903,
+            "longitude": -174.214,
+            "depth_km": 10,
+            "time_ms": 1790685636353,
+            "place": "76 km S of Pangai, Tonga",
+            "distance_km": 128.1,
+            "exposure_contribution": 0.99,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 3.26
+      },
+      {
+        "name": "Vava'u International Airport",
+        "iata_code": "VAV",
+        "latitude": -18.5853,
+        "longitude": -173.962006,
+        "municipality": "Vava'u Island",
+        "closest_quake_distance_km": 125.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u1pl",
+            "magnitude": 5.5,
+            "latitude": -18.723,
+            "longitude": -175.1452,
+            "depth_km": 195.212,
+            "time_ms": 1791779892859,
+            "place": "122 km W of Neiafu, Tonga",
+            "distance_km": 125.6,
+            "exposure_contribution": 0.4,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.4
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ttgq",
+        "magnitude": 5,
+        "latitude": -23.7469,
+        "longitude": -179.7358,
+        "depth_km": 509.065,
+        "time_ms": 1793115102073,
+        "place": "south of the Fiji Islands",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttfc",
+        "magnitude": 5,
+        "latitude": -15.1739,
+        "longitude": -173.4094,
+        "depth_km": 10,
+        "time_ms": 1793092065122,
+        "place": "95 km NNE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u4yr",
+        "magnitude": 5.5,
+        "latitude": -18.283,
+        "longitude": -178.0109,
+        "depth_km": 641.812,
+        "time_ms": 1793009581234,
+        "place": "283 km E of Levuka, Fiji",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u37h",
+        "magnitude": 5.2,
+        "latitude": -21.541,
+        "longitude": -174.2956,
+        "depth_km": 10,
+        "time_ms": 1792351948734,
+        "place": "71 km ESE of ‘Ohonua, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u2hv",
+        "magnitude": 5.2,
+        "latitude": -15.2498,
+        "longitude": -173.3236,
+        "depth_km": 10,
+        "time_ms": 1792070971595,
+        "place": "92 km NNE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u28y",
+        "magnitude": 5.9,
+        "latitude": -20.9899,
+        "longitude": -178.7711,
+        "depth_km": 585.07,
+        "time_ms": 1791974987588,
+        "place": "Fiji region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u1pl",
+        "magnitude": 5.5,
+        "latitude": -18.723,
+        "longitude": -175.1452,
+        "depth_km": 195.212,
+        "time_ms": 1791779892859,
+        "place": "122 km W of Neiafu, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000tzme",
+        "magnitude": 5,
+        "latitude": -21.4208,
+        "longitude": -174.2679,
+        "depth_km": 10,
+        "time_ms": 1791178004808,
+        "place": "71 km E of ‘Ohonua, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000tyc1",
+        "magnitude": 5.4,
+        "latitude": -20.4903,
+        "longitude": -174.214,
+        "depth_km": 10,
+        "time_ms": 1790685636353,
+        "place": "76 km S of Pangai, Tonga",
+        "country_code": "TO",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 3.66
   },
   {
     "country": "",
@@ -1128,8 +1246,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.34,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
@@ -1138,7 +1256,7 @@
       "longitude": -80.769
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 2003,
+    "max_felt_reports": 2005,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1194,6 +1312,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ttgm",
+        "magnitude": 5,
+        "latitude": 7.706,
+        "longitude": -81.584,
+        "depth_km": 10,
+        "time_ms": 1793114762987,
+        "place": "27 km W of Río Grande, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
       {
         "id": "us6000u3rr",
         "magnitude": 5,
@@ -1674,7 +1803,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.4,
+    "avg_magnitude": 5.44,
     "strongest_earthquake": {
       "magnitude": 7,
       "date": "2026-10-22",
@@ -1737,6 +1866,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ttis",
+        "magnitude": 5.4,
+        "latitude": 32.5388,
+        "longitude": 93.9028,
+        "depth_km": 10,
+        "time_ms": 1793127473135,
+        "place": "210 km ENE of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
       {
         "id": "us6000u4ty",
         "magnitude": 5.9,
@@ -1822,17 +1962,6 @@
         "depth_km": 10,
         "time_ms": 1792407428127,
         "place": "31 km NW of Jiangyou, China",
-        "country_code": "CN",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000txzj",
-        "magnitude": 5,
-        "latitude": 35.3554,
-        "longitude": 99.5226,
-        "depth_km": 10,
-        "time_ms": 1790527390066,
-        "place": "191 km NW of Oula Xiuma, China",
         "country_code": "CN",
         "shakemap_available": false
       }
