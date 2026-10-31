@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.44,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.43,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -311,17 +311,6 @@
         "place": "0 km ENE of Yokoshiba, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tyhk",
-        "magnitude": 5.5,
-        "latitude": 23.7912,
-        "longitude": 122.8982,
-        "depth_km": 10,
-        "time_ms": 1790744425051,
-        "place": "75 km S of Yonakuni, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 20.06
@@ -772,11 +761,11 @@
       {
         "id": "us7000tttl",
         "magnitude": 5.3,
-        "latitude": 2.4277,
-        "longitude": 126.7587,
+        "latitude": 2.4345,
+        "longitude": 126.7433,
         "depth_km": 35,
-        "time_ms": 1793217407711,
-        "place": "159 km WNW of Tobelo, Indonesia",
+        "time_ms": 1793217407901,
+        "place": "161 km WNW of Tobelo, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -849,11 +838,11 @@
       {
         "id": "us6000u1i6",
         "magnitude": 5.2,
-        "latitude": -8.6161,
-        "longitude": 106.526,
+        "latitude": -8.7323,
+        "longitude": 106.4969,
         "depth_km": 10,
-        "time_ms": 1791689417430,
-        "place": "180 km S of Pelabuhanratu, Indonesia",
+        "time_ms": 1791689417224,
+        "place": "193 km S of Pelabuhanratu, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1327,8 +1316,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 28,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 29,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
@@ -1337,7 +1326,7 @@
       "longitude": -80.769
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 2006,
+    "max_felt_reports": 2008,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1378,12 +1367,12 @@
           {
             "earthquake_id": "us6000u1ay",
             "magnitude": 5.4,
-            "latitude": 7.4366,
-            "longitude": -80.0968,
+            "latitude": 7.4647,
+            "longitude": -80.1705,
             "depth_km": 10,
-            "time_ms": 1791587557790,
-            "place": "9 km SSE of Los Asientos, Panama",
-            "distance_km": 198.0,
+            "time_ms": 1791587558232,
+            "place": "6 km SE of Oria Arriba, Panama",
+            "distance_km": 198.5,
             "exposure_contribution": 0.48,
             "pga_g": null,
             "mmi": null
@@ -1482,24 +1471,35 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000u1az",
+        "magnitude": 5,
+        "latitude": 7.7507,
+        "longitude": -81.307,
+        "depth_km": 10,
+        "time_ms": 1791588193388,
+        "place": "4 km NE of Río Grande, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000u1ay",
         "magnitude": 5.4,
-        "latitude": 7.4366,
-        "longitude": -80.0968,
+        "latitude": 7.4647,
+        "longitude": -80.1705,
         "depth_km": 10,
-        "time_ms": 1791587557790,
-        "place": "9 km SSE of Los Asientos, Panama",
+        "time_ms": 1791587558232,
+        "place": "6 km SE of Oria Arriba, Panama",
         "country_code": "PA",
         "shakemap_available": true
       },
       {
         "id": "us6000u1ax",
-        "magnitude": 5,
-        "latitude": 7.3962,
-        "longitude": -80.5284,
+        "magnitude": 5.1,
+        "latitude": 7.4188,
+        "longitude": -80.5486,
         "depth_km": 10,
-        "time_ms": 1791587402875,
-        "place": "8 km ESE of La Tronosa, Panama",
+        "time_ms": 1791587402977,
+        "place": "4 km ESE of La Tronosa, Panama",
         "country_code": "PA",
         "shakemap_available": false
       },
@@ -1561,11 +1561,11 @@
       {
         "id": "us6000u197",
         "magnitude": 5,
-        "latitude": 7.6504,
-        "longitude": -81.2645,
+        "latitude": 7.6745,
+        "longitude": -81.2713,
         "depth_km": 10,
-        "time_ms": 1791572689376,
-        "place": "10 km SE of Río Grande, Panama",
+        "time_ms": 1791572689566,
+        "place": "8 km SE of Río Grande, Panama",
         "country_code": "PA",
         "shakemap_available": false
       },
@@ -1718,7 +1718,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 11,
-    "avg_magnitude": 5.36,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-10-11",
@@ -1751,12 +1751,36 @@
             "exposure_contribution": 1.09,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tu5q",
+            "magnitude": 5.1,
+            "latitude": -5.8137,
+            "longitude": 148.3151,
+            "depth_km": 116.297,
+            "time_ms": 1793329457406,
+            "place": "97 km NNE of Finschhafen, Papua New Guinea",
+            "distance_km": 194.6,
+            "exposure_contribution": 0.27,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.09
+        "exposure_score": 1.36
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tu5q",
+        "magnitude": 5.1,
+        "latitude": -5.8137,
+        "longitude": 148.3151,
+        "depth_km": 116.297,
+        "time_ms": 1793329457406,
+        "place": "97 km NNE of Finschhafen, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ttw5",
         "magnitude": 5.7,
@@ -1866,20 +1890,9 @@
         "place": "61 km SW of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tyit",
-        "magnitude": 5,
-        "latitude": -5.3721,
-        "longitude": 152.1147,
-        "depth_km": 51.23,
-        "time_ms": 1790756120084,
-        "place": "115 km S of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.09
+    "seismic_hub_risk_score": 1.36
   },
   {
     "country": "",
