@@ -398,8 +398,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -412,6 +412,30 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
+      {
+        "name": "Laoag International Airport",
+        "iata_code": "LAO",
+        "latitude": 18.175089,
+        "longitude": 120.531006,
+        "municipality": "Laoag City",
+        "closest_quake_distance_km": 135.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000u1zc",
+            "magnitude": 5,
+            "latitude": 19.3182,
+            "longitude": 120.9643,
+            "depth_km": 28.784,
+            "time_ms": 1791871283183,
+            "place": "79 km N of Claveria, Philippines",
+            "distance_km": 135.0,
+            "exposure_contribution": 0.56,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.56
+      },
       {
         "name": "Francisco Bangoy International Airport",
         "iata_code": "DVO",
@@ -581,6 +605,17 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000u1zc",
+        "magnitude": 5,
+        "latitude": 19.3182,
+        "longitude": 120.9643,
+        "depth_km": 28.784,
+        "time_ms": 1791871283183,
+        "place": "79 km N of Claveria, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000u0x4",
         "magnitude": 5.5,
         "latitude": 5.6177,
@@ -592,7 +627,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 7.22
+    "seismic_hub_risk_score": 7.78
   },
   {
     "country": "",
@@ -706,18 +741,18 @@
           {
             "earthquake_id": "us6000u1cv",
             "magnitude": 5,
-            "latitude": 1.6248,
-            "longitude": 126.3886,
+            "latitude": 1.5139,
+            "longitude": 126.3557,
             "depth_km": 10,
-            "time_ms": 1791610321552,
-            "place": "141 km E of Bitung, Indonesia",
-            "distance_km": 162.8,
-            "exposure_contribution": 0.43,
+            "time_ms": 1791610321258,
+            "place": "136 km E of Bitung, Indonesia",
+            "distance_km": 158.9,
+            "exposure_contribution": 0.44,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.6
+        "exposure_score": 1.62
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -895,11 +930,11 @@
       {
         "id": "us6000u1cv",
         "magnitude": 5,
-        "latitude": 1.6248,
-        "longitude": 126.3886,
+        "latitude": 1.5139,
+        "longitude": 126.3557,
         "depth_km": 10,
-        "time_ms": 1791610321552,
-        "place": "141 km E of Bitung, Indonesia",
+        "time_ms": 1791610321258,
+        "place": "136 km E of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -970,7 +1005,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 5.11
+    "seismic_hub_risk_score": 5.13
   },
   {
     "country": "",
@@ -985,8 +1020,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.5,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.57,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-10-16",
@@ -1034,19 +1069,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000tz62",
-            "magnitude": 5.7,
-            "latitude": 51.798,
-            "longitude": 159.6705,
-            "depth_km": 17,
-            "time_ms": 1790958879331,
-            "place": "152 km SE of Vilyuchinsk, Russia",
-            "distance_km": 173.3,
-            "exposure_contribution": 0.85,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000tzal",
             "magnitude": 5.1,
             "latitude": 52.1219,
@@ -1058,22 +1080,9 @@
             "exposure_contribution": 0.38,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tz7b",
-            "magnitude": 5,
-            "latitude": 51.6115,
-            "longitude": 159.7723,
-            "depth_km": 10,
-            "time_ms": 1790965520937,
-            "place": "173 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 195.0,
-            "exposure_contribution": 0.31,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 4.86
+        "exposure_score": 3.69
       }
     ],
     "earthquakes": [
@@ -1112,12 +1121,12 @@
       },
       {
         "id": "us6000u1ld",
-        "magnitude": 5.2,
-        "latitude": 49.7885,
-        "longitude": 155.7863,
-        "depth_km": 83.386,
-        "time_ms": 1791738029277,
-        "place": "101 km SSW of Severo-Kuril’sk, Russia",
+        "magnitude": 5.3,
+        "latitude": 49.7265,
+        "longitude": 155.7981,
+        "depth_km": 62.054,
+        "time_ms": 1791738026803,
+        "place": "108 km SSW of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -1142,31 +1151,9 @@
         "place": "169 km SE of Petropavlovsk-Kamchatsky, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tz7b",
-        "magnitude": 5,
-        "latitude": 51.6115,
-        "longitude": 159.7723,
-        "depth_km": 10,
-        "time_ms": 1790965520937,
-        "place": "173 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000tz62",
-        "magnitude": 5.7,
-        "latitude": 51.798,
-        "longitude": 159.6705,
-        "depth_km": 17,
-        "time_ms": 1790958879331,
-        "place": "152 km SE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 4.86
+    "seismic_hub_risk_score": 3.69
   },
   {
     "country": "",
@@ -1351,17 +1338,17 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 30,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 28,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
-      "depth_km": 12.6,
-      "latitude": 7.5868,
-      "longitude": -80.769
+      "depth_km": 10,
+      "latitude": 7.6069,
+      "longitude": -80.7566
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 2011,
+    "max_felt_reports": 2013,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1402,13 +1389,13 @@
           {
             "earthquake_id": "us6000u18t",
             "magnitude": 5.5,
-            "latitude": 7.586,
-            "longitude": -80.2885,
+            "latitude": 7.561,
+            "longitude": -80.3171,
             "depth_km": 10,
-            "time_ms": 1791570135709,
-            "place": "3 km SW of Bajo Corral, Panama",
-            "distance_km": 192.9,
-            "exposure_contribution": 0.57,
+            "time_ms": 1791570135544,
+            "place": "1 km E of La Miel, Panama",
+            "distance_km": 196.9,
+            "exposure_contribution": 0.55,
             "pga_g": null,
             "mmi": null
           },
@@ -1426,7 +1413,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.94
+        "exposure_score": 1.92
       }
     ],
     "earthquakes": [
@@ -1629,28 +1616,6 @@
         "shakemap_available": false
       },
       {
-        "id": "us6000u194",
-        "magnitude": 5,
-        "latitude": 7.3504,
-        "longitude": -80.1178,
-        "depth_km": 10,
-        "time_ms": 1791571812134,
-        "place": "18 km S of Los Asientos, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u195",
-        "magnitude": 5,
-        "latitude": 7.5783,
-        "longitude": -81.0943,
-        "depth_km": 10,
-        "time_ms": 1791571624065,
-        "place": "19 km S of Leones Arriba, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
         "id": "us6000u2td",
         "magnitude": 5,
         "latitude": 7.6218,
@@ -1664,11 +1629,11 @@
       {
         "id": "us6000u18x",
         "magnitude": 5.8,
-        "latitude": 7.4362,
-        "longitude": -80.4012,
+        "latitude": 7.4835,
+        "longitude": -80.451,
         "depth_km": 10,
-        "time_ms": 1791571066146,
-        "place": "1 km S of El Cacao, Panama",
+        "time_ms": 1791571065872,
+        "place": "4 km W of Flores, Panama",
         "country_code": "PA",
         "shakemap_available": true
       },
@@ -1686,11 +1651,11 @@
       {
         "id": "us6000u18t",
         "magnitude": 5.5,
-        "latitude": 7.586,
-        "longitude": -80.2885,
+        "latitude": 7.561,
+        "longitude": -80.3171,
         "depth_km": 10,
-        "time_ms": 1791570135709,
-        "place": "3 km SW of Bajo Corral, Panama",
+        "time_ms": 1791570135544,
+        "place": "1 km E of La Miel, Panama",
         "country_code": "PA",
         "shakemap_available": true
       },
@@ -1741,11 +1706,11 @@
       {
         "id": "us6000u18k",
         "magnitude": 7.7,
-        "latitude": 7.5868,
-        "longitude": -80.769,
-        "depth_km": 12.647,
-        "time_ms": 1791568566036,
-        "place": "12 km WSW of Pitaloza Arriba, Panama",
+        "latitude": 7.6069,
+        "longitude": -80.7566,
+        "depth_km": 10,
+        "time_ms": 1791568565537,
+        "place": "10 km WSW of Pitaloza Arriba, Panama",
         "country_code": "PA",
         "shakemap_available": true
       },
@@ -1761,7 +1726,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.94
+    "seismic_hub_risk_score": 1.92
   },
   {
     "country": "",
@@ -1776,8 +1741,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.37,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.41,
     "strongest_earthquake": {
       "magnitude": 6.2,
       "date": "2026-10-11",
@@ -1938,17 +1903,6 @@
         "place": "86 km SSE of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tz0x",
-        "magnitude": 5,
-        "latitude": -6.634,
-        "longitude": 155.0278,
-        "depth_km": 35,
-        "time_ms": 1790939653822,
-        "place": "61 km SW of Panguna, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.36
@@ -1972,8 +1926,8 @@
       "magnitude": 7,
       "date": "2026-10-22",
       "depth_km": 18,
-      "latitude": 32.3805,
-      "longitude": 93.7797
+      "latitude": 32.3376,
+      "longitude": 93.7837
     },
     "highest_pager_alert": "orange",
     "max_felt_reports": 8,
@@ -2088,22 +2042,22 @@
       {
         "id": "us6000u44n",
         "magnitude": 5.2,
-        "latitude": 32.4401,
-        "longitude": 93.8669,
+        "latitude": 32.4058,
+        "longitude": 93.8437,
         "depth_km": 10,
-        "time_ms": 1792681924462,
-        "place": "201 km ENE of Nagqu, China",
+        "time_ms": 1792681924407,
+        "place": "197 km ENE of Nagqu, China",
         "country_code": "CN",
         "shakemap_available": false
       },
       {
         "id": "us6000u43g",
         "magnitude": 7,
-        "latitude": 32.3805,
-        "longitude": 93.7797,
+        "latitude": 32.3376,
+        "longitude": 93.7837,
         "depth_km": 18,
-        "time_ms": 1792679620353,
-        "place": "191 km ENE of Nagqu, China",
+        "time_ms": 1792679620289,
+        "place": "189 km ENE of Nagqu, China",
         "country_code": "CN",
         "shakemap_available": true
       },
@@ -2131,94 +2085,5 @@
       }
     ],
     "seismic_hub_risk_score": 0.78
-  },
-  {
-    "country": "",
-    "iso_alpha2": "NZ",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.13,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-10-15",
-      "depth_km": 283.8,
-      "latitude": -38.5782,
-      "longitude": 175.3818
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Auckland International Airport",
-        "iata_code": "AKL",
-        "latitude": -37.01199,
-        "longitude": 174.786331,
-        "municipality": "Auckland",
-        "closest_quake_distance_km": 181.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u2ev",
-            "magnitude": 5.3,
-            "latitude": -38.5782,
-            "longitude": 175.3818,
-            "depth_km": 283.842,
-            "time_ms": 1792041931982,
-            "place": "46 km SSE of Otorohanga, New Zealand",
-            "distance_km": 181.8,
-            "exposure_contribution": 0.15,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.15
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000ttx8",
-        "magnitude": 5.1,
-        "latitude": -61.3277,
-        "longitude": 161.1643,
-        "depth_km": 10,
-        "time_ms": 1793252016298,
-        "place": "Balleny Islands region",
-        "country_code": "NZ",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2ev",
-        "magnitude": 5.3,
-        "latitude": -38.5782,
-        "longitude": 175.3818,
-        "depth_km": 283.842,
-        "time_ms": 1792041931982,
-        "place": "46 km SSE of Otorohanga, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tz1c",
-        "magnitude": 5,
-        "latitude": -39.144,
-        "longitude": 174.2319,
-        "depth_km": 10,
-        "time_ms": 1790949435823,
-        "place": "4 km ENE of Inglewood, New Zealand",
-        "country_code": "NZ",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 0.15
   }
 ]
