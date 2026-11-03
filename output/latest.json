@@ -643,7 +643,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 17,
-    "avg_magnitude": 5.2,
+    "avg_magnitude": 5.15,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-28",
@@ -710,18 +710,31 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 142.6,
+        "closest_quake_distance_km": 35.5,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tuuy",
+            "magnitude": 5.1,
+            "latitude": 1.392,
+            "longitude": 124.6476,
+            "depth_km": 196.646,
+            "time_ms": 1793607194014,
+            "place": "19 km WNW of Tomohon, Indonesia",
+            "distance_km": 35.5,
+            "exposure_contribution": 0.34,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us6000u13v",
             "magnitude": 5.2,
-            "latitude": 0.7587,
-            "longitude": 125.9365,
-            "depth_km": 40.049,
-            "time_ms": 1791522664200,
-            "place": "117 km SE of Bitung, Indonesia",
-            "distance_km": 142.6,
-            "exposure_contribution": 0.63,
+            "latitude": 0.8324,
+            "longitude": 125.9352,
+            "depth_km": 35,
+            "time_ms": 1791522663943,
+            "place": "112 km SE of Bitung, Indonesia",
+            "distance_km": 137.6,
+            "exposure_contribution": 0.67,
             "pga_g": null,
             "mmi": null
           },
@@ -752,7 +765,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.62
+        "exposure_score": 2.0
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -784,21 +797,8 @@
         "latitude": 5.525087,
         "longitude": 95.41997,
         "municipality": "Banda Aceh",
-        "closest_quake_distance_km": 86.7,
+        "closest_quake_distance_km": 181.0,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000tzfg",
-            "magnitude": 5.3,
-            "latitude": 4.7986,
-            "longitude": 95.1352,
-            "depth_km": 55.019,
-            "time_ms": 1791070654268,
-            "place": "85 km SSW of Banda Aceh, Indonesia",
-            "distance_km": 86.7,
-            "exposure_contribution": 1.25,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us6000u3nc",
             "magnitude": 5,
@@ -813,10 +813,32 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.56
+        "exposure_score": 0.31
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tuuy",
+        "magnitude": 5.1,
+        "latitude": 1.392,
+        "longitude": 124.6476,
+        "depth_km": 196.646,
+        "time_ms": 1793607194014,
+        "place": "19 km WNW of Tomohon, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tusv",
+        "magnitude": 5.1,
+        "latitude": -6.9205,
+        "longitude": 129.9514,
+        "depth_km": 93.548,
+        "time_ms": 1793580790555,
+        "place": "Banda Sea",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tu3u",
         "magnitude": 5,
@@ -952,11 +974,11 @@
       {
         "id": "us6000u13v",
         "magnitude": 5.2,
-        "latitude": 0.7587,
-        "longitude": 125.9365,
-        "depth_km": 40.049,
-        "time_ms": 1791522664200,
-        "place": "117 km SE of Bitung, Indonesia",
+        "latitude": 0.8324,
+        "longitude": 125.9352,
+        "depth_km": 35,
+        "time_ms": 1791522663943,
+        "place": "112 km SE of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -981,31 +1003,9 @@
         "place": "42 km NNW of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tzfg",
-        "magnitude": 5.3,
-        "latitude": 4.7986,
-        "longitude": 95.1352,
-        "depth_km": 55.019,
-        "time_ms": 1791070654268,
-        "place": "85 km SSW of Banda Aceh, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000tzer",
-        "magnitude": 5.7,
-        "latitude": -9.5399,
-        "longitude": 118.9245,
-        "depth_km": 17,
-        "time_ms": 1791068152175,
-        "place": "36 km WSW of Tambolaka, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 5.13
+    "seismic_hub_risk_score": 4.26
   },
   {
     "country": "",
@@ -1020,8 +1020,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.57,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.66,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-10-16",
@@ -1067,22 +1067,9 @@
             "exposure_contribution": 2.55,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000tzal",
-            "magnitude": 5.1,
-            "latitude": 52.1219,
-            "longitude": 160.599,
-            "depth_km": 10,
-            "time_ms": 1790996346658,
-            "place": "169 km SE of Petropavlovsk-Kamchatsky, Russia",
-            "distance_km": 185.9,
-            "exposure_contribution": 0.38,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 3.69
+        "exposure_score": 3.31
       }
     ],
     "earthquakes": [
@@ -1140,20 +1127,9 @@
         "place": "275 km SSW of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tzal",
-        "magnitude": 5.1,
-        "latitude": 52.1219,
-        "longitude": 160.599,
-        "depth_km": 10,
-        "time_ms": 1790996346658,
-        "place": "169 km SE of Petropavlovsk-Kamchatsky, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.69
+    "seismic_hub_risk_score": 3.31
   },
   {
     "country": "",
@@ -1168,8 +1144,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-10-14",
@@ -1245,6 +1221,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tut4",
+        "magnitude": 5.1,
+        "latitude": -31.2244,
+        "longitude": -177.7236,
+        "depth_km": 10,
+        "time_ms": 1793582296369,
+        "place": "Kermadec Islands region",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ttfc",
         "magnitude": 5,
@@ -1338,8 +1325,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 28,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 27,
+    "avg_magnitude": 5.36,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
@@ -1453,11 +1440,11 @@
       {
         "id": "us6000u3nl",
         "magnitude": 5.4,
-        "latitude": 6.3226,
-        "longitude": -82.5693,
+        "latitude": 6.1629,
+        "longitude": -82.522,
         "depth_km": 10,
-        "time_ms": 1792515948338,
-        "place": "192 km S of Burica, Panama",
+        "time_ms": 1792515947182,
+        "place": "210 km S of Burica, Panama",
         "country_code": "PA",
         "shakemap_available": false
       },
@@ -1482,17 +1469,6 @@
         "place": "15 km W of Río Grande, Panama",
         "country_code": "PA",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u1hw",
-        "magnitude": 5,
-        "latitude": 7.5139,
-        "longitude": -80.4283,
-        "depth_km": 10,
-        "time_ms": 1791683452299,
-        "place": "3 km NW of Flores, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
       },
       {
         "id": "us6000u1cf",

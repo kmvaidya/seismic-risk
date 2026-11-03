@@ -1,20 +1,20 @@
 # Seismic Risk Report
-Generated: 2026-11-02 14:18 UTC
+Generated: 2026-11-03 13:19 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-08-05 to 2026-11-02).
+Based on 89 snapshots (2026-08-06 to 2026-11-03).
 
 
 **Top score changes**:
 
--  (): +0.6
+-  (): 0.0
 
 **Top airport exposure changes**:
 
-- Yelizovo Airport (PKC, ): -1.2
-- Sam Ratulangi International Airport (MDC, ): +0.0
-- Tocumen International Airport (PTY, ): -0.0
+- Sultan Iskandar Muda International Airport (BTJ, ): -1.2
+- Sam Ratulangi International Airport (MDC, ): +0.4
+- Yelizovo Airport (PKC, ): -0.4
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 
@@ -22,14 +22,14 @@ Based on 89 snapshots (2026-08-05 to 2026-11-02).
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 16.5 | +0.6 | 5.6 | M6.5 (2026-10-25) | 6 | 12 | green | Yes | 1 |
-|  |  |  | 7.8 | +0.6 | 5.3 | M5.8 (2026-10-29) | 8 | 3 | - | No | 0 |
-|  |  |  | 5.1 | +0.6 | 5.2 | M5.7 (2026-10-28) | 17 | 5 | - | No | 0 |
-|  |  |  | 3.7 | +0.6 | 5.6 | M6.9 (2026-10-16) | 6 | 1 | green | No | 1 |
-|  |  |  | 2.8 | +0.6 | 5.3 | M5.9 (2026-10-14) | 7 | 2 | - | No | 0 |
-|  |  |  | 1.9 | +0.6 | 5.3 | M7.7 (2026-10-09) | 28 | 1 | orange | Yes | 5 |
-|  |  |  | 1.4 | +0.6 | 5.4 | M6.2 (2026-10-11) | 10 | 1 | - | No | 0 |
-|  |  |  | 0.8 | +0.6 | 5.4 | M7 (2026-10-22) | 9 | 2 | orange | No | 1 |
+|  |  |  | 16.5 | ~ | 5.6 | M6.5 (2026-10-25) | 6 | 12 | green | Yes | 1 |
+|  |  |  | 7.8 | ~ | 5.3 | M5.8 (2026-10-29) | 8 | 3 | - | No | 0 |
+|  |  |  | 4.3 | ~ | 5.2 | M5.7 (2026-10-28) | 17 | 5 | - | No | 0 |
+|  |  |  | 3.3 | ~ | 5.7 | M6.9 (2026-10-16) | 5 | 1 | green | No | 1 |
+|  |  |  | 2.8 | ~ | 5.3 | M5.9 (2026-10-14) | 8 | 2 | - | No | 0 |
+|  |  |  | 1.9 | ~ | 5.4 | M7.7 (2026-10-09) | 27 | 1 | orange | Yes | 5 |
+|  |  |  | 1.4 | ~ | 5.4 | M6.2 (2026-10-11) | 10 | 1 | - | No | 0 |
+|  |  |  | 0.8 | ~ | 5.4 | M7 (2026-10-22) | 9 | 2 | orange | No | 1 |
 
 ## Airport Details
 
@@ -49,13 +49,13 @@ Based on 89 snapshots (2026-08-05 to 2026-11-02).
 | Osaka Itami International Airport | ITM | Osaka |  | 0.2 | ~ | 177.5 | 1 |
 | General Santos International Airport | GES | General Santos |  | 5.7 | ~ | 49.8 | 3 |
 | Francisco Bangoy International Airport | DVO | Davao |  | 1.5 | ~ | 168.3 | 3 |
-| Laoag International Airport | LAO | Laoag City |  | 0.6 | NEW | 135.0 | 1 |
-| Sam Ratulangi International Airport | MDC | Manado |  | 1.6 | ~ | 142.6 | 3 |
-| Sultan Iskandar Muda International Airport | BTJ | Banda Aceh |  | 1.6 | ~ | 86.7 | 2 |
+| Laoag International Airport | LAO | Laoag City |  | 0.6 | ~ | 135.0 | 1 |
+| Sam Ratulangi International Airport | MDC | Manado |  | 2.0 | ~ | 35.5 | 4 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 0.9 | ~ | 137.4 | 1 |
 | Adisoemarmo International Airport | SOC | Surakarta |  | 0.6 | ~ | 180.6 | 1 |
 | Denpasar I Gusti Ngurah Rai International Airport | DPS | Kuta, Badung |  | 0.5 | ~ | 160.4 | 1 |
-| Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 3.7 | -1.2 | 123.3 | 3 |
+| Sultan Iskandar Muda International Airport | BTJ | Banda Aceh |  | 0.3 | -1.2 | 181.0 | 1 |
+| Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 3.3 | ~ | 123.3 | 2 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 2.4 | ~ | 87.8 | 2 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.5 | ~ | 121.0 | 1 |
 | Tocumen International Airport | PTY | Tocumen |  | 1.9 | ~ | 170.9 | 4 |
