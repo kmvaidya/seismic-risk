@@ -642,8 +642,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.15,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-28",
@@ -662,23 +662,23 @@
         "latitude": -8.748409,
         "longitude": 115.167123,
         "municipality": "Kuta, Badung",
-        "closest_quake_distance_km": 160.4,
+        "closest_quake_distance_km": 145.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000u1ye",
             "magnitude": 5.1,
-            "latitude": -9.4473,
-            "longitude": 113.8887,
+            "latitude": -9.3589,
+            "longitude": 113.9988,
             "depth_km": 10,
-            "time_ms": 1791864015768,
-            "place": "119 km SSW of Gambiran Satu, Indonesia",
-            "distance_km": 160.4,
-            "exposure_contribution": 0.49,
+            "time_ms": 1791864015762,
+            "place": "107 km S of Gambiran Satu, Indonesia",
+            "distance_km": 145.1,
+            "exposure_contribution": 0.58,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.49
+        "exposure_score": 0.58
       },
       {
         "name": "Yogyakarta International Airport",
@@ -919,11 +919,11 @@
       {
         "id": "us6000u1ye",
         "magnitude": 5.1,
-        "latitude": -9.4473,
-        "longitude": 113.8887,
+        "latitude": -9.3589,
+        "longitude": 113.9988,
         "depth_km": 10,
-        "time_ms": 1791864015768,
-        "place": "119 km SSW of Gambiran Satu, Indonesia",
+        "time_ms": 1791864015762,
+        "place": "107 km S of Gambiran Satu, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -992,20 +992,9 @@
         "place": "92 km N of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000tzi5",
-        "magnitude": 5,
-        "latitude": -8.2659,
-        "longitude": 120.2937,
-        "depth_km": 10,
-        "time_ms": 1791108787031,
-        "place": "42 km NNW of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.26
+    "seismic_hub_risk_score": 4.35
   },
   {
     "country": "",
@@ -1325,8 +1314,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 27,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 26,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 7.7,
       "date": "2026-10-09",
@@ -1363,13 +1352,13 @@
           {
             "earthquake_id": "us7000tujf",
             "magnitude": 5.2,
-            "latitude": 7.5692,
-            "longitude": -80.2547,
+            "latitude": 7.565,
+            "longitude": -80.291,
             "depth_km": 10,
-            "time_ms": 1793461818909,
-            "place": "4 km S of Bajo Corral, Panama",
-            "distance_km": 192.6,
-            "exposure_contribution": 0.4,
+            "time_ms": 1793461818750,
+            "place": "4 km E of La Miel, Panama",
+            "distance_km": 195.0,
+            "exposure_contribution": 0.39,
             "pga_g": null,
             "mmi": null
           },
@@ -1400,18 +1389,18 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.92
+        "exposure_score": 1.91
       }
     ],
     "earthquakes": [
       {
         "id": "us7000tujf",
         "magnitude": 5.2,
-        "latitude": 7.5692,
-        "longitude": -80.2547,
+        "latitude": 7.565,
+        "longitude": -80.291,
         "depth_km": 10,
-        "time_ms": 1793461818909,
-        "place": "4 km S of Bajo Corral, Panama",
+        "time_ms": 1793461818750,
+        "place": "4 km E of La Miel, Panama",
         "country_code": "PA",
         "shakemap_available": false
       },
@@ -1689,20 +1678,9 @@
         "place": "10 km WSW of Pitaloza Arriba, Panama",
         "country_code": "PA",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000tzj8",
-        "magnitude": 5,
-        "latitude": 5.251,
-        "longitude": -82.6909,
-        "depth_km": 10,
-        "time_ms": 1791122770091,
-        "place": "south of Panama",
-        "country_code": "PA",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.92
+    "seismic_hub_risk_score": 1.91
   },
   {
     "country": "",
