@@ -442,18 +442,18 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 168.3,
+        "closest_quake_distance_km": 160.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000ttkk",
             "magnitude": 5.1,
-            "latitude": 5.6402,
-            "longitude": 125.3536,
-            "depth_km": 57.848,
-            "time_ms": 1793144631480,
-            "place": "7 km N of Balangonan, Philippines",
-            "distance_km": 168.3,
-            "exposure_contribution": 0.41,
+            "latitude": 5.7035,
+            "longitude": 125.3993,
+            "depth_km": 57.448,
+            "time_ms": 1793144631477,
+            "place": "8 km WNW of Sugal, Philippines",
+            "distance_km": 160.5,
+            "exposure_contribution": 0.44,
             "pga_g": null,
             "mmi": null
           },
@@ -484,7 +484,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.48
+        "exposure_score": 1.51
       },
       {
         "name": "General Santos International Airport",
@@ -510,13 +510,13 @@
           {
             "earthquake_id": "us7000ttkk",
             "magnitude": 5.1,
-            "latitude": 5.6402,
-            "longitude": 125.3536,
-            "depth_km": 57.848,
-            "time_ms": 1793144631480,
-            "place": "7 km N of Balangonan, Philippines",
-            "distance_km": 54.4,
-            "exposure_contribution": 1.45,
+            "latitude": 5.7035,
+            "longitude": 125.3993,
+            "depth_km": 57.448,
+            "time_ms": 1793144631477,
+            "place": "8 km WNW of Sugal, Philippines",
+            "distance_km": 51.7,
+            "exposure_contribution": 1.5,
             "pga_g": null,
             "mmi": null
           },
@@ -534,7 +534,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.74
+        "exposure_score": 5.8
       }
     ],
     "earthquakes": [
@@ -585,11 +585,11 @@
       {
         "id": "us7000ttkk",
         "magnitude": 5.1,
-        "latitude": 5.6402,
-        "longitude": 125.3536,
-        "depth_km": 57.848,
-        "time_ms": 1793144631480,
-        "place": "7 km N of Balangonan, Philippines",
+        "latitude": 5.7035,
+        "longitude": 125.3993,
+        "depth_km": 57.448,
+        "time_ms": 1793144631477,
+        "place": "8 km WNW of Sugal, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -627,7 +627,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 7.78
+    "seismic_hub_risk_score": 7.87
   },
   {
     "country": "",
@@ -1020,8 +1020,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.66,
+    "earthquake_count": 4,
+    "avg_magnitude": 5.62,
     "strongest_earthquake": {
       "magnitude": 6.9,
       "date": "2026-10-16",
@@ -1116,17 +1116,6 @@
         "place": "108 km SSW of Severo-Kuril’sk, Russia",
         "country_code": "RU",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u0hy",
-        "magnitude": 5.8,
-        "latitude": 48.3446,
-        "longitude": 154.8289,
-        "depth_km": 29,
-        "time_ms": 1791305301856,
-        "place": "275 km SSW of Severo-Kuril’sk, Russia",
-        "country_code": "RU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 3.27
@@ -1248,10 +1237,10 @@
       {
         "id": "us6000u3rr",
         "magnitude": 5,
-        "latitude": 4.5985,
-        "longitude": -82.7031,
+        "latitude": 4.7032,
+        "longitude": -82.7987,
         "depth_km": 10,
-        "time_ms": 1792545602961,
+        "time_ms": 1792545602044,
         "place": "south of Panama",
         "country_code": "PA",
         "shakemap_available": false
@@ -1547,14 +1536,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.34,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.44,
     "strongest_earthquake": {
-      "magnitude": 5.9,
-      "date": "2026-10-14",
-      "depth_km": 585.1,
-      "latitude": -20.9899,
-      "longitude": -178.7711
+      "magnitude": 6.1,
+      "date": "2026-11-05",
+      "depth_km": 535,
+      "latitude": -21.1984,
+      "longitude": -178.7145
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1611,6 +1600,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tw8r",
+        "magnitude": 6.1,
+        "latitude": -21.1984,
+        "longitude": -178.7145,
+        "depth_km": 535,
+        "time_ms": 1793899305305,
+        "place": "Fiji region",
+        "country_code": "TO",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tut4",
         "magnitude": 5.1,
@@ -1669,10 +1669,10 @@
       {
         "id": "us6000u28y",
         "magnitude": 5.9,
-        "latitude": -20.9899,
-        "longitude": -178.7711,
-        "depth_km": 585.07,
-        "time_ms": 1791974987588,
+        "latitude": -21.0156,
+        "longitude": -178.8624,
+        "depth_km": 584.925,
+        "time_ms": 1791974988053,
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
@@ -1848,11 +1848,11 @@
       {
         "id": "us6000u21s",
         "magnitude": 5.3,
-        "latitude": -5.5103,
-        "longitude": 152.1283,
-        "depth_km": 29.792,
-        "time_ms": 1791902172242,
-        "place": "129 km S of Kokopo, Papua New Guinea",
+        "latitude": -5.4899,
+        "longitude": 152.1454,
+        "depth_km": 25.7,
+        "time_ms": 1791902171653,
+        "place": "127 km S of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
