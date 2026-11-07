@@ -1,47 +1,47 @@
 # Seismic Risk Report
-Generated: 2026-11-06 13:29 UTC
+Generated: 2026-11-07 12:09 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-08-09 to 2026-11-06).
+Based on 89 snapshots (2026-08-10 to 2026-11-07).
 
 
 **Top score changes**:
 
--  (): 0.0
+-  (): +0.1
 
 **Top airport exposure changes**:
 
-- General Santos International Airport (GES, ): +0.1
-- Francisco Bangoy International Airport (DVO, ): +0.0
-- Narita International Airport (NRT, ): 0.0
-- Ibaraki Airport (IBR, ): 0.0
-- Kansai International Airport (KIX, ): 0.0
+- Narita International Airport (NRT, ): +1.2
+- Miyazaki Airport (KMI, ): -1.1
+- Kagoshima Airport (KOJ, ): -0.2
+- Kumamoto Airport (KMJ, ): -0.2
+- Chengdu Tianfu International Airport (TFU, ): +0.1
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 16.5 | ~ | 5.6 | M6.5 (2026-10-25) | 6 | 12 | green | Yes | 1 |
+|  |  |  | 16.2 | ~ | 5.7 | M6.5 (2026-10-25) | 7 | 12 | green | Yes | 1 |
 |  |  |  | 7.9 | ~ | 5.3 | M5.8 (2026-10-29) | 8 | 3 | - | No | 0 |
 |  |  |  | 4.3 | ~ | 5.2 | M5.7 (2026-10-28) | 17 | 5 | - | No | 0 |
 |  |  |  | 3.3 | ~ | 5.6 | M6.9 (2026-10-16) | 4 | 1 | green | No | 1 |
 |  |  |  | 1.9 | ~ | 5.4 | M7.7 (2026-10-09) | 28 | 1 | orange | Yes | 5 |
 |  |  |  | 1.7 | ~ | 5.4 | M6.1 (2026-11-05) | 8 | 2 | - | No | 0 |
 |  |  |  | 1.4 | ~ | 5.4 | M6.2 (2026-10-11) | 10 | 1 | - | No | 0 |
-|  |  |  | 0.8 | ~ | 5.4 | M7 (2026-10-22) | 9 | 2 | orange | No | 1 |
+|  |  |  | 0.9 | ~ | 5.4 | M7 (2026-10-22) | 9 | 2 | orange | No | 1 |
 
 ## Airport Details
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|-------------------:|--------------:|
-| Miyazaki Airport | KMI | Miyazaki |  | 4.3 | ~ | 40.5 | 1 |
-| Narita International Airport | NRT | Narita |  | 4.2 | ~ | 29.6 | 1 |
+| Narita International Airport | NRT | Narita |  | 5.5 | +1.2 | 29.6 | 2 |
+| Miyazaki Airport | KMI | Miyazaki |  | 3.3 | -1.1 | 42.5 | 1 |
 | Ibaraki Airport | IBR | Omitama |  | 2.6 | ~ | 59.5 | 1 |
 | Tokyo Haneda International Airport | HND | Tokyo |  | 1.8 | ~ | 84.8 | 1 |
-| Kagoshima Airport | KOJ | Kagoshima |  | 1.1 | ~ | 109.1 | 1 |
-| Kumamoto Airport | KMJ | Kumamoto |  | 0.7 | ~ | 147.9 | 1 |
-| Aomori Airport | AOJ | Aomori |  | 0.5 | ~ | 162.9 | 1 |
+| Kagoshima Airport | KOJ | Kagoshima |  | 0.9 | ~ | 110.4 | 1 |
+| Kumamoto Airport | KMJ | Kumamoto |  | 0.5 | ~ | 151.6 | 1 |
+| Aomori Airport | AOJ | Aomori |  | 0.4 | ~ | 168.8 | 1 |
 | Chubu Centrair International Airport | NGO | Tokoname |  | 0.3 | ~ | 116.4 | 1 |
 | Mount Fuji Shizuoka Airport | FSZ | Makinohara / Shimada |  | 0.2 | ~ | 154.8 | 1 |
 | Kansai International Airport | KIX | Osaka |  | 0.2 | ~ | 173.8 | 1 |
@@ -60,5 +60,5 @@ Based on 89 snapshots (2026-08-09 to 2026-11-06).
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 1.2 | ~ | 94.4 | 1 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.5 | ~ | 121.0 | 1 |
 | Nadzab Tomodachi International Airport | LAE | Lae |  | 1.4 | ~ | 65.4 | 2 |
-| Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 0.4 | ~ | 162.0 | 1 |
-| Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 0.3 | ~ | 181.9 | 1 |
+| Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 0.5 | ~ | 151.6 | 1 |
+| Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 0.4 | ~ | 167.6 | 1 |
