@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.66,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.62,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -48,6 +48,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us7000twrq",
+            "magnitude": 5.5,
+            "latitude": 36.1884,
+            "longitude": 141.4404,
+            "depth_km": 31.748,
+            "time_ms": 1794049663355,
+            "place": "74 km NE of Hasaki, Japan",
+            "distance_km": 105.5,
+            "exposure_contribution": 1.42,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000twg9",
             "magnitude": 6.1,
             "latitude": 34.9677,
@@ -61,7 +74,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.47
+        "exposure_score": 6.89
       },
       {
         "name": "Ibaraki Airport",
@@ -83,9 +96,22 @@
             "exposure_contribution": 2.61,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000twrq",
+            "magnitude": 5.5,
+            "latitude": 36.1884,
+            "longitude": 141.4404,
+            "depth_km": 31.748,
+            "time_ms": 1794049663355,
+            "place": "74 km NE of Hasaki, Japan",
+            "distance_km": 92.1,
+            "exposure_contribution": 1.7,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 2.61
+        "exposure_score": 4.31
       },
       {
         "name": "Kansai International Airport",
@@ -213,8 +239,21 @@
         "latitude": 34.858398,
         "longitude": 136.804993,
         "municipality": "Tokoname",
-        "closest_quake_distance_km": 116.4,
+        "closest_quake_distance_km": 80.8,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000twt0",
+            "magnitude": 5.5,
+            "latitude": 34.8611,
+            "longitude": 137.691,
+            "depth_km": 38.081,
+            "time_ms": 1794067475125,
+            "place": "10 km NW of Hamakita, Japan",
+            "distance_km": 80.8,
+            "exposure_contribution": 1.93,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
@@ -229,7 +268,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.27
+        "exposure_score": 2.2
       },
       {
         "name": "Mount Fuji Shizuoka Airport",
@@ -237,8 +276,21 @@
         "latitude": 34.795022,
         "longitude": 138.190976,
         "municipality": "Makinohara / Shimada",
-        "closest_quake_distance_km": 154.8,
+        "closest_quake_distance_km": 46.2,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000twt0",
+            "magnitude": 5.5,
+            "latitude": 34.8611,
+            "longitude": 137.691,
+            "depth_km": 38.081,
+            "time_ms": 1794067475125,
+            "place": "10 km NW of Hamakita, Japan",
+            "distance_km": 46.2,
+            "exposure_contribution": 3.39,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
@@ -253,7 +305,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.25
+        "exposure_score": 3.64
       },
       {
         "name": "Osaka Itami International Airport",
@@ -323,12 +375,47 @@
             "exposure_contribution": 1.79,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000twrq",
+            "magnitude": 5.5,
+            "latitude": 36.1884,
+            "longitude": 141.4404,
+            "depth_km": 31.748,
+            "time_ms": 1794049663355,
+            "place": "74 km NE of Hasaki, Japan",
+            "distance_km": 165.0,
+            "exposure_contribution": 0.72,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 1.79
+        "exposure_score": 2.51
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000twt0",
+        "magnitude": 5.5,
+        "latitude": 34.8611,
+        "longitude": 137.691,
+        "depth_km": 38.081,
+        "time_ms": 1794067475125,
+        "place": "10 km NW of Hamakita, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000twrq",
+        "magnitude": 5.5,
+        "latitude": 36.1884,
+        "longitude": 141.4404,
+        "depth_km": 31.748,
+        "time_ms": 1794049663355,
+        "place": "74 km NE of Hasaki, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
       {
         "id": "us7000twg9",
         "magnitude": 6.1,
@@ -407,7 +494,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 16.22
+    "seismic_hub_risk_score": 25.38
   },
   {
     "country": "",
@@ -422,8 +509,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -493,22 +580,9 @@
             "exposure_contribution": 0.46,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000u0x4",
-            "magnitude": 5.5,
-            "latitude": 5.6177,
-            "longitude": 125.1838,
-            "depth_km": 57.803,
-            "time_ms": 1791446879721,
-            "place": "13 km SW of Burias, Philippines",
-            "distance_km": 175.3,
-            "exposure_contribution": 0.61,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 1.51
+        "exposure_score": 0.9
       },
       {
         "name": "General Santos International Airport",
@@ -516,21 +590,8 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 49.8,
+        "closest_quake_distance_km": 51.7,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u0x4",
-            "magnitude": 5.5,
-            "latitude": 5.6177,
-            "longitude": 125.1838,
-            "depth_km": 57.803,
-            "time_ms": 1791446879721,
-            "place": "13 km SW of Burias, Philippines",
-            "distance_km": 49.8,
-            "exposure_contribution": 2.42,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000ttkk",
             "magnitude": 5.1,
@@ -558,7 +619,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.8
+        "exposure_score": 3.38
       }
     ],
     "earthquakes": [
@@ -638,20 +699,9 @@
         "place": "79 km N of Claveria, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u0x4",
-        "magnitude": 5.5,
-        "latitude": 5.6177,
-        "longitude": 125.1838,
-        "depth_km": 57.803,
-        "time_ms": 1791446879721,
-        "place": "13 km SW of Burias, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 7.87
+    "seismic_hub_risk_score": 4.84
   },
   {
     "country": "",
@@ -666,8 +716,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.15,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-28",
@@ -1016,17 +1066,6 @@
         "place": "112 km SE of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u0wa",
-        "magnitude": 5,
-        "latitude": -7.7822,
-        "longitude": 120.3316,
-        "depth_km": 10,
-        "time_ms": 1791434940248,
-        "place": "92 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 4.35
@@ -1167,7 +1206,7 @@
       "longitude": -80.7566
     },
     "highest_pager_alert": "orange",
-    "max_felt_reports": 2017,
+    "max_felt_reports": 2018,
     "tsunami_warning_issued": true,
     "significant_events_count": 5,
     "exposed_airports": [
@@ -1560,8 +1599,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.44,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-11-05",
@@ -1624,6 +1663,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000twus",
+        "magnitude": 5.1,
+        "latitude": -15.6837,
+        "longitude": -172.9847,
+        "depth_km": 10,
+        "time_ms": 1794094029444,
+        "place": "91 km ENE of Hihifo, Tonga",
+        "country_code": "TO",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tw8r",
         "magnitude": 6.1,
@@ -2051,11 +2101,11 @@
       {
         "id": "us6000u3ka",
         "magnitude": 5.1,
-        "latitude": 37.9037,
-        "longitude": 95.6436,
+        "latitude": 37.8278,
+        "longitude": 95.6513,
         "depth_km": 10,
-        "time_ms": 1792478483116,
-        "place": "263 km WSW of Yanglong, China",
+        "time_ms": 1792478483230,
+        "place": "266 km WSW of Yanglong, China",
         "country_code": "CN",
         "shakemap_available": false
       },
