@@ -716,14 +716,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
+    "earthquake_count": 15,
     "avg_magnitude": 5.16,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-28",
       "depth_km": 142,
-      "latitude": -6.3231,
-      "longitude": 130.3957
+      "latitude": -6.3599,
+      "longitude": 130.4138
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -800,19 +800,6 @@
             "mmi": null
           },
           {
-            "earthquake_id": "us6000u13v",
-            "magnitude": 5.2,
-            "latitude": 0.8324,
-            "longitude": 125.9352,
-            "depth_km": 35,
-            "time_ms": 1791522663943,
-            "place": "112 km SE of Bitung, Indonesia",
-            "distance_km": 137.6,
-            "exposure_contribution": 0.67,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
             "earthquake_id": "us6000u1bs",
             "magnitude": 5.1,
             "latitude": 1.4159,
@@ -839,7 +826,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.0
+        "exposure_score": 1.32
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -938,10 +925,10 @@
       {
         "id": "us7000ttua",
         "magnitude": 5.7,
-        "latitude": -6.3231,
-        "longitude": 130.3957,
+        "latitude": -6.3599,
+        "longitude": 130.4138,
         "depth_km": 142,
-        "time_ms": 1793225205820,
+        "time_ms": 1793225205772,
         "place": "271 km WSW of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
@@ -1055,20 +1042,9 @@
         "place": "127 km E of Bitung, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u13v",
-        "magnitude": 5.2,
-        "latitude": 0.8324,
-        "longitude": 125.9352,
-        "depth_km": 35,
-        "time_ms": 1791522663943,
-        "place": "112 km SE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.35
+    "seismic_hub_risk_score": 3.67
   },
   {
     "country": "",
@@ -1185,409 +1161,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "PA",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 28,
-    "avg_magnitude": 5.38,
-    "strongest_earthquake": {
-      "magnitude": 7.7,
-      "date": "2026-10-09",
-      "depth_km": 10,
-      "latitude": 7.6069,
-      "longitude": -80.7566
-    },
-    "highest_pager_alert": "orange",
-    "max_felt_reports": 2018,
-    "tsunami_warning_issued": true,
-    "significant_events_count": 5,
-    "exposed_airports": [
-      {
-        "name": "Tocumen International Airport",
-        "iata_code": "PTY",
-        "latitude": 9.07136,
-        "longitude": -79.383499,
-        "municipality": "Tocumen",
-        "closest_quake_distance_km": 170.9,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u2uc",
-            "magnitude": 5.2,
-            "latitude": 7.6259,
-            "longitude": -79.9113,
-            "depth_km": 10,
-            "time_ms": 1791568910381,
-            "place": "16 km NE of Pedasí, Panama",
-            "distance_km": 170.9,
-            "exposure_contribution": 0.49,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tujf",
-            "magnitude": 5.2,
-            "latitude": 7.565,
-            "longitude": -80.291,
-            "depth_km": 10,
-            "time_ms": 1793461818750,
-            "place": "4 km E of La Miel, Panama",
-            "distance_km": 195.0,
-            "exposure_contribution": 0.39,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000u18t",
-            "magnitude": 5.5,
-            "latitude": 7.561,
-            "longitude": -80.3171,
-            "depth_km": 10,
-            "time_ms": 1791570135544,
-            "place": "1 km E of La Miel, Panama",
-            "distance_km": 196.9,
-            "exposure_contribution": 0.55,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000u1ay",
-            "magnitude": 5.4,
-            "latitude": 7.4647,
-            "longitude": -80.1705,
-            "depth_km": 10,
-            "time_ms": 1791587558232,
-            "place": "6 km SE of Oria Arriba, Panama",
-            "distance_km": 198.5,
-            "exposure_contribution": 0.48,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.91
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000tujf",
-        "magnitude": 5.2,
-        "latitude": 7.565,
-        "longitude": -80.291,
-        "depth_km": 10,
-        "time_ms": 1793461818750,
-        "place": "4 km E of La Miel, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttgm",
-        "magnitude": 5,
-        "latitude": 7.684,
-        "longitude": -81.6012,
-        "depth_km": 10,
-        "time_ms": 1793114763024,
-        "place": "29 km W of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u3rr",
-        "magnitude": 5,
-        "latitude": 4.7032,
-        "longitude": -82.7987,
-        "depth_km": 10,
-        "time_ms": 1792545602044,
-        "place": "south of Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u3nl",
-        "magnitude": 5.4,
-        "latitude": 6.1629,
-        "longitude": -82.522,
-        "depth_km": 10,
-        "time_ms": 1792515947182,
-        "place": "210 km S of Burica, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u3vr",
-        "magnitude": 5,
-        "latitude": 7.7817,
-        "longitude": -81.3767,
-        "depth_km": 10,
-        "time_ms": 1791847670634,
-        "place": "8 km NW of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u1wn",
-        "magnitude": 6.1,
-        "latitude": 7.7098,
-        "longitude": -81.4715,
-        "depth_km": 11,
-        "time_ms": 1791847236005,
-        "place": "15 km W of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u1cf",
-        "magnitude": 6,
-        "latitude": 7.4777,
-        "longitude": -80.5728,
-        "depth_km": 10,
-        "time_ms": 1791605641528,
-        "place": "4 km NNE of La Tronosa, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u1bu",
-        "magnitude": 5,
-        "latitude": 7.4652,
-        "longitude": -80.4515,
-        "depth_km": 10,
-        "time_ms": 1791599193039,
-        "place": "5 km WSW of Flores, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u1az",
-        "magnitude": 5,
-        "latitude": 7.7507,
-        "longitude": -81.307,
-        "depth_km": 10,
-        "time_ms": 1791588193388,
-        "place": "4 km NE of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u1ay",
-        "magnitude": 5.4,
-        "latitude": 7.4647,
-        "longitude": -80.1705,
-        "depth_km": 10,
-        "time_ms": 1791587558232,
-        "place": "6 km SE of Oria Arriba, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u1ax",
-        "magnitude": 5.1,
-        "latitude": 7.4188,
-        "longitude": -80.5486,
-        "depth_km": 10,
-        "time_ms": 1791587402977,
-        "place": "4 km ESE of La Tronosa, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u1aa",
-        "magnitude": 5,
-        "latitude": 7.6999,
-        "longitude": -81.4835,
-        "depth_km": 10,
-        "time_ms": 1791578528433,
-        "place": "16 km W of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2tu",
-        "magnitude": 5.1,
-        "latitude": 7.752,
-        "longitude": -81.4808,
-        "depth_km": 10,
-        "time_ms": 1791578157950,
-        "place": "16 km WNW of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2un",
-        "magnitude": 5.6,
-        "latitude": 7.7694,
-        "longitude": -81.4445,
-        "depth_km": 10,
-        "time_ms": 1791577681872,
-        "place": "13 km WNW of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u19w",
-        "magnitude": 6.6,
-        "latitude": 7.676,
-        "longitude": -81.4515,
-        "depth_km": 10,
-        "time_ms": 1791577538424,
-        "place": "13 km WSW of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u19t",
-        "magnitude": 5,
-        "latitude": 7.4853,
-        "longitude": -80.5014,
-        "depth_km": 10,
-        "time_ms": 1791577298000,
-        "place": "10 km W of Flores, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u19s",
-        "magnitude": 5,
-        "latitude": 7.5838,
-        "longitude": -81.0113,
-        "depth_km": 10,
-        "time_ms": 1791577222698,
-        "place": "15 km SSW of Tebario, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u19h",
-        "magnitude": 5.2,
-        "latitude": 7.6379,
-        "longitude": -81.2635,
-        "depth_km": 10,
-        "time_ms": 1791575335192,
-        "place": "11 km SE of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u197",
-        "magnitude": 5,
-        "latitude": 7.6745,
-        "longitude": -81.2713,
-        "depth_km": 10,
-        "time_ms": 1791572689566,
-        "place": "8 km SE of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2td",
-        "magnitude": 5,
-        "latitude": 7.6218,
-        "longitude": -81.2534,
-        "depth_km": 10,
-        "time_ms": 1791571346001,
-        "place": "13 km SE of Río Grande, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u18x",
-        "magnitude": 5.8,
-        "latitude": 7.4835,
-        "longitude": -80.451,
-        "depth_km": 10,
-        "time_ms": 1791571065872,
-        "place": "4 km W of Flores, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u2uw",
-        "magnitude": 5,
-        "latitude": 7.4857,
-        "longitude": -80.6506,
-        "depth_km": 10,
-        "time_ms": 1791571036814,
-        "place": "6 km NNW of El Cortezo, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u18t",
-        "magnitude": 5.5,
-        "latitude": 7.561,
-        "longitude": -80.3171,
-        "depth_km": 10,
-        "time_ms": 1791570135544,
-        "place": "1 km E of La Miel, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u2t1",
-        "magnitude": 5.1,
-        "latitude": 7.6524,
-        "longitude": -80.6018,
-        "depth_km": 10,
-        "time_ms": 1791569807961,
-        "place": "2 km ESE of La Mesa, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2us",
-        "magnitude": 5.1,
-        "latitude": 7.5055,
-        "longitude": -80.847,
-        "depth_km": 10,
-        "time_ms": 1791569190447,
-        "place": "8 km NNE of Quebro, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u2ud",
-        "magnitude": 5.4,
-        "latitude": 7.6489,
-        "longitude": -81.7627,
-        "depth_km": 10,
-        "time_ms": 1791568963739,
-        "place": "47 km SSW of Puerto Vidal, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u2uc",
-        "magnitude": 5.2,
-        "latitude": 7.6259,
-        "longitude": -79.9113,
-        "depth_km": 10,
-        "time_ms": 1791568910381,
-        "place": "16 km NE of Pedasí, Panama",
-        "country_code": "PA",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u18k",
-        "magnitude": 7.7,
-        "latitude": 7.6069,
-        "longitude": -80.7566,
-        "depth_km": 10,
-        "time_ms": 1791568565537,
-        "place": "10 km WSW of Pitaloza Arriba, Panama",
-        "country_code": "PA",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.91
-  },
-  {
-    "country": "",
     "iso_alpha2": "TO",
     "iso_alpha3": "",
     "capital": "",
@@ -1600,7 +1173,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 9,
-    "avg_magnitude": 5.4,
+    "avg_magnitude": 5.39,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-11-05",
@@ -1619,23 +1192,23 @@
         "latitude": -21.241438,
         "longitude": -175.149164,
         "municipality": "Nuku'alofa",
-        "closest_quake_distance_km": 94.4,
+        "closest_quake_distance_km": 97.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000u37h",
-            "magnitude": 5.2,
-            "latitude": -21.541,
-            "longitude": -174.2956,
+            "magnitude": 5.1,
+            "latitude": -21.1523,
+            "longitude": -174.2183,
             "depth_km": 10,
-            "time_ms": 1792351948734,
-            "place": "71 km ESE of ‘Ohonua, Tonga",
-            "distance_km": 94.4,
-            "exposure_contribution": 1.25,
+            "time_ms": 1792351945880,
+            "place": "79 km ENE of ‘Ohonua, Tonga",
+            "distance_km": 97.0,
+            "exposure_contribution": 1.07,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.25
+        "exposure_score": 1.07
       },
       {
         "name": "Vava'u International Airport",
@@ -1720,12 +1293,12 @@
       },
       {
         "id": "us6000u37h",
-        "magnitude": 5.2,
-        "latitude": -21.541,
-        "longitude": -174.2956,
+        "magnitude": 5.1,
+        "latitude": -21.1523,
+        "longitude": -174.2183,
         "depth_km": 10,
-        "time_ms": 1792351948734,
-        "place": "71 km ESE of ‘Ohonua, Tonga",
+        "time_ms": 1792351945880,
+        "place": "79 km ENE of ‘Ohonua, Tonga",
         "country_code": "TO",
         "shakemap_available": false
       },
@@ -1763,7 +1336,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.71
+    "seismic_hub_risk_score": 1.53
   },
   {
     "country": "",
@@ -2068,11 +1641,11 @@
       {
         "id": "us6000u45j",
         "magnitude": 5,
-        "latitude": 32.3707,
-        "longitude": 93.9886,
+        "latitude": 32.3865,
+        "longitude": 94.0527,
         "depth_km": 10,
-        "time_ms": 1792692404294,
-        "place": "207 km ENE of Nagqu, China",
+        "time_ms": 1792692403845,
+        "place": "213 km ENE of Nagqu, China",
         "country_code": "CN",
         "shakemap_available": false
       },
@@ -2122,5 +1695,149 @@
       }
     ],
     "seismic_hub_risk_score": 0.89
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PA",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 8,
+    "avg_magnitude": 5.34,
+    "strongest_earthquake": {
+      "magnitude": 6.1,
+      "date": "2026-10-12",
+      "depth_km": 11,
+      "latitude": 7.7098,
+      "longitude": -81.4715
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 72,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Tocumen International Airport",
+        "iata_code": "PTY",
+        "latitude": 9.07136,
+        "longitude": -79.383499,
+        "municipality": "Tocumen",
+        "closest_quake_distance_km": 195.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tujf",
+            "magnitude": 5.2,
+            "latitude": 7.565,
+            "longitude": -80.291,
+            "depth_km": 10,
+            "time_ms": 1793461818750,
+            "place": "4 km E of La Miel, Panama",
+            "distance_km": 195.0,
+            "exposure_contribution": 0.39,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.39
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tujf",
+        "magnitude": 5.2,
+        "latitude": 7.565,
+        "longitude": -80.291,
+        "depth_km": 10,
+        "time_ms": 1793461818750,
+        "place": "4 km E of La Miel, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttgm",
+        "magnitude": 5,
+        "latitude": 7.684,
+        "longitude": -81.6012,
+        "depth_km": 10,
+        "time_ms": 1793114763024,
+        "place": "29 km W of Río Grande, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u3rr",
+        "magnitude": 5,
+        "latitude": 4.7032,
+        "longitude": -82.7987,
+        "depth_km": 10,
+        "time_ms": 1792545602044,
+        "place": "south of Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u3nl",
+        "magnitude": 5.4,
+        "latitude": 6.1629,
+        "longitude": -82.522,
+        "depth_km": 10,
+        "time_ms": 1792515947182,
+        "place": "210 km S of Burica, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u3vr",
+        "magnitude": 5,
+        "latitude": 7.7817,
+        "longitude": -81.3767,
+        "depth_km": 10,
+        "time_ms": 1791847670634,
+        "place": "8 km NW of Río Grande, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u1wn",
+        "magnitude": 6.1,
+        "latitude": 7.7098,
+        "longitude": -81.4715,
+        "depth_km": 11,
+        "time_ms": 1791847236005,
+        "place": "15 km W of Río Grande, Panama",
+        "country_code": "PA",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u1cf",
+        "magnitude": 6,
+        "latitude": 7.4777,
+        "longitude": -80.5728,
+        "depth_km": 10,
+        "time_ms": 1791605641528,
+        "place": "4 km NNE of La Tronosa, Panama",
+        "country_code": "PA",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u1bu",
+        "magnitude": 5,
+        "latitude": 7.4652,
+        "longitude": -80.4515,
+        "depth_km": 10,
+        "time_ms": 1791599193039,
+        "place": "5 km WSW of Flores, Panama",
+        "country_code": "PA",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.39
   }
 ]
