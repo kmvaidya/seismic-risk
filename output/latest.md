@@ -1,46 +1,44 @@
 # Seismic Risk Report
-Generated: 2026-11-10 14:00 UTC
+Generated: 2026-11-11 13:16 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-08-13 to 2026-11-10).
+Based on 89 snapshots (2026-08-14 to 2026-11-11).
 
 
 **Top score changes**:
 
--  (): 0.0
+-  (): +0.5
 
 **Top airport exposure changes**:
 
-- Ibaraki Airport (IBR, ): +1.4
-- Narita International Airport (NRT, ): +1.2
-- Sam Ratulangi International Airport (MDC, ): -1.0
-- Tokyo Haneda International Airport (HND, ): +0.7
+- Narita International Airport (NRT, ): -0.2
+- Tokyo Haneda International Airport (HND, ): +0.2
+- Ibaraki Airport (IBR, ): -0.1
 - Kansai International Airport (KIX, ): 0.0
+- Kobe Airport (UKB, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
-|  |  |  | 28.6 | ~ | 5.6 | M6.5 (2026-10-25) | 10 | 12 | green | Yes | 1 |
+|  |  |  | 28.4 | ~ | 5.6 | M6.5 (2026-10-25) | 10 | 12 | green | Yes | 1 |
 |  |  |  | 4.8 | ~ | 5.3 | M5.8 (2026-10-29) | 7 | 3 | - | No | 0 |
-|  |  |  | 3.3 | ~ | 5.6 | M6.9 (2026-10-16) | 4 | 1 | green | No | 1 |
+|  |  |  | 3.3 | ~ | 5.7 | M6.9 (2026-10-16) | 3 | 1 | green | No | 1 |
 |  |  |  | 2.7 | ~ | 5.2 | M5.7 (2026-10-28) | 14 | 5 | - | No | 0 |
+|  |  |  | 1.8 | ~ | 5.3 | M6 (2026-10-13) | 10 | 2 | - | No | 0 |
 |  |  |  | 1.5 | ~ | 5.4 | M6.1 (2026-11-05) | 9 | 2 | - | No | 0 |
-|  |  |  | 1.4 | ~ | 5.4 | M6.2 (2026-10-11) | 10 | 1 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.4 | M7 (2026-10-22) | 9 | 2 | orange | No | 1 |
-|  |  |  | 0.7 | ~ | 5.2 | M5.3 (2026-11-09) | 3 | 1 | - | No | 0 |
-|  |  |  | 0.4 | ~ | 5.3 | M6.1 (2026-10-12) | 6 | 1 | yellow | No | 1 |
 
 ## Airport Details
 
 | Airport | IATA | Municipality | Country | Exposure | Trend | Closest Quake (km) | Nearby Quakes |
 |:--------|:-----|:-------------|:--------|--------:|:------|-------------------:|--------------:|
-| Narita International Airport | NRT | Narita |  | 8.1 | +1.2 | 29.6 | 4 |
-| Ibaraki Airport | IBR | Omitama |  | 5.7 | +1.4 | 59.5 | 3 |
+| Narita International Airport | NRT | Narita |  | 7.8 | ~ | 18.4 | 4 |
+| Ibaraki Airport | IBR | Omitama |  | 5.6 | ~ | 55.3 | 3 |
 | Mount Fuji Shizuoka Airport | FSZ | Makinohara / Shimada |  | 3.6 | ~ | 46.2 | 2 |
+| Tokyo Haneda International Airport | HND | Tokyo |  | 3.3 | ~ | 73.2 | 3 |
 | Miyazaki Airport | KMI | Miyazaki |  | 3.3 | ~ | 42.5 | 1 |
-| Tokyo Haneda International Airport | HND | Tokyo |  | 3.2 | +0.7 | 84.8 | 3 |
 | Chubu Centrair International Airport | NGO | Tokoname |  | 2.2 | ~ | 80.8 | 2 |
 | Kagoshima Airport | KOJ | Kagoshima |  | 0.9 | ~ | 110.4 | 1 |
 | Kumamoto Airport | KMJ | Kumamoto |  | 0.5 | ~ | 151.6 | 1 |
@@ -55,12 +53,11 @@ Based on 89 snapshots (2026-08-13 to 2026-11-10).
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 0.9 | ~ | 137.4 | 1 |
 | Denpasar I Gusti Ngurah Rai International Airport | DPS | Kuta, Badung |  | 0.6 | ~ | 145.1 | 1 |
 | Adisoemarmo International Airport | SOC | Surakarta |  | 0.6 | ~ | 180.6 | 1 |
-| Sam Ratulangi International Airport | MDC | Manado |  | 0.3 | -1.0 | 35.5 | 1 |
+| Sam Ratulangi International Airport | MDC | Manado |  | 0.3 | ~ | 35.5 | 1 |
 | Sultan Iskandar Muda International Airport | BTJ | Banda Aceh |  | 0.3 | ~ | 181.0 | 1 |
+| Nadzab Tomodachi International Airport | LAE | Lae |  | 1.4 | ~ | 65.4 | 2 |
+| Port Moresby Jacksons International Airport | POM | Port Moresby |  | 0.5 | NEW | 120.9 | 1 |
 | Fua'amotu International Airport | TBU | Nuku'alofa |  | 1.1 | ~ | 97.0 | 1 |
 | Vava'u International Airport | VAV | Vava'u Island |  | 0.5 | ~ | 121.0 | 1 |
-| Nadzab Tomodachi International Airport | LAE | Lae |  | 1.4 | ~ | 65.4 | 2 |
 | Chengdu Shuangliu International Airport | CTU | Chengdu (Shuangliu) |  | 0.5 | ~ | 151.6 | 1 |
 | Chengdu Tianfu International Airport | TFU | Chengdu (Jianyang) |  | 0.4 | ~ | 167.6 | 1 |
-| Rodríguez Ballón International Airport | AQP | Arequipa |  | 0.7 | NEW | 145.2 | 1 |
-| Tocumen International Airport | PTY | Tocumen |  | 0.4 | ~ | 195.0 | 1 |
