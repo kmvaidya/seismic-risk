@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.63,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.57,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -265,18 +265,18 @@
         "latitude": 34.858398,
         "longitude": 136.804993,
         "municipality": "Tokoname",
-        "closest_quake_distance_km": 80.8,
+        "closest_quake_distance_km": 72.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000twt0",
             "magnitude": 5.5,
-            "latitude": 34.8611,
-            "longitude": 137.691,
-            "depth_km": 38.081,
-            "time_ms": 1794067475125,
-            "place": "10 km NW of Hamakita, Japan",
-            "distance_km": 80.8,
-            "exposure_contribution": 1.93,
+            "latitude": 34.8969,
+            "longitude": 137.5969,
+            "depth_km": 37.07,
+            "time_ms": 1794067475288,
+            "place": "8 km E of Shinshiro, Japan",
+            "distance_km": 72.4,
+            "exposure_contribution": 2.22,
             "pga_g": null,
             "mmi": null
           },
@@ -294,7 +294,31 @@
             "mmi": null
           }
         ],
-        "exposure_score": 2.2
+        "exposure_score": 2.49
+      },
+      {
+        "name": "Komatsu Airport / JASDF Komatsu Air Base",
+        "iata_code": "KMQ",
+        "latitude": 36.393407,
+        "longitude": 136.406895,
+        "municipality": "Kanazawa",
+        "closest_quake_distance_km": 198.1,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000twt0",
+            "magnitude": 5.5,
+            "latitude": 34.8969,
+            "longitude": 137.5969,
+            "depth_km": 37.07,
+            "time_ms": 1794067475288,
+            "place": "8 km E of Shinshiro, Japan",
+            "distance_km": 198.1,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.52
       },
       {
         "name": "Mount Fuji Shizuoka Airport",
@@ -302,18 +326,18 @@
         "latitude": 34.795022,
         "longitude": 138.190976,
         "municipality": "Makinohara / Shimada",
-        "closest_quake_distance_km": 46.2,
+        "closest_quake_distance_km": 55.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000twt0",
             "magnitude": 5.5,
-            "latitude": 34.8611,
-            "longitude": 137.691,
-            "depth_km": 38.081,
-            "time_ms": 1794067475125,
-            "place": "10 km NW of Hamakita, Japan",
-            "distance_km": 46.2,
-            "exposure_contribution": 3.39,
+            "latitude": 34.8969,
+            "longitude": 137.5969,
+            "depth_km": 37.07,
+            "time_ms": 1794067475288,
+            "place": "8 km E of Shinshiro, Japan",
+            "distance_km": 55.4,
+            "exposure_contribution": 2.93,
             "pga_g": null,
             "mmi": null
           },
@@ -331,7 +355,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.64
+        "exposure_score": 3.18
       },
       {
         "name": "Osaka Itami International Airport",
@@ -353,9 +377,22 @@
             "exposure_contribution": 0.23,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000twt0",
+            "magnitude": 5.5,
+            "latitude": 34.8969,
+            "longitude": 137.5969,
+            "depth_km": 37.07,
+            "time_ms": 1794067475288,
+            "place": "8 km E of Shinshiro, Japan",
+            "distance_km": 197.2,
+            "exposure_contribution": 0.53,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 0.23
+        "exposure_score": 0.76
       },
       {
         "name": "Aomori Airport",
@@ -434,6 +471,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000txgv",
+        "magnitude": 5,
+        "latitude": 44.3915,
+        "longitude": 149.4063,
+        "depth_km": 30.338,
+        "time_ms": 1794374788222,
+        "place": "152 km SE of Kuril’sk, Russia",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000tx1f",
         "magnitude": 5.7,
         "latitude": 36.2471,
@@ -447,11 +495,11 @@
       {
         "id": "us7000twt0",
         "magnitude": 5.5,
-        "latitude": 34.8611,
-        "longitude": 137.691,
-        "depth_km": 38.081,
-        "time_ms": 1794067475125,
-        "place": "10 km NW of Hamakita, Japan",
+        "latitude": 34.8969,
+        "longitude": 137.5969,
+        "depth_km": 37.07,
+        "time_ms": 1794067475288,
+        "place": "8 km E of Shinshiro, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -544,7 +592,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 28.45
+    "seismic_hub_risk_score": 29.33
   },
   {
     "country": "",
@@ -559,8 +607,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -619,6 +667,19 @@
             "mmi": null
           },
           {
+            "earthquake_id": "us6000u2p2",
+            "magnitude": 5,
+            "latitude": 7.9271,
+            "longitude": 126.8993,
+            "depth_km": 35,
+            "time_ms": 1792142020810,
+            "place": "46 km NE of Kinablangan, Philippines",
+            "distance_km": 164.4,
+            "exposure_contribution": 0.4,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
             "earthquake_id": "us7000ttlc",
             "magnitude": 5.2,
             "latitude": 5.6079,
@@ -632,7 +693,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 0.9
+        "exposure_score": 1.31
       },
       {
         "name": "General Santos International Airport",
@@ -676,11 +737,11 @@
       {
         "id": "us7000ttxn",
         "magnitude": 5.4,
-        "latitude": 8.4677,
-        "longitude": 127.4269,
+        "latitude": 8.4379,
+        "longitude": 127.3621,
         "depth_km": 10,
-        "time_ms": 1793259090432,
-        "place": "114 km ENE of Barcelona, Philippines",
+        "time_ms": 1793259090384,
+        "place": "106 km ENE of Barcelona, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -740,6 +801,17 @@
         "shakemap_available": false
       },
       {
+        "id": "us6000u2p2",
+        "magnitude": 5,
+        "latitude": 7.9271,
+        "longitude": 126.8993,
+        "depth_km": 35,
+        "time_ms": 1792142020810,
+        "place": "46 km NE of Kinablangan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000u1zc",
         "magnitude": 5,
         "latitude": 19.3182,
@@ -751,7 +823,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.84
+    "seismic_hub_risk_score": 5.25
   },
   {
     "country": "",
@@ -869,7 +941,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 14,
-    "avg_magnitude": 5.18,
+    "avg_magnitude": 5.17,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-28",
@@ -1006,12 +1078,12 @@
     "earthquakes": [
       {
         "id": "us7000txbi",
-        "magnitude": 5.2,
-        "latitude": -0.9226,
-        "longitude": 128.7092,
+        "magnitude": 5.1,
+        "latitude": -0.9034,
+        "longitude": 128.701,
         "depth_km": 10,
-        "time_ms": 1794325895737,
-        "place": "140 km ESE of Labuha, Indonesia",
+        "time_ms": 1794325895658,
+        "place": "139 km ESE of Labuha, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1062,10 +1134,10 @@
       {
         "id": "us7000tusv",
         "magnitude": 5.1,
-        "latitude": -6.9205,
-        "longitude": 129.9514,
-        "depth_km": 93.548,
-        "time_ms": 1793580790555,
+        "latitude": -6.9162,
+        "longitude": 129.957,
+        "depth_km": 86.673,
+        "time_ms": 1793580789737,
         "place": "Banda Sea",
         "country_code": "ID",
         "shakemap_available": false
@@ -1174,8 +1246,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6,
       "date": "2026-10-13",
@@ -1251,6 +1323,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000txm8",
+        "magnitude": 5.1,
+        "latitude": -6.3288,
+        "longitude": 154.7612,
+        "depth_km": 58.822,
+        "time_ms": 1794418702582,
+        "place": "80 km W of Panguna, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us7000txc0",
         "magnitude": 5.2,
@@ -1366,6 +1449,119 @@
   },
   {
     "country": "",
+    "iso_alpha2": "CL",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.5,
+    "strongest_earthquake": {
+      "magnitude": 6.4,
+      "date": "2026-10-29",
+      "depth_km": 10,
+      "latitude": -36.4649,
+      "longitude": -98.0105
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Andrés Sabella Gálvez International Airport",
+        "iata_code": "ANF",
+        "latitude": -23.445274,
+        "longitude": -70.445232,
+        "municipality": "Antofagasta",
+        "closest_quake_distance_km": 164.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000txis",
+            "magnitude": 5.1,
+            "latitude": -22.5427,
+            "longitude": -69.1693,
+            "depth_km": 91.309,
+            "time_ms": 1794397011281,
+            "place": "27 km WSW of Calama, Chile",
+            "distance_km": 164.7,
+            "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.37
+      },
+      {
+        "name": "El Tepual International Airport",
+        "iata_code": "PMC",
+        "latitude": -41.443093,
+        "longitude": -73.094065,
+        "municipality": "Puerto Montt",
+        "closest_quake_distance_km": 90.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000txmq",
+            "magnitude": 5,
+            "latitude": -41.5234,
+            "longitude": -74.1759,
+            "depth_km": 34.893,
+            "time_ms": 1794424877374,
+            "place": "48 km NW of Ancud, Chile",
+            "distance_km": 90.6,
+            "exposure_contribution": 0.96,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.96
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000txmq",
+        "magnitude": 5,
+        "latitude": -41.5234,
+        "longitude": -74.1759,
+        "depth_km": 34.893,
+        "time_ms": 1794424877374,
+        "place": "48 km NW of Ancud, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000txis",
+        "magnitude": 5.1,
+        "latitude": -22.5427,
+        "longitude": -69.1693,
+        "depth_km": 91.309,
+        "time_ms": 1794397011281,
+        "place": "27 km WSW of Calama, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttxz",
+        "magnitude": 6.4,
+        "latitude": -36.4649,
+        "longitude": -98.0105,
+        "depth_km": 10,
+        "time_ms": 1793260190096,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.33
+  },
+  {
+    "country": "",
     "iso_alpha2": "TO",
     "iso_alpha3": "",
     "capital": "",
@@ -1377,8 +1573,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-11-05",
@@ -1414,30 +1610,6 @@
           }
         ],
         "exposure_score": 1.07
-      },
-      {
-        "name": "Vava'u International Airport",
-        "iata_code": "VAV",
-        "latitude": -18.5853,
-        "longitude": -173.962006,
-        "municipality": "Vava'u Island",
-        "closest_quake_distance_km": 121.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u1pl",
-            "magnitude": 5.5,
-            "latitude": -18.5748,
-            "longitude": -175.1104,
-            "depth_km": 179.919,
-            "time_ms": 1791779891491,
-            "place": "119 km W of Neiafu, Tonga",
-            "distance_km": 121.0,
-            "exposure_contribution": 0.46,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.46
       }
     ],
     "earthquakes": [
@@ -1528,20 +1700,9 @@
         "place": "Fiji region",
         "country_code": "TO",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u1pl",
-        "magnitude": 5.5,
-        "latitude": -18.5748,
-        "longitude": -175.1104,
-        "depth_km": 179.919,
-        "time_ms": 1791779891491,
-        "place": "119 km W of Neiafu, Tonga",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 1.53
+    "seismic_hub_risk_score": 1.07
   },
   {
     "country": "",
