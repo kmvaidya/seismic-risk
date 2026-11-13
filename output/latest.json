@@ -12,14 +12,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.57,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.61,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
-      "depth_km": 492.4,
-      "latitude": 27.7953,
-      "longitude": 139.6184
+      "depth_km": 475,
+      "latitude": 27.8093,
+      "longitude": 139.7102
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 1,
@@ -559,12 +559,23 @@
         "shakemap_available": false
       },
       {
+        "id": "us7000tw0y",
+        "magnitude": 6,
+        "latitude": 27.7325,
+        "longitude": 139.8079,
+        "depth_km": 472.952,
+        "time_ms": 1792894184027,
+        "place": "Bonin Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
         "id": "us6000u4r9",
         "magnitude": 6.5,
-        "latitude": 27.7953,
-        "longitude": 139.6184,
-        "depth_km": 492.376,
-        "time_ms": 1792894163818,
+        "latitude": 27.8093,
+        "longitude": 139.7102,
+        "depth_km": 475,
+        "time_ms": 1792894162321,
         "place": "Bonin Islands, Japan region",
         "country_code": "JP",
         "shakemap_available": true
@@ -607,8 +618,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.26,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -621,30 +632,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
-      {
-        "name": "Laoag International Airport",
-        "iata_code": "LAO",
-        "latitude": 18.175089,
-        "longitude": 120.531006,
-        "municipality": "Laoag City",
-        "closest_quake_distance_km": 135.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u1zc",
-            "magnitude": 5,
-            "latitude": 19.3182,
-            "longitude": 120.9643,
-            "depth_km": 28.784,
-            "time_ms": 1791871283183,
-            "place": "79 km N of Claveria, Philippines",
-            "distance_km": 135.0,
-            "exposure_contribution": 0.56,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.56
-      },
       {
         "name": "Francisco Bangoy International Airport",
         "iata_code": "DVO",
@@ -810,20 +797,9 @@
         "place": "46 km NE of Kinablangan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u1zc",
-        "magnitude": 5,
-        "latitude": 19.3182,
-        "longitude": 120.9643,
-        "depth_km": 28.784,
-        "time_ms": 1791871283183,
-        "place": "79 km N of Claveria, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.25
+    "seismic_hub_risk_score": 4.69
   },
   {
     "country": "",
@@ -940,8 +916,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 14,
-    "avg_magnitude": 5.17,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.18,
     "strongest_earthquake": {
       "magnitude": 5.7,
       "date": "2026-10-28",
@@ -954,30 +930,6 @@
     "tsunami_warning_issued": false,
     "significant_events_count": 0,
     "exposed_airports": [
-      {
-        "name": "Denpasar I Gusti Ngurah Rai International Airport",
-        "iata_code": "DPS",
-        "latitude": -8.748409,
-        "longitude": 115.167123,
-        "municipality": "Kuta, Badung",
-        "closest_quake_distance_km": 145.1,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u1ye",
-            "magnitude": 5.1,
-            "latitude": -9.3589,
-            "longitude": 113.9988,
-            "depth_km": 10,
-            "time_ms": 1791864015762,
-            "place": "107 km S of Gambiran Satu, Indonesia",
-            "distance_km": 145.1,
-            "exposure_contribution": 0.58,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.58
-      },
       {
         "name": "Yogyakarta International Airport",
         "iata_code": "YIA",
@@ -1056,23 +1008,23 @@
         "latitude": 5.525087,
         "longitude": 95.41997,
         "municipality": "Banda Aceh",
-        "closest_quake_distance_km": 181.0,
+        "closest_quake_distance_km": 179.7,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000u3nc",
             "magnitude": 5,
-            "latitude": 4.0005,
-            "longitude": 95.993,
-            "depth_km": 75.876,
-            "time_ms": 1792513778818,
-            "place": "21 km SW of Meulaboh, Indonesia",
-            "distance_km": 181.0,
-            "exposure_contribution": 0.31,
+            "latitude": 4.0171,
+            "longitude": 96.0035,
+            "depth_km": 65.336,
+            "time_ms": 1792513777949,
+            "place": "19 km SW of Meulaboh, Indonesia",
+            "distance_km": 179.7,
+            "exposure_contribution": 0.32,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.31
+        "exposure_score": 0.32
       }
     ],
     "earthquakes": [
@@ -1200,11 +1152,11 @@
       {
         "id": "us6000u3nc",
         "magnitude": 5,
-        "latitude": 4.0005,
-        "longitude": 95.993,
-        "depth_km": 75.876,
-        "time_ms": 1792513778818,
-        "place": "21 km SW of Meulaboh, Indonesia",
+        "latitude": 4.0171,
+        "longitude": 96.0035,
+        "depth_km": 65.336,
+        "time_ms": 1792513777949,
+        "place": "19 km SW of Meulaboh, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1218,20 +1170,9 @@
         "place": "60 km NNW of Ruteng, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u1ye",
-        "magnitude": 5.1,
-        "latitude": -9.3589,
-        "longitude": 113.9988,
-        "depth_km": 10,
-        "time_ms": 1791864015762,
-        "place": "107 km S of Gambiran Satu, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 2.69
+    "seismic_hub_risk_score": 2.12
   },
   {
     "country": "",
@@ -1246,14 +1187,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
+    "earthquake_count": 9,
     "avg_magnitude": 5.29,
     "strongest_earthquake": {
-      "magnitude": 6,
-      "date": "2026-10-13",
-      "depth_km": 21.8,
-      "latitude": -5.4965,
-      "longitude": 152.1501
+      "magnitude": 5.8,
+      "date": "2026-11-12",
+      "depth_km": 10,
+      "latitude": -1.5882,
+      "longitude": 149.8877
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1323,6 +1264,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000txwp",
+        "magnitude": 5.8,
+        "latitude": -1.5882,
+        "longitude": 149.8877,
+        "depth_km": 10,
+        "time_ms": 1794521046729,
+        "place": "148 km NW of Kavieng, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": true
+      },
       {
         "id": "us7000txm8",
         "magnitude": 5.1,
@@ -1408,39 +1360,6 @@
         "depth_km": 10,
         "time_ms": 1792362703253,
         "place": "127 km SSE of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u24c",
-        "magnitude": 6,
-        "latitude": -5.4965,
-        "longitude": 152.1501,
-        "depth_km": 21.758,
-        "time_ms": 1791917103061,
-        "place": "128 km S of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u23d",
-        "magnitude": 5.1,
-        "latitude": -5.4402,
-        "longitude": 152.1353,
-        "depth_km": 26.723,
-        "time_ms": 1791908893837,
-        "place": "122 km S of Kokopo, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u21s",
-        "magnitude": 5.3,
-        "latitude": -5.5079,
-        "longitude": 152.1606,
-        "depth_km": 31.239,
-        "time_ms": 1791902172453,
-        "place": "129 km S of Kokopo, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       }
