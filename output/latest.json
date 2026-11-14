@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.61,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.56,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -50,13 +50,13 @@
           {
             "earthquake_id": "us7000twrq",
             "magnitude": 5.5,
-            "latitude": 36.1884,
-            "longitude": 141.4404,
-            "depth_km": 31.748,
-            "time_ms": 1794049663355,
-            "place": "74 km NE of Hasaki, Japan",
-            "distance_km": 105.5,
-            "exposure_contribution": 1.42,
+            "latitude": 36.2184,
+            "longitude": 141.4515,
+            "depth_km": 28,
+            "time_ms": 1794049662734,
+            "place": "77 km NE of Hasaki, Japan",
+            "distance_km": 107.9,
+            "exposure_contribution": 1.39,
             "pga_g": null,
             "mmi": null
           },
@@ -87,7 +87,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 7.84
+        "exposure_score": 7.81
       },
       {
         "name": "Ibaraki Airport",
@@ -113,13 +113,13 @@
           {
             "earthquake_id": "us7000twrq",
             "magnitude": 5.5,
-            "latitude": 36.1884,
-            "longitude": 141.4404,
-            "depth_km": 31.748,
-            "time_ms": 1794049663355,
-            "place": "74 km NE of Hasaki, Japan",
-            "distance_km": 92.1,
-            "exposure_contribution": 1.7,
+            "latitude": 36.2184,
+            "longitude": 141.4515,
+            "depth_km": 28,
+            "time_ms": 1794049662734,
+            "place": "77 km NE of Hasaki, Japan",
+            "distance_km": 93.1,
+            "exposure_contribution": 1.71,
             "pga_g": null,
             "mmi": null
           },
@@ -442,13 +442,13 @@
           {
             "earthquake_id": "us7000twrq",
             "magnitude": 5.5,
-            "latitude": 36.1884,
-            "longitude": 141.4404,
-            "depth_km": 31.748,
-            "time_ms": 1794049663355,
-            "place": "74 km NE of Hasaki, Japan",
-            "distance_km": 165.0,
-            "exposure_contribution": 0.72,
+            "latitude": 36.2184,
+            "longitude": 141.4515,
+            "depth_km": 28,
+            "time_ms": 1794049662734,
+            "place": "77 km NE of Hasaki, Japan",
+            "distance_km": 167.4,
+            "exposure_contribution": 0.71,
             "pga_g": null,
             "mmi": null
           },
@@ -466,7 +466,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.34
+        "exposure_score": 3.33
       }
     ],
     "earthquakes": [
@@ -506,11 +506,11 @@
       {
         "id": "us7000twrq",
         "magnitude": 5.5,
-        "latitude": 36.1884,
-        "longitude": 141.4404,
-        "depth_km": 31.748,
-        "time_ms": 1794049663355,
-        "place": "74 km NE of Hasaki, Japan",
+        "latitude": 36.2184,
+        "longitude": 141.4515,
+        "depth_km": 28,
+        "time_ms": 1794049662734,
+        "place": "77 km NE of Hasaki, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -554,6 +554,17 @@
         "longitude": 139.6767,
         "depth_km": 483.675,
         "time_ms": 1792966455989,
+        "place": "Bonin Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u4rr",
+        "magnitude": 5,
+        "latitude": 27.6622,
+        "longitude": 139.6534,
+        "depth_km": 492.421,
+        "time_ms": 1792895792398,
         "place": "Bonin Islands, Japan region",
         "country_code": "JP",
         "shakemap_available": false
@@ -603,7 +614,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 29.33
+    "seismic_hub_risk_score": 29.29
   },
   {
     "country": "",
@@ -619,7 +630,7 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 7,
-    "avg_magnitude": 5.3,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -668,19 +679,19 @@
           },
           {
             "earthquake_id": "us7000ttlc",
-            "magnitude": 5.2,
-            "latitude": 5.6079,
-            "longitude": 125.3054,
-            "depth_km": 45.941,
-            "time_ms": 1793149914979,
-            "place": "6 km NW of Balangonan, Philippines",
-            "distance_km": 172.9,
-            "exposure_contribution": 0.46,
+            "magnitude": 5.1,
+            "latitude": 5.6662,
+            "longitude": 125.288,
+            "depth_km": 67.176,
+            "time_ms": 1793149916955,
+            "place": "3 km SSE of Pangyan, Philippines",
+            "distance_km": 167.0,
+            "exposure_contribution": 0.4,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.31
+        "exposure_score": 1.25
       },
       {
         "name": "General Santos International Airport",
@@ -688,8 +699,21 @@
         "latitude": 6.057208,
         "longitude": 125.096243,
         "municipality": "General Santos",
-        "closest_quake_distance_km": 51.7,
+        "closest_quake_distance_km": 48.4,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ttlc",
+            "magnitude": 5.1,
+            "latitude": 5.6662,
+            "longitude": 125.288,
+            "depth_km": 67.176,
+            "time_ms": 1793149916955,
+            "place": "3 km SSE of Pangyan, Philippines",
+            "distance_km": 48.4,
+            "exposure_contribution": 1.36,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000ttkk",
             "magnitude": 5.1,
@@ -702,22 +726,9 @@
             "exposure_contribution": 1.5,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ttlc",
-            "magnitude": 5.2,
-            "latitude": 5.6079,
-            "longitude": 125.3054,
-            "depth_km": 45.941,
-            "time_ms": 1793149914979,
-            "place": "6 km NW of Balangonan, Philippines",
-            "distance_km": 55.1,
-            "exposure_contribution": 1.87,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 3.38
+        "exposure_score": 2.87
       }
     ],
     "earthquakes": [
@@ -756,12 +767,12 @@
       },
       {
         "id": "us7000ttlc",
-        "magnitude": 5.2,
-        "latitude": 5.6079,
-        "longitude": 125.3054,
-        "depth_km": 45.941,
-        "time_ms": 1793149914979,
-        "place": "6 km NW of Balangonan, Philippines",
+        "magnitude": 5.1,
+        "latitude": 5.6662,
+        "longitude": 125.288,
+        "depth_km": 67.176,
+        "time_ms": 1793149916955,
+        "place": "3 km SSE of Pangyan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       },
@@ -799,7 +810,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 4.69
+    "seismic_hub_risk_score": 4.12
   },
   {
     "country": "",
@@ -834,18 +845,18 @@
         "latitude": 53.168716,
         "longitude": 158.451068,
         "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 123.3,
+        "closest_quake_distance_km": 126.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000u4pa",
             "magnitude": 5.3,
-            "latitude": 52.1565,
-            "longitude": 159.1963,
-            "depth_km": 70.184,
-            "time_ms": 1792874104576,
-            "place": "101 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 123.3,
-            "exposure_contribution": 0.76,
+            "latitude": 52.1169,
+            "longitude": 159.1639,
+            "depth_km": 54.088,
+            "time_ms": 1792874102864,
+            "place": "104 km SSE of Vilyuchinsk, Russia",
+            "distance_km": 126.5,
+            "exposure_contribution": 0.8,
             "pga_g": null,
             "mmi": null
           },
@@ -863,7 +874,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.27
+        "exposure_score": 3.31
       }
     ],
     "earthquakes": [
@@ -881,11 +892,11 @@
       {
         "id": "us6000u4pa",
         "magnitude": 5.3,
-        "latitude": 52.1565,
-        "longitude": 159.1963,
-        "depth_km": 70.184,
-        "time_ms": 1792874104576,
-        "place": "101 km SSE of Vilyuchinsk, Russia",
+        "latitude": 52.1169,
+        "longitude": 159.1639,
+        "depth_km": 54.088,
+        "time_ms": 1792874102864,
+        "place": "104 km SSE of Vilyuchinsk, Russia",
         "country_code": "RU",
         "shakemap_available": false
       },
@@ -901,7 +912,7 @@
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.27
+    "seismic_hub_risk_score": 3.31
   },
   {
     "country": "",
@@ -1187,8 +1198,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-11-12",
@@ -1207,18 +1218,18 @@
         "latitude": -6.567995,
         "longitude": 146.726544,
         "municipality": "Lae",
-        "closest_quake_distance_km": 65.4,
+        "closest_quake_distance_km": 66.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us6000u4s5",
-            "magnitude": 5.2,
-            "latitude": -6.1737,
-            "longitude": 147.1659,
-            "depth_km": 80.779,
-            "time_ms": 1792898950551,
+            "magnitude": 5.1,
+            "latitude": -6.1894,
+            "longitude": 147.1973,
+            "depth_km": 81.234,
+            "time_ms": 1792898950489,
             "place": "63 km NNE of Lae, Papua New Guinea",
-            "distance_km": 65.4,
-            "exposure_contribution": 1.09,
+            "distance_km": 66.9,
+            "exposure_contribution": 0.96,
             "pga_g": null,
             "mmi": null
           },
@@ -1236,7 +1247,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.36
+        "exposure_score": 1.22
       },
       {
         "name": "Port Moresby Jacksons International Airport",
@@ -1265,6 +1276,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000ty56",
+        "magnitude": 5.1,
+        "latitude": -1.5038,
+        "longitude": 149.92,
+        "depth_km": 10,
+        "time_ms": 1794612638320,
+        "place": "153 km NW of Kavieng, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
+      {
         "id": "us7000txwp",
         "magnitude": 5.8,
         "latitude": -1.5882,
@@ -1278,11 +1300,11 @@
       {
         "id": "us7000txm8",
         "magnitude": 5.1,
-        "latitude": -6.3288,
-        "longitude": 154.7612,
-        "depth_km": 58.822,
-        "time_ms": 1794418702582,
-        "place": "80 km W of Panguna, Papua New Guinea",
+        "latitude": -6.3292,
+        "longitude": 154.7513,
+        "depth_km": 74.384,
+        "time_ms": 1794418704225,
+        "place": "81 km W of Panguna, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
       },
@@ -1332,11 +1354,11 @@
       },
       {
         "id": "us6000u4s5",
-        "magnitude": 5.2,
-        "latitude": -6.1737,
-        "longitude": 147.1659,
-        "depth_km": 80.779,
-        "time_ms": 1792898950551,
+        "magnitude": 5.1,
+        "latitude": -6.1894,
+        "longitude": 147.1973,
+        "depth_km": 81.234,
+        "time_ms": 1792898950489,
         "place": "63 km NNE of Lae, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": false
@@ -1364,11 +1386,11 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.84
+    "seismic_hub_risk_score": 1.7
   },
   {
     "country": "",
-    "iso_alpha2": "CL",
+    "iso_alpha2": "PE",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -1380,104 +1402,80 @@
     "un_member": false,
     "bordering_countries": [],
     "earthquake_count": 3,
-    "avg_magnitude": 5.5,
+    "avg_magnitude": 5.4,
     "strongest_earthquake": {
-      "magnitude": 6.4,
-      "date": "2026-10-29",
+      "magnitude": 5.8,
+      "date": "2026-11-13",
       "depth_km": 10,
-      "latitude": -36.4649,
-      "longitude": -98.0105
+      "latitude": -14.9934,
+      "longitude": -75.8807
     },
-    "highest_pager_alert": "green",
+    "highest_pager_alert": null,
     "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
-        "name": "Andrés Sabella Gálvez International Airport",
-        "iata_code": "ANF",
-        "latitude": -23.445274,
-        "longitude": -70.445232,
-        "municipality": "Antofagasta",
-        "closest_quake_distance_km": 164.7,
+        "name": "Captain Renán Elías Olivera International Airport",
+        "iata_code": "PIO",
+        "latitude": -13.7449,
+        "longitude": -76.220299,
+        "municipality": "Pisco",
+        "closest_quake_distance_km": 143.6,
         "nearby_quakes": [
           {
-            "earthquake_id": "us7000txis",
-            "magnitude": 5.1,
-            "latitude": -22.5427,
-            "longitude": -69.1693,
-            "depth_km": 91.309,
-            "time_ms": 1794397011281,
-            "place": "27 km WSW of Calama, Chile",
-            "distance_km": 164.7,
-            "exposure_contribution": 0.37,
+            "earthquake_id": "us7000ty1a",
+            "magnitude": 5.8,
+            "latitude": -14.9934,
+            "longitude": -75.8807,
+            "depth_km": 10,
+            "time_ms": 1794588182131,
+            "place": "79 km WSW of Changuillo, Peru",
+            "distance_km": 143.6,
+            "exposure_contribution": 1.32,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.37
-      },
-      {
-        "name": "El Tepual International Airport",
-        "iata_code": "PMC",
-        "latitude": -41.443093,
-        "longitude": -73.094065,
-        "municipality": "Puerto Montt",
-        "closest_quake_distance_km": 90.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000txmq",
-            "magnitude": 5,
-            "latitude": -41.5234,
-            "longitude": -74.1759,
-            "depth_km": 34.893,
-            "time_ms": 1794424877374,
-            "place": "48 km NW of Ancud, Chile",
-            "distance_km": 90.6,
-            "exposure_contribution": 0.96,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.96
+        "exposure_score": 1.32
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000txmq",
-        "magnitude": 5,
-        "latitude": -41.5234,
-        "longitude": -74.1759,
-        "depth_km": 34.893,
-        "time_ms": 1794424877374,
-        "place": "48 km NW of Ancud, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000txis",
-        "magnitude": 5.1,
-        "latitude": -22.5427,
-        "longitude": -69.1693,
-        "depth_km": 91.309,
-        "time_ms": 1794397011281,
-        "place": "27 km WSW of Calama, Chile",
-        "country_code": "CL",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttxz",
-        "magnitude": 6.4,
-        "latitude": -36.4649,
-        "longitude": -98.0105,
+        "id": "us7000ty1a",
+        "magnitude": 5.8,
+        "latitude": -14.9934,
+        "longitude": -75.8807,
         "depth_km": 10,
-        "time_ms": 1793260190096,
-        "place": "southeast of Easter Island",
-        "country_code": "CL",
+        "time_ms": 1794588182131,
+        "place": "79 km WSW of Changuillo, Peru",
+        "country_code": "PE",
         "shakemap_available": true
+      },
+      {
+        "id": "us7000tx38",
+        "magnitude": 5.3,
+        "latitude": -4.9495,
+        "longitude": -75.0002,
+        "depth_km": 11.49,
+        "time_ms": 1794219833528,
+        "place": "80 km ENE of Lagunas, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tuxg",
+        "magnitude": 5.1,
+        "latitude": -10.135,
+        "longitude": -78.5445,
+        "depth_km": 55.388,
+        "time_ms": 1793633293110,
+        "place": "43 km W of Huarmey, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.33
+    "seismic_hub_risk_score": 1.32
   },
   {
     "country": "",
@@ -1492,8 +1490,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-11-05",
@@ -1608,17 +1606,6 @@
         "place": "92 km NNE of Hihifo, Tonga",
         "country_code": "TO",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u28y",
-        "magnitude": 5.9,
-        "latitude": -21.0156,
-        "longitude": -178.8624,
-        "depth_km": 584.925,
-        "time_ms": 1791974988053,
-        "place": "Fiji region",
-        "country_code": "TO",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 1.07
@@ -1636,8 +1623,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 9,
-    "avg_magnitude": 5.44,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 7,
       "date": "2026-10-22",
@@ -1700,6 +1687,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000ty14",
+        "magnitude": 5.2,
+        "latitude": 42.1734,
+        "longitude": 83.6657,
+        "depth_km": 10,
+        "time_ms": 1794586671680,
+        "place": "79 km NE of Kuqa, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
       {
         "id": "us7000ttis",
         "magnitude": 5.4,
@@ -1801,5 +1799,94 @@
       }
     ],
     "seismic_hub_risk_score": 0.89
+  },
+  {
+    "country": "",
+    "iso_alpha2": "CL",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 3,
+    "avg_magnitude": 5.57,
+    "strongest_earthquake": {
+      "magnitude": 6.4,
+      "date": "2026-10-29",
+      "depth_km": 10,
+      "latitude": -36.4649,
+      "longitude": -98.0105
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Andrés Sabella Gálvez International Airport",
+        "iata_code": "ANF",
+        "latitude": -23.445274,
+        "longitude": -70.445232,
+        "municipality": "Antofagasta",
+        "closest_quake_distance_km": 164.7,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000txis",
+            "magnitude": 5.1,
+            "latitude": -22.5427,
+            "longitude": -69.1693,
+            "depth_km": 91.309,
+            "time_ms": 1794397011281,
+            "place": "27 km WSW of Calama, Chile",
+            "distance_km": 164.7,
+            "exposure_contribution": 0.37,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.37
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000ty0s",
+        "magnitude": 5.2,
+        "latitude": -36.4434,
+        "longitude": -97.9785,
+        "depth_km": 10,
+        "time_ms": 1794579167843,
+        "place": "West Chile Rise",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000txis",
+        "magnitude": 5.1,
+        "latitude": -22.5427,
+        "longitude": -69.1693,
+        "depth_km": 91.309,
+        "time_ms": 1794397011281,
+        "place": "27 km WSW of Calama, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttxz",
+        "magnitude": 6.4,
+        "latitude": -36.4649,
+        "longitude": -98.0105,
+        "depth_km": 10,
+        "time_ms": 1793260190096,
+        "place": "southeast of Easter Island",
+        "country_code": "CL",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.37
   }
 ]
