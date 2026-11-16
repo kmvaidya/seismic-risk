@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-11-15 13:12 UTC
+Generated: 2026-11-16 14:22 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-08-18 to 2026-11-15).
+Based on 89 snapshots (2026-08-19 to 2026-11-16).
 
 
 **Top score changes**:
@@ -12,23 +12,22 @@ Based on 89 snapshots (2026-08-18 to 2026-11-15).
 
 **Top airport exposure changes**:
 
+- Francisco Bangoy International Airport (DVO, ): -0.4
 - Narita International Airport (NRT, ): 0.0
 - Ibaraki Airport (IBR, ): 0.0
 - Kansai International Airport (KIX, ): 0.0
 - Kobe Airport (UKB, ): 0.0
-- Kagoshima Airport (KOJ, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 29.3 | ~ | 5.6 | M6.5 (2026-10-25) | 13 | 13 | green | Yes | 1 |
-|  |  |  | 4.1 | ~ | 5.3 | M5.8 (2026-10-29) | 7 | 2 | - | No | 0 |
-|  |  |  | 3.3 | ~ | 5.7 | M6.9 (2026-10-16) | 3 | 1 | - | No | 0 |
-|  |  |  | 2.1 | ~ | 5.2 | M5.7 (2026-10-28) | 14 | 4 | - | No | 0 |
+|  |  |  | 3.7 | ~ | 5.4 | M5.8 (2026-10-29) | 7 | 2 | - | No | 0 |
+|  |  |  | 2.1 | ~ | 5.2 | M5.7 (2026-10-28) | 16 | 4 | - | No | 0 |
 |  |  |  | 1.7 | ~ | 5.3 | M5.8 (2026-11-12) | 10 | 2 | - | No | 0 |
 |  |  |  | 1.3 | ~ | 5.4 | M5.8 (2026-11-13) | 3 | 1 | - | No | 0 |
-|  |  |  | 1.1 | ~ | 5.3 | M6.1 (2026-11-05) | 5 | 1 | - | No | 0 |
+|  |  |  | 1.1 | ~ | 5.3 | M6.1 (2026-11-05) | 6 | 1 | - | No | 0 |
 |  |  |  | 0.9 | ~ | 5.4 | M7 (2026-10-22) | 10 | 2 | orange | No | 1 |
 |  |  |  | 0.4 | ~ | 5.6 | M6.4 (2026-10-29) | 3 | 1 | green | No | 1 |
 
@@ -50,8 +49,7 @@ Based on 89 snapshots (2026-08-18 to 2026-11-15).
 | Kansai International Airport | KIX | Osaka |  | 0.2 | ~ | 173.8 | 1 |
 | Kobe Airport | UKB | Kobe |  | 0.2 | ~ | 185.3 | 1 |
 | General Santos International Airport | GES | General Santos |  | 2.9 | ~ | 48.4 | 2 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 1.2 | ~ | 160.5 | 3 |
-| Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 3.3 | ~ | 126.5 | 2 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 0.8 | ~ | 160.5 | 2 |
 | Yogyakarta International Airport | YIA | Yogyakarta |  | 0.9 | ~ | 137.4 | 1 |
 | Adisoemarmo International Airport | SOC | Surakarta |  | 0.6 | ~ | 180.6 | 1 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 0.3 | ~ | 35.5 | 1 |
