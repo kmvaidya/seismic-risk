@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 13,
-    "avg_magnitude": 5.56,
+    "earthquake_count": 14,
+    "avg_magnitude": 5.55,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -145,17 +145,17 @@
         "latitude": 34.427299,
         "longitude": 135.244003,
         "municipality": "Osaka",
-        "closest_quake_distance_km": 173.8,
+        "closest_quake_distance_km": 180.1,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
-            "latitude": 33.822,
-            "longitude": 136.9854,
-            "depth_km": 352.449,
-            "time_ms": 1793484902901,
-            "place": "58 km SSE of Shima, Japan",
-            "distance_km": 173.8,
+            "latitude": 33.7792,
+            "longitude": 137.0372,
+            "depth_km": 348,
+            "time_ms": 1793484902653,
+            "place": "64 km SSE of Shima, Japan",
+            "distance_km": 180.1,
             "exposure_contribution": 0.24,
             "pga_g": null,
             "mmi": null
@@ -169,17 +169,17 @@
         "latitude": 34.632801,
         "longitude": 135.223999,
         "municipality": "Kobe",
-        "closest_quake_distance_km": 185.3,
+        "closest_quake_distance_km": 191.9,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
-            "latitude": 33.822,
-            "longitude": 136.9854,
-            "depth_km": 352.449,
-            "time_ms": 1793484902901,
-            "place": "58 km SSE of Shima, Japan",
-            "distance_km": 185.3,
+            "latitude": 33.7792,
+            "longitude": 137.0372,
+            "depth_km": 348,
+            "time_ms": 1793484902653,
+            "place": "64 km SSE of Shima, Japan",
+            "distance_km": 191.9,
             "exposure_contribution": 0.23,
             "pga_g": null,
             "mmi": null
@@ -265,36 +265,36 @@
         "latitude": 34.858398,
         "longitude": 136.804993,
         "municipality": "Tokoname",
-        "closest_quake_distance_km": 72.4,
+        "closest_quake_distance_km": 73.5,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000twt0",
             "magnitude": 5.5,
-            "latitude": 34.8969,
-            "longitude": 137.5969,
-            "depth_km": 37.07,
-            "time_ms": 1794067475288,
-            "place": "8 km E of Shinshiro, Japan",
-            "distance_km": 72.4,
-            "exposure_contribution": 2.22,
+            "latitude": 34.8997,
+            "longitude": 137.6091,
+            "depth_km": 39.53,
+            "time_ms": 1794067475556,
+            "place": "9 km E of Shinshiro, Japan",
+            "distance_km": 73.5,
+            "exposure_contribution": 2.13,
             "pga_g": null,
             "mmi": null
           },
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
-            "latitude": 33.822,
-            "longitude": 136.9854,
-            "depth_km": 352.449,
-            "time_ms": 1793484902901,
-            "place": "58 km SSE of Shima, Japan",
-            "distance_km": 116.4,
+            "latitude": 33.7792,
+            "longitude": 137.0372,
+            "depth_km": 348,
+            "time_ms": 1793484902653,
+            "place": "64 km SSE of Shima, Japan",
+            "distance_km": 121.9,
             "exposure_contribution": 0.27,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.49
+        "exposure_score": 2.41
       },
       {
         "name": "Komatsu Airport / JASDF Komatsu Air Base",
@@ -302,23 +302,36 @@
         "latitude": 36.393407,
         "longitude": 136.406895,
         "municipality": "Kanazawa",
-        "closest_quake_distance_km": 198.1,
+        "closest_quake_distance_km": 112.3,
         "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tyhr",
+            "magnitude": 5.4,
+            "latitude": 37.3664,
+            "longitude": 136.7444,
+            "depth_km": 273.644,
+            "time_ms": 1794803051718,
+            "place": "20 km NW of Anamizu, Japan",
+            "distance_km": 112.3,
+            "exposure_contribution": 0.22,
+            "pga_g": null,
+            "mmi": null
+          },
           {
             "earthquake_id": "us7000twt0",
             "magnitude": 5.5,
-            "latitude": 34.8969,
-            "longitude": 137.5969,
-            "depth_km": 37.07,
-            "time_ms": 1794067475288,
-            "place": "8 km E of Shinshiro, Japan",
-            "distance_km": 198.1,
+            "latitude": 34.8997,
+            "longitude": 137.6091,
+            "depth_km": 39.53,
+            "time_ms": 1794067475556,
+            "place": "9 km E of Shinshiro, Japan",
+            "distance_km": 198.5,
             "exposure_contribution": 0.52,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.52
+        "exposure_score": 0.74
       },
       {
         "name": "Mount Fuji Shizuoka Airport",
@@ -326,36 +339,36 @@
         "latitude": 34.795022,
         "longitude": 138.190976,
         "municipality": "Makinohara / Shimada",
-        "closest_quake_distance_km": 55.4,
+        "closest_quake_distance_km": 54.4,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000twt0",
             "magnitude": 5.5,
-            "latitude": 34.8969,
-            "longitude": 137.5969,
-            "depth_km": 37.07,
-            "time_ms": 1794067475288,
-            "place": "8 km E of Shinshiro, Japan",
-            "distance_km": 55.4,
-            "exposure_contribution": 2.93,
+            "latitude": 34.8997,
+            "longitude": 137.6091,
+            "depth_km": 39.53,
+            "time_ms": 1794067475556,
+            "place": "9 km E of Shinshiro, Japan",
+            "distance_km": 54.4,
+            "exposure_contribution": 2.9,
             "pga_g": null,
             "mmi": null
           },
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
-            "latitude": 33.822,
-            "longitude": 136.9854,
-            "depth_km": 352.449,
-            "time_ms": 1793484902901,
-            "place": "58 km SSE of Shima, Japan",
-            "distance_km": 154.8,
+            "latitude": 33.7792,
+            "longitude": 137.0372,
+            "depth_km": 348,
+            "time_ms": 1793484902653,
+            "place": "64 km SSE of Shima, Japan",
+            "distance_km": 154.9,
             "exposure_contribution": 0.25,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 3.18
+        "exposure_score": 3.15
       },
       {
         "name": "Osaka Itami International Airport",
@@ -363,31 +376,31 @@
         "latitude": 34.780853,
         "longitude": 135.440829,
         "municipality": "Osaka",
-        "closest_quake_distance_km": 177.5,
+        "closest_quake_distance_km": 184.2,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tuku",
             "magnitude": 6,
-            "latitude": 33.822,
-            "longitude": 136.9854,
-            "depth_km": 352.449,
-            "time_ms": 1793484902901,
-            "place": "58 km SSE of Shima, Japan",
-            "distance_km": 177.5,
-            "exposure_contribution": 0.23,
+            "latitude": 33.7792,
+            "longitude": 137.0372,
+            "depth_km": 348,
+            "time_ms": 1793484902653,
+            "place": "64 km SSE of Shima, Japan",
+            "distance_km": 184.2,
+            "exposure_contribution": 0.24,
             "pga_g": null,
             "mmi": null
           },
           {
             "earthquake_id": "us7000twt0",
             "magnitude": 5.5,
-            "latitude": 34.8969,
-            "longitude": 137.5969,
-            "depth_km": 37.07,
-            "time_ms": 1794067475288,
-            "place": "8 km E of Shinshiro, Japan",
-            "distance_km": 197.2,
-            "exposure_contribution": 0.53,
+            "latitude": 34.8997,
+            "longitude": 137.6091,
+            "depth_km": 39.53,
+            "time_ms": 1794067475556,
+            "place": "9 km E of Shinshiro, Japan",
+            "distance_km": 198.3,
+            "exposure_contribution": 0.52,
             "pga_g": null,
             "mmi": null
           }
@@ -471,6 +484,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us7000tyhr",
+        "magnitude": 5.4,
+        "latitude": 37.3664,
+        "longitude": 136.7444,
+        "depth_km": 273.644,
+        "time_ms": 1794803051718,
+        "place": "20 km NW of Anamizu, Japan",
+        "country_code": "JP",
+        "shakemap_available": true
+      },
+      {
         "id": "us7000txgv",
         "magnitude": 5,
         "latitude": 44.3915,
@@ -495,11 +519,11 @@
       {
         "id": "us7000twt0",
         "magnitude": 5.5,
-        "latitude": 34.8969,
-        "longitude": 137.5969,
-        "depth_km": 37.07,
-        "time_ms": 1794067475288,
-        "place": "8 km E of Shinshiro, Japan",
+        "latitude": 34.8997,
+        "longitude": 137.6091,
+        "depth_km": 39.53,
+        "time_ms": 1794067475556,
+        "place": "9 km E of Shinshiro, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -528,11 +552,11 @@
       {
         "id": "us7000tuku",
         "magnitude": 6,
-        "latitude": 33.822,
-        "longitude": 136.9854,
-        "depth_km": 352.449,
-        "time_ms": 1793484902901,
-        "place": "58 km SSE of Shima, Japan",
+        "latitude": 33.7792,
+        "longitude": 137.0372,
+        "depth_km": 348,
+        "time_ms": 1793484902653,
+        "place": "64 km SSE of Shima, Japan",
         "country_code": "JP",
         "shakemap_available": true
       },
@@ -614,7 +638,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 29.29
+    "seismic_hub_risk_score": 29.4
   },
   {
     "country": "",
@@ -629,8 +653,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 8,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -713,12 +737,36 @@
             "exposure_contribution": 1.5,
             "pga_g": null,
             "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tyil",
+            "magnitude": 5,
+            "latitude": 4.7842,
+            "longitude": 125.4267,
+            "depth_km": 10,
+            "time_ms": 1794813254483,
+            "place": "68 km S of Sarangani, Philippines",
+            "distance_km": 146.2,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
           }
         ],
-        "exposure_score": 2.87
+        "exposure_score": 3.37
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tyil",
+        "magnitude": 5,
+        "latitude": 4.7842,
+        "longitude": 125.4267,
+        "depth_km": 10,
+        "time_ms": 1794813254483,
+        "place": "68 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
       {
         "id": "us7000tyek",
         "magnitude": 5.5,
@@ -797,7 +845,120 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 3.72
+    "seismic_hub_risk_score": 4.22
+  },
+  {
+    "country": "",
+    "iso_alpha2": "PE",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.4,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-11-13",
+      "depth_km": 10,
+      "latitude": -14.9934,
+      "longitude": -75.8807
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Captain Renán Elías Olivera International Airport",
+        "iata_code": "PIO",
+        "latitude": -13.7449,
+        "longitude": -76.220299,
+        "municipality": "Pisco",
+        "closest_quake_distance_km": 143.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000ty1a",
+            "magnitude": 5.8,
+            "latitude": -14.9934,
+            "longitude": -75.8807,
+            "depth_km": 10,
+            "time_ms": 1794588182131,
+            "place": "79 km WSW of Changuillo, Peru",
+            "distance_km": 143.6,
+            "exposure_contribution": 1.32,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tykh",
+            "magnitude": 5.4,
+            "latitude": -15.0306,
+            "longitude": -76.0259,
+            "depth_km": 10,
+            "time_ms": 1794845805265,
+            "place": "95 km WSW of Changuillo, Peru",
+            "distance_km": 144.5,
+            "exposure_contribution": 0.82,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.14
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us7000tykh",
+        "magnitude": 5.4,
+        "latitude": -15.0306,
+        "longitude": -76.0259,
+        "depth_km": 10,
+        "time_ms": 1794845805265,
+        "place": "95 km WSW of Changuillo, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ty1a",
+        "magnitude": 5.8,
+        "latitude": -14.9934,
+        "longitude": -75.8807,
+        "depth_km": 10,
+        "time_ms": 1794588182131,
+        "place": "79 km WSW of Changuillo, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tx38",
+        "magnitude": 5.3,
+        "latitude": -4.9495,
+        "longitude": -75.0002,
+        "depth_km": 11.49,
+        "time_ms": 1794219833528,
+        "place": "80 km ENE of Lagunas, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tuxg",
+        "magnitude": 5.1,
+        "latitude": -10.135,
+        "longitude": -78.5445,
+        "depth_km": 55.388,
+        "time_ms": 1793633293110,
+        "place": "43 km W of Huarmey, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.14
   },
   {
     "country": "",
@@ -812,19 +973,19 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.16,
+    "earthquake_count": 17,
+    "avg_magnitude": 5.25,
     "strongest_earthquake": {
-      "magnitude": 5.7,
-      "date": "2026-10-28",
-      "depth_km": 142,
-      "latitude": -6.3599,
-      "longitude": 130.4138
+      "magnitude": 6.6,
+      "date": "2026-11-16",
+      "depth_km": 68,
+      "latitude": -6.0804,
+      "longitude": 131.4868
     },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
+    "highest_pager_alert": "green",
+    "max_felt_reports": 10,
     "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
         "name": "Yogyakarta International Airport",
@@ -924,6 +1085,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us7000tymu",
+        "magnitude": 6.6,
+        "latitude": -6.0804,
+        "longitude": 131.4868,
+        "depth_km": 68,
+        "time_ms": 1794863480515,
+        "place": "148 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us7000tyg6",
         "magnitude": 5,
@@ -1070,11 +1242,11 @@
       {
         "id": "us6000u4y1",
         "magnitude": 5,
-        "latitude": -8.443,
-        "longitude": 121.5729,
+        "latitude": -8.4403,
+        "longitude": 121.5975,
         "depth_km": 10,
-        "time_ms": 1792990420479,
-        "place": "45 km NNW of Ende, Indonesia",
+        "time_ms": 1792990420521,
+        "place": "45 km N of Ende, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1305,95 +1477,6 @@
       }
     ],
     "seismic_hub_risk_score": 1.7
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PE",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.4,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-11-13",
-      "depth_km": 10,
-      "latitude": -14.9934,
-      "longitude": -75.8807
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Captain Renán Elías Olivera International Airport",
-        "iata_code": "PIO",
-        "latitude": -13.7449,
-        "longitude": -76.220299,
-        "municipality": "Pisco",
-        "closest_quake_distance_km": 143.6,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ty1a",
-            "magnitude": 5.8,
-            "latitude": -14.9934,
-            "longitude": -75.8807,
-            "depth_km": 10,
-            "time_ms": 1794588182131,
-            "place": "79 km WSW of Changuillo, Peru",
-            "distance_km": 143.6,
-            "exposure_contribution": 1.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 1.32
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us7000ty1a",
-        "magnitude": 5.8,
-        "latitude": -14.9934,
-        "longitude": -75.8807,
-        "depth_km": 10,
-        "time_ms": 1794588182131,
-        "place": "79 km WSW of Changuillo, Peru",
-        "country_code": "PE",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tx38",
-        "magnitude": 5.3,
-        "latitude": -4.9495,
-        "longitude": -75.0002,
-        "depth_km": 11.49,
-        "time_ms": 1794219833528,
-        "place": "80 km ENE of Lagunas, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tuxg",
-        "magnitude": 5.1,
-        "latitude": -10.135,
-        "longitude": -78.5445,
-        "depth_km": 55.388,
-        "time_ms": 1793633293110,
-        "place": "43 km W of Huarmey, Peru",
-        "country_code": "PE",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 1.32
   },
   {
     "country": "",
