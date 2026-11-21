@@ -1,9 +1,9 @@
 # Seismic Risk Report
-Generated: 2026-11-20 14:39 UTC
+Generated: 2026-11-21 13:56 UTC
 
 ## Trend Summary
 
-Based on 89 snapshots (2026-08-23 to 2026-11-20).
+Based on 89 snapshots (2026-08-24 to 2026-11-21).
 
 
 **Top score changes**:
@@ -12,21 +12,21 @@ Based on 89 snapshots (2026-08-23 to 2026-11-20).
 
 **Top airport exposure changes**:
 
-- Kagoshima Airport (KOJ, ): -0.2
-- Kumamoto Airport (KMJ, ): +0.1
-- Kyushu Saga International Airport (HSG, ): +0.1
-- Nagasaki Airport (NGS, ): +0.1
-- Fukuoka Airport (FUK, ): +0.0
+- General Santos International Airport (GES, ): +1.0
+- Francisco Bangoy International Airport (DVO, ): +0.3
+- Yogyakarta International Airport (YIA, ): -0.1
+- Adisoemarmo International Airport (SOC, ): -0.1
+- Narita International Airport (NRT, ): 0.0
 
 ## Country Summary
 
 | Country | ISO | Region | Score | Trend | Avg Mag | Strongest | Quakes | Airports | Alert | Tsunami | Sig. Events |
 |:--------|:----|:-------|------:|:------|--------:|:----------|-------:|---------:|:------|:--------|------------:|
 |  |  |  | 41.0 | ~ | 5.5 | M6.5 (2026-10-25) | 16 | 18 | green | Yes | 1 |
-|  |  |  | 4.2 | ~ | 5.3 | M5.8 (2026-10-29) | 8 | 2 | - | No | 0 |
+|  |  |  | 5.5 | ~ | 5.3 | M5.8 (2026-10-29) | 8 | 2 | - | No | 0 |
 |  |  |  | 3.7 | ~ | 5.3 | M5.8 (2026-11-18) | 11 | 2 | - | No | 0 |
 |  |  |  | 3.4 | ~ | 5.5 | M5.9 (2026-11-18) | 5 | 1 | - | No | 0 |
-|  |  |  | 1.8 | ~ | 5.3 | M6.6 (2026-11-16) | 18 | 3 | green | No | 1 |
+|  |  |  | 1.6 | ~ | 5.3 | M6.6 (2026-11-16) | 18 | 3 | green | No | 1 |
 |  |  |  | 1.4 | ~ | 5.5 | M5.8 (2026-11-18) | 3 | 1 | - | No | 0 |
 |  |  |  | 0.8 | ~ | 5.2 | M5.3 (2026-10-24) | 3 | 1 | - | No | 0 |
 |  |  |  | 0.4 | ~ | 5.4 | M6.4 (2026-10-29) | 5 | 1 | green | No | 1 |
@@ -53,13 +53,13 @@ Based on 89 snapshots (2026-08-23 to 2026-11-20).
 | Aomori Airport | AOJ | Aomori |  | 0.4 | ~ | 168.8 | 1 |
 | Kansai International Airport | KIX | Osaka |  | 0.2 | ~ | 180.1 | 1 |
 | Kobe Airport | UKB | Kobe |  | 0.2 | ~ | 191.9 | 1 |
-| General Santos International Airport | GES | General Santos |  | 3.4 | ~ | 48.4 | 3 |
-| Francisco Bangoy International Airport | DVO | Davao |  | 0.8 | ~ | 160.5 | 2 |
+| General Santos International Airport | GES | General Santos |  | 4.4 | +1.0 | 48.4 | 4 |
+| Francisco Bangoy International Airport | DVO | Davao |  | 1.2 | ~ | 160.5 | 3 |
 | Nadzab Tomodachi International Airport | LAE | Lae |  | 3.2 | ~ | 66.9 | 3 |
 | Port Moresby Jacksons International Airport | POM | Port Moresby |  | 0.5 | ~ | 120.9 | 1 |
 | Captain Renán Elías Olivera International Airport | PIO | Pisco |  | 3.4 | ~ | 143.6 | 3 |
-| Yogyakarta International Airport | YIA | Yogyakarta |  | 0.9 | ~ | 137.4 | 1 |
-| Adisoemarmo International Airport | SOC | Surakarta |  | 0.6 | ~ | 180.6 | 1 |
+| Yogyakarta International Airport | YIA | Yogyakarta |  | 0.8 | ~ | 135.8 | 1 |
+| Adisoemarmo International Airport | SOC | Surakarta |  | 0.5 | ~ | 181.7 | 1 |
 | Sam Ratulangi International Airport | MDC | Manado |  | 0.3 | ~ | 35.5 | 1 |
 | Antonio B. Won Pat International Airport | GUM | Hagåtña |  | 1.4 | ~ | 177.8 | 2 |
 | Yelizovo Airport | PKC | Petropavlovsk-Kamchatsky |  | 0.8 | ~ | 126.5 | 1 |
