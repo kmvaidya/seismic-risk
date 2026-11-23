@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.49,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.52,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -556,30 +556,6 @@
         "exposure_score": 0.76
       },
       {
-        "name": "Aomori Airport",
-        "iata_code": "AOJ",
-        "latitude": 40.733777,
-        "longitude": 140.689477,
-        "municipality": "Aomori",
-        "closest_quake_distance_km": 168.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u4e2",
-            "magnitude": 5.1,
-            "latitude": 40.3463,
-            "longitude": 142.6211,
-            "depth_km": 31.83,
-            "time_ms": 1792771670626,
-            "place": "73 km ENE of Noda, Japan",
-            "distance_km": 168.8,
-            "exposure_contribution": 0.44,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.44
-      },
-      {
         "name": "Niigata Airport",
         "iata_code": "KIJ",
         "latitude": 37.954166,
@@ -843,20 +819,9 @@
         "place": "46 km ESE of Miyazaki, Japan",
         "country_code": "JP",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u4e2",
-        "magnitude": 5.1,
-        "latitude": 40.3463,
-        "longitude": 142.6211,
-        "depth_km": 31.83,
-        "time_ms": 1792771670626,
-        "place": "73 km ENE of Noda, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 41.8
+    "seismic_hub_risk_score": 41.36
   },
   {
     "country": "",
@@ -871,17 +836,17 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.6,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.51,
     "strongest_earthquake": {
       "magnitude": 6.7,
       "date": "2026-11-21",
-      "depth_km": 108.0,
-      "latitude": -10.8548,
-      "longitude": -75.9779
+      "depth_km": 125,
+      "latitude": -10.8889,
+      "longitude": -75.966
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 121,
+    "max_felt_reports": 148,
     "tsunami_warning_issued": true,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -909,18 +874,44 @@
           {
             "earthquake_id": "us6000ucfm",
             "magnitude": 6.7,
-            "latitude": -10.8548,
-            "longitude": -75.9779,
-            "depth_km": 107.991,
-            "time_ms": 1795219759667,
-            "place": "9 km NE of Carhuamayo, Peru",
-            "distance_km": 179.4,
-            "exposure_contribution": 1.95,
+            "latitude": -10.8889,
+            "longitude": -75.966,
+            "depth_km": 125,
+            "time_ms": 1795219761810,
+            "place": "7 km ENE of Carhuamayo, Peru",
+            "distance_km": 177.6,
+            "exposure_contribution": 1.82,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ucuf",
+            "magnitude": 5.4,
+            "latitude": -10.8345,
+            "longitude": -76.0169,
+            "depth_km": 117.396,
+            "time_ms": 1795383331763,
+            "place": "9 km N of Carhuamayo, Peru",
+            "distance_km": 178.2,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us6000ucqu",
+            "magnitude": 5,
+            "latitude": -10.7957,
+            "longitude": -75.9635,
+            "depth_km": 108.134,
+            "time_ms": 1795326718624,
+            "place": "15 km NNE of Carhuamayo, Peru",
+            "distance_km": 185.3,
+            "exposure_contribution": 0.26,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 2.24
+        "exposure_score": 2.8
       },
       {
         "name": "Captain Renán Elías Olivera International Airport",
@@ -975,6 +966,28 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000ucuf",
+        "magnitude": 5.4,
+        "latitude": -10.8345,
+        "longitude": -76.0169,
+        "depth_km": 117.396,
+        "time_ms": 1795383331763,
+        "place": "9 km N of Carhuamayo, Peru",
+        "country_code": "PE",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ucqu",
+        "magnitude": 5,
+        "latitude": -10.7957,
+        "longitude": -75.9635,
+        "depth_km": 108.134,
+        "time_ms": 1795326718624,
+        "place": "15 km NNE of Carhuamayo, Peru",
+        "country_code": "PE",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000uchd",
         "magnitude": 5,
         "latitude": -10.913,
@@ -988,11 +1001,11 @@
       {
         "id": "us6000ucfm",
         "magnitude": 6.7,
-        "latitude": -10.8548,
-        "longitude": -75.9779,
-        "depth_km": 107.991,
-        "time_ms": 1795219759667,
-        "place": "9 km NE of Carhuamayo, Peru",
+        "latitude": -10.8889,
+        "longitude": -75.966,
+        "depth_km": 125,
+        "time_ms": 1795219761810,
+        "place": "7 km ENE of Carhuamayo, Peru",
         "country_code": "PE",
         "shakemap_available": true
       },
@@ -1052,7 +1065,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.61
+    "seismic_hub_risk_score": 6.17
   },
   {
     "country": "",
@@ -1505,6 +1518,139 @@
   },
   {
     "country": "",
+    "iso_alpha2": "CN",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 7,
+    "avg_magnitude": 5.4,
+    "strongest_earthquake": {
+      "magnitude": 5.9,
+      "date": "2026-11-21",
+      "depth_km": 10,
+      "latitude": 37.1958,
+      "longitude": 96.6398
+    },
+    "highest_pager_alert": "yellow",
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Ürümqi Tianshan International Airport",
+        "iata_code": "URC",
+        "latitude": 43.913584,
+        "longitude": 87.479372,
+        "municipality": "Ürümqi",
+        "closest_quake_distance_km": 61.2,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000ucrp",
+            "magnitude": 5.1,
+            "latitude": 43.4743,
+            "longitude": 87.9381,
+            "depth_km": 10,
+            "time_ms": 1795338508009,
+            "place": "45 km SE of Ürümqi, China",
+            "distance_km": 61.2,
+            "exposure_contribution": 2.04,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.04
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000ucrp",
+        "magnitude": 5.1,
+        "latitude": 43.4743,
+        "longitude": 87.9381,
+        "depth_km": 10,
+        "time_ms": 1795338508009,
+        "place": "45 km SE of Ürümqi, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ucly",
+        "magnitude": 5.9,
+        "latitude": 37.1958,
+        "longitude": 96.6398,
+        "depth_km": 10,
+        "time_ms": 1795257933230,
+        "place": "238 km SW of Yanglong, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ty14",
+        "magnitude": 5.2,
+        "latitude": 42.1734,
+        "longitude": 83.6657,
+        "depth_km": 10,
+        "time_ms": 1794586671680,
+        "place": "79 km NE of Kuqa, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttis",
+        "magnitude": 5.4,
+        "latitude": 32.4692,
+        "longitude": 93.9084,
+        "depth_km": 10,
+        "time_ms": 1793127472912,
+        "place": "206 km ENE of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u4ty",
+        "magnitude": 5.9,
+        "latitude": 32.4675,
+        "longitude": 94.0105,
+        "depth_km": 7,
+        "time_ms": 1792927557039,
+        "place": "214 km ENE of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u4tx",
+        "magnitude": 5,
+        "latitude": 32.3733,
+        "longitude": 93.863,
+        "depth_km": 10,
+        "time_ms": 1792927453959,
+        "place": "197 km ENE of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u4lg",
+        "magnitude": 5.3,
+        "latitude": 32.539,
+        "longitude": 94.0081,
+        "depth_km": 10,
+        "time_ms": 1792831193065,
+        "place": "218 km ENE of Nagqu, China",
+        "country_code": "CN",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 2.04
+  },
+  {
+    "country": "",
     "iso_alpha2": "ID",
     "iso_alpha3": "",
     "capital": "",
@@ -1516,8 +1662,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 19,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-11-16",
@@ -1604,6 +1750,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ucrb",
+        "magnitude": 5.4,
+        "latitude": 3.0314,
+        "longitude": 126.3861,
+        "depth_km": 43.705,
+        "time_ms": 1795334080056,
+        "place": "224 km NE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
       {
         "id": "us6000ubxb",
         "magnitude": 5.2,
@@ -2009,8 +2166,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
-    "avg_magnitude": 5.36,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-10-29",
@@ -2068,6 +2225,17 @@
         "depth_km": 10,
         "time_ms": 1795111786530,
         "place": "99 km WSW of Illapel, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ty7b",
+        "magnitude": 5,
+        "latitude": -36.4683,
+        "longitude": -97.8866,
+        "depth_km": 10,
+        "time_ms": 1794637999258,
+        "place": "West Chile Rise",
         "country_code": "CL",
         "shakemap_available": false
       },
