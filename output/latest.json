@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 16,
-    "avg_magnitude": 5.52,
+    "earthquake_count": 15,
+    "avg_magnitude": 5.55,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-10-25",
@@ -21,10 +21,10 @@
       "latitude": 27.8093,
       "longitude": 139.7102
     },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 2,
-    "tsunami_warning_issued": true,
-    "significant_events_count": 1,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Narita International Airport",
@@ -244,22 +244,9 @@
             "exposure_contribution": 2.76,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000u4qq",
-            "magnitude": 5.1,
-            "latitude": 31.7892,
-            "longitude": 131.8868,
-            "depth_km": 10,
-            "time_ms": 1792886377247,
-            "place": "46 km ESE of Miyazaki, Japan",
-            "distance_km": 110.4,
-            "exposure_contribution": 0.89,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 3.64
+        "exposure_score": 2.76
       },
       {
         "name": "Miyazaki Airport",
@@ -267,21 +254,8 @@
         "latitude": 31.877199,
         "longitude": 131.449005,
         "municipality": "Miyazaki",
-        "closest_quake_distance_km": 42.5,
+        "closest_quake_distance_km": 102.8,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u4qq",
-            "magnitude": 5.1,
-            "latitude": 31.7892,
-            "longitude": 131.8868,
-            "depth_km": 10,
-            "time_ms": 1792886377247,
-            "place": "46 km ESE of Miyazaki, Japan",
-            "distance_km": 42.5,
-            "exposure_contribution": 3.26,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000tz1n",
             "magnitude": 5.3,
@@ -296,7 +270,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.5
+        "exposure_score": 1.24
       },
       {
         "name": "Kitakyushu Airport",
@@ -366,22 +340,9 @@
             "exposure_contribution": 2.07,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us6000u4qq",
-            "magnitude": 5.1,
-            "latitude": 31.7892,
-            "longitude": 131.8868,
-            "depth_km": 10,
-            "time_ms": 1792886377247,
-            "place": "46 km ESE of Miyazaki, Japan",
-            "distance_km": 151.6,
-            "exposure_contribution": 0.54,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 2.6
+        "exposure_score": 2.07
       },
       {
         "name": "Nagasaki Airport",
@@ -808,20 +769,9 @@
         "place": "Bonin Islands, Japan region",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u4qq",
-        "magnitude": 5.1,
-        "latitude": 31.7892,
-        "longitude": 131.8868,
-        "depth_km": 10,
-        "time_ms": 1792886377247,
-        "place": "46 km ESE of Miyazaki, Japan",
-        "country_code": "JP",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 41.36
+    "seismic_hub_risk_score": 36.69
   },
   {
     "country": "",
@@ -1313,8 +1263,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.33,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-11-18",
@@ -1403,6 +1353,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ucwd",
+        "magnitude": 5,
+        "latitude": -4.7591,
+        "longitude": 153.6467,
+        "depth_km": 98.944,
+        "time_ms": 1795407499641,
+        "place": "159 km ESE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ubz1",
         "magnitude": 5,
@@ -1529,8 +1490,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.4,
+    "earthquake_count": 6,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-11-21",
@@ -1634,17 +1595,6 @@
         "place": "197 km ENE of Nagqu, China",
         "country_code": "CN",
         "shakemap_available": false
-      },
-      {
-        "id": "us6000u4lg",
-        "magnitude": 5.3,
-        "latitude": 32.539,
-        "longitude": 94.0081,
-        "depth_km": 10,
-        "time_ms": 1792831193065,
-        "place": "218 km ENE of Nagqu, China",
-        "country_code": "CN",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.04
@@ -1662,8 +1612,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 19,
-    "avg_magnitude": 5.29,
+    "earthquake_count": 18,
+    "avg_magnitude": 5.31,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-11-16",
@@ -1706,23 +1656,23 @@
         "latitude": 1.548591,
         "longitude": 124.92625,
         "municipality": "Manado",
-        "closest_quake_distance_km": 35.5,
+        "closest_quake_distance_km": 42.0,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000tuuy",
             "magnitude": 5.1,
-            "latitude": 1.392,
-            "longitude": 124.6476,
-            "depth_km": 196.646,
-            "time_ms": 1793607194014,
-            "place": "19 km WNW of Tomohon, Indonesia",
-            "distance_km": 35.5,
-            "exposure_contribution": 0.34,
+            "latitude": 1.3581,
+            "longitude": 124.6005,
+            "depth_km": 170.272,
+            "time_ms": 1793607191325,
+            "place": "23 km WNW of Tomohon, Indonesia",
+            "distance_km": 42.0,
+            "exposure_contribution": 0.42,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 0.34
+        "exposure_score": 0.42
       },
       {
         "name": "Adisoemarmo International Airport",
@@ -1872,24 +1822,13 @@
         "shakemap_available": true
       },
       {
-        "id": "us7000tvwj",
-        "magnitude": 5,
-        "latitude": 4.3895,
-        "longitude": 127.0325,
-        "depth_km": 49.074,
-        "time_ms": 1793778012288,
-        "place": "207 km ESE of Sarangani, Philippines",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
         "id": "us7000tuuy",
         "magnitude": 5.1,
-        "latitude": 1.392,
-        "longitude": 124.6476,
-        "depth_km": 196.646,
-        "time_ms": 1793607194014,
-        "place": "19 km WNW of Tomohon, Indonesia",
+        "latitude": 1.3581,
+        "longitude": 124.6005,
+        "depth_km": 170.272,
+        "time_ms": 1793607191325,
+        "place": "23 km WNW of Tomohon, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
       },
@@ -1960,7 +1899,7 @@
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.65
+    "seismic_hub_risk_score": 1.73
   },
   {
     "country": "",
@@ -2066,95 +2005,6 @@
   },
   {
     "country": "",
-    "iso_alpha2": "RU",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.17,
-    "strongest_earthquake": {
-      "magnitude": 5.3,
-      "date": "2026-10-24",
-      "depth_km": 54.1,
-      "latitude": 52.1169,
-      "longitude": 159.1639
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Yelizovo Airport",
-        "iata_code": "PKC",
-        "latitude": 53.168716,
-        "longitude": 158.451068,
-        "municipality": "Petropavlovsk-Kamchatsky",
-        "closest_quake_distance_km": 126.5,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u4pa",
-            "magnitude": 5.3,
-            "latitude": 52.1169,
-            "longitude": 159.1639,
-            "depth_km": 54.088,
-            "time_ms": 1792874102864,
-            "place": "104 km SSE of Vilyuchinsk, Russia",
-            "distance_km": 126.5,
-            "exposure_contribution": 0.8,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.8
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000ubw3",
-        "magnitude": 5.2,
-        "latitude": 51.3379,
-        "longitude": 172.8596,
-        "depth_km": 10,
-        "time_ms": 1795037327088,
-        "place": "169 km S of Attu Station, Alaska",
-        "country_code": "RU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttmb",
-        "magnitude": 5,
-        "latitude": 51.3453,
-        "longitude": 159.6224,
-        "depth_km": 10,
-        "time_ms": 1793167968111,
-        "place": "195 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u4pa",
-        "magnitude": 5.3,
-        "latitude": 52.1169,
-        "longitude": 159.1639,
-        "depth_km": 54.088,
-        "time_ms": 1792874102864,
-        "place": "104 km SSE of Vilyuchinsk, Russia",
-        "country_code": "RU",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 0.8
-  },
-  {
-    "country": "",
     "iso_alpha2": "CL",
     "iso_alpha3": "",
     "capital": "",
@@ -2176,7 +2026,7 @@
       "longitude": -98.0105
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 0,
+    "max_felt_reports": 1,
     "tsunami_warning_issued": false,
     "significant_events_count": 1,
     "exposed_airports": [
