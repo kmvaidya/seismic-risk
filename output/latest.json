@@ -12,14 +12,14 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 15,
-    "avg_magnitude": 5.55,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.49,
     "strongest_earthquake": {
-      "magnitude": 6.5,
-      "date": "2026-10-25",
-      "depth_km": 475,
-      "latitude": 27.8093,
-      "longitude": 139.7102
+      "magnitude": 6.1,
+      "date": "2026-11-06",
+      "depth_km": 29,
+      "latitude": 34.9677,
+      "longitude": 142.1175
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -725,50 +725,6 @@
         "place": "5 km SW of Asahi, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u4we",
-        "magnitude": 5.3,
-        "latitude": 27.8649,
-        "longitude": 139.6832,
-        "depth_km": 484.121,
-        "time_ms": 1792966456041,
-        "place": "Bonin Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u4rr",
-        "magnitude": 5,
-        "latitude": 27.6622,
-        "longitude": 139.6534,
-        "depth_km": 492.421,
-        "time_ms": 1792895792398,
-        "place": "Bonin Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tw0y",
-        "magnitude": 6,
-        "latitude": 27.7325,
-        "longitude": 139.8079,
-        "depth_km": 472.952,
-        "time_ms": 1792894184027,
-        "place": "Bonin Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u4r9",
-        "magnitude": 6.5,
-        "latitude": 27.8093,
-        "longitude": 139.7102,
-        "depth_km": 475,
-        "time_ms": 1792894162321,
-        "place": "Bonin Islands, Japan region",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 36.69
@@ -796,7 +752,7 @@
       "longitude": -75.966
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 148,
+    "max_felt_reports": 149,
     "tsunami_warning_issued": true,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -1050,18 +1006,18 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 160.5,
+        "closest_quake_distance_km": 162.6,
         "nearby_quakes": [
           {
             "earthquake_id": "us7000ttkk",
             "magnitude": 5.1,
-            "latitude": 5.7035,
-            "longitude": 125.3993,
-            "depth_km": 57.448,
-            "time_ms": 1793144631477,
-            "place": "8 km WNW of Sugal, Philippines",
-            "distance_km": 160.5,
-            "exposure_contribution": 0.44,
+            "latitude": 5.6864,
+            "longitude": 125.3863,
+            "depth_km": 76.644,
+            "time_ms": 1793144633465,
+            "place": "8 km NW of Nuing, Philippines",
+            "distance_km": 162.6,
+            "exposure_contribution": 0.4,
             "pga_g": null,
             "mmi": null
           },
@@ -1092,7 +1048,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.17
+        "exposure_score": 1.13
       },
       {
         "name": "General Santos International Airport",
@@ -1118,13 +1074,13 @@
           {
             "earthquake_id": "us7000ttkk",
             "magnitude": 5.1,
-            "latitude": 5.7035,
-            "longitude": 125.3993,
-            "depth_km": 57.448,
-            "time_ms": 1793144631477,
-            "place": "8 km WNW of Sugal, Philippines",
-            "distance_km": 51.7,
-            "exposure_contribution": 1.5,
+            "latitude": 5.6864,
+            "longitude": 125.3863,
+            "depth_km": 76.644,
+            "time_ms": 1793144633465,
+            "place": "8 km NW of Nuing, Philippines",
+            "distance_km": 52.2,
+            "exposure_contribution": 1.16,
             "pga_g": null,
             "mmi": null
           },
@@ -1155,7 +1111,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.37
+        "exposure_score": 4.02
       }
     ],
     "earthquakes": [
@@ -1217,11 +1173,11 @@
       {
         "id": "us7000ttw2",
         "magnitude": 5.4,
-        "latitude": 8.3695,
-        "longitude": 127.4427,
+        "latitude": 8.3792,
+        "longitude": 127.376,
         "depth_km": 10,
-        "time_ms": 1793243874507,
-        "place": "113 km ENE of Barcelona, Philippines",
+        "time_ms": 1793243874280,
+        "place": "106 km ENE of Barcelona, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -1239,16 +1195,16 @@
       {
         "id": "us7000ttkk",
         "magnitude": 5.1,
-        "latitude": 5.7035,
-        "longitude": 125.3993,
-        "depth_km": 57.448,
-        "time_ms": 1793144631477,
-        "place": "8 km WNW of Sugal, Philippines",
+        "latitude": 5.6864,
+        "longitude": 125.3863,
+        "depth_km": 76.644,
+        "time_ms": 1793144633465,
+        "place": "8 km NW of Nuing, Philippines",
         "country_code": "PH",
         "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.54
+    "seismic_hub_risk_score": 5.15
   },
   {
     "country": "",
@@ -1263,8 +1219,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 10,
+    "avg_magnitude": 5.28,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-11-18",
@@ -1283,21 +1239,8 @@
         "latitude": -6.567995,
         "longitude": 146.726544,
         "municipality": "Lae",
-        "closest_quake_distance_km": 66.9,
+        "closest_quake_distance_km": 98.4,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us6000u4s5",
-            "magnitude": 5.1,
-            "latitude": -6.1894,
-            "longitude": 147.1973,
-            "depth_km": 81.234,
-            "time_ms": 1792898950489,
-            "place": "63 km NNE of Lae, Papua New Guinea",
-            "distance_km": 66.9,
-            "exposure_contribution": 0.96,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000tyx2",
             "magnitude": 5.8,
@@ -1325,7 +1268,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.19
+        "exposure_score": 2.23
       },
       {
         "name": "Port Moresby Jacksons International Airport",
@@ -1353,6 +1296,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000udbn",
+        "magnitude": 5,
+        "latitude": -5.6002,
+        "longitude": 153.6843,
+        "depth_km": 10,
+        "time_ms": 1795554701618,
+        "place": "209 km SE of Kokopo, Papua New Guinea",
+        "country_code": "PG",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ucwd",
         "magnitude": 5,
@@ -1451,31 +1405,135 @@
         "place": "82 km NE of Kiunga, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 2.71
+  },
+  {
+    "country": "",
+    "iso_alpha2": "GU",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.38,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-11-18",
+      "depth_km": 10,
+      "latitude": 12.1387,
+      "longitude": 143.8866
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Antonio B. Won Pat International Airport",
+        "iata_code": "GUM",
+        "latitude": 13.485,
+        "longitude": 144.797282,
+        "municipality": "Hagåtña",
+        "closest_quake_distance_km": 33.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000ud73",
+            "magnitude": 5,
+            "latitude": 13.5637,
+            "longitude": 144.4957,
+            "depth_km": 107.571,
+            "time_ms": 1795521313018,
+            "place": "24 km WNW of Piti Village, Guam",
+            "distance_km": 33.8,
+            "exposure_contribution": 0.77,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tz1a",
+            "magnitude": 5.3,
+            "latitude": 12.0918,
+            "longitude": 143.9927,
+            "depth_km": 10,
+            "time_ms": 1795018011220,
+            "place": "149 km SSW of Merizo Village, Guam",
+            "distance_km": 177.8,
+            "exposure_contribution": 0.52,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tywi",
+            "magnitude": 5.8,
+            "latitude": 12.1387,
+            "longitude": 143.8866,
+            "depth_km": 10,
+            "time_ms": 1794968576671,
+            "place": "150 km SW of Merizo Village, Guam",
+            "distance_km": 179.3,
+            "exposure_contribution": 0.91,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 2.19
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000ud73",
+        "magnitude": 5,
+        "latitude": 13.5637,
+        "longitude": 144.4957,
+        "depth_km": 107.571,
+        "time_ms": 1795521313018,
+        "place": "24 km WNW of Piti Village, Guam",
+        "country_code": "GU",
+        "shakemap_available": false
       },
       {
-        "id": "us6000u4tq",
-        "magnitude": 5.4,
-        "latitude": -4.3452,
-        "longitude": 143.0291,
-        "depth_km": 67.188,
-        "time_ms": 1792924227151,
-        "place": "27 km ESE of Ambunti, Papua New Guinea",
-        "country_code": "PG",
+        "id": "us7000tz1a",
+        "magnitude": 5.3,
+        "latitude": 12.0918,
+        "longitude": 143.9927,
+        "depth_km": 10,
+        "time_ms": 1795018011220,
+        "place": "149 km SSW of Merizo Village, Guam",
+        "country_code": "GU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tywi",
+        "magnitude": 5.8,
+        "latitude": 12.1387,
+        "longitude": 143.8866,
+        "depth_km": 10,
+        "time_ms": 1794968576671,
+        "place": "150 km SW of Merizo Village, Guam",
+        "country_code": "GU",
         "shakemap_available": true
       },
       {
-        "id": "us6000u4s5",
-        "magnitude": 5.1,
-        "latitude": -6.1894,
-        "longitude": 147.1973,
-        "depth_km": 81.234,
-        "time_ms": 1792898950489,
-        "place": "63 km NNE of Lae, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
+        "id": "us7000ttke",
+        "magnitude": 5.4,
+        "latitude": 12.7576,
+        "longitude": 142.97,
+        "depth_km": 94.59,
+        "time_ms": 1793142856849,
+        "place": "192 km WSW of Merizo Village, Guam",
+        "country_code": "GU",
+        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 3.67
+    "seismic_hub_risk_score": 2.19
   },
   {
     "country": "",
@@ -1490,8 +1548,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.42,
+    "earthquake_count": 5,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 5.9,
       "date": "2026-11-21",
@@ -1530,6 +1588,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000ud3i",
+        "magnitude": 5.3,
+        "latitude": 27.8328,
+        "longitude": 87.9467,
+        "depth_km": 10,
+        "time_ms": 1795483962417,
+        "place": "67 km WNW of Mangan, India",
+        "country_code": "CN",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ucrp",
         "magnitude": 5.1,
@@ -1573,28 +1642,6 @@
         "place": "206 km ENE of Nagqu, China",
         "country_code": "CN",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u4ty",
-        "magnitude": 5.9,
-        "latitude": 32.4675,
-        "longitude": 94.0105,
-        "depth_km": 7,
-        "time_ms": 1792927557039,
-        "place": "214 km ENE of Nagqu, China",
-        "country_code": "CN",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000u4tx",
-        "magnitude": 5,
-        "latitude": 32.3733,
-        "longitude": 93.863,
-        "depth_km": 10,
-        "time_ms": 1792927453959,
-        "place": "197 km ENE of Nagqu, China",
-        "country_code": "CN",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 2.04
@@ -1618,8 +1665,8 @@
       "magnitude": 6.6,
       "date": "2026-11-16",
       "depth_km": 68,
-      "latitude": -6.0208,
-      "longitude": 131.4593
+      "latitude": -6.0196,
+      "longitude": 131.4829
     },
     "highest_pager_alert": "green",
     "max_felt_reports": 10,
@@ -1747,11 +1794,11 @@
       {
         "id": "us7000tymu",
         "magnitude": 6.6,
-        "latitude": -6.0208,
-        "longitude": 131.4593,
+        "latitude": -6.0196,
+        "longitude": 131.4829,
         "depth_km": 68,
-        "time_ms": 1794863480488,
-        "place": "149 km WSW of Tual, Indonesia",
+        "time_ms": 1794863480489,
+        "place": "147 km WSW of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
       },
@@ -1835,10 +1882,10 @@
       {
         "id": "us7000tusv",
         "magnitude": 5.1,
-        "latitude": -6.9162,
-        "longitude": 129.957,
-        "depth_km": 86.673,
-        "time_ms": 1793580789737,
+        "latitude": -6.929,
+        "longitude": 129.9622,
+        "depth_km": 85.54,
+        "time_ms": 1793580789678,
         "place": "Banda Sea",
         "country_code": "ID",
         "shakemap_available": false
@@ -1903,7 +1950,7 @@
   },
   {
     "country": "",
-    "iso_alpha2": "GU",
+    "iso_alpha2": "VU",
     "iso_alpha3": "",
     "capital": "",
     "population": 0,
@@ -1914,94 +1961,312 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 3,
-    "avg_magnitude": 5.5,
+    "earthquake_count": 24,
+    "avg_magnitude": 5.35,
     "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-11-18",
-      "depth_km": 10,
-      "latitude": 12.1387,
-      "longitude": 143.8866
+      "magnitude": 6.5,
+      "date": "2026-11-23",
+      "depth_km": 598,
+      "latitude": -13.5846,
+      "longitude": 172.2672
     },
-    "highest_pager_alert": null,
+    "highest_pager_alert": "green",
     "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
+    "tsunami_warning_issued": true,
+    "significant_events_count": 1,
     "exposed_airports": [
       {
-        "name": "Antonio B. Won Pat International Airport",
-        "iata_code": "GUM",
-        "latitude": 13.485,
-        "longitude": 144.797282,
-        "municipality": "Hagåtña",
-        "closest_quake_distance_km": 177.8,
+        "name": "Bauerfield International Airport",
+        "iata_code": "VLI",
+        "latitude": -17.699301,
+        "longitude": 168.320007,
+        "municipality": "Port Vila",
+        "closest_quake_distance_km": 104.7,
         "nearby_quakes": [
           {
-            "earthquake_id": "us7000tz1a",
-            "magnitude": 5.3,
-            "latitude": 12.0918,
-            "longitude": 143.9927,
+            "earthquake_id": "us7000ttyd",
+            "magnitude": 5,
+            "latitude": -18.3917,
+            "longitude": 167.6489,
             "depth_km": 10,
-            "time_ms": 1795018011220,
-            "place": "149 km SSW of Merizo Village, Guam",
-            "distance_km": 177.8,
-            "exposure_contribution": 0.52,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tywi",
-            "magnitude": 5.8,
-            "latitude": 12.1387,
-            "longitude": 143.8866,
-            "depth_km": 10,
-            "time_ms": 1794968576671,
-            "place": "150 km SW of Merizo Village, Guam",
-            "distance_km": 179.3,
-            "exposure_contribution": 0.91,
+            "time_ms": 1793270000772,
+            "place": "101 km SW of Port-Vila, Vanuatu",
+            "distance_km": 104.7,
+            "exposure_contribution": 0.85,
             "pga_g": null,
             "mmi": null
           }
         ],
-        "exposure_score": 1.43
+        "exposure_score": 0.85
       }
     ],
     "earthquakes": [
       {
-        "id": "us7000tz1a",
-        "magnitude": 5.3,
-        "latitude": 12.0918,
-        "longitude": 143.9927,
-        "depth_km": 10,
-        "time_ms": 1795018011220,
-        "place": "149 km SSW of Merizo Village, Guam",
-        "country_code": "GU",
+        "id": "us6000ucvm",
+        "magnitude": 6.5,
+        "latitude": -13.5846,
+        "longitude": 172.2672,
+        "depth_km": 598,
+        "time_ms": 1795401658052,
+        "place": "Vanuatu region",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ucd6",
+        "magnitude": 5.1,
+        "latitude": -14.835,
+        "longitude": 167.29,
+        "depth_km": 94.53,
+        "time_ms": 1795197195442,
+        "place": "32 km NE of Port-Olry, Vanuatu",
+        "country_code": "VU",
         "shakemap_available": false
       },
       {
-        "id": "us7000tywi",
-        "magnitude": 5.8,
-        "latitude": 12.1387,
-        "longitude": 143.8866,
+        "id": "us7000txea",
+        "magnitude": 5,
+        "latitude": -13.9505,
+        "longitude": 165.5792,
+        "depth_km": 12.316,
+        "time_ms": 1794340458234,
+        "place": "201 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000txcq",
+        "magnitude": 5.1,
+        "latitude": -14.1749,
+        "longitude": 165.8514,
         "depth_km": 10,
-        "time_ms": 1794968576671,
-        "place": "150 km SW of Merizo Village, Guam",
-        "country_code": "GU",
+        "time_ms": 1793533841218,
+        "place": "162 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tupl",
+        "magnitude": 6,
+        "latitude": -14.1881,
+        "longitude": 165.8237,
+        "depth_km": 12,
+        "time_ms": 1793533624007,
+        "place": "164 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
         "shakemap_available": true
       },
       {
-        "id": "us7000ttke",
+        "id": "us7000tund",
+        "magnitude": 5.1,
+        "latitude": -13.8856,
+        "longitude": 165.6138,
+        "depth_km": 10,
+        "time_ms": 1793516454231,
+        "place": "202 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tun8",
         "magnitude": 5.4,
-        "latitude": 12.7576,
-        "longitude": 142.97,
-        "depth_km": 94.59,
-        "time_ms": 1793142856849,
-        "place": "192 km WSW of Merizo Village, Guam",
-        "country_code": "GU",
+        "latitude": -13.8538,
+        "longitude": 165.6971,
+        "depth_km": 10,
+        "time_ms": 1793514401928,
+        "place": "198 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
         "shakemap_available": true
+      },
+      {
+        "id": "us7000tuky",
+        "magnitude": 5.1,
+        "latitude": -13.8581,
+        "longitude": 165.5984,
+        "depth_km": 10,
+        "time_ms": 1793486559878,
+        "place": "205 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tuif",
+        "magnitude": 5,
+        "latitude": -13.8985,
+        "longitude": 165.606,
+        "depth_km": 10,
+        "time_ms": 1793446272432,
+        "place": "202 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tu4f",
+        "magnitude": 6.2,
+        "latitude": -15.1666,
+        "longitude": 167.4203,
+        "depth_km": 121,
+        "time_ms": 1793310403108,
+        "place": "39 km ESE of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttyd",
+        "magnitude": 5,
+        "latitude": -18.3917,
+        "longitude": 167.6489,
+        "depth_km": 10,
+        "time_ms": 1793270000772,
+        "place": "101 km SW of Port-Vila, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttvf",
+        "magnitude": 5.4,
+        "latitude": -15.1067,
+        "longitude": 168.1757,
+        "depth_km": 10,
+        "time_ms": 1793232500270,
+        "place": "118 km ENE of Luganville, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttm2",
+        "magnitude": 5,
+        "latitude": -13.7499,
+        "longitude": 165.6634,
+        "depth_km": 10,
+        "time_ms": 1793161863797,
+        "place": "204 km W of Sola, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttlt",
+        "magnitude": 5.6,
+        "latitude": -14.0653,
+        "longitude": 165.7269,
+        "depth_km": 10,
+        "time_ms": 1793156387908,
+        "place": "180 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttlm",
+        "magnitude": 6,
+        "latitude": -13.8296,
+        "longitude": 165.5942,
+        "depth_km": 10,
+        "time_ms": 1793154104755,
+        "place": "208 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttlk",
+        "magnitude": 5.1,
+        "latitude": -13.934,
+        "longitude": 165.4177,
+        "depth_km": 10,
+        "time_ms": 1793153836627,
+        "place": "216 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttld",
+        "magnitude": 5.5,
+        "latitude": -13.8601,
+        "longitude": 165.4489,
+        "depth_km": 10,
+        "time_ms": 1793151550604,
+        "place": "218 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttfk",
+        "magnitude": 5.2,
+        "latitude": -13.9257,
+        "longitude": 165.6348,
+        "depth_km": 10,
+        "time_ms": 1793098235195,
+        "place": "198 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttfj",
+        "magnitude": 5,
+        "latitude": -13.9928,
+        "longitude": 165.8166,
+        "depth_km": 10,
+        "time_ms": 1793095591822,
+        "place": "178 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttfe",
+        "magnitude": 5.1,
+        "latitude": -13.8493,
+        "longitude": 165.5806,
+        "depth_km": 10,
+        "time_ms": 1793092854633,
+        "place": "208 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttfb",
+        "magnitude": 5.8,
+        "latitude": -13.9356,
+        "longitude": 165.6113,
+        "depth_km": 11,
+        "time_ms": 1793091323294,
+        "place": "199 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000u4zb",
+        "magnitude": 5.2,
+        "latitude": -13.8617,
+        "longitude": 165.583,
+        "depth_km": 10,
+        "time_ms": 1793016810646,
+        "place": "206 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u4z6",
+        "magnitude": 5,
+        "latitude": -13.824,
+        "longitude": 165.4443,
+        "depth_km": 10,
+        "time_ms": 1793013474421,
+        "place": "221 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000u4xa",
+        "magnitude": 5,
+        "latitude": -13.8979,
+        "longitude": 165.5797,
+        "depth_km": 10,
+        "time_ms": 1792977741243,
+        "place": "204 km NW of Port-Olry, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 1.43
+    "seismic_hub_risk_score": 0.85
   },
   {
     "country": "",
