@@ -752,7 +752,7 @@
       "longitude": -75.966
     },
     "highest_pager_alert": "green",
-    "max_felt_reports": 149,
+    "max_felt_reports": 150,
     "tsunami_warning_issued": true,
     "significant_events_count": 1,
     "exposed_airports": [
@@ -992,8 +992,8 @@
       "magnitude": 5.8,
       "date": "2026-10-29",
       "depth_km": 10,
-      "latitude": 8.3638,
-      "longitude": 127.4204
+      "latitude": 8.4197,
+      "longitude": 127.3958
     },
     "highest_pager_alert": null,
     "max_felt_reports": 0,
@@ -1162,11 +1162,11 @@
       {
         "id": "us7000ttw3",
         "magnitude": 5.8,
-        "latitude": 8.3638,
-        "longitude": 127.4204,
+        "latitude": 8.4197,
+        "longitude": 127.3958,
         "depth_km": 10,
-        "time_ms": 1793243945288,
-        "place": "110 km ENE of Barcelona, Philippines",
+        "time_ms": 1793243944825,
+        "place": "109 km ENE of Barcelona, Philippines",
         "country_code": "PH",
         "shakemap_available": true
       },
@@ -1219,8 +1219,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 10,
-    "avg_magnitude": 5.28,
+    "earthquake_count": 9,
+    "avg_magnitude": 5.3,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-11-18",
@@ -1253,22 +1253,9 @@
             "exposure_contribution": 1.97,
             "pga_g": null,
             "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tu5q",
-            "magnitude": 5.1,
-            "latitude": -5.8137,
-            "longitude": 148.3151,
-            "depth_km": 116.297,
-            "time_ms": 1793329457406,
-            "place": "97 km NNE of Finschhafen, Papua New Guinea",
-            "distance_km": 194.6,
-            "exposure_contribution": 0.27,
-            "pga_g": null,
-            "mmi": null
           }
         ],
-        "exposure_score": 2.23
+        "exposure_score": 1.97
       },
       {
         "name": "Port Moresby Jacksons International Airport",
@@ -1385,29 +1372,18 @@
         "shakemap_available": false
       },
       {
-        "id": "us7000tu5q",
-        "magnitude": 5.1,
-        "latitude": -5.8137,
-        "longitude": 148.3151,
-        "depth_km": 116.297,
-        "time_ms": 1793329457406,
-        "place": "97 km NNE of Finschhafen, Papua New Guinea",
-        "country_code": "PG",
-        "shakemap_available": false
-      },
-      {
         "id": "us7000ttw5",
         "magnitude": 5.7,
-        "latitude": -5.6991,
-        "longitude": 141.9018,
+        "latitude": -5.6555,
+        "longitude": 141.9767,
         "depth_km": 10,
-        "time_ms": 1793244402275,
-        "place": "82 km NE of Kiunga, Papua New Guinea",
+        "time_ms": 1793244401929,
+        "place": "91 km NE of Kiunga, Papua New Guinea",
         "country_code": "PG",
         "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 2.71
+    "seismic_hub_risk_score": 2.45
   },
   {
     "country": "",
@@ -1748,6 +1724,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000udf2",
+        "magnitude": 5,
+        "latitude": -0.3849,
+        "longitude": 123.0018,
+        "depth_km": 106.384,
+        "time_ms": 1795608492731,
+        "place": "67 km NNE of Luwuk, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000ucrb",
         "magnitude": 5.4,
         "latitude": 3.0314,
@@ -1933,17 +1920,6 @@
         "place": "126 km S of Pundong, Indonesia",
         "country_code": "ID",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u4y1",
-        "magnitude": 5,
-        "latitude": -8.4403,
-        "longitude": 121.5975,
-        "depth_km": 10,
-        "time_ms": 1792990420521,
-        "place": "45 km N of Ende, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 1.73
@@ -1961,8 +1937,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 24,
-    "avg_magnitude": 5.35,
+    "earthquake_count": 21,
+    "avg_magnitude": 5.39,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-11-23",
@@ -2231,39 +2207,6 @@
         "place": "199 km NW of Port-Olry, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
-      },
-      {
-        "id": "us6000u4zb",
-        "magnitude": 5.2,
-        "latitude": -13.8617,
-        "longitude": 165.583,
-        "depth_km": 10,
-        "time_ms": 1793016810646,
-        "place": "206 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u4z6",
-        "magnitude": 5,
-        "latitude": -13.824,
-        "longitude": 165.4443,
-        "depth_km": 10,
-        "time_ms": 1793013474421,
-        "place": "221 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000u4xa",
-        "magnitude": 5,
-        "latitude": -13.8979,
-        "longitude": 165.5797,
-        "depth_km": 10,
-        "time_ms": 1792977741243,
-        "place": "204 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.85
