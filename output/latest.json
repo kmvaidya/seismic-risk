@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 11,
-    "avg_magnitude": 5.49,
+    "earthquake_count": 12,
+    "avg_magnitude": 5.46,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-11-06",
@@ -606,6 +606,17 @@
     ],
     "earthquakes": [
       {
+        "id": "us6000udry",
+        "magnitude": 5.1,
+        "latitude": 28.3661,
+        "longitude": 141.2639,
+        "depth_km": 84.59,
+        "time_ms": 1795721588628,
+        "place": "Bonin Islands, Japan region",
+        "country_code": "JP",
+        "shakemap_available": false
+      },
+      {
         "id": "us6000ucky",
         "magnitude": 5.2,
         "latitude": 34.0109,
@@ -986,8 +997,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 8,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.33,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-10-29",
@@ -1006,21 +1017,8 @@
         "latitude": 7.12552,
         "longitude": 125.646004,
         "municipality": "Davao",
-        "closest_quake_distance_km": 162.6,
+        "closest_quake_distance_km": 167.0,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttkk",
-            "magnitude": 5.1,
-            "latitude": 5.6864,
-            "longitude": 125.3863,
-            "depth_km": 76.644,
-            "time_ms": 1793144633465,
-            "place": "8 km NW of Nuing, Philippines",
-            "distance_km": 162.6,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000ttlc",
             "magnitude": 5.1,
@@ -1048,7 +1046,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 1.13
+        "exposure_score": 0.73
       },
       {
         "name": "General Santos International Airport",
@@ -1068,19 +1066,6 @@
             "place": "3 km SSE of Pangyan, Philippines",
             "distance_km": 48.4,
             "exposure_contribution": 1.36,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000ttkk",
-            "magnitude": 5.1,
-            "latitude": 5.6864,
-            "longitude": 125.3863,
-            "depth_km": 76.644,
-            "time_ms": 1793144633465,
-            "place": "8 km NW of Nuing, Philippines",
-            "distance_km": 52.2,
-            "exposure_contribution": 1.16,
             "pga_g": null,
             "mmi": null
           },
@@ -1111,7 +1096,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 4.02
+        "exposure_score": 2.87
       }
     ],
     "earthquakes": [
@@ -1191,20 +1176,9 @@
         "place": "3 km SSE of Pangyan, Philippines",
         "country_code": "PH",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000ttkk",
-        "magnitude": 5.1,
-        "latitude": 5.6864,
-        "longitude": 125.3863,
-        "depth_km": 76.644,
-        "time_ms": 1793144633465,
-        "place": "8 km NW of Nuing, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
       }
     ],
-    "seismic_hub_risk_score": 5.15
+    "seismic_hub_risk_score": 3.6
   },
   {
     "country": "",
@@ -1398,8 +1372,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 4,
-    "avg_magnitude": 5.38,
+    "earthquake_count": 3,
+    "avg_magnitude": 5.37,
     "strongest_earthquake": {
       "magnitude": 5.8,
       "date": "2026-11-18",
@@ -1496,17 +1470,6 @@
         "place": "150 km SW of Merizo Village, Guam",
         "country_code": "GU",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000ttke",
-        "magnitude": 5.4,
-        "latitude": 12.7576,
-        "longitude": 142.97,
-        "depth_km": 94.59,
-        "time_ms": 1793142856849,
-        "place": "192 km WSW of Merizo Village, Guam",
-        "country_code": "GU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.19
@@ -1524,7 +1487,7 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 5,
+    "earthquake_count": 4,
     "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 5.9,
@@ -1607,322 +1570,9 @@
         "place": "79 km NE of Kuqa, China",
         "country_code": "CN",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000ttis",
-        "magnitude": 5.4,
-        "latitude": 32.4692,
-        "longitude": 93.9084,
-        "depth_km": 10,
-        "time_ms": 1793127472912,
-        "place": "206 km ENE of Nagqu, China",
-        "country_code": "CN",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 2.04
-  },
-  {
-    "country": "",
-    "iso_alpha2": "ID",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.31,
-    "strongest_earthquake": {
-      "magnitude": 6.6,
-      "date": "2026-11-16",
-      "depth_km": 68,
-      "latitude": -6.0196,
-      "longitude": 131.4829
-    },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 10,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 1,
-    "exposed_airports": [
-      {
-        "name": "Yogyakarta International Airport",
-        "iata_code": "YIA",
-        "latitude": -7.905338,
-        "longitude": 110.057264,
-        "municipality": "Yogyakarta",
-        "closest_quake_distance_km": 135.8,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttgf",
-            "magnitude": 5.3,
-            "latitude": -9.0955,
-            "longitude": 110.3354,
-            "depth_km": 10,
-            "time_ms": 1793112241064,
-            "place": "126 km S of Pundong, Indonesia",
-            "distance_km": 135.8,
-            "exposure_contribution": 0.81,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.81
-      },
-      {
-        "name": "Sam Ratulangi International Airport",
-        "iata_code": "MDC",
-        "latitude": 1.548591,
-        "longitude": 124.92625,
-        "municipality": "Manado",
-        "closest_quake_distance_km": 42.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000tuuy",
-            "magnitude": 5.1,
-            "latitude": 1.3581,
-            "longitude": 124.6005,
-            "depth_km": 170.272,
-            "time_ms": 1793607191325,
-            "place": "23 km WNW of Tomohon, Indonesia",
-            "distance_km": 42.0,
-            "exposure_contribution": 0.42,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.42
-      },
-      {
-        "name": "Adisoemarmo International Airport",
-        "iata_code": "SOC",
-        "latitude": -7.516044,
-        "longitude": 110.757492,
-        "municipality": "Surakarta",
-        "closest_quake_distance_km": 181.7,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttgf",
-            "magnitude": 5.3,
-            "latitude": -9.0955,
-            "longitude": 110.3354,
-            "depth_km": 10,
-            "time_ms": 1793112241064,
-            "place": "126 km S of Pundong, Indonesia",
-            "distance_km": 181.7,
-            "exposure_contribution": 0.5,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.5
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000udf2",
-        "magnitude": 5,
-        "latitude": -0.3849,
-        "longitude": 123.0018,
-        "depth_km": 106.384,
-        "time_ms": 1795608492731,
-        "place": "67 km NNE of Luwuk, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us6000ucrb",
-        "magnitude": 5.4,
-        "latitude": 3.0314,
-        "longitude": 126.3861,
-        "depth_km": 43.705,
-        "time_ms": 1795334080056,
-        "place": "224 km NE of Bitung, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us6000ubxb",
-        "magnitude": 5.2,
-        "latitude": 0.5027,
-        "longitude": 96.6318,
-        "depth_km": 10,
-        "time_ms": 1795052088394,
-        "place": "130 km W of Teluk Dalam, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tyxi",
-        "magnitude": 5.8,
-        "latitude": -8.2501,
-        "longitude": 120.5285,
-        "depth_km": 10,
-        "time_ms": 1794976892015,
-        "place": "40 km N of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tyxc",
-        "magnitude": 5.2,
-        "latitude": -8.151,
-        "longitude": 120.6489,
-        "depth_km": 10,
-        "time_ms": 1794975695658,
-        "place": "54 km NNE of Ruteng, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tymu",
-        "magnitude": 6.6,
-        "latitude": -6.0196,
-        "longitude": 131.4829,
-        "depth_km": 68,
-        "time_ms": 1794863480489,
-        "place": "147 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tyg6",
-        "magnitude": 5,
-        "latitude": -5.9449,
-        "longitude": 128.7523,
-        "depth_km": 305.989,
-        "time_ms": 1794775916298,
-        "place": "256 km SSE of Ambon, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tyf4",
-        "magnitude": 5.1,
-        "latitude": 1.7527,
-        "longitude": 122.1345,
-        "depth_km": 487.384,
-        "time_ms": 1794757274978,
-        "place": "169 km NW of Gorontalo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ty6n",
-        "magnitude": 5.2,
-        "latitude": 3.304,
-        "longitude": 92.8261,
-        "depth_km": 10,
-        "time_ms": 1794625169180,
-        "place": "off the west coast of northern Sumatra",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000txbi",
-        "magnitude": 5.1,
-        "latitude": -0.9034,
-        "longitude": 128.701,
-        "depth_km": 10,
-        "time_ms": 1794325895658,
-        "place": "139 km ESE of Labuha, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tx9z",
-        "magnitude": 5,
-        "latitude": -0.4928,
-        "longitude": 132.859,
-        "depth_km": 35,
-        "time_ms": 1794299647131,
-        "place": "58 km NE of Fef, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tx32",
-        "magnitude": 5.4,
-        "latitude": -3.0609,
-        "longitude": 130.382,
-        "depth_km": 10,
-        "time_ms": 1794217707723,
-        "place": "159 km E of Masohi, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tuuy",
-        "magnitude": 5.1,
-        "latitude": 1.3581,
-        "longitude": 124.6005,
-        "depth_km": 170.272,
-        "time_ms": 1793607191325,
-        "place": "23 km WNW of Tomohon, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tusv",
-        "magnitude": 5.1,
-        "latitude": -6.929,
-        "longitude": 129.9622,
-        "depth_km": 85.54,
-        "time_ms": 1793580789678,
-        "place": "Banda Sea",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tu3u",
-        "magnitude": 5,
-        "latitude": -4.4622,
-        "longitude": 132.5656,
-        "depth_km": 10,
-        "time_ms": 1793305931498,
-        "place": "130 km N of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttua",
-        "magnitude": 5.7,
-        "latitude": -6.3599,
-        "longitude": 130.4138,
-        "depth_km": 142,
-        "time_ms": 1793225205772,
-        "place": "271 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tttl",
-        "magnitude": 5.3,
-        "latitude": 2.4737,
-        "longitude": 126.7413,
-        "depth_km": 35,
-        "time_ms": 1793217407972,
-        "place": "163 km WNW of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttgf",
-        "magnitude": 5.3,
-        "latitude": -9.0955,
-        "longitude": 110.3354,
-        "depth_km": 10,
-        "time_ms": 1793112241064,
-        "place": "126 km S of Pundong, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      }
-    ],
-    "seismic_hub_risk_score": 1.73
   },
   {
     "country": "",
@@ -1937,8 +1587,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 21,
-    "avg_magnitude": 5.39,
+    "earthquake_count": 17,
+    "avg_magnitude": 5.42,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-11-23",
@@ -2163,53 +1813,263 @@
         "place": "218 km NW of Port-Olry, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000ttfk",
-        "magnitude": 5.2,
-        "latitude": -13.9257,
-        "longitude": 165.6348,
-        "depth_km": 10,
-        "time_ms": 1793098235195,
-        "place": "198 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttfj",
-        "magnitude": 5,
-        "latitude": -13.9928,
-        "longitude": 165.8166,
-        "depth_km": 10,
-        "time_ms": 1793095591822,
-        "place": "178 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttfe",
-        "magnitude": 5.1,
-        "latitude": -13.8493,
-        "longitude": 165.5806,
-        "depth_km": 10,
-        "time_ms": 1793092854633,
-        "place": "208 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttfb",
-        "magnitude": 5.8,
-        "latitude": -13.9356,
-        "longitude": 165.6113,
-        "depth_km": 11,
-        "time_ms": 1793091323294,
-        "place": "199 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.85
+  },
+  {
+    "country": "",
+    "iso_alpha2": "ID",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 18,
+    "avg_magnitude": 5.31,
+    "strongest_earthquake": {
+      "magnitude": 6.6,
+      "date": "2026-11-16",
+      "depth_km": 68,
+      "latitude": -6.0196,
+      "longitude": 131.4829
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 10,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Sam Ratulangi International Airport",
+        "iata_code": "MDC",
+        "latitude": 1.548591,
+        "longitude": 124.92625,
+        "municipality": "Manado",
+        "closest_quake_distance_km": 42.0,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us7000tuuy",
+            "magnitude": 5.1,
+            "latitude": 1.3581,
+            "longitude": 124.6005,
+            "depth_km": 170.272,
+            "time_ms": 1793607191325,
+            "place": "23 km WNW of Tomohon, Indonesia",
+            "distance_km": 42.0,
+            "exposure_contribution": 0.42,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.42
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000udm8",
+        "magnitude": 5.5,
+        "latitude": -10.5618,
+        "longitude": 117.1955,
+        "depth_km": 15.139,
+        "time_ms": 1795684120640,
+        "place": "204 km S of Taliwang, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000udf2",
+        "magnitude": 5,
+        "latitude": -0.3849,
+        "longitude": 123.0018,
+        "depth_km": 106.384,
+        "time_ms": 1795608492731,
+        "place": "67 km NNE of Luwuk, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us6000ucrb",
+        "magnitude": 5.4,
+        "latitude": 3.0314,
+        "longitude": 126.3861,
+        "depth_km": 43.705,
+        "time_ms": 1795334080056,
+        "place": "224 km NE of Bitung, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us6000ubxb",
+        "magnitude": 5.2,
+        "latitude": 0.5027,
+        "longitude": 96.6318,
+        "depth_km": 10,
+        "time_ms": 1795052088394,
+        "place": "130 km W of Teluk Dalam, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tyxi",
+        "magnitude": 5.8,
+        "latitude": -8.2501,
+        "longitude": 120.5285,
+        "depth_km": 10,
+        "time_ms": 1794976892015,
+        "place": "40 km N of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tyxc",
+        "magnitude": 5.2,
+        "latitude": -8.151,
+        "longitude": 120.6489,
+        "depth_km": 10,
+        "time_ms": 1794975695658,
+        "place": "54 km NNE of Ruteng, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tymu",
+        "magnitude": 6.6,
+        "latitude": -6.0196,
+        "longitude": 131.4829,
+        "depth_km": 68,
+        "time_ms": 1794863480489,
+        "place": "147 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tyg6",
+        "magnitude": 5,
+        "latitude": -5.9449,
+        "longitude": 128.7523,
+        "depth_km": 305.989,
+        "time_ms": 1794775916298,
+        "place": "256 km SSE of Ambon, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tyf4",
+        "magnitude": 5.1,
+        "latitude": 1.7527,
+        "longitude": 122.1345,
+        "depth_km": 487.384,
+        "time_ms": 1794757274978,
+        "place": "169 km NW of Gorontalo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ty6n",
+        "magnitude": 5.1,
+        "latitude": 3.2464,
+        "longitude": 92.7042,
+        "depth_km": 10,
+        "time_ms": 1794625168730,
+        "place": "off the west coast of northern Sumatra",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000txbi",
+        "magnitude": 5.1,
+        "latitude": -0.9034,
+        "longitude": 128.701,
+        "depth_km": 10,
+        "time_ms": 1794325895658,
+        "place": "139 km ESE of Labuha, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tx9z",
+        "magnitude": 5,
+        "latitude": -0.4928,
+        "longitude": 132.859,
+        "depth_km": 35,
+        "time_ms": 1794299647131,
+        "place": "58 km NE of Fef, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tx32",
+        "magnitude": 5.4,
+        "latitude": -3.0609,
+        "longitude": 130.382,
+        "depth_km": 10,
+        "time_ms": 1794217707723,
+        "place": "159 km E of Masohi, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tuuy",
+        "magnitude": 5.1,
+        "latitude": 1.3581,
+        "longitude": 124.6005,
+        "depth_km": 170.272,
+        "time_ms": 1793607191325,
+        "place": "23 km WNW of Tomohon, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tusv",
+        "magnitude": 5.1,
+        "latitude": -6.929,
+        "longitude": 129.9622,
+        "depth_km": 85.54,
+        "time_ms": 1793580789678,
+        "place": "Banda Sea",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tu3u",
+        "magnitude": 5,
+        "latitude": -4.4622,
+        "longitude": 132.5656,
+        "depth_km": 10,
+        "time_ms": 1793305931498,
+        "place": "130 km N of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000ttua",
+        "magnitude": 5.7,
+        "latitude": -6.3599,
+        "longitude": 130.4138,
+        "depth_km": 142,
+        "time_ms": 1793225205772,
+        "place": "271 km WSW of Tual, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000tttl",
+        "magnitude": 5.3,
+        "latitude": 2.4737,
+        "longitude": 126.7413,
+        "depth_km": 35,
+        "time_ms": 1793217407972,
+        "place": "163 km WNW of Tobelo, Indonesia",
+        "country_code": "ID",
+        "shakemap_available": false
+      }
+    ],
+    "seismic_hub_risk_score": 0.42
   },
   {
     "country": "",
