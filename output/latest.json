@@ -12,8 +12,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 12,
-    "avg_magnitude": 5.46,
+    "earthquake_count": 11,
+    "avg_magnitude": 5.45,
     "strongest_earthquake": {
       "magnitude": 6.1,
       "date": "2026-11-06",
@@ -32,21 +32,8 @@
         "latitude": 35.76858,
         "longitude": 140.388714,
         "municipality": "Narita",
-        "closest_quake_distance_km": 22.4,
+        "closest_quake_distance_km": 107.9,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttpe",
-            "magnitude": 5.5,
-            "latitude": 35.6777,
-            "longitude": 140.6098,
-            "depth_km": 43.059,
-            "time_ms": 1793200072318,
-            "place": "5 km SW of Asahi, Japan",
-            "distance_km": 22.4,
-            "exposure_contribution": 4.5,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000twrq",
             "magnitude": 5.5,
@@ -100,7 +87,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 8.72
+        "exposure_score": 4.22
       },
       {
         "name": "Ibaraki Airport",
@@ -108,21 +95,8 @@
         "latitude": 36.181456,
         "longitude": 140.414434,
         "municipality": "Omitama",
-        "closest_quake_distance_km": 58.7,
+        "closest_quake_distance_km": 93.1,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttpe",
-            "magnitude": 5.5,
-            "latitude": 35.6777,
-            "longitude": 140.6098,
-            "depth_km": 43.059,
-            "time_ms": 1793200072318,
-            "place": "5 km SW of Asahi, Japan",
-            "distance_km": 58.7,
-            "exposure_contribution": 2.59,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000twrq",
             "magnitude": 5.5,
@@ -150,7 +124,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 5.69
+        "exposure_score": 3.1
       },
       {
         "name": "Kansai International Airport",
@@ -546,21 +520,8 @@
         "latitude": 35.549678,
         "longitude": 139.786958,
         "municipality": "Tokyo",
-        "closest_quake_distance_km": 75.7,
+        "closest_quake_distance_km": 167.4,
         "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttpe",
-            "magnitude": 5.5,
-            "latitude": 35.6777,
-            "longitude": 140.6098,
-            "depth_km": 43.059,
-            "time_ms": 1793200072318,
-            "place": "5 km SW of Asahi, Japan",
-            "distance_km": 75.7,
-            "exposure_contribution": 2.01,
-            "pga_g": null,
-            "mmi": null
-          },
           {
             "earthquake_id": "us7000twrq",
             "magnitude": 5.5,
@@ -601,7 +562,7 @@
             "mmi": null
           }
         ],
-        "exposure_score": 3.85
+        "exposure_score": 1.84
       }
     ],
     "earthquakes": [
@@ -725,20 +686,9 @@
         "place": "64 km SSE of Shima, Japan",
         "country_code": "JP",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000ttpe",
-        "magnitude": 5.5,
-        "latitude": 35.6777,
-        "longitude": 140.6098,
-        "depth_km": 43.059,
-        "time_ms": 1793200072318,
-        "place": "5 km SW of Asahi, Japan",
-        "country_code": "JP",
-        "shakemap_available": true
       }
     ],
-    "seismic_hub_risk_score": 36.69
+    "seismic_hub_risk_score": 27.59
   },
   {
     "country": "",
@@ -983,202 +933,6 @@
       }
     ],
     "seismic_hub_risk_score": 6.17
-  },
-  {
-    "country": "",
-    "iso_alpha2": "PH",
-    "iso_alpha3": "",
-    "capital": "",
-    "population": 0,
-    "area_km2": 0,
-    "region": "",
-    "subregion": "",
-    "currencies": [],
-    "languages": [],
-    "un_member": false,
-    "bordering_countries": [],
-    "earthquake_count": 7,
-    "avg_magnitude": 5.33,
-    "strongest_earthquake": {
-      "magnitude": 5.8,
-      "date": "2026-10-29",
-      "depth_km": 10,
-      "latitude": 8.4197,
-      "longitude": 127.3958
-    },
-    "highest_pager_alert": null,
-    "max_felt_reports": 0,
-    "tsunami_warning_issued": false,
-    "significant_events_count": 0,
-    "exposed_airports": [
-      {
-        "name": "Francisco Bangoy International Airport",
-        "iata_code": "DVO",
-        "latitude": 7.12552,
-        "longitude": 125.646004,
-        "municipality": "Davao",
-        "closest_quake_distance_km": 167.0,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttlc",
-            "magnitude": 5.1,
-            "latitude": 5.6662,
-            "longitude": 125.288,
-            "depth_km": 67.176,
-            "time_ms": 1793149916955,
-            "place": "3 km SSE of Pangyan, Philippines",
-            "distance_km": 167.0,
-            "exposure_contribution": 0.4,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000uc96",
-            "magnitude": 5.1,
-            "latitude": 5.4441,
-            "longitude": 125.2986,
-            "depth_km": 73.392,
-            "time_ms": 1795180144057,
-            "place": "15 km SSW of Balangonan, Philippines",
-            "distance_km": 190.9,
-            "exposure_contribution": 0.32,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 0.73
-      },
-      {
-        "name": "General Santos International Airport",
-        "iata_code": "GES",
-        "latitude": 6.057208,
-        "longitude": 125.096243,
-        "municipality": "General Santos",
-        "closest_quake_distance_km": 48.4,
-        "nearby_quakes": [
-          {
-            "earthquake_id": "us7000ttlc",
-            "magnitude": 5.1,
-            "latitude": 5.6662,
-            "longitude": 125.288,
-            "depth_km": 67.176,
-            "time_ms": 1793149916955,
-            "place": "3 km SSE of Pangyan, Philippines",
-            "distance_km": 48.4,
-            "exposure_contribution": 1.36,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us6000uc96",
-            "magnitude": 5.1,
-            "latitude": 5.4441,
-            "longitude": 125.2986,
-            "depth_km": 73.392,
-            "time_ms": 1795180144057,
-            "place": "15 km SSW of Balangonan, Philippines",
-            "distance_km": 71.8,
-            "exposure_contribution": 0.99,
-            "pga_g": null,
-            "mmi": null
-          },
-          {
-            "earthquake_id": "us7000tyil",
-            "magnitude": 5,
-            "latitude": 4.7842,
-            "longitude": 125.4267,
-            "depth_km": 10,
-            "time_ms": 1794813254483,
-            "place": "68 km S of Sarangani, Philippines",
-            "distance_km": 146.2,
-            "exposure_contribution": 0.51,
-            "pga_g": null,
-            "mmi": null
-          }
-        ],
-        "exposure_score": 2.87
-      }
-    ],
-    "earthquakes": [
-      {
-        "id": "us6000uc96",
-        "magnitude": 5.1,
-        "latitude": 5.4441,
-        "longitude": 125.2986,
-        "depth_km": 73.392,
-        "time_ms": 1795180144057,
-        "place": "15 km SSW of Balangonan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tyil",
-        "magnitude": 5,
-        "latitude": 4.7842,
-        "longitude": 125.4267,
-        "depth_km": 10,
-        "time_ms": 1794813254483,
-        "place": "68 km S of Sarangani, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000tyek",
-        "magnitude": 5.5,
-        "latitude": 9.7595,
-        "longitude": 126.2,
-        "depth_km": 9.971,
-        "time_ms": 1794750095701,
-        "place": "9 km E of Union, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttxn",
-        "magnitude": 5.4,
-        "latitude": 8.4379,
-        "longitude": 127.3621,
-        "depth_km": 10,
-        "time_ms": 1793259090384,
-        "place": "106 km ENE of Barcelona, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttw3",
-        "magnitude": 5.8,
-        "latitude": 8.4197,
-        "longitude": 127.3958,
-        "depth_km": 10,
-        "time_ms": 1793243944825,
-        "place": "109 km ENE of Barcelona, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttw2",
-        "magnitude": 5.4,
-        "latitude": 8.3792,
-        "longitude": 127.376,
-        "depth_km": 10,
-        "time_ms": 1793243874280,
-        "place": "106 km ENE of Barcelona, Philippines",
-        "country_code": "PH",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttlc",
-        "magnitude": 5.1,
-        "latitude": 5.6662,
-        "longitude": 125.288,
-        "depth_km": 67.176,
-        "time_ms": 1793149916955,
-        "place": "3 km SSE of Pangyan, Philippines",
-        "country_code": "PH",
-        "shakemap_available": false
-      }
-    ],
-    "seismic_hub_risk_score": 3.6
   },
   {
     "country": "",
@@ -1576,6 +1330,165 @@
   },
   {
     "country": "",
+    "iso_alpha2": "PH",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 6,
+    "avg_magnitude": 5.37,
+    "strongest_earthquake": {
+      "magnitude": 5.8,
+      "date": "2026-10-29",
+      "depth_km": 10,
+      "latitude": 8.4197,
+      "longitude": 127.3958
+    },
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 0,
+    "exposed_airports": [
+      {
+        "name": "Francisco Bangoy International Airport",
+        "iata_code": "DVO",
+        "latitude": 7.12552,
+        "longitude": 125.646004,
+        "municipality": "Davao",
+        "closest_quake_distance_km": 190.9,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000uc96",
+            "magnitude": 5.1,
+            "latitude": 5.4441,
+            "longitude": 125.2986,
+            "depth_km": 73.392,
+            "time_ms": 1795180144057,
+            "place": "15 km SSW of Balangonan, Philippines",
+            "distance_km": 190.9,
+            "exposure_contribution": 0.32,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.32
+      },
+      {
+        "name": "General Santos International Airport",
+        "iata_code": "GES",
+        "latitude": 6.057208,
+        "longitude": 125.096243,
+        "municipality": "General Santos",
+        "closest_quake_distance_km": 71.8,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000uc96",
+            "magnitude": 5.1,
+            "latitude": 5.4441,
+            "longitude": 125.2986,
+            "depth_km": 73.392,
+            "time_ms": 1795180144057,
+            "place": "15 km SSW of Balangonan, Philippines",
+            "distance_km": 71.8,
+            "exposure_contribution": 0.99,
+            "pga_g": null,
+            "mmi": null
+          },
+          {
+            "earthquake_id": "us7000tyil",
+            "magnitude": 5,
+            "latitude": 4.7842,
+            "longitude": 125.4267,
+            "depth_km": 10,
+            "time_ms": 1794813254483,
+            "place": "68 km S of Sarangani, Philippines",
+            "distance_km": 146.2,
+            "exposure_contribution": 0.51,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 1.5
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000uc96",
+        "magnitude": 5.1,
+        "latitude": 5.4441,
+        "longitude": 125.2986,
+        "depth_km": 73.392,
+        "time_ms": 1795180144057,
+        "place": "15 km SSW of Balangonan, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tyil",
+        "magnitude": 5,
+        "latitude": 4.7842,
+        "longitude": 125.4267,
+        "depth_km": 10,
+        "time_ms": 1794813254483,
+        "place": "68 km S of Sarangani, Philippines",
+        "country_code": "PH",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tyek",
+        "magnitude": 5.5,
+        "latitude": 9.7595,
+        "longitude": 126.2,
+        "depth_km": 9.971,
+        "time_ms": 1794750095701,
+        "place": "9 km E of Union, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttxn",
+        "magnitude": 5.4,
+        "latitude": 8.4379,
+        "longitude": 127.3621,
+        "depth_km": 10,
+        "time_ms": 1793259090384,
+        "place": "106 km ENE of Barcelona, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttw3",
+        "magnitude": 5.8,
+        "latitude": 8.4197,
+        "longitude": 127.3958,
+        "depth_km": 10,
+        "time_ms": 1793243944825,
+        "place": "109 km ENE of Barcelona, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      },
+      {
+        "id": "us7000ttw2",
+        "magnitude": 5.4,
+        "latitude": 8.3792,
+        "longitude": 127.376,
+        "depth_km": 10,
+        "time_ms": 1793243874280,
+        "place": "106 km ENE of Barcelona, Philippines",
+        "country_code": "PH",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 1.82
+  },
+  {
+    "country": "",
     "iso_alpha2": "VU",
     "iso_alpha3": "",
     "capital": "",
@@ -1587,8 +1500,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 17,
-    "avg_magnitude": 5.42,
+    "earthquake_count": 13,
+    "avg_magnitude": 5.38,
     "strongest_earthquake": {
       "magnitude": 6.5,
       "date": "2026-11-23",
@@ -1627,6 +1540,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000udtu",
+        "magnitude": 5,
+        "latitude": -14.6253,
+        "longitude": 167.8571,
+        "depth_km": 8.982,
+        "time_ms": 1795745601018,
+        "place": "89 km SSE of Sola, Vanuatu",
+        "country_code": "VU",
+        "shakemap_available": false
+      },
       {
         "id": "us6000ucvm",
         "magnitude": 6.5,
@@ -1758,64 +1682,109 @@
         "place": "118 km ENE of Luganville, Vanuatu",
         "country_code": "VU",
         "shakemap_available": true
-      },
-      {
-        "id": "us7000ttm2",
-        "magnitude": 5,
-        "latitude": -13.7499,
-        "longitude": 165.6634,
-        "depth_km": 10,
-        "time_ms": 1793161863797,
-        "place": "204 km W of Sola, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttlt",
-        "magnitude": 5.6,
-        "latitude": -14.0653,
-        "longitude": 165.7269,
-        "depth_km": 10,
-        "time_ms": 1793156387908,
-        "place": "180 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttlm",
-        "magnitude": 6,
-        "latitude": -13.8296,
-        "longitude": 165.5942,
-        "depth_km": 10,
-        "time_ms": 1793154104755,
-        "place": "208 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000ttlk",
-        "magnitude": 5.1,
-        "latitude": -13.934,
-        "longitude": 165.4177,
-        "depth_km": 10,
-        "time_ms": 1793153836627,
-        "place": "216 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": false
-      },
-      {
-        "id": "us7000ttld",
-        "magnitude": 5.5,
-        "latitude": -13.8601,
-        "longitude": 165.4489,
-        "depth_km": 10,
-        "time_ms": 1793151550604,
-        "place": "218 km NW of Port-Olry, Vanuatu",
-        "country_code": "VU",
-        "shakemap_available": true
       }
     ],
     "seismic_hub_risk_score": 0.85
+  },
+  {
+    "country": "",
+    "iso_alpha2": "SB",
+    "iso_alpha3": "",
+    "capital": "",
+    "population": 0,
+    "area_km2": 0,
+    "region": "",
+    "subregion": "",
+    "currencies": [],
+    "languages": [],
+    "un_member": false,
+    "bordering_countries": [],
+    "earthquake_count": 4,
+    "avg_magnitude": 5.42,
+    "strongest_earthquake": {
+      "magnitude": 6.4,
+      "date": "2026-11-09",
+      "depth_km": 17,
+      "latitude": -10.8669,
+      "longitude": 165.5616
+    },
+    "highest_pager_alert": "green",
+    "max_felt_reports": 2,
+    "tsunami_warning_issued": false,
+    "significant_events_count": 1,
+    "exposed_airports": [
+      {
+        "name": "Honiara International Airport",
+        "iata_code": "HIR",
+        "latitude": -9.428,
+        "longitude": 160.054993,
+        "municipality": "Honiara",
+        "closest_quake_distance_km": 130.6,
+        "nearby_quakes": [
+          {
+            "earthquake_id": "us6000udt9",
+            "magnitude": 5.1,
+            "latitude": -9.5793,
+            "longitude": 161.2358,
+            "depth_km": 74.064,
+            "time_ms": 1795738020857,
+            "place": "107 km SSE of Auki, Solomon Islands",
+            "distance_km": 130.6,
+            "exposure_contribution": 0.55,
+            "pga_g": null,
+            "mmi": null
+          }
+        ],
+        "exposure_score": 0.55
+      }
+    ],
+    "earthquakes": [
+      {
+        "id": "us6000udt9",
+        "magnitude": 5.1,
+        "latitude": -9.5793,
+        "longitude": 161.2358,
+        "depth_km": 74.064,
+        "time_ms": 1795738020857,
+        "place": "107 km SSE of Auki, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tyq5",
+        "magnitude": 5,
+        "latitude": -11.5293,
+        "longitude": 162.5497,
+        "depth_km": 10,
+        "time_ms": 1794880817654,
+        "place": "137 km SSE of Kirakira, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tx8s",
+        "magnitude": 5.2,
+        "latitude": -10.7818,
+        "longitude": 165.6239,
+        "depth_km": 10,
+        "time_ms": 1794281866152,
+        "place": "19 km WSW of Lata, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": false
+      },
+      {
+        "id": "us7000tx16",
+        "magnitude": 6.4,
+        "latitude": -10.8669,
+        "longitude": 165.5616,
+        "depth_km": 17,
+        "time_ms": 1794195299466,
+        "place": "30 km WSW of Lata, Solomon Islands",
+        "country_code": "SB",
+        "shakemap_available": true
+      }
+    ],
+    "seismic_hub_risk_score": 0.55
   },
   {
     "country": "",
@@ -1830,8 +1799,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 18,
-    "avg_magnitude": 5.31,
+    "earthquake_count": 16,
+    "avg_magnitude": 5.29,
     "strongest_earthquake": {
       "magnitude": 6.6,
       "date": "2026-11-16",
@@ -2045,28 +2014,6 @@
         "place": "130 km N of Tual, Indonesia",
         "country_code": "ID",
         "shakemap_available": false
-      },
-      {
-        "id": "us7000ttua",
-        "magnitude": 5.7,
-        "latitude": -6.3599,
-        "longitude": 130.4138,
-        "depth_km": 142,
-        "time_ms": 1793225205772,
-        "place": "271 km WSW of Tual, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": true
-      },
-      {
-        "id": "us7000tttl",
-        "magnitude": 5.3,
-        "latitude": 2.4737,
-        "longitude": 126.7413,
-        "depth_km": 35,
-        "time_ms": 1793217407972,
-        "place": "163 km WNW of Tobelo, Indonesia",
-        "country_code": "ID",
-        "shakemap_available": false
       }
     ],
     "seismic_hub_risk_score": 0.42
@@ -2084,8 +2031,8 @@
     "languages": [],
     "un_member": false,
     "bordering_countries": [],
-    "earthquake_count": 6,
-    "avg_magnitude": 5.3,
+    "earthquake_count": 7,
+    "avg_magnitude": 5.26,
     "strongest_earthquake": {
       "magnitude": 6.4,
       "date": "2026-10-29",
@@ -2093,10 +2040,10 @@
       "latitude": -36.4649,
       "longitude": -98.0105
     },
-    "highest_pager_alert": "green",
-    "max_felt_reports": 1,
+    "highest_pager_alert": null,
+    "max_felt_reports": 0,
     "tsunami_warning_issued": false,
-    "significant_events_count": 1,
+    "significant_events_count": 0,
     "exposed_airports": [
       {
         "name": "Andrés Sabella Gálvez International Airport",
@@ -2124,6 +2071,17 @@
       }
     ],
     "earthquakes": [
+      {
+        "id": "us6000udua",
+        "magnitude": 5,
+        "latitude": -44.568,
+        "longitude": -79.7614,
+        "depth_km": 10,
+        "time_ms": 1795754676196,
+        "place": "Off the coast of Aisen, Chile",
+        "country_code": "CL",
+        "shakemap_available": false
+      },
       {
         "id": "us6000uc2t",
         "magnitude": 5,
